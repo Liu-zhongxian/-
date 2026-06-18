@@ -1,9 +1,0 @@
-<title>06｜AI 行业观察</title>
-
-<callout emoji="💡">
-本栏目不做新闻搬运，而是沉淀 AI Spark 对模型、产品、AI 编程、内容创作和企业落地的观察判断。
-</callout>
-
-# 栏目结构
-
-<sub-page-list space-id="7644091204958866380" wiki-token="NLqxwOmUzib3MVksLzNcdapUnGc"><sub-page doc-id="LtMhddMFdo72UjxQ1sdcaS8Ynze" file-type="docx" title="每日精选"/><sub-page doc-id="En9Gd81sGoTAQTx6yqac3mrYn2c" file-type="docx" title="AI 编程趋势"/><sub-page doc-id="FkcldfyDhoDgMIxt8gvcLsjJnFg" file-type="docx" title="企业 AI 落地观察"/></sub-page-list>

@@ -1,7 +1,6 @@
 # AI 编程趋势
 
-> [!NOTE] 💡
-沉淀 AI 编程、Vibe Coding、Agent 开发工具和开发者工作流趋势。
+> 沉淀 AI 编程、Vibe Coding、Agent 开发工具和开发者工作流趋势。
 
 
 # 建议收录

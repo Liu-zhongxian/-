@@ -2,8 +2,7 @@
 
 # MCP 是什么：让 AI 接入外部工具的协议
 
-> [!NOTE] 🎯
-**这一篇读完，你应该能：**
+> **这一篇读完，你应该能：**
 - 解释 MCP 是 Anthropic 提出的"AI 时代的 USB-C"
 - 理清 Host / Client / Server 三个角色
 - 看懂 Claude Code、Cursor 装 MCP server 在做什么
@@ -14,8 +13,7 @@
 
 MCP 全称 Model Context Protocol（模型上下文协议）。Anthropic 在 2024 年提出，目标很直白：让所有大模型用同一套协议跟外部工具（数据库、浏览器、GitHub、文件系统等）沟通，不要每家都自己造一套。
 
-> [!NOTE] 💡
-类比一下：MCP 是"AI 时代的 USB-C"。以前每个工具厂商都自己一套接口（OpenAI 的 Function Calling、Anthropic 的 Tool Use、Google 的 Function Calling），开发者要写 3 套适配；MCP 一统接口，写一次到处用。
+> 类比一下：MCP 是"AI 时代的 USB-C"。以前每个工具厂商都自己一套接口（OpenAI 的 Function Calling、Anthropic 的 Tool Use、Google 的 Function Calling），开发者要写 3 套适配；MCP 一统接口，写一次到处用。
 
 
 ## 2. 为什么需要 MCP
@@ -95,8 +93,7 @@ flowchart LR
 | 跨厂商 | 各家各一套 | 设计目标就是跨厂商 |
 | 当前生态 | 每家自己的应用内 | 多个客户端共享同一个 server |
 
-> [!NOTE] 💡
-**实战理解：**Function Calling 是"模型有调用工具的能力"，MCP 是"工具被标准化成可分发的服务"。两者不冲突——MCP server 内部一样用 Function Calling 跟模型沟通。
+> **实战理解：**Function Calling 是"模型有调用工具的能力"，MCP 是"工具被标准化成可分发的服务"。两者不冲突——MCP server 内部一样用 Function Calling 跟模型沟通。
 
 
 ---

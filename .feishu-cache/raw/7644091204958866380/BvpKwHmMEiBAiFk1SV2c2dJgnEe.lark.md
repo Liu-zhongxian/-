@@ -1,0 +1,221 @@
+# 知识库导航
+
+> **最系统的 Claude Code 中文知识库**，从安装上手到企业级多智能体架构，覆盖全部核心主题。
+
+---
+
+## 📊 内容总览
+
+|  |  |
+|-|-|
+| 📄 文章总数 | **80+** 篇 |
+| 🗂️ 内容模块 | **9** 大模块 |
+| ⚙️ 工作流模板 | **23** 个实战工作流 |
+| 🖼️ 可视化图解 | **12** 组架构图 |
+| 🔒 安全专题 | **6** 篇深度文章 |
+| 🎯 学习路径 | **7** 步结构化路径（约 8 小时） |
+
+---
+
+## ⚡ 快速入口
+
+| 我想要… | 推荐文章 |
+|-|-|
+| 立刻上手 | [模块 01：安装与配置](https://www.feishu.cn/wiki/YvVrw9ZJjicWfMk4tyYc2xXxnyc) |
+| 每日速查命令 | [Claude Code 速查表](https://www.feishu.cn/wiki/JTcswthzfiKGvgkagT6cYNX9nke) |
+| 系统学完全套 | 逐章阅读本知识库各目录 |
+| 理解内部原理 | [Claude Code 工作原理：架构与内部机制](https://www.feishu.cn/wiki/WCJCwbKAQiRIcKk34sccpqfYncd) |
+| 管理 AI 记忆 | [记忆系统](https://www.feishu.cn/wiki/WrjHwNwPPiJyYfkkzcPc1AQqnhc) |
+| 压缩上下文 | [上下文工程](https://www.feishu.cn/wiki/Lpl3wmddJiJUbdkj6WYcLMk5nqf) |
+| 企业安全合规 | [Claude Code 企业 AI 治理](https://www.feishu.cn/wiki/Z0X3wMmGhiPbMBkF0sOcjzHRnQg) |
+| 找现成工作流 | Claude Code 工作流 |
+
+---
+
+## 🎯 学习路径
+
+**7 步结构化入门，从零到实战，约 8 小时完成。**
+
+| 模块 | 标题 | 用时 |
+|-|-|-|
+| 01 | [安装与配置](https://www.feishu.cn/wiki/YvVrw9ZJjicWfMk4tyYc2xXxnyc) | 15 分钟 |
+| 02 | [核心循环](https://www.feishu.cn/wiki/QY7KwziIviZQn8kpveScH0Gjnox) | 45 分钟 |
+| 03 | [记忆与配置](https://www.feishu.cn/wiki/MJnDwktKjid5Qdku7K2c4421nhf) | 60 分钟 |
+| 04 | [智能体与专业化](https://www.feishu.cn/wiki/VWN1wfb3Xi8Fo8kNQRqc4EbQnlg) | 90 分钟 |
+| 05 | [Skills 与自动化](https://www.feishu.cn/wiki/GfnnwNIKWijnTfkO0ZJcdZEvnWh) | 90 分钟 |
+| 06 | [Hooks 与事件](https://www.feishu.cn/wiki/MQh9wFdZ5i2BtekBQkocSL5rnUh) | 60 分钟 |
+| 07 | [高级模式](https://www.feishu.cn/wiki/Fb6TwiUFriRSjDk5sj0cklklnsc) | 120 分钟 |
+
+---
+
+## 📚 核心概念
+
+深入理解 Claude Code 的底层设计与核心机制。
+
+| 文章 | 简介 |
+|-|-|
+| [Claude Code 工作原理：架构与内部机制](https://www.feishu.cn/wiki/WCJCwbKAQiRIcKk34sccpqfYncd) | 进程模型、工具调用链路、代码执行原理 |
+| [上下文工程](https://www.feishu.cn/wiki/Lpl3wmddJiJUbdkj6WYcLMk5nqf) | 如何精确控制 AI 的注意力与记忆 |
+| [记忆系统](https://www.feishu.cn/wiki/WrjHwNwPPiJyYfkkzcPc1AQqnhc) | CLAUDE.md、Project Memory、User Memory 三层体系 |
+| [Claude Code 设置参考](https://www.feishu.cn/wiki/TRTbwpWXriSulUkD39Mcn5l0nzc) | 所有配置项的完整文档 |
+| [Skills（技能模块）设计模式](https://www.feishu.cn/wiki/F5Lbwgr8siCF5hk9dfbcwlUzn2W) | 设计可复用 Skill 的最佳实践 |
+| [智能体框架工程](https://www.feishu.cn/wiki/DIDVwLgBMisoJzkVpxZc22j1nMh) | 构建可靠的多智能体系统 |
+| [开发方法论参考](https://www.feishu.cn/wiki/D5wGw4fM7iSYWDkCXECcrJ26nTh) | TDD、SDD、BDD 在 AI 编程中的应用 |
+| [Claude Code — 视觉参考](https://www.feishu.cn/wiki/XOiQwAp7wi9B85k7T6CccgopnSg) | 界面与交互的视觉化说明 |
+| [Claude Code 版本发布历史](https://www.feishu.cn/wiki/V5o8wIWo9iTArTklMwEcWNC3n0b) | 各版本功能变更记录 |
+| [已知问题与严重 Bug](https://www.feishu.cn/wiki/G4vHwFJvDiH3c4kXf8NcpvgHnts) | 常见问题与规避方法 |
+| [Claude Code 术语表](https://www.feishu.cn/wiki/KVc0wLv5hisr1ykqNOFcWjU4nyd) | 核心概念词汇解释 |
+| [术语中英对照表](https://www.feishu.cn/wiki/E5nUwDg8QiyMCIkZtH5ckKENnJb) | 中英文专业术语对照 |
+
+---
+
+## ⚙️ 工作流实战
+
+覆盖从个人开发到团队协作的 23 个具体场景。
+
+### 开发基础
+
+| 文章 | 简介 |
+|-|-|
+| [计划驱动开发](https://www.feishu.cn/wiki/Peu9w9KMRipIahkDfJwciriCnhc) | 先计划后执行，减少返工 |
+| [规范优先开发](https://www.feishu.cn/wiki/WRqzwVZJli2LwvkbRAgcJTbyn2e) | Spec-First 开发流程 |
+| [实现前先探索](https://www.feishu.cn/wiki/AMu6wPwVyiNWfXk499wcRRPEnif) | 深入理解需求再动手 |
+| [迭代优化](https://www.feishu.cn/wiki/LrI0wjsAQitdySk6LWWcI0MyneK) | 持续改进的工作节奏 |
+| [RPI：研究 → 计划 → 实现](https://www.feishu.cn/wiki/ArcuwI6akiAumLkNG1zctPnincd) | 三阶段工作流方法论 |
+| [计划-验证-执行流水线](https://www.feishu.cn/wiki/OBhCwsOXRiiuJxkXUkDcvs2Bnge) | 带验证步骤的完整流程 |
+
+### 团队协作
+
+| 文章 | 简介 |
+|-|-|
+| [代码审查](https://www.feishu.cn/wiki/JXwNwtlUoiF0n4kXJtWcgfgDnDc) | AI 辅助代码审查标准流程 |
+| [使用 Claude Code 进行 TDD](https://www.feishu.cn/wiki/TSlWwH7koiqK1vk1i2HcKWjpnIh) | 测试驱动开发实践 |
+| [团队 AI 指令管理](https://www.feishu.cn/wiki/AyDzwUyEpi7e6ok4vkDccGfTn1g) | 多人共享 CLAUDE.md 的协作模式 |
+| [Changelog 片段](https://www.feishu.cn/wiki/AWgiwfl6SigPDwk5qUkceDmRnVb) | 每次 PR 强制文档化 |
+| [双实例计划工作流](https://www.feishu.cn/wiki/Jo0Pwf5Aei61rIk3Hz1ctaFanQf) | 两个 Claude 实例协同规划 |
+
+### 多智能体
+
+| 文章 | 简介 |
+|-|-|
+| [智能体团队工作流](https://www.feishu.cn/wiki/TTGxwo1HFiX4uTkpby3crAdynJu) | 多 Agent 分工协作体系 |
+| [智能体团队快速入门指南](https://www.feishu.cn/wiki/AiEYwefmBiwQeskGBBfcRt2hneg) | 5 分钟跑通第一个多智能体任务 |
+| [事件驱动的智能体自动化](https://www.feishu.cn/wiki/QC3Pw1fQ7isxkPkhpgccHxl7nHL) | 基于事件触发的自动化流水线 |
+| [认知模式切换](https://www.feishu.cn/wiki/Tbg2wq2fdivIFxkFQeJcxk56n9e) | 在不同思维模式间切换 |
+
+### 工程与集成
+
+| 文章 | 简介 |
+|-|-|
+| [使用 Claude Code 的 GitHub Actions 工作流](https://www.feishu.cn/wiki/Tdsxwnze1iEfyUkQ8tec0QyNnWf) | CI/CD 中集成 Claude Code |
+| [搜索工具精通指南](https://www.feishu.cn/wiki/EKWqwKydcirCzDk3WpOcKnjHnFg) | rg、grep、ast-grep 等搜索工具综合运用 |
+| [任务管理工作流](https://www.feishu.cn/wiki/APnewhwTximy7Akw37pcaXx8nog) | 用 Claude 管理和跟踪开发任务 |
+| [骨架项目工作流](https://www.feishu.cn/wiki/KiVewcOudiU5AHk8RGRcDGjmn1d) | 快速创建项目脚手架 |
+| [Design-to-Code 工作流](https://www.feishu.cn/wiki/GnnPwVIaRiyFeyknIincL7ehnze) | Figma → 代码的 MCP 集成 |
+
+### 内容与媒体
+
+| 文章 | 简介 |
+|-|-|
+| [演讲准备流水线](https://www.feishu.cn/wiki/FWONwOTfnibsbCkPzSecuOFuneb) | 从构思到幻灯片的全流程 |
+| [TTS 配置工作流](https://www.feishu.cn/wiki/C8uBw4mYliJyWBkwEHlcplbSnyc) | 文字转语音的 Agent 配置 |
+| [使用 Astro 动态生成 OG 图片](https://www.feishu.cn/wiki/UwxYwYL8xiN8aekYJYXcuPG4nmh) | 自动化社交媒体图片生成 |
+| [使用 Claude Code 生成 PDF](https://www.feishu.cn/wiki/OsawwTV9xi3tfFkmcSpc0HabnUL) | 程序化 PDF 生成方案 |
+| [生产可靠性模式](https://www.feishu.cn/wiki/NTuswldwKid0zVkqRvgc5xBpn8f) | 提升生产环境代码可靠性 |
+
+---
+
+## 🌐 生态系统
+
+| 文章 | 简介 |
+|-|-|
+| [MCP 服务器生态系统](https://www.feishu.cn/wiki/X6iXwqTstif65GkyYg4cK9ztnsf) | 主流 MCP Server 完整地图 |
+| [MCP vs CLI — 决策指南](https://www.feishu.cn/wiki/WKMtwZM9KinKVfknxqYcv16Pn9J) | 何时用 MCP，何时用 CLI |
+| [上下文工程：工具与生态系统](https://www.feishu.cn/wiki/H5OiwXjMUixqWNkymGgcsTk4nKm) | 辅助上下文管理的工具一览 |
+| [智能体工具：Claude Code 之外的选择](https://www.feishu.cn/wiki/Slh5wuMijitdlmkr9tEcOEkOnC2) | Cursor、Copilot 等替代/互补工具 |
+| [AI 生态系统：利用互补工具最大化效能](https://www.feishu.cn/wiki/A7Nlw6lLLiGlRWkYfvzcZyX2nJg) | 多工具组合使用策略 |
+| [Claude Code 第三方工具](https://www.feishu.cn/wiki/G0nxw2Rz6ie3GYkUT1bcATGFn8d) | 增强 Claude Code 的插件与扩展 |
+| [reMarkable 2 + AI](https://www.feishu.cn/wiki/Y8dWwWD7Liey1Hkiqivck6r7nJg) | 纸质笔记与 AI 工作流融合实践 |
+
+---
+
+## 🔒 安全专题
+
+| 文章 | 简介 |
+|-|-|
+| [安全加固指南](https://www.feishu.cn/wiki/QQZqwnsTPiEYUbkydZTcmy5Rnhf) | 28 个安全规则 + 威胁防护数据库 |
+| [数据隐私与保留指南](https://www.feishu.cn/wiki/Vf3QwwivKiG0OaklqzmcLkY3nXd) | 敏感数据的处理与保护策略 |
+| [Claude Code 企业 AI 治理](https://www.feishu.cn/wiki/Z0X3wMmGhiPbMBkF0sOcjzHRnQg) | 企业合规与 AI 使用规范 |
+| [生产安全规则](https://www.feishu.cn/wiki/SkemwywMgiKPD4k7Ov7cOXZgnOh) | 生产环境的操作边界与防护 |
+| [编码智能体的沙箱隔离](https://www.feishu.cn/wiki/Lc4pwYz8IicDxekMTIhcm03fnhd) | 容器化隔离方案与实施 |
+| [Claude Code 原生沙箱](https://www.feishu.cn/wiki/NB4vw43rniw903kxXMJcbSbsnBf) | 内置沙箱机制详解 |
+
+---
+
+## 📈 运营与团队
+
+| 文章 | 简介 |
+|-|-|
+| AI 增强工程的团队指标 | 衡量 AI 对团队效率影响的指标体系 |
+| DevOps 与 SRE：使用 Claude Code | 运维场景下的 AI 实践 |
+| 会话可观测性与监控 | 监控 Claude 会话质量与成本 |
+| AI 代码可追溯性与归因 | AI 生成代码的审计与追踪 |
+
+---
+
+## 🎭 角色与成长
+
+| 文章 | 简介 |
+|-|-|
+| 选择你的采用方式 | 不同角色的 Claude Code 使用切入点 |
+| AI 角色与职业路径 | AI 时代的工程师角色演变 |
+| AI 辅助编程学习 | 用 AI 提升自己而非替代思考 |
+| 智能体评估 | 评估和选择 AI 智能体的框架 |
+
+---
+
+## 🖼️ 图解系列
+
+12 组系统架构与工作流可视化图解，帮助建立整体认知。
+
+| 图解 | 主题 |
+|-|-|
+| [基础概念](https://www.feishu.cn/wiki/JwLowhPbliFpsHkJLw9cKS4pnFf) | 核心术语与基本模型 |
+| [上下文与会话](https://www.feishu.cn/wiki/S7IqwyritiRUK9kmCaJccmnTnjc) | 上下文生命周期与会话管理 |
+| [配置系统](https://www.feishu.cn/wiki/Fi0ewYzkEiaIpuka5s4c5iAQnjh) | 配置层级与继承关系 |
+| [架构内部](https://www.feishu.cn/wiki/JqpSwTSxniIlJLkbcsYccpqAnNc) | 工具调用链与执行引擎 |
+| [MCP 生态系统](https://www.feishu.cn/wiki/YPr2wa0xQiL1azkW9rRcPySinx5) | MCP 协议与服务器网络 |
+| [开发工作流](https://www.feishu.cn/wiki/Dg5UwyRBPinLSIkodX9c7Z1fnPc) | 标准开发循环流程图 |
+| [多智能体模式](https://www.feishu.cn/wiki/Nva4wFln6iXQfPk24OLcrxiHnwh) | Orchestrator-Worker 架构 |
+| [安全与生产环境](https://www.feishu.cn/wiki/JKgDwZHgDiza8ukxr1Scu6wxn9c) | 威胁模型与防护层 |
+| [成本与优化](https://www.feishu.cn/wiki/IR8QwvDfUiJMjhktqiTcttr3nzf) | Token 消耗与成本控制 |
+| [采用与学习](https://www.feishu.cn/wiki/GNWjwd6JniW9iikDT1NchNzMn3d) | 团队引入 AI 的路线图 |
+| [上下文工程](https://www.feishu.cn/wiki/ArtwwRCSJi1QdNk3gR7cW2Alnec) | 上下文压缩与检索策略 |
+| [企业治理](https://www.feishu.cn/wiki/DqEpwoPv6iYoZ6kKkzHctxNNnyc) | 组织级 AI 治理框架 |
+
+---
+
+## 🗺️ 推荐学习路线
+
+### 新手（第一周）
+
+1. **模块 01：安装与配置** — 装好环境，跑第一条命令
+2. **模块 02：核心循环** — 理解 Claude 如何读代码、提建议
+3. **Claude Code 速查表** — 打印一份贴在桌面
+4. **模块 03：记忆与配置** — 让 Claude 记住你的项目规范
+
+### 进阶（第二周）
+
+1. **模块 04：智能体与专业化** — 启动多 Agent 协作
+2. **模块 05：Skills 与自动化** — 构建可复用的 AI 工具
+3. **上下文工程** — 掌握 AI 注意力管理的核心技术
+4. **工作流** — 选 2-3 个与自己工作最相关的实践
+
+### 深入（第三周及以后）
+
+1. **Claude Code 工作原理：架构与内部机制** — 理解底层
+2. **安全加固指南** — 生产环境部署必读
+3. **图解系列** — 系统化建立全局视野
+4. **图解系列** — 12 组系统架构图，建立全局视野
+
+---

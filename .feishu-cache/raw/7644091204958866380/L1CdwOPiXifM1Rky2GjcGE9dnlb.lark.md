@@ -1,0 +1,15 @@
+<title>01｜AI 小白入门</title>
+
+<callout emoji="💡">
+本栏目面向刚开始了解 AI 的读者，帮助他们建立基础概念、学习路径和避坑意识。文章可以来自不同 AI Spark 作者，但都按小白入门主题归档。
+</callout>
+
+# 栏目结构
+
+<sub-page-list space-id="7644091204958866380" wiki-token="L1CdwOPiXifM1Rky2GjcGE9dnlb"><sub-page doc-id="NhJXdt5a2oAzixxTI4ecnkF9nMJ" file-type="docx" title="AI 基础概念"/><sub-page doc-id="Jd5XdGFsboBBDMxJSrRcsVOgn6e" file-type="docx" title="新手学习路径"/><sub-page doc-id="Sj1ud69yLoGrIHxWuWhcLJyknUb" file-type="docx" title="新手避坑清单"/><sub-page doc-id="QnXAdzySfoVmgaxutMLceTiFnPf" file-type="docx" title="普通人如何开始用 AI"/></sub-page-list>
+
+# 收录标准
+
+- 语言足够小白，少术语，多例子。
+- 每篇文章说明适合谁、解决什么问题、下一步看什么。
+- 优先收录可收藏、可转发、能降低理解门槛的文章。

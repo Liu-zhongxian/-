@@ -1,0 +1,58 @@
+<title>本社群开源项目清单</title>
+
+# 本社群开源项目清单
+
+这里整理社群成员开源的 AI Agent、Claude Code、Codex、Skill、效率工具与相关项目，方便大家发现、安装、学习和二次开发。
+
+## 项目清单
+
+### imgen
+
+项目类型：Agent 图片生成 Skill
+
+项目简介：
+
+imgen 是一个可在 Claude Code、Codex 以及其他支持 Skill 的 Agent 环境中使用的图片生成 Skill。安装后，Agent 可以直接根据提示词生成图片，适合用于封面图、插画、社媒配图、视觉草稿等场景。
+
+适用场景：
+
+- 在 Claude Code / Codex 中直接生成图片
+- 为文章、视频、社媒内容生成配图
+- 快速制作视觉草稿、封面图或创意图
+- 给 Agent 增加图片生成能力
+
+开源地址：
+
+[https://github.com/lawrencewzen/imgen](https://github.com/lawrencewzen/imgen)
+
+---
+
+### claude-pet
+
+项目类型：Claude 桌面宠物
+
+项目简介：
+
+claude-pet 是一个开源的 Claude 桌面宠物项目。它把 AI 助手做成桌面上的陪伴型小宠物，让日常使用 Claude / Agent 时更有存在感和互动感。
+
+适用场景：
+
+- 在桌面上常驻一个 AI 陪伴型助手
+- 给 Claude / Agent 增加更具互动感的使用体验
+- 探索 AI 桌面宠物、陪伴式交互与 Agent UI
+- 学习桌面端 AI 应用的实现方式
+
+开源地址：
+
+[https://github.com/xiaomoBoy/claude-pet](https://github.com/xiaomoBoy/claude-pet)
+
+## 收录说明
+
+欢迎社群成员继续提交自己的开源项目。推荐提交时包含以下信息：
+
+- 项目名称
+- 项目类型
+- 一句话简介
+- 适用场景
+- GitHub / 文档地址
+- 是否支持 Claude Code、Codex、Cursor 或其他 Agent

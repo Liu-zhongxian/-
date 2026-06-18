@@ -1,0 +1,9 @@
+<title>04｜AI 内容创作</title>
+
+<callout emoji="💡">
+本栏目面向自媒体、内容创作者、运营和技术 IP，收录选题、写作、短视频、分发和案例拆解类资料。
+</callout>
+
+# 栏目结构
+
+<sub-page-list space-id="7644091204958866380" wiki-token="ZM2CwTSo9iFPpakQelhc7gpKnae"><sub-page doc-id="DCHMdn7nvovAYPxkOkicpCB3nHh" file-type="docx" title="自媒体教程专区"/><sub-page doc-id="QRjNdgGNAoDZTfx4vIVcAFIfnec" file-type="docx" title="别天天vibe coding了，送你一份vibe marketing的实践指南"/><sub-page doc-id="ABe0dfupVoPAfzxVbNhc3mw1nAT" file-type="docx" title="分享一套个人内容资产工作流（AI过敏人群慎入）"/><sub-page doc-id="SumZdg0L3olSL6xdo41cpuDfn6b" file-type="docx" title="别让 AI 写得像 AI：用自己的 83 篇博客训练专属写作助手，顺手做成了一个 Skill"/><sub-page doc-id="CWMJdHf4soxn7nxfnX4cAHYDnKc" file-type="docx" title="AI 图像与视觉创作"/><sub-page doc-id="NdJedRTKioNeHQxfE6vcXdian4g" file-type="docx" title="别抄作业，先搭好你的 AI 写作闭环"/><sub-page doc-id="PnOkdBN5IoQXdhxPzzjcBLyRn6g" file-type="docx" title="我用 Cloudflare 免费搭了一套 AI 内容流水线，真的能跑起来"/><sub-page doc-id="MF3xdgsm8oEEkPxbWmnczKuYn0f" file-type="docx" title="kimi K2.5的发布，让Remotion制作视频的能力无限放大"/><sub-page doc-id="Ne3fdG7y6otlcfxn0tJcWv7TnSh" file-type="docx" title="国产OpenCode+GLM4.7,搭配remotion skill同样可以自动化剪辑高燃短视频"/><sub-page doc-id="Jx9AdjnSToHBTQxHaRJccDY6nLd" file-type="docx" title="分享一份最近学习GEO期间整理的教程文档（如何让AI搜索主动引用你）"/></sub-page-list>

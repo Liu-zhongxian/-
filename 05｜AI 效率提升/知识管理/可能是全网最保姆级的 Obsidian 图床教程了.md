@@ -2,7 +2,7 @@
 
 # 可能是全网最保姆级的 Obsidian 图床教程了
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTZhNTA3MTUyMjEyYjRhMjBhZWI0YzdkNThkZGMyNzZfNmRhMzI2N2RkZjBiMmU4MmE4ZjY1MDgyNWNiMDdkMWRfSUQ6NzY0NTI2NjI5MTQ2MDU1ODAwMl8xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTQxN2M2ZjVmYzg4N2Y2ODhhOTYyMzgzNTEyYjhmZjFfNjY1ZGY0NDE3ODkwOWE1YzE0NDViMmViMDZkMjhiMzFfSUQ6NzY0NTI2NjI5MTQ2MDU1ODAwMl8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 你的 Obsidian 库多大了？
 
@@ -36,13 +36,13 @@
 
 点开第三个链接之后，可能会弹出一个安全管理的提醒，不用管，直接点右上角关闭。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGU0MDk5YzA3YWQwODBiYTFlNGNkNTQ5MmYzZWY0NTdfNGU4YTI0YzdmMzY0MzcxYTE5YzU4YjRjYzVlYjZkOWRfSUQ6NzY0NTI2NjI4OTkwODk3NjgyMF8xNzgxNzcwOTY4OjE3ODE3NzQ1NjhfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2FjZjEzYmFiMTEyYzhmMGVjMzI2NjlhYzBhMTY0ZWRfNDU5OTJmYjBlYzA1OTJhNTAzZDBjNjA4NjA0ZjRjOWVfSUQ6NzY0NTI2NjI4OTkwODk3NjgyMF8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 第一次进来会让你开通服务，点开通就行。
 
 开通完你会看到送了一个 50G 的免费存储包，6 个月有效。用完按量付费就行，很便宜。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2JjNGExMDI0ZmVlY2Q3NjU2YjdjZjUzNWQzNGVlNDRfYjRmNTMwYjUwYTkyNjgxYWY1YmI2ZWNmNWQ0ZWEyNGJfSUQ6NzY0NTI2NjI4OTk2NTA3NTY0OV8xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTViMmRhMGY4YzMzMWI3ZTVlMmY3YzQ5ZmE2NmZmNTRfOTBkNjNjMGVjNzllNmExZDFhY2QzNzJlODBiYjdkNTFfSUQ6NzY0NTI2NjI4OTk2NTA3NTY0OV8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 然后点「创建存储桶」，三个东西要填：
 
@@ -50,13 +50,13 @@
 
 > ⚠️ 权限这里一定要选对 — 「公有读私有写」的意思是：别人能看你的图片，但只有你能上传。千万别选成「公有读写」，那谁都能往你的桶里扔文件。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmEyODU0ZDdlNmJmMDk5N2U5YjE2YjA4NGRjYzFmNGRfZDFkYzg4YTZjNGFhODQ4ZTc1MTFlZDQ0YWZiZDliNmJfSUQ6NzY0NTI2NjI5MjQxNDIwNTE0M18xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWE4NTJkNjAxMjhiYzZiODEzYjUyODNkYmUzY2E2MzdfMTU0NDU3YmE3YzcxOTk4OWZkMmY2NTNiZTliMDdjMTdfSUQ6NzY0NTI2NjI5MjQxNDIwNTE0M18xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzAyYmRlNDZkODcxYjZlM2NlZTVlM2IwNTVlNDAzY2RfYjY3MGZkNmRiZDdkODA5MjAwOTExZjljZjg5MmU2ZWJfSUQ6NzY0NTI2NjI5MjA3Mjc5NTMzNV8xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmQ4ZTY0MGQyMWMyNWQ4NjhjZGUyOWY4ZDlhZDViYzlfYmRkMThhNjhmMjJiNzY3YjMwMzY4NmUxMzEzMjYzMjdfSUQ6NzY0NTI2NjI5MjA3Mjc5NTMzNV8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 后面的高级配置不用动，一路下一步，确认创建。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmNlN2QyMTA0ZDM3NzljZDVjZTg0MjIxZTQ3NDlmOTlfZjIzMzE5MzJiOWNmODI4NjczYzA2Mjk4ODJhMjE3YTdfSUQ6NzY0NTI2NjI4OTczNjkxMjA2MF8xNzgxNzcwOTY4OjE3ODE3NzQ1NjhfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzU4ZjMxYTQ4MzUwMDQyOTU4M2FhZmRjMzBhYmFlODlfMDFjYmRhNTI0NmJkMDU1MzJiNTYzMWQ5ZDk5NWMyMjBfSUQ6NzY0NTI2NjI4OTczNjkxMjA2MF8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 创建完之后，进到存储桶的「概览」页面，记住两个东西：
 
@@ -64,25 +64,25 @@
 
 待会配 PicList 要用。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2QwYjdlZTI2NmMyZGFjY2E4NTA4NTQzMDc3MDRkMzBfOWRiZmQwNmViYzJjNjVmNzk5NTM2MjhhMTJmMzBiNmNfSUQ6NzY0NTI2NjI5MTc0MTY0MTkzM18xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTE3YmRkNDk1MGUxY2I4MGYzYWU4NTEyODYwNjhkMzNfZTgxMjg5MjA2YzU3Yjk4OWZmYTc4ZTZmMTJlYTM2OWJfSUQ6NzY0NTI2NjI5MTc0MTY0MTkzM18xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 接下来拿密钥。在对象存储左侧找到「密钥管理」，点「访问秘钥」，新建一个。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzE1NjJmZjdmNDcyOGY2MTY5ZjdhMzQzNzAyZDBhZmNfNjQ4YWRhYmUwZDJhZTVjY2M1ZGJjZjVmY2I2ZmY3M2VfSUQ6NzY0NTI2NjI5MzMwMTYyODA4Ml8xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjE2ZjliYzcyNGExMjNiYjYyYTYwMDUwMzk3ZThiNDVfNGFmNmM4MjRlOWJjMGJhZDcyMTRjMGRhYzBmYTRiYmJfSUQ6NzY0NTI2NjI5MzMwMTYyODA4Ml8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 这里会提醒你用子账号密钥更安全，个人用不用管，勾「我已知晓」继续就行。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjVjMDY3ZDk2Y2U2MjA4NTc2MjE1Y2JiNjhjN2U3NGRfOTk2OTIyZTM4ZDIwN2MyYmY5ZjYyN2ZmZDFmZmQ2YjhfSUQ6NzY0NTI2NjI5MjkxNTc4NDkxN18xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTIzZDJmZTMyYjM1M2JhOTc2MzcyNmUxMDE4MWU2MzdfNmRjNDE5MmU4NTk2MDM0NjhkNjEzMDQ4YjEwZmZjOGRfSUQ6NzY0NTI2NjI5MjkxNTc4NDkxN18xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 创建完会给你两个东西： • SecretId — 相当于你的用户名 • SecretKey — 相当于你的密码
 
 > ⚠️ SecretKey 只显示这一次！建议点「下载 CSV 文件」存到电脑上。丢了只能重新创建。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTcxNzI4NTYxZjA3MWRiMzgwOGQ2ZDYyYzE4YTJmYTJfMGY2OWQxYzA1YjE0YjU2NjY0N2QwOWQ0M2NiOGY1NTZfSUQ6NzY0NTI2NjI5MjMzNjkzODE5OF8xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWUxOTdhMDY3ZGEyNWIxYWFkNmMxNTkyYzZiZjRmNjFfOWExYmYzNGI5MWMxNDk3MmY0NzY2YTlmYjc1YzIzOGZfSUQ6NzY0NTI2NjI5MjMzNjkzODE5OF8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 然后会让你微信扫码确认。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2M0OTdiYzM4Y2MxMjI5NjYzM2Y3NWE3NDg5Njg4NDdfZTBiOWM3ZTVkNzAwYzg5MzMyZTk1NWY4MmUxY2ZlMmRfSUQ6NzY0NTI2NjI5MzUyMzg0NDMwMV8xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjkxYzAwNmE3NTFlYzA3YmJjZGVjODc1YzQ3MTRlZWVfNzViNTI2MzQ2MjEyMGQzNGJjMjQ3MWRiZWY4Y2RmNGFfSUQ6NzY0NTI2NjI5MzUyMzg0NDMwMV8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 到这里腾讯云搞定了。三个东西记好：存储桶名称、地域、密钥（SecretId + SecretKey）。
 
@@ -103,7 +103,7 @@ brew install piclist --cask
 
 打开 PicList，左边找到「图床」，展开后点「腾讯云COS」，新建一个配置。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDRkZjcxMjdhNWJlNTU5NmJhM2M0OGZmNDdiOWNhNDhfOGEyZjI3NDBhNjA0NDM2NWQ5OTA2YTViMTQ2MDc1OGZfSUQ6NzY0NTI2NjI5MjA5MzgxNTk5M18xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTZlOTY4MmNkNjI5MmY2OWRmNWY0NTdkNmExYjBjY2FfMGY5Y2I4Njc0N2FkMjQzMjNlY2MyOGI5MzgyOGY2NzJfSUQ6NzY0NTI2NjI5MjA5MzgxNTk5M18xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 先说一下存储桶名称怎么填。你在腾讯云看到的名称是一长串，比如 obsidian-alin-cos-1257870691，最后那串纯数字 1257870691 是你的 AppId。PicList 里 Bucket 和 AppId 都要填。
 
@@ -111,17 +111,17 @@ brew install piclist --cask
 
 ❶ 配置名：随便填，比如 obsidian ❷ 设定 SecretId：填刚才拿到的 SecretId ❸ 设定 SecretKey：填刚才拿到的 SecretKey ❹ 设定 Bucket：填完整的存储桶名称，比如 obsidian-alin-cos-1257870691 ❺ 设定 AppId：填存储桶名称最后那串数字，比如 1257870691 ❻ 设定存储区域：填 ap-城市名，比如 ap-beijing（⚠️ 注意别拼错）
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWZjOTNlNjU3ODIyYTNkNDYyZDE3ZTFlMzAyOWE4NGVfYmE3NWUxNDQ5YmI5NmVlM2MxZDkxODllY2NlZDNmOTFfSUQ6NzY0NTI2NjI5MzY4NzUyMDQ3Ml8xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzI2YWFkZGRlNWVlNjdkMDUyZjZjNWNlYTlmMWFmYThfMGViY2Y1YzQ4NTM1ODVjNjg5ODY5YWE2ZWQ5NWM0NDlfSUQ6NzY0NTI2NjI5MzY4NzUyMDQ3Ml8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 后面的存储路径、自定义域名等全部留空，不用管。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjIzZDIwM2ViMTg3ZTNjZTQ1OGFkMWI0ZWM1YTZiZmJfZThhNzFkNWZlOTk3NTRlZjNjYTE4MmIxOTNhMWE2NGNfSUQ6NzY0NTI2NjI5MDUyOTU1MzYzMl8xNzgxNzcwOTY4OjE3ODE3NzQ1NjhfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmZlZGQ4ODU1ZmRlNjRlMzZiNDgwNGE2ODZlMjRiYTdfMTMzNDIzNjVkMWNkMjM3YTI1Y2E4OTAzNjE2MzEyNDhfSUQ6NzY0NTI2NjI5MDUyOTU1MzYzMl8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 填完点「设为默认图床」。
 
 试一下能不能用 — 切到 PicList 的「上传」页面，随便拖一张图片进去。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjRhZWFlNjUyODM0OWM2N2JlZDQxMDIyMWZiMzUwNTlfYjIxNDlhZjEwMGRhZGU0MzNmYjA3Yzc0N2EwZGViZThfSUQ6NzY0NTI2NjI5MjQxMjU1MDM0N18xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTQwNmNiNTIwMjRjNjI0MGQ3NjJlYTJjNzA5YWNiMTBfNGRhYmRlODA4ZGY2MTZjMjMxMzQ5ZDM2YWE4OTU3ZjdfSUQ6NzY0NTI2NjI5MjQxMjU1MDM0N18xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 如果上传成功，下面会显示一个链接，类似： [https://obsidian-alin-cos-1257870691.cos.ap-beijing.myqcloud.com/xxx.png](https://obsidian-alin-cos-1257870691.cos.ap-beijing.myqcloud.com/xxx.png)
 
@@ -129,13 +129,13 @@ brew install piclist --cask
 
 💡 浏览器会直接下载而不是显示图片，这是腾讯云新桶的默认行为，不影响使用。图片嵌在文章里时，公众号和 X 都能正常显示。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWRhMDE2ZWYxZDk4ZmE0OTUzMWZkOTFhMWE4OTQzZDhfMzNhNmUwMzM0MzJmZjJjZDkwNDliODRmYzY2Mjc2NmNfSUQ6NzY0NTI2NjI5MjI3NDEzODMxNl8xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjQ4ODI0ZTczNTU0Nzg3Mjc2MWRiZjc3NDc2YTcwNWJfOTZkZGMyYjZkYmNlYjEzYjdmMWM2M2QwY2EyZDRiN2JfSUQ6NzY0NTI2NjI5MjI3NDEzODMxNl8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 > 什么，你说报错了？别慌，帮大家考虑到了 👇
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODYxNjQ4ZWEwMTMwMDQyZTMzNjU3ZjFlMTA2NWQxMjFfZTMwMmNmZTY2Mjc3NTkzNWY2NDQ0ZDY1ZjUwODgxMDdfSUQ6NzY0NTI2NjI5MzI1OTU1NDAxNl8xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmFhZjI0ZjcwMjU3YzJmNGUyOGI2ZDdmNjc2YzFlOWVfNmMxNWM0OTVhZTYyYWUzZDJkNDZkM2I1MGU3ZWM2MThfSUQ6NzY0NTI2NjI5MzI1OTU1NDAxNl8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzYxM2RhOTVlYWIxMTg4NTUyMzZhMGM1NTVjZDIwMDNfYWI1MzZlMzY5ZGI0NmI2OWQ1MWFlOTNkMGExZTdlYmFfSUQ6NzY0NTI2NjI5MzU5NTE5NjYxN18xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTlhZjZmODEyZjliZDUyOWE0YWY3ZTU5NjBkMmIyMmFfYTFjNmRhZjFlMWMxNmE4MzQ5ZWQxM2I5ZWNlM2MzYTBfSUQ6NzY0NTI2NjI5MzU5NTE5NjYxN18xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 碰到问题不要慌，把报错信息丢给 AI 帮你解决。
 
@@ -159,11 +159,11 @@ brew install piclist --cask
 
 看，粘进去的图片自动变成了云端链接 👇
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWU0YjBkMDIyMzk1ZWQ3YjE0MzhjNTVjNmRiZjY3ODdfMGFmODc1NTIzNzM1ZTVhMWEzYWU3ZjNhOTMyZDVlMTRfSUQ6NzY0NTI2NjI5MjcxNDM0MzYyM18xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODFmYmQxYmJkOTc0YWNhZWZkMWIwYzY3ZTRkZWQzN2NfOTFjM2IzMWE5OTBkMjU5NTBlN2M4ODQzZjc0MDE4NzVfSUQ6NzY0NTI2NjI5MjcxNDM0MzYyM18xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTYzNmY1ZGY2YzliNmNmNWY4YmFiOTM2YzM5Mzc1MDhfYzU5OTYxNjk5YTBkNmYxNTJmNDFhMzFhOWMwNjFkMTZfSUQ6NzY0NTI2NjI5MDQ4NzYyNjkzN18xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzJiNDNmNzE4ZDVjZWJjY2Q4OGMzNGE2MWI1YzQ0YzhfMDFiYTU0MzlkOGE4MmUzYzcxZmU0MzBlZjhjYTc5NTFfSUQ6NzY0NTI2NjI5MDQ4NzYyNjkzN18xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDg1ZTcxZjc3MzRiZGNkZjI5MzZkMmY0ZWQxYWY4MDNfN2RlN2Y0MWVmZThhNTVmNTY0YTEzMWYxMTJhNjJiNmFfSUQ6NzY0NTI2NjI5MjkxNTc1MjE0OV8xNzgxNzcwOTY5OjE3ODE3NzQ1NjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGVkMDE4YzQ2NTJkMzAzZGZjMTk1MjI4NjgyZTc2NmVfNWNmNDMzMjM5NjkwMzQwMDQyZWUyZDc4MmI0NDg0YTVfSUQ6NzY0NTI2NjI5MjkxNTc1MjE0OV8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 以后你写的每篇文章，图片都自动在云端了。发公众号、发 X、发博客，图片都能正常显示。
 

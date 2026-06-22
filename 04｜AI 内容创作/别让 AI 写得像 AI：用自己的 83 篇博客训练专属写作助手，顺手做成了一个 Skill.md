@@ -38,7 +38,7 @@
 
 **Local Images Plus**：历史文章里的外链图片自动下载本地化。做完这步，整个 Vault 完全离线独立，不依赖任何服务器。
 
-![图片展示了Obsidian中已安装的插件列表。列表包含Custom Attachment Location、Dataview、Enhancing Export、Git、Local Images Plus、Templater等插件，每项显示版本号、作者、开关状态及操作图标。其中，Dataview、Enhancing Export、Git、Local Images Plus、Templater的开关状态为开启，而Custom Attachment Location的开关状态为关闭。该图片与上下文紧密相关，上下文提到支撑流程的几个插件，此图直观呈现了这些插件在Obsidian中的安装情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDAwOWU2Njc4ZTZlMjg3MTQ4NGRiYTFmMWJlMmM0ZjNfMmJlMzhlMGQxODNlZWQ4NmZhMzM0M2IzOGU1MjNlNjZfSUQ6NzY0NDk3OTgxNzEzNzM2MDA3MV8xNzgxNzcwOTQ0OjE3ODE3NzQ1NDRfVjM)
+![图片展示了Obsidian中已安装的插件列表。列表包含Custom Attachment Location、Dataview、Enhancing Export、Git、Local Images Plus、Templater等插件，每项显示版本号、作者、开关状态及操作图标。其中，Dataview、Enhancing Export、Git、Local Images Plus、Templater的开关状态为开启，而Custom Attachment Location的开关状态为关闭。该图片与上下文紧密相关，上下文提到支撑流程的几个插件，此图直观呈现了这些插件在Obsidian中的安装情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmQxNzU0ODczNzljNWEwNjVhOTQ0ODk0ZjExMmNhYzlfOTZmZmQzNjU3YjVhZDk4NjQ1ZWY5YzVkNmJjOTc4N2ZfSUQ6NzY0NDk3OTgxNzEzNzM2MDA3MV8xNzgyMDk5MTE3OjE3ODIxMDI3MTdfVjM)
 
 ---
 
@@ -50,7 +50,7 @@
 
 二是给每篇文章加 Front Matter 标记状态。已发布的统一标 `status: 已发布`，方便后续只分析已发布内容，排除草稿干扰。
 
-![图片展示了在终端中使用Claude Code统计文件夹下文章数量的操作及结果。先是通过`dir in VPS测评 VPS小白教程 金融 AI学习 草稿 灵感收集 写作参考; do count=5; find "$dir" -name "*.md" 2>/dev/null | wc -l | tr -d .`命令统计各文件夹下文章数量，如VPS测评20篇、VPS小白教程59篇等。最后显示总计183篇文章（不含附件和隐藏目录）。该图片与上下文介绍的使用Claude Code统计文章数量的操作相呼应，直观呈现了统计结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTBjM2E5YThhODY4YjMwNjJkNWRmMmY3ZGU0YzY1NWNfYmMxM2U0ZTliMTZiMzBhNzZmZGI0ZjkxMGIxMDI3NThfSUQ6NzY0NDk3OTg0OTk0MTA3NzE4MF8xNzgxNzcwOTQ0OjE3ODE3NzQ1NDRfVjM)
+![图片展示了在终端中使用Claude Code统计文件夹下文章数量的操作及结果。先是通过`dir in VPS测评 VPS小白教程 金融 AI学习 草稿 灵感收集 写作参考; do count=5; find "$dir" -name "*.md" 2>/dev/null | wc -l | tr -d .`命令统计各文件夹下文章数量，如VPS测评20篇、VPS小白教程59篇等。最后显示总计183篇文章（不含附件和隐藏目录）。该图片与上下文介绍的使用Claude Code统计文章数量的操作相呼应，直观呈现了统计结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjFjNmU0YWI3YTkzMDhiMTkyMTdmNDE5YTAyN2VlNzlfZTg5ODU2MGU3NTljNjIyMzM1ZmUzODJjODY4MmIyMGFfSUQ6NzY0NDk3OTg0OTk0MTA3NzE4MF8xNzgyMDk5MTE3OjE3ODIxMDI3MTdfVjM)
 
 ---
 

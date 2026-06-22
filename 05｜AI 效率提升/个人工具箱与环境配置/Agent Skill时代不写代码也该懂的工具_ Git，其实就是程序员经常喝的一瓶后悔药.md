@@ -4,7 +4,7 @@
 
 ​
 
-![图片以漫画形式呈现，左侧是一位面对电脑显示 “文件已删除” 而哭泣的人，右侧是一位戴着墨镜、面带笑容比耶的人。中间有一瓶标着 “Git 后悔药” 的罐子。画面底部文字写着 “4 种吃法 救命神器”“手残党必看！”。图片与上下文的关系是，通过生动形象的漫画，以 “后悔药” 为喻，强调 Git 工具对于在文件编辑中出现失误（如文件删除等情况）时的补救作用，呼应文档中提到的 Git 可用于追溯文件之前版本的内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzdiYzhkMDQ3YmEzNWE5YjhiMzRhNTI4NmFkZmMwYTVfYjdiZDM5N2VkN2ViYWIwYTBiMmUwMGRmYWNlMWMxMmNfSUQ6NzY0NjMwMjY4Mzk2MDI0OTMxNF8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![图片以漫画形式呈现，左侧是一位面对电脑显示 “文件已删除” 而哭泣的人，右侧是一位戴着墨镜、面带笑容比耶的人。中间有一瓶标着 “Git 后悔药” 的罐子。画面底部文字写着 “4 种吃法 救命神器”“手残党必看！”。图片与上下文的关系是，通过生动形象的漫画，以 “后悔药” 为喻，强调 Git 工具对于在文件编辑中出现失误（如文件删除等情况）时的补救作用，呼应文档中提到的 Git 可用于追溯文件之前版本的内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzQ3ZWNmMTJlYTU4OWRkMzliMWVjYjE1MDZmZTNiNzlfOTE5OWY0OGYyODY5ZGI3MDQ2NGRhY2IwY2E0ZjkwZTBfSUQ6NzY0NjMwMjY4Mzk2MDI0OTMxNF8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 git 可以说是程序员的必备工具，但它并不是只有程序员才需要。在当前Vibe Coding不仅仅为了程序员而设计的情况下，很多对文件比如word ppt excel、md、txt等等众多文件编辑领域，由于在AI的加持下，它的变化太多了，有时候随便聊聊，可能文件中的内容就变了，但是有时候又想回看之前的版本。就变得毫无章法了。这里就跟程序员的代码类似，程序员只要提交过，就可以随时进行追溯查看。
 
@@ -18,7 +18,7 @@ git 可以说是程序员的必备工具，但它并不是只有程序员才需�
 
 ## 第一种吃法：定点穿越药（存档回滚）
 
-![图片展示了Git的定点穿越药（存档回滚）吃法。画面左侧显示电脑屏幕上有多个错误提示框，表明当前状态为“现在的烂摊子”。中间有一个红色的“时光机（Reset）”按钮，下方文字说明“存档回滚：专治手贱误删”。右侧是昨天的完美版本界面，文件图标排列整齐。图片与上下文紧密相关，直观呈现了Git在遇到错误或误删时，可通过一键回滚到昨天完美版本的功能，解决“哎呀！早知今日，何必当初”的问题。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDRiYzQwMzE4ZTUzYjIyNjAyMTFlNjA3ZDJiYjQ3NmJfN2YwYTk0OTU5MDE0YmM2N2QyNTJmMDVjZTg5ZjllNGRfSUQ6NzY0NjMwMjcwOTIxOTY5MTQ1Nl8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![图片展示了Git的定点穿越药（存档回滚）吃法。画面左侧显示电脑屏幕上有多个错误提示框，表明当前状态为“现在的烂摊子”。中间有一个红色的“时光机（Reset）”按钮，下方文字说明“存档回滚：专治手贱误删”。右侧是昨天的完美版本界面，文件图标排列整齐。图片与上下文紧密相关，直观呈现了Git在遇到错误或误删时，可通过一键回滚到昨天完美版本的功能，解决“哎呀！早知今日，何必当初”的问题。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWMxNWFhZWM3Mjg3ZGRkNzhkNDQ5ZDRkNDBhZTlmYThfOTVlN2JmOTcxYzBjZTRkNDlkZTVhMjEyNmRhOTZjMzhfSUQ6NzY0NjMwMjcwOTIxOTY5MTQ1Nl8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 专治：哎呀！手贱把昨天写好的那段最精彩的剧情删了，而且已经保存覆盖了！
 
@@ -34,7 +34,7 @@ git 可以说是程序员的必备工具，但它并不是只有程序员才需�
 
 ## 第二种吃法：成分分析药（差异对比）
 
-![图片以“Diff差异对比：一眼看穿改了哪”为标题，介绍Git作为程序员“成分分析药”的吃法二。画面中，一位戴红绿眼镜的卡通男孩手持纸张，纸上有“旧代码删除”“新功能添加”等字样，旁边配有放大镜，标注“精准定位”。该图片与上下文紧密相关，通过形象化表达，说明Git能通过红绿眼镜对比“现在的你”和“昨天的你”，帮助程序员精准定位代码差异，解决因版本变化不知所改的困扰。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGU3OGZkOTVjZGMzMDJjYjdhOWQxMmM4ODU5MTRlOGFfMDdjNTliOTI1MjI0YTEyOTE0NTViN2NkNmFlMTdhZjRfSUQ6NzY0NjMwMjcyODgyNjM1ODcxNl8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![图片以“Diff差异对比：一眼看穿改了哪”为标题，介绍Git作为程序员“成分分析药”的吃法二。画面中，一位戴红绿眼镜的卡通男孩手持纸张，纸上有“旧代码删除”“新功能添加”等字样，旁边配有放大镜，标注“精准定位”。该图片与上下文紧密相关，通过形象化表达，说明Git能通过红绿眼镜对比“现在的你”和“昨天的你”，帮助程序员精准定位代码差异，解决因版本变化不知所改的困扰。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmMwZTAwMWVlZTI4MGE0MDM1M2YwZDFkMDdlMDA2ZjJfMjE3MjQ4MzVmZTNkMzAyNDI2MGUxMDc4NGI4YzU3ZTRfSUQ6NzY0NjMwMjcyODgyNjM1ODcxNl8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 专治：我觉得现在的版本不对劲，但我忘了到底改了哪里，也不记得原来的版本是啥样了。
 
@@ -52,7 +52,7 @@ git 可以说是程序员的必备工具，但它并不是只有程序员才需�
 
 ## 第三种吃法：处方说明书（提交日志）
 
-![图片展示了Git的“第三种吃法：处方说明书”，即提交日志功能。画面以一本打开的书为主体，书内记录着2023年10月20日删除第一段是因为客户觉得啰嗦。书旁有个男孩正在阅读，旁边气泡标注“Log日志”和“查明真相”。底部文字说明“不仅能回退，还能知原因”。该图片与上下文对应，直观地解释了Git提交日志可用于查明代码或文字编辑历史及原因，解决“这行奇怪的代码（或这段文字）是谁写的”这类问题。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjYyM2I2OGE2YmZkZGQxZWFlODE3NGVkOGIxOWE0NTBfMjU5OWNhYzVkZTJlOTUwMjdmMzM3YmYyOGUxYTkyZWZfSUQ6NzY0NjMwMjc1MjI0MzIzOTg2Nl8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![图片展示了Git的“第三种吃法：处方说明书”，即提交日志功能。画面以一本打开的书为主体，书内记录着2023年10月20日删除第一段是因为客户觉得啰嗦。书旁有个男孩正在阅读，旁边气泡标注“Log日志”和“查明真相”。底部文字说明“不仅能回退，还能知原因”。该图片与上下文对应，直观地解释了Git提交日志可用于查明代码或文字编辑历史及原因，解决“这行奇怪的代码（或这段文字）是谁写的”这类问题。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDI3ODVlMmJmM2M5ZWZmNmFhOWIxODhjNTZiYTUxZGFfZmVjMDM0OTZkNTFmMmRhYzExMGEzNzgwZGU5ZjYzZDFfSUQ6NzY0NjMwMjc1MjI0MzIzOTg2Nl8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 专治：这行奇怪的代码（或这段文字）是谁写的？为什么要这么写？我是脑子进水了吗？
 
@@ -64,7 +64,7 @@ git 可以说是程序员的必备工具，但它并不是只有程序员才需�
 
 ## 第四种吃法：试错安慰剂（分支隔离）
 
-![图片以“试错安慰剂”为主题，展示了主宇宙（Master）和实验宇宙（Branch）的概念。主宇宙中有一个保险箱，代表当前完美版本，用剪刀切断，表示分支隔离。实验宇宙里有一个人在实验，周围有烟雾和实验器材，象征大胆试错。图片下方文字说明Branch分支隔离，可放心大胆去试错。此图与上下文紧密相关，直观呈现了Git分支隔离功能，帮助理解在分支上大胆尝试，不怕失败的原理。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Nzc0NWJkMmVmM2EwYWY5NjQ5NzY2NmU1NmEwZmJhMzVfNjRkODU3YmVhMjYzZTA0YTI4NjI3ODM5NGY1MTdmYTBfSUQ6NzY0NjMwMjc3NDMyOTkwNDA3NV8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![图片以“试错安慰剂”为主题，展示了主宇宙（Master）和实验宇宙（Branch）的概念。主宇宙中有一个保险箱，代表当前完美版本，用剪刀切断，表示分支隔离。实验宇宙里有一个人在实验，周围有烟雾和实验器材，象征大胆试错。图片下方文字说明Branch分支隔离，可放心大胆去试错。此图与上下文紧密相关，直观呈现了Git分支隔离功能，帮助理解在分支上大胆尝试，不怕失败的原理。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDdiY2JmZGQ3OWI2ZmZjY2EwYjUyYjY2MzllMzE0OWVfMDYyNjQzOGQzY2JkMDkxYTQzYTIwYjMzODRlMmVmNzdfSUQ6NzY0NjMwMjc3NDMyOTkwNDA3NV8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 专治：我想大改一下，但万一改废了，原来的也回不来了，所以我不敢动。
 
@@ -104,7 +104,7 @@ git version 2.52.0.windows.1
 
 再点击下载安装就可以了，再次打开就出现如下所示界面
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGIwZTZjZGMwOWNlNTM4MGIxZjYxMDM2MjJmZWM0YWZfOTBiYWIzYzY5NWU5NTIxZWFlZDlmNTRjZDA1OTk3MjhfSUQ6NzY0NjMwMjc5ODA3NDAzOTI0OF8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWYwNTQxYTcxYTBmYzE3OWNjMzZkZjdhODI5ZThmYzNfNzc3YzQ1ODYzNDM5OTNhYjliMmQzN2Q1MmNhYjFjNjNfSUQ6NzY0NjMwMjc5ODA3NDAzOTI0OF8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 先点击设置第一个红色的用户名邮箱，你常用的就可以了。
 
@@ -140,7 +140,7 @@ ssh-keygen -t rsa -C "你的邮箱"
 
 ```
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjVmZTAyOTRiOTZkNDhlZDFkMmQzYjdmODhiMzhlYTFfMWNhNWVlY2QyNDA3MmZhMzY3Yzk4M2Q4ZmJjNWE1ZDlfSUQ6NzY0NjMwMjgyMDcxNDk0MTM4MF8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmNkZTgzYWQwMmVmM2YzYzQwMmZhNTMxNWMyMmNmYzlfOTBiOTMwZmQ2MDI0ZDNiZTIzMzAyYzA4NWZiNTU3NDFfSUQ6NzY0NjMwMjgyMDcxNDk0MTM4MF8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 复制到公钥中即可，保存即可，然后进行测试
 
@@ -156,19 +156,19 @@ ssh -T git@gitee.com
 
 点击新建仓库
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmU2NTc4MmJiZDg4YTdiNDFjNGFmOGNjYWVmMDdiMjZfYTNmOWU3ZjI1Yjg3MjUyMTYzMzBmNTQ2MTRjMTc2MzdfSUQ6NzY0NjMwMjg0MzM3MjU1NTIzOF8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTdmNzg0OTc0ZmIxZTY1NzNhNDRjMjg3NzJiNTFkZWVfOWYyODMxMTlhYjIwMzUzNzJkZjgzZDk0ZWU1OGFiNjJfSUQ6NzY0NjMwMjg0MzM3MjU1NTIzOF8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 6、填写仓库名称，路径，仓库介绍，选择开源或者私有，然后创建即可
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjM0MTRhODhhZDgwNWJiMTNhOWI3MzllNGZhN2NjNjVfZDk1Y2E3MTc4NDAzY2Q4YmI5ZmM3ZDZlM2JmNGRlOThfSUQ6NzY0NjMwMjg2NTg1NDAwODI2OF8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmNjMDRkMDFkZjE5ZDQwOWI5N2Q2NzhiYTIyOWQ5YmVfYzcwM2ExYzNmNTIwZjg5NmM2MmE2NWY5MjIwNjc0OThfSUQ6NzY0NjMwMjg2NTg1NDAwODI2OF8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 然后初始化一下仓库。点击复制克隆仓库的命令
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjVmNDc4MTZhZmEwZDUxOWZiNzBiMzI4ZDk2NzFhM2NfMGY4NWY3NWE3M2I3NTZhNjM5NDk3ODkyNTBhYjRkNzZfSUQ6NzY0NjMwMjg5MDQ0NTQwOTIwOF8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2M0MGQ5MDE5NGJmMDIxMTUzMjE3MTI1NjdkYjlhYzVfOTAzZDU0NjY1ZjVkNmFjM2U4OTY1ODA4Nzc1Y2M3MjlfSUQ6NzY0NjMwMjg5MDQ0NTQwOTIwOF8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 然后再到想去的文件夹进行执行命令就可以了
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzU5MDEzMThmNjBlYjdmZmFlYTk0NWFkZTk4YmViODNfYzg2ZjU3MjQ0MmJkYWI2NWNjNWI5M2Y2ZTE1ODEzZmFfSUQ6NzY0NjMwMjkxMzQyNTM0NTQ3NF8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGJmYjcwNWM2OWQ2ZGVhZGYzM2E5OWZjNmNkNWJiZTdfNDY1ZGVhYjhiZWM0MzdjNWIwZjM0NzBjNjRhMTI0ZWZfSUQ6NzY0NjMwMjkxMzQyNTM0NTQ3NF8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 看到如上图所示的命令，说明配置成功了。
 
@@ -186,19 +186,19 @@ ssh -T git@gitee.com
 
 ```
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTQ2ODYwMTIyODBlOGI2MmUxNzU3MTA5MmM3ZmJhNTBfODFmZjEzZjZkZTE2MTBiYmZmNjZmZDBlMmU0ZWFiMzdfSUQ6NzY0NjMwMjkzNTUxODY0NTE3OV8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTczZmQzZTAzYTU1YjQ1ZDY1ZWUxNzg3OGQ0MGNlNzRfNDlmZmQyNjdiMGFlOGVlYWQwYzU3MDYwMDM2Mzg3OTFfSUQ6NzY0NjMwMjkzNTUxODY0NTE3OV8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 这里它直接给我创建了一个skill。既然它创建好了那就直接提交测试一下
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWJiOTQ2NTE5OTE4YTM1ZWJlMDY3ODI1NWM0NzdlMDFfMmY2M2Q4NDZlOTFhYWRiOTYxYmJlNjNlZTZkZDQ1MjRfSUQ6NzY0NjMwMjk1NTAwMDA1Njc3NF8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTkxNDUyY2YwODM4ZjRkMTllYjhiYmU5MTY4N2UyOGRfNDA2MzI4NWFiZTNkM2U0MzIyMzAyODRjZmQyNTdmYjVfSUQ6NzY0NjMwMjk1NTAwMDA1Njc3NF8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 这里已经提交成功了，但是还没有推送大码云服务器上。也就是在本地有了提交历史，其实丢失的问题就解决了，看什么时候推送大服务器上而已。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmRhYjhjOWZhODkwYTU1ZjI1NjcwZjY4NzNjMDIxZWVfNzkyNmZmNzJhYjVlOWY3OWQ5MDY0ZjI5YjBkZWUyOTRfSUQ6NzY0NjMwMjk3ODgyNzUzNzM1Nl8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWFhYTVmMTJlOGVmNTBmNDQxNzcxNjAyMDRlNTlkMmZfNGRlOWEyYWVlMTI1NGIwMGI1NjNmOWFhZmNmMDhhOGVfSUQ6NzY0NjMwMjk3ODgyNzUzNzM1Nl8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 我们再到服务器上去看看
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2U1NmQxZGYyMTI1MWFmZmQzZjM2N2ZlNWQzYTQ1ZTNfNmUwZWY5MDJlMzczMzgzOTZhMWE3NDA4MDA4NDQ4YTFfSUQ6NzY0NjMwMzAwMDAwNDc3NDg3MF8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2YxNzczNjYwOGM4ZDRiOTNiY2E2ZGU3MWI4MjE0MjJfYjNmMTQ1NGY0N2ZjYmQ0YTBhMjU4YzA2MTlkNmIzZWJfSUQ6NzY0NjMwMzAwMDAwNDc3NDg3MF8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 看到服务器上也有了项目文件，初步大功告成了。
 
@@ -208,6 +208,6 @@ ssh -T git@gitee.com
 
 通过我们安装的可视化工具也是可以看到提交记录
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Zjk2NDY4ZjljYjE0MTk3ZTNmNjZiNGJkOGM0ZTc2MTBfNWIyNTEyNGI4YWU4MTkxNDA3MTBkMDY1NGM2Y2Y2MGVfSUQ6NzY0NjMwMzAyNDAxMjkwNTQ0Nl8xNzgxNzcwOTkwOjE3ODE3NzQ1OTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjA1MWU1MWNjMGQyZGI0NWMzNmVkZGRiNGQyNTc3Y2VfNjBlZmZjOWM3ZjRjMmVjODJjOWJlMWRlMDBlODg1MWFfSUQ6NzY0NjMwMzAyNDAxMjkwNTQ0Nl8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)
 
 并且想查找历史也可以通过这个工具一目了然。当然git的功能其实非常强大，你有兴趣也可以借助AI进行了解和学习。

@@ -4,7 +4,7 @@
 
 
 
-![图片展示了codex-proxy的工作原理。左侧有多个ChatGPT账号图标，通过箭头指向中间的codex-proxy（Docker Container），其内部有Load Balance和API Proxy。右侧是codex-proxy输出的接口，包括Social Media Bot、Code Editor、Translation Tool和Browser Extension。该图与上下文紧密相关，直观呈现了将网页版ChatGPT账号能力转换为标准OpenAI接口，支持多账号“组队打工”的功能。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=ZjYxOGMyZjQ4ZmZmOGE2NGE3ZDAzOTE1OGI1Mjc2NWVfZTlhNmM4NjE4NTYxNDU5ODcwNTEwMjljM2E4ZDEyY2NfSUQ6NzY0NTcxMzY5ODUzNDkwMzAwM18xNzgxNzcwNzkwOjE3ODE3NzQzOTBfVjM)
+![图片展示了codex-proxy的工作原理。左侧有多个ChatGPT账号图标，通过箭头指向中间的codex-proxy（Docker Container），其内部有Load Balance和API Proxy。右侧是codex-proxy输出的接口，包括Social Media Bot、Code Editor、Translation Tool和Browser Extension。该图与上下文紧密相关，直观呈现了将网页版ChatGPT账号能力转换为标准OpenAI接口，支持多账号“组队打工”的功能。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODExMDdmNzBjM2IzMzI2MTUyZDYzMWI1ZWU1YTU0MTZfMDRmZWM4ZTMzYTBmODVkZGIxNzY3MWM2ZDc3NjQ4ZDhfSUQ6NzY0NTcxMzY5ODUzNDkwMzAwM18xNzgyMDk4OTU3OjE3ODIxMDI1NTdfVjM)
 
 > 💡 **写在前面：**
 
@@ -68,11 +68,11 @@
 - 一台 Windows 10 或 Windows 11 电脑。
 - 已经安装好了 **Docker Desktop**。
 
-![图片展示了Docker Desktop的下载页面。页面上方有“Choose plan”和“Download Docker Desktop”按钮。下方有不同操作系统版本的下载选项，其中“Download for Windows - AMD64”（红框突出显示）被选中，适用于Windows 10或Windows 11电脑。该图片与文档中“前期准备工作”部分相关，用于指导用户下载适用于Windows操作系统的Docker Desktop，以满足后续安装ChatGPT Claude 2.1的条件。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=NDgzZjRmNWFjYzMyYzYzZjVjOWU4YjAzNDUwZGM1MDNfNTdlNzI0YTg0YmFhNjNmNjBmY2Q2Y2M4MDdlODA4ZjJfSUQ6NzY0NTcxMzcxNDUxNTE4NDgzNF8xNzgxNzcwNzkwOjE3ODE3NzQzOTBfVjM)
+![图片展示了Docker Desktop的下载页面。页面上方有“Choose plan”和“Download Docker Desktop”按钮。下方有不同操作系统版本的下载选项，其中“Download for Windows - AMD64”（红框突出显示）被选中，适用于Windows 10或Windows 11电脑。该图片与文档中“前期准备工作”部分相关，用于指导用户下载适用于Windows操作系统的Docker Desktop，以满足后续安装ChatGPT Claude 2.1的条件。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2FkMzFiYzg5MGM1YzU0NWQ2ODk0MTlkNDM2NDBiZjNfODBkODU4MDFhNDdlMzhkNDU3MWQ0MTVmOTRiNDZkNWNfSUQ6NzY0NTcxMzcxNDUxNTE4NDgzNF8xNzgyMDk4OTU3OjE3ODIxMDI1NTdfVjM)
 
 - 确认 Docker Compose 可用（随便打开个终端输入 docker compose version，能出来版本号就行）。
 
-![图片展示了在Windows系统下使用Docker Compose的版本信息。在命令行界面中，输入“docker compose version”后，显示了Docker Compose的版本为v5.0.2。该图片与文档中“确认Docker Compose可用（随便打开个终端输入docker compose version，能出来版本号就行）”的内容相关，用于说明在Windows电脑上确认Docker Compose可用性的操作及结果，以确保后续安装步骤的顺利进行。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=MTk0MzEzMjFjOTQzNTM1ZGU0ZDc3MDFlNWI3NDJlMDFfNmJhOTA1OTRiYzY0ZTg5Yjg5MmRiNjI1ODBiMTZmMzRfSUQ6NzY0NTcxMzczMDEwOTU0MTYwMF8xNzgxNzcwNzkwOjE3ODE3NzQzOTBfVjM)
+![图片展示了在Windows系统下使用Docker Compose的版本信息。在命令行界面中，输入“docker compose version”后，显示了Docker Compose的版本为v5.0.2。该图片与文档中“确认Docker Compose可用（随便打开个终端输入docker compose version，能出来版本号就行）”的内容相关，用于说明在Windows电脑上确认Docker Compose可用性的操作及结果，以确保后续安装步骤的顺利进行。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGQ3MDNmNThiZTg4Zjc4Zjk4MTNmMzdiNTE4ZjJjMWRfMTY0ZjJiNWQ1NzUxMmNmYTBkOTBjNWZhYjFlN2VkMDVfSUQ6NzY0NTcxMzczMDEwOTU0MTYwMF8xNzgyMDk4OTU3OjE3ODIxMDI1NTdfVjM)
 
 ## 🚀 正式安装（最短路径）
 
@@ -101,7 +101,7 @@
 - 点击登录，使用你的**第一个** ChatGPT 账号完成登录。
 - **重点来了**：如果你有多个账号，就在这个控制台页面里继续添加登录！添加完之后，系统就会自动帮你把这些账号排好队，每次请求都会智能轮换。
 
-![图片展示了ChatGPT账号配置界面。上方有“添加账户”按钮，下方提示在弹出窗口中完成登录，登录成功后获取Token。中间区域显示已选账户，有“选取”“删除”操作按钮，以及总请求数、Token用量、速度限制等信息。下方是API配置区域，有“代号URL”“默认模型”“API密钥”等输入框。图片与上下文关系紧密，直观呈现了第五步验证成功后，基础服务跑通时的账号配置界面情况。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=NzIzYTg1MjUwZmRmMTA3MzQxZmFkMjA1NmYxYjI2OWFfYTI3OGJiNmUyMDAyZTQ5MzgwMTk2ZTgwNjFhNWE3ZWNfSUQ6NzY0NTcxMzc0NTAxMzU1ODQ2NV8xNzgxNzcwNzkwOjE3ODE3NzQzOTBfVjM)
+![图片展示了ChatGPT账号配置界面。上方有“添加账户”按钮，下方提示在弹出窗口中完成登录，登录成功后获取Token。中间区域显示已选账户，有“选取”“删除”操作按钮，以及总请求数、Token用量、速度限制等信息。下方是API配置区域，有“代号URL”“默认模型”“API密钥”等输入框。图片与上下文关系紧密，直观呈现了第五步验证成功后，基础服务跑通时的账号配置界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmEzNTE1NmMxNzczMWM2ZTM2NmNhYzBhYTc5MmFlMTNfYTRlMDA1ZmUyZWVlNGU4ZTQ1MTZmOWIzZjUwNTZkZWJfSUQ6NzY0NTcxMzc0NTAxMzU1ODQ2NV8xNzgyMDk4OTU3OjE3ODIxMDI1NTdfVjM)
 
 ## 第五步：验证是否成功
 
@@ -111,7 +111,7 @@
 
 如果有正常的代码返回，恭喜你，基础服务已经完全跑通啦！🎉
 
-![图片展示的是在浏览器中访问localhost:8080/v1/models后的页面内容。页面顶部显示网址为localhost:8080/v1/models。页面主体以JSON格式呈现，包含“object”为“list”、“data”为多个模型信息的列表，如“id”为“gpt-5.3-codex”、“object”为“model”等。该图片与文档中“第五步：验证是否成功”部分相关，用于说明在完成基础服务跑通后，通过访问特定网址可查看模型信息，以验证配置是否成功。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=MmUxMzAxZmE1ZjdhMWU1NmYwOTljMmE4MTFjNTZjNjlfODEzYThlNmY0MDMyYTBjMmM5YTk5Y2RhM2Q5OTEzZTVfSUQ6NzY0NTcxMzc1NTgyMDc3MjU0Nl8xNzgxNzcwNzkwOjE3ODE3NzQzOTBfVjM)
+![图片展示的是在浏览器中访问localhost:8080/v1/models后的页面内容。页面顶部显示网址为localhost:8080/v1/models。页面主体以JSON格式呈现，包含“object”为“list”、“data”为多个模型信息的列表，如“id”为“gpt-5.3-codex”、“object”为“model”等。该图片与文档中“第五步：验证是否成功”部分相关，用于说明在完成基础服务跑通后，通过访问特定网址可查看模型信息，以验证配置是否成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzQzOGJhYjExNGJjOTAyMmJlMjg4YjAwYTYxOGY0MTlfMDc4ZjU0MjIyMDhkZjgwMTIzMmQ1NGQ0MDkzYTg2ZmNfSUQ6NzY0NTcxMzc1NTgyMDc3MjU0Nl8xNzgyMDk4OTU3OjE3ODIxMDI1NTdfVjM)
 
 ## 💣 真实“踩坑”记录与解决办法
 
@@ -157,11 +157,11 @@
 - **API 密钥（API Key）**：去项目的 config/default.yaml 文件里找 server.proxyapikey 对应的值。（默认可能是设定的一个密码，比如 pwd）
 - **模型名称（Model）**：填 codex 或者gpt-5.3-codex，也可以是chatgpt支持的其他模型
 
-![图片展示了xHere设置界面中API配置的相关内容。其中，API Base URL为“http://localhost:8080/v1”，API Key部分显示“...”，模型名称为“gpt - 5.2”。该图片与文档中介绍xHere配置参考的内容相关，直观呈现了配置时需填写的API Base URL、API Key及模型名称等关键信息，帮助用户了解在xHere设置中API配置的具体填写要求。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=MTEwNjVlODQ2OGFlYTRkY2JlZDMwMTkzNzZiMzA1ZjNfZDgyMTYwY2QyNTFiM2U4ZTc1NmU0Mjg0NzIwNjMxMTdfSUQ6NzY0NTcxMzc3MzA2MzM0MzMyMF8xNzgxNzcwNzkwOjE3ODE3NzQzOTBfVjM)
+![图片展示了xHere设置界面中API配置的相关内容。其中，API Base URL为“http://localhost:8080/v1”，API Key部分显示“...”，模型名称为“gpt - 5.2”。该图片与文档中介绍xHere配置参考的内容相关，直观呈现了配置时需填写的API Base URL、API Key及模型名称等关键信息，帮助用户了解在xHere设置中API配置的具体填写要求。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjQ5MDQ5ZDA1YjQ5NzAxOGE4NmVlNDg3Yjc5MDBkODVfMzE3NDQ0ZDU1MzJiZTk5MjRlYTQ0NWYzMTY3ZjIyYzBfSUQ6NzY0NTcxMzc3MzA2MzM0MzMyMF8xNzgyMDk4OTU3OjE3ODIxMDI1NTdfVjM)
 
 xhere配置参考
 
-![图片展示的是一个社交媒体平台界面，显示了1,255个认证粉丝（占总粉丝数44%），以及粉丝增长、互动率等数据。界面下方有“Verified followers”弹窗。图片下方红框内列出了4条关于3000位优秀伙伴的建议，如“感觉你不是在闯关，是在搞‘蓝V高质量社交工程’”“正常互动+机器人”“筛选粉丝很清晰”“这个思路是对的”，还提到“互动频率”“内容质量”等。这些内容与上文提到的“拿默认配置举个例子”相关，是对默认配置下鉴权信息的补充说明。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=Nzc1YWQ3YmIzNWRlN2VkODQ5Mjc0NzJkMzFiM2UyY2VfNGU0NjU4ZThiMTg2MDhmMTkyZTYyODM2MmU5ZDdkZmFfSUQ6NzY0NTcxMzc4NTAzODIxMjI4N18xNzgxNzcwNzkwOjE3ODE3NzQzOTBfVjM)
+![图片展示的是一个社交媒体平台界面，显示了1,255个认证粉丝（占总粉丝数44%），以及粉丝增长、互动率等数据。界面下方有“Verified followers”弹窗。图片下方红框内列出了4条关于3000位优秀伙伴的建议，如“感觉你不是在闯关，是在搞‘蓝V高质量社交工程’”“正常互动+机器人”“筛选粉丝很清晰”“这个思路是对的”，还提到“互动频率”“内容质量”等。这些内容与上文提到的“拿默认配置举个例子”相关，是对默认配置下鉴权信息的补充说明。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTEyNjkxMGUwYTZkN2RhNGNjNmVjOWY5ZDExNzM0NjVfODIyNDBmYTA1ZmE4ZTcyMjk3NDE0YWY3OTFlNWQ5ZmRfSUQ6NzY0NTcxMzc4NTAzODIxMjI4N18xNzgyMDk4OTU3OjE3ODIxMDI1NTdfVjM)
 
 xhere应用生效
 

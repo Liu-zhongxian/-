@@ -4,7 +4,7 @@
 
 ​
 
-![图片展示了全程使用使用 自动生成图片](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjZiZDZkYzhiMWUwOGE5ZGJhOTQ3NTVhZjk3NWM0OGRfYjcxOWJmN2I3MWJkY2I0ZmQ4YjY5ZmQ4Y2U2ODM3MjRfSUQ6NzY0NjMwNjEzNzI5MTU3NDIwMl8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![图片展示了全程使用使用 自动生成图片](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmVjZmE2ZjRmNTZmYTYyMGFkNjZhMDg1YWRhMjRjZmZfZGZhYmUyMTYwNzY4MmQxYTBhNDJkYTA4ODA4ODMzY2NfSUQ6NzY0NjMwNjEzNzI5MTU3NDIwMl8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 上个周末，我的前端哥说你看“铁锤人”的OpenClaw 教程成为了技术圈的顶流。目前好像793W流量，恐怖如斯。于是我换了个角度，输出了我的米8实战，没想到也引来了部分爱好者的围观，虽然离“铁锤人”的流量还有很远的距离，但自认为流量也算不错，也是我没想到的，也帮我顺利突破2000粉丝。
 
@@ -38,13 +38,13 @@
 
 [https://github.com/termux/termux-app](https://github.com/termux/termux-app) 这个开源项目用来干什么的
 
-![图片展示了关于Termux开源项目的回答内容。Termux是一个Android终端模拟器和Linux环境应用，主要功能包括在Android上提供完整的Linux命令行环境、支持包管理器安装软件包、运行Linux工具和编程语言、支持插件扩展功能等。简单来说，它让Android手机/平板变成能运行Linux命令的便携设备，常用于开发、脚本编写、服务器管理等场景。该图片与文档中介绍Termux相关功能的上下文对应，是对Termux功能的详细说明。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGIwNWQ2Nzg2MTQ3MjhmMGQ3MjEzNmJmOGQ5NzViYTVfYTAzN2RkOTlhZDU0NjViNmM3OTlmMWNkY2NmYjRiM2ZfSUQ6NzY0NjMwNjE1OTM0MzQyMjQwNl8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![图片展示了关于Termux开源项目的回答内容。Termux是一个Android终端模拟器和Linux环境应用，主要功能包括在Android上提供完整的Linux命令行环境、支持包管理器安装软件包、运行Linux工具和编程语言、支持插件扩展功能等。简单来说，它让Android手机/平板变成能运行Linux命令的便携设备，常用于开发、脚本编写、服务器管理等场景。该图片与文档中介绍Termux相关功能的上下文对应，是对Termux功能的详细说明。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmNhZWNiZTdjMWUxNjUxMzZiZDlkMjA0NmMxMTVmNTBfODM1NTNkZWViNDY3ZTFkZTlhODI2Y2NjNWE5MGI3ZjRfSUQ6NzY0NjMwNjE1OTM0MzQyMjQwNl8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 ## 第二步
 
 **给我下载一个最新的apk**
 
-![图片展示了在OpenCode中下载Termux最新apk的回复内容。显示已下载完成，文件保存在当前目录，大小约112MB，为universal版本，适用于所有架构的Android设备。安装前需在Android设置中允许安装未知来源的应用。下方有“termux-v0.118.3.apk”文件图标，可点击下载。该图片与文档中“给我下载一个最新的apk”步骤对应，直观呈现了下载完成后的状态及文件信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGQxZTMzNDI4ZjJhOWFhYWRjNGVkMDc1ZGY0ZmEyMGRfNTk5YmFmMDVkYmJlNWIyNjE3YzE1ZTkwYTAzMDU1NThfSUQ6NzY0NjMwNjE5Mjk1MTc3NDE2OV8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![图片展示了在OpenCode中下载Termux最新apk的回复内容。显示已下载完成，文件保存在当前目录，大小约112MB，为universal版本，适用于所有架构的Android设备。安装前需在Android设置中允许安装未知来源的应用。下方有“termux-v0.118.3.apk”文件图标，可点击下载。该图片与文档中“给我下载一个最新的apk”步骤对应，直观呈现了下载完成后的状态及文件信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODQwOWEwY2NmYjYzZDZlMzBiODg5NDU5Zjg2ZTBkYjlfNDMwYTI1MGFkMDc5YjJjNzQ5YzlhMTVhOWVhN2ViNTlfSUQ6NzY0NjMwNjE5Mjk1MTc3NDE2OV8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 最好用较新的，因为OpenClaw中开发基本都是用的较新的技术，太过于老旧，遇到的问题就多，而且不太好解决。
 
@@ -54,25 +54,25 @@
 
 我使用的微信进行传输，点击接收，然后右上角使用QQ浏览器打开安装即可，然后打开Termux进行测试，如果出现下图的界面说明安装成功
 
-![图片展示的是在Termux终端界面，显示“Welcome to Termux!”欢迎信息，包含Docs、Donate、Community等链接。下方列出与包操作相关的命令，如Search、Install、Upgrade等。还提示订阅额外仓库，如Root、X11等，以及解决仓库问题的命令。界面底部有ESC、/、HOME等快捷键标识。该图片对应文档中“拷贝到安卓手机”步骤后的“测试安装成功”的说明，若出现此界面则说明安装成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZThkMTNlNGZlOGE0MGQyOTc0YzY3ZDU3ZmU0YzZkNDRfN2Q4OWVhM2ZkNjBlYjJkYTcxZjhlNmRmZTkwMmRiZTNfSUQ6NzY0NjMwNjIxNzE0MDU4NzQ5NF8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![图片展示的是在Termux终端界面，显示“Welcome to Termux!”欢迎信息，包含Docs、Donate、Community等链接。下方列出与包操作相关的命令，如Search、Install、Upgrade等。还提示订阅额外仓库，如Root、X11等，以及解决仓库问题的命令。界面底部有ESC、/、HOME等快捷键标识。该图片对应文档中“拷贝到安卓手机”步骤后的“测试安装成功”的说明，若出现此界面则说明安装成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTQ1MDAzNmJmM2VhYzI3MjZiOTI0ZDRhNjkzYzQ3MzhfOTcwZDZkMmJlZjE5NDAxNGQ1NjBkZDEyN2UwY2Q3Y2NfSUQ6NzY0NjMwNjIxNzE0MDU4NzQ5NF8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 ## 第四步
 
 \*\*开启远程操作手机，\*\*已经安装完毕，能否在window上远程安卓手机
 
-![图片展示了在Windows上远程控制Android手机的三种方法之一，即SSH远程终端。通过Termux搭建SSH服务器，Windows终端连接。在Termux中执行安装OpenSSH、设置密码、启动SSH服务器、查看用户名等操作。在Windows上使用PowerShell或Git Bash，输入ssh命令连接，其中<用户名>和<手机IP地址>需替换为实际信息，端口为8022。该图片与文档中“开启远程操作手机”步骤相关，为在Windows上远程控制Android手机提供了操作指引。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmM0YzM5OTU4MGFjZjhkMjU4YWRlY2UxMjQwMmIzMWZfNzJkZjM3MTY1NmE4NTU5NTM2NTRmNWNmOWZkZjE2ZmNfSUQ6NzY0NjMwNjIzNzIyNjQyMTIwMV8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![图片展示了在Windows上远程控制Android手机的三种方法之一，即SSH远程终端。通过Termux搭建SSH服务器，Windows终端连接。在Termux中执行安装OpenSSH、设置密码、启动SSH服务器、查看用户名等操作。在Windows上使用PowerShell或Git Bash，输入ssh命令连接，其中<用户名>和<手机IP地址>需替换为实际信息，端口为8022。该图片与文档中“开启远程操作手机”步骤相关，为在Windows上远程控制Android手机提供了操作指引。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmM1YjliZGViOTY4YTA5ZjE2NjlhNDc5NjdiYjdmMzhfNjE0MWRjMjAxZTZiMTg3ZTVlNWQ2ZTY2MTJlYTY1OGNfSUQ6NzY0NjMwNjIzNzIyNjQyMTIwMV8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 > 注意一下：sshd这个命令后面还会经常用到
 
 看上面写的‘方法一’给我提供了三种方法，剩余两种我暂时就不考虑
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTk4NjU2NzMzZjI5MWRkYTIyZWRmMGNkM2RhOGE5ZTJfN2Y5N2EwMDQ0ODVkZTkzZmQ3N2M0MDA2MjYxYzE1ZTVfSUQ6NzY0NjMwNjI1ODY2ODE3ODM3OV8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWVmMmM2ZjEzMTllZGMwYTFlMGVhNzdmNGI0OTU2ZmFfNmNkNmMzMjI0NDBiOGVmZWI4ZWQ0ZDNiOTcyOGU1YjRfSUQ6NzY0NjMwNjI1ODY2ODE3ODM3OV8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 这两种方法有兴趣的也可以试试。
 
 这里我先按照第一个方案执行了，顺序执行上面‘方法一’中的四个命令就可以了
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWUyYTA2ZWJiZTkyNThjM2ZlYWU3NWRlM2EzMGI2MTFfMzA4ZWU3NzliMTZmMDgyYTJiMjkxZGNlOTU3MjgzOGNfSUQ6NzY0NjMwNjI4MzkxMzU2MzA3OF8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmNjM2ZkYzAwOWM3NmU2NGQzOTdiMTY5Y2M0YTNiYjdfYTY5OGMzZGRkMDU4NGQ0YmQxNDQ0NmVkOTg1YTUyZmNfSUQ6NzY0NjMwNjI4MzkxMzU2MzA3OF8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 要记得自己设置的密码哈
 
@@ -82,11 +82,11 @@
 
 上面我使用的是第一种方法，IP地址怎么获取
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzkxNjA5OTE4YzNlNmJmMmRlODViNjk1NWFiZmU2YmFfZmI0ZDNjNGY0MDc5Mjk1ZGE2YTc3NDUzYjZjZmQwMzFfSUQ6NzY0NjMwNjMwNDA4NDE1MTI1NV8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmE0ZWE3OTFhNmQ2M2VmYzk2YmJhOTg0NGJjMTdkZGFfOGQwZGJiOTI3NDhmYWYzYmQ3YTVhZjA5OGRjM2VhY2NfSUQ6NzY0NjMwNjMwNDA4NDE1MTI1NV8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 我在termux中，直接使用方法2，但是它提示我要先执行pkg install iproute2
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTQzYjg2NTJmM2Y5YjlmZTlkNjJjZDU1MTUzNmM2NjBfNGE4MzI4MDRhYWU1YjQ2MDBjNGNkOTUzMWJlM2FkYzFfSUQ6NzY0NjMwNjMzMDkwMjI4NTI2NV8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTc2NWQ5NTUyZDE5NGZkOTk4YTg3YTJlZDU1NTY2YWVfODE5OTUxMzU4ZmRkYjkxODljZmNmNGE4ODkzMWNkNmZfSUQ6NzY0NjMwNjMzMDkwMjI4NTI2NV8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 根据上面如图所示之后，就可以继续向下看
 
@@ -94,7 +94,7 @@
 
 ssh u0\\\_a242@192.168.1.6 -p 8022，回车后再输入密码
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2E0NWFhMzM2YmM0OGQ1ZmNmM2M0OGY2MWY3Yjk4ZDNfZTIzOWJlOWZiOTFmNjA0MzkwZDc5MTRhMzZhNWU1ZWJfSUQ6NzY0NjMwNjM1NDE3NjU5Mjg0M18xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDYwMGRjMWQyMWU5MWVlY2FjZGIxYTY3ZThmZjgzMWVfYTIwZTE3YWVlZjMyMmU0ZTQ3YzQ1ZWUyMjI1MjNkM2ZfSUQ6NzY0NjMwNjM1NDE3NjU5Mjg0M18xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 出现如上图所示，说明我们成功远程了我们的安卓手机了。
 
@@ -104,19 +104,19 @@ ssh u0\\\_a242@192.168.1.6 -p 8022，回车后再输入密码
 
 可以了，现在可以远程了。但是这个只是局域网的，能否随时可以连
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDViYjE4Y2I4MGVjMTkwMzMyZjc3NWYwNmIyMmFmMWNfNjQyYWQ3ZTNjNzk3M2EzZWFhYmYyNzJjZWQ1MTA5MzdfSUQ6NzY0NjMwNjM3MjI3MTMyODIyNl8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2NmNmQwYzk3YWJkNmFlYTA0YTNjNDkwMDEyYTNlMDVfOGE1MWJkM2FmYzAzNzYyOTEzMjI3MDQzODg0ZDljNTdfSUQ6NzY0NjMwNjM3MjI3MTMyODIyNl8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 ## 第七步
 
 Tailscale 给我下载window安装包和安卓安装包 都要最新的
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTM3ZWE2ZDViZWQ4ODI2OTJhMGU3OThiNDdlMTIyZDVfMWQ2NTlhZWE4NmI1MmY1NjY2ZDhjZjA4MTU4OTg3MGNfSUQ6NzY0NjMwNjM5NTgwOTQ1MDk0OF8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDk4YmQ0NDhhOTZmYTRhYmQyZmFlZjFmZjg5ZTBjYjNfMDM2NTNlYWI2OTNjODBiYWRiZWE0Njk0ODZjYTUzNTFfSUQ6NzY0NjMwNjM5NTgwOTQ1MDk0OF8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 ## 第八步
 
 现在我就去进行安装了。安装完毕，再打开tailscale官网。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzY5MTIyNTNkZTczN2QxMjE1ZjA0NjA0NDQxOTY3Y2JfYjljMTM1NmE2Y2U0Y2RiZTU4YmQ4ZTY5NGE2M2Q1MWNfSUQ6NzY0NjMwNjQxNTg1NjQ4NzM3MV8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmM3ZGVkZmY5NTk5ZGEwMDBiMGMwNjBlNTU4NzJjNTFfOTNlYTY5YTYzZmY0OGIzOTIzMmQ4MzUwNTg3MGIwYmZfSUQ6NzY0NjMwNjQxNTg1NjQ4NzM3MV8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 左侧的一个字段就是IP，我就没漏出来了，我现在让OpenCode来给我连接试试看。
 
@@ -124,11 +124,11 @@ Tailscale 给我下载window安装包和安卓安装包 都要最新的
 
 ## 第九步
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmEyNTI3MjZlZGQ3NDQ5ZDJlNWYwNzg1MzFiNWFkNjZfY2U5N2Q3Mjc3ZTVmNDk5NzQ4MDM4OTE4YzkyMDI1NmJfSUQ6NzY0NjMwNjQzOTg5NTgyOTQ1Nl8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWZjNTFlODJkY2U4YjdlZjcxZTEyYTJhMDgxZGE2NzdfYjYzMjQ3YjFmNmJkYzI1YmExMTY3NjhlZGRjOTIzMDNfSUQ6NzY0NjMwNjQzOTg5NTgyOTQ1Nl8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 接下来我直接让OpenCode 给我远程登录我的安卓手机
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzQxNTFjMTI4OTZkYTU2OTFkMDk0ZDk5MWViMzExYWJfN2NhZjNhOGQwYmMyMmI1MTVlNDRmYjhjMmE1YWM3MWRfSUQ6NzY0NjMwNjQ1OTU2ODk1MDIyMl8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2RiNzNlNTNkMDVhODVhZDA5YjgyNmQ3NGZmMTI5MzJfN2I5ZWY4MDI3OGJkMTgzYTNmYmE2ZmM3NTA2YmEwMzVfSUQ6NzY0NjMwNjQ1OTU2ODk1MDIyMl8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 这里最好生成SSH 密钥，相信我你后面玩的话还会遇到这个问题
 
@@ -136,11 +136,11 @@ Tailscale 给我下载window安装包和安卓安装包 都要最新的
 
 ## 第十步
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDcxOGM2ZTNmYWQzOWRiYjM1NzdmMjQ0ZGE3NjFhYTZfM2FjNmVlMDUxYmQxYjNkMjE4Mzg1MGY3MTdjYzg2YjZfSUQ6NzY0NjMwNjQ4MDQzODY2MDA2MF8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWFmYjZmNjkwNmE2ODVmYzY0ZDljOGM3M2MzMzk2OWFfNzY3NjRhNmMwNWQ0MGJiZGRlZTgxZDI1NDFkMGM3NTlfSUQ6NzY0NjMwNjQ4MDQzODY2MDA2MF8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 下次你只需要直接呼叫他连接就好了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTFkOWZmOTI1MzNmNDYwMmQ0MjkyZDE0NzdkYWE2MTBfMjQxZmUwYzY2ZWNjYzdjZmIyOGZmNjI5NTgzNGNhOWRfSUQ6NzY0NjMwNjUwMDIzMTY2MjU0MF8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTU4ZGUyMDdlMzhiYTRmNGVhN2FkOWU2ZGYyNjE1MjFfMzg4Zjc1OWVjMzhiZjRkYTQwOTY3MDVhZWE2ZGUzYjlfSUQ6NzY0NjMwNjUwMDIzMTY2MjU0MF8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 看到这里帅不帅，但是我不能让他为所欲为的事情。
 
@@ -150,39 +150,39 @@ Tailscale 给我下载window安装包和安卓安装包 都要最新的
 
 [https://github.com/openclaw/openclaw](https://github.com/openclaw/openclaw) 给我看看这个项目能否安装在我的米8上
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjU3NzI1Njk0MzNhMzVjNWJkYmMzYWU1YzQ1MzA3MTFfY2YzN2Q0ODU0MWFmMmUzZDgzMGFlMWFkNTc5MGRhOGVfSUQ6NzY0NjMwNjUyMzk4MzEyMTM2MF8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWFlMDAzZTI1ZGYyNDU4MTg1ZGY1YjE3ZGUxYTNkYWZfODM0NWRkZTZlYTRmN2ZjMjI3ODNlOGE0MDBiZGRhNzZfSUQ6NzY0NjMwNjUyMzk4MzEyMTM2MF8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 条件挺多的，其实就是要安装nodejs git python 等环境，下面就让他开干吧
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWM0ZjZmNDAzYTk0NjliZGM0ZjhmYTQxZDllYmM0NTNfNGJjOGY1ZGY5ZmEzYTZjNzM5ODRlY2JmMGFiNjZlNTNfSUQ6NzY0NjMwNjU0NjY5MDkwMjk5MF8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTgwNTU4MmY3ZTZiZjNiMTUwZjFhOGVjZDhiMTY3NGVfODAxOWFiNzlmOTIxMDg5MDM1ZDM4OGU5YTUxNzdjNTdfSUQ6NzY0NjMwNjU0NjY5MDkwMjk5MF8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 **游戏开始了，潘多拉的魔盒逐渐打开**
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODhmY2I5MjMyYmUyMDJkY2Q1MjExODU4ZWI4NDBiMThfNzAxYTNiYTZkMTdlZTIyZmU4NDRhNThkYmM4MzNmNWZfSUQ6NzY0NjMwNjU2NTI0Nzg5NjUyOV8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDAwZjFiNGEwN2E0MDY0NDExNTZmYmEwMDIzMTIzMjVfMzIwM2Q1ZDgyYjc3YThjODI0YmNlMDExZjljMTY0YThfSUQ6NzY0NjMwNjU2NTI0Nzg5NjUyOV8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 经过了差不多十分钟
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDhkNTc1ZDkwYTA3MWYzMjgzYzBiZDdlNDRlY2U4YjRfZWQ5N2YyY2Q5YWFiMWE2OTJjYzAwNGZjMzA2MDczNzRfSUQ6NzY0NjMwNjU5MDYwOTQ5Mjk1M18xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTM1ZTQ3MDViNDFjZjgyYTFjMDllYzkxZjYxNzU2NjZfYWRiYmVjMDY2MzhmODYwNmMyNGViYjY1NDZiMTY0YmZfSUQ6NzY0NjMwNjU5MDYwOTQ5Mjk1M18xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 还要进行向导设置
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTc1OWZiMTg5NWY2N2ZkZWI4MjRiYzFkYzY1ZTk2YzFfZDM5MWM2ZWRkNmI4ZTdjNzllZWU5MzE1MTkzYmQwZDRfSUQ6NzY0NjMwNjYxMTAwMjU3NTgzMl8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDFjZjYyZWEwOTEyNzFmMzk2YWJiY2E4Mjk1ODRlMmJfNTcxMzE3MjkzNzFjMTE3ZDk2ZDhiMzE0OTE1ZTAzNDdfSUQ6NzY0NjMwNjYxMTAwMjU3NTgzMl8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 由于我不清楚这个配置文件的位置
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGU1YmUzOTQ0NzIwNzkxZDhiNDYzNGE0ZmZhMjU3N2VfZjQxMDVlN2Y0OTkwYTQ1YjNlNjcxNmQ2MGFlOTA2ZWFfSUQ6NzY0NjMwNjYyOTMyODE2MTc0MF8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODE2NzVlOTE5NmM5ZGI0NmNhMDMwNjZlMDZhMDgyM2RfNWYzNzYwMDBlYmQwZDRjNjE2MjM2ZDIzYzUyZjc3OGRfSUQ6NzY0NjMwNjYyOTMyODE2MTc0MF8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 直接让他将米8私人助理服务器上的配置文件，给我拷贝到本地，我修改完他再拷贝回去,我只改了两个配置(如上图箭头所示)。
 
 然后进行配置模型，
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWNlMGJmZjJlNDM2YTE4NTA2MDYxYTA5OWIzNWU4ZDZfMDkyYTEzMTI4OGM2NTI2NjI1YzQ1OGJjZTFlZTEwNThfSUQ6NzY0NjMwNjY1MjI0MTAzODMwMl8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDNjNmQ2N2MyMjQ0Yjk3MGFjOGQ4OTIzNWU3MjYxNTJfYmRkNjZhNDUwYjU4MzUzYzk4ZTE2OTZhMGUyOWFiNGJfSUQ6NzY0NjMwNjY1MjI0MTAzODMwMl8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWJjNjM1MmE1NjhjNWU1NTBlN2M2YTMzM2ViZTRhYzBfNDVkMjQ2MjMxZGY0MmI4YzQ2MTMyZWI0M2RjZjI4ZDNfSUQ6NzY0NjMwNjY2ODMyNjg0OTQ5NF8xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGMxNmYxNjI3MWI5NGM0OWQ5YTJlZjZkNGUyZjI1OTBfZjYyMzA1MDA0MjI0ZTAyOWNlNDM1MjVmN2Y5ODUyOWRfSUQ6NzY0NjMwNjY2ODMyNjg0OTQ5NF8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 配置完毕，准备开启
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmFlMTIzODhhOGMwYTZiODRlMmRlZDE3YjhkNzJkZDNfYjIzMDRjNDFkYjdhMTM2OTFiY2Y3MTI4OGFiODM1MWFfSUQ6NzY0NjMwNjY5MDQ2Mzk3NjQxN18xNzgxNzcwOTIwOjE3ODE3NzQ1MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Mjg4YjU4ZWQ0OTVlMjY4MWE1ZjNhYjQxYmJiZDZkZDZfNjgwZTE2NzQ0NmI2YTRhY2JkM2JmZjE3MmRmMWVjZjVfSUQ6NzY0NjMwNjY5MDQ2Mzk3NjQxN18xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)
 
 最后一张图推特限制上传不了了。
 

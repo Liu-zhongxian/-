@@ -4,7 +4,7 @@
 
 我想使用了那么多的CLI，不管是GPT的Codex还是谷歌的Gemini的CLI，最后回过头来发现还是A社的Claude Code 是我用过最顺手的 CLI AI 编程工具了，主要还是Claude的硬实力。
 
-![图片中](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWNlNDI4NDU2YWJhMDA2MTIyOTRlNDMyM2I1MTYzZWZfN2U0NjQ5MWNlYmE2N2ZkN2I2OTM1MzcyOWY0MjNjNmZfSUQ6NzY0NDk2NDAxNzExMDM3MTUwOF8xNzgxNzcwNzc5OjE3ODE3NzQzNzlfVjM)
+![图片中](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzA5ZDU3NmEyMmQxYTIyZmJkMzA5NzY4M2Q5NDZmN2ZfM2IyMWE2YjI5OGM1NTUzOTYzYzkwNTk2ODFkMWEyYmVfSUQ6NzY0NDk2NDAxNzExMDM3MTUwOF8xNzgyMDk4OTMwOjE3ODIxMDI1MzBfVjM)
 
 但是对于很多兄弟们来说，稳定使用Claude已经是一种奢望了，在加上4月4号A社还发布了，Pro、Max等套餐的额度不在用于第三方的使用，里面点名了最近很多的OpenClaw。
 
@@ -12,7 +12,7 @@
 
 想来想去就选了一个折中的方案，我直接换思路：不再死磕 Claude 官方，也不再把希望全压在第三方代接服务上，而是保留 Claude Code 的使用方式，底层接口换成兼容 Anthropic 协议的国产模型。这篇我就讲一讲我是怎么使用的：`cc-switch + MiniMax`。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTZiODZiZjJlN2RiZDg5ZTllYTM1MWI3NWMyODhlMzFfZDMyODM4YTVmY2M1ZGM3YTllZWM0NDhkOTQzOTBkNTFfSUQ6NzY0NTE2NzcyMDg5NTY2MzI5NF8xNzgxNzcwNzc5OjE3ODE3NzQzNzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGQ2Yjg2OWIxNDUyMDYyNGM3OTEzNTZjZDIwNjc3ZTRfOWE2ZDE3MDEyYjA3MjA3ZmU4ODg1MjVjMjk3YTIyNDJfSUQ6NzY0NTE2NzcyMDg5NTY2MzI5NF8xNzgyMDk4OTMwOjE3ODIxMDI1MzBfVjM)
 
 ---
 
@@ -38,7 +38,7 @@
 
 > 其实我也考虑过GLM，但是需要抢而且很多人说响应慢，我就没选择。直接买了官方Token Plan套餐 98/月，反正试试水。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWI5NTc4N2NjODYyM2JhYTA0NmNiM2Q2ZTI3ZDhkY2NfZmIzYTZkNWE0MzZhMWQzMjdmZDU5MmRmNzQ0YTk0N2FfSUQ6NzY0NTE2Nzc1NzU2ODI4MTgyMF8xNzgxNzcwNzc5OjE3ODE3NzQzNzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2JlMDc5YTE1OWIxNGVjNjU3NDcyODM4OWMxM2VkYjVfZjdjNmMxY2Q3Y2FiNDM2MjE2ZjA2YjY0MDc2MzEwNmJfSUQ6NzY0NTE2Nzc1NzU2ODI4MTgyMF8xNzgyMDk4OTMwOjE3ODIxMDI1MzBfVjM)
 
 ---
 
@@ -91,7 +91,7 @@ brew install --cask cc-switch
 - API 格式：`Anthropic Messages`
 - 模型：`MiniMax-M2.7`
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTBmM2Y0NjVmYmU2ZmU2MzBkYTIwYzBlY2NiYmQ4ODVfNDg0NzRhOGFkMWE1ZmM5NGZmMGIzZDlkOWQxYjI2NzhfSUQ6NzY0NTE2Nzc4OTQ1MTMzMjgxMV8xNzgxNzcwNzc5OjE3ODE3NzQzNzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTVhNWEyMWUyZDE2NGRlNzc1YjQ4OTZlMzliZThhODBfZjk2NDIyNDkxNTI4MGI4MGY0N2U3MDZmNDY2ZjMwNmVfSUQ6NzY0NTE2Nzc4OTQ1MTMzMjgxMV8xNzgyMDk4OTMwOjE3ODIxMDI1MzBfVjM)
 
 1. 如果你不是走官方账号登录，而是直接改 provider 路线，建议把 `~/.claude.json` 里的 onboarding 状态补掉：{  
 "hasCompletedOnboarding": true  
@@ -100,7 +100,7 @@ brew install --cask cc-switch
 
 如果一切正常，你会看到 Claude Code 正常起来，然后上面显示的模型是MiniMax而不是官方的Claude模型。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDUzODY5NGM0OTM0MDQ3ZDFiZjhkOGU2MGY3NGE1ZDJfZTc2YTNiODE4YTY4MjI2YjRiNWFhNDJmN2EyNjQxZGZfSUQ6NzY0NTE2NzgxNzMyNjg0MTA1M18xNzgxNzcwNzc5OjE3ODE3NzQzNzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjI2YTA1ZGViMGFiNWIzOGE2MTBmMTUyYjZhNjBjNmZfZDJhZjhlZDI2MTQwOTIxNzQ5MjdlNTY2NmZkN2VlZDJfSUQ6NzY0NTE2NzgxNzMyNjg0MTA1M18xNzgyMDk4OTMwOjE3ODIxMDI1MzBfVjM)
 
 > 风险提示：这一步最容易翻车的不是 Key 本身，而是旧配置残留和对接的官方地址，因为有国际和国内两个站点。有的时候看到了界面里看着已经切到 MiniMax，实际请求还在打旧地址，可以退出控制台然后重新进入或者使用`logout` 退出然后重新登入。
 

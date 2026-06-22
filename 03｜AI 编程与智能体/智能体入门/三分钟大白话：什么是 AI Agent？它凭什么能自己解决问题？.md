@@ -4,7 +4,7 @@
 
 ​
 
-![图片以白色背景和黑色放射状线条为设计元素，上方文字为“三分钟大白话 什么是AI Agent? 它凭什么能自己解决问题?”，其中“自己解决问题”部分以蓝色字体突出显示。该图片位于介绍AI Agent“Agent（智能体）”的文档开头部分，起到引出主题的作用，通过图片内容，可直观了解文章将围绕AI Agent及其解决问题能力展开讲解。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2VhMTBhYWQxOWU1NzhiOGM2NDAxMzgzMWQ4MjNhNWRfMGMyYjUyZDlhMzU1NTQ1YmFiYTJlOGQ5NGFiNmQ4NzNfSUQ6NzY0NjMwNDk0Mzc5MTcyMTQzOF8xNzgxNzcwODk2OjE3ODE3NzQ0OTZfVjM)
+![图片以白色背景和黑色放射状线条为设计元素，上方文字为“三分钟大白话 什么是AI Agent? 它凭什么能自己解决问题?”，其中“自己解决问题”部分以蓝色字体突出显示。该图片位于介绍AI Agent“Agent（智能体）”的文档开头部分，起到引出主题的作用，通过图片内容，可直观了解文章将围绕AI Agent及其解决问题能力展开讲解。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmMzYjcxNjczOGI1NmIzYjMxODQxYjQzNDMxYTZjMTlfYzcyZmNjZDBhNGExZDliZDhjMDc2MTQ0YjQwNWYxNDFfSUQ6NzY0NjMwNDk0Mzc5MTcyMTQzOF8xNzgyMDk5MDY3OjE3ODIxMDI2NjdfVjM)
 
 在 AI 的世界里，“Agent（智能体）”这两年几乎成了高频词。 但有意思的是——很多人其实每天都在用 Agent，却没意识到自己在用。
 

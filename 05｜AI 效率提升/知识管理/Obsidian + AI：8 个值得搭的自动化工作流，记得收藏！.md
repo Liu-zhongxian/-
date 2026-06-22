@@ -4,7 +4,7 @@
 
 
 
-![图片展示了Obsidian + AI的8个自动化工作流，从收集到输出，让知识流动起来。左侧输入收集部分，有手机捕获、网页剪藏、日历与任务等，分别对应1、2、3步骤。中间知识中枢汇集所有内容。右侧输出应用部分，有月度报告、会议转录、阅读笔记转大纲、发布输出等，分别对应4、5、6、7步骤。该图与上下文紧密相关，直观呈现了Obsidian + AI的工作流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDhiNjgzNjczYmUyYTdkOGNjOWMyYWJmNWI0NWZhMzNfNzg3MDA2ZWZlNDkwYTE4NDI5MGQzODMwMzlhYjM5NDhfSUQ6NzY0NTcxMzI0MzMyMDQyMTYwMF8xNzgxNzcwOTc1OjE3ODE3NzQ1NzVfVjM)
+![图片展示了Obsidian + AI的8个自动化工作流，从收集到输出，让知识流动起来。左侧输入收集部分，有手机捕获、网页剪藏、日历与任务等，分别对应1、2、3步骤。中间知识中枢汇集所有内容。右侧输出应用部分，有月度报告、会议转录、阅读笔记转大纲、发布输出等，分别对应4、5、6、7步骤。该图与上下文紧密相关，直观呈现了Obsidian + AI的工作流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjRhZWRiZWJmNmQyZGI0YTFiNTdjMDM2MjQ4MGJmM2FfZGFlNzEyOTJhNWFlNzIwNjQyMDljN2Y4MzA4NjYyMTdfSUQ6NzY0NTcxMzI0MzMyMDQyMTYwMF8xNzgyMDk5MTUyOjE3ODIxMDI3NTJfVjM)
 
 很多人还把 Obsidian 当笔记软件用。
 
@@ -28,7 +28,7 @@
 
 不用打开电脑，不用打开 App，碎片时间随手就能往系统里喂信息。
 
-![图片展示了WorkBuddy的宣传页面。上方有“加入WorkBuddy，合伙养虾计划，一起赚虾币”的标语，下方文字介绍WorkBuddy是AI原生的桌面智能体工作台，可在手机主流IM下指令，AI自动干活交付，免部署安装即用，预集成模型一站搞定，兼容龙虾Skills，高安全，腾讯网关护航。页面中部有“下载WorkBuddy”和“Claw快捷接入指南”按钮，右下角有一个红色卡通虾形象。该图片与上下文介绍的WorkBuddy功能相呼应，直观呈现其特点。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjFjOGJjYzA4NWQxNmIxNjA2NTQ5ZDY0YTk1ZjdjMzlfNTk4NGYzMmE5NjQzOTUyOGNiNGNhNTRkYWEwM2MzZGNfSUQ6NzY0NTcxMzI1NTg1OTY1Mzg0NV8xNzgxNzcwOTc1OjE3ODE3NzQ1NzVfVjM)
+![图片展示了WorkBuddy的宣传页面。上方有“加入WorkBuddy，合伙养虾计划，一起赚虾币”的标语，下方文字介绍WorkBuddy是AI原生的桌面智能体工作台，可在手机主流IM下指令，AI自动干活交付，免部署安装即用，预集成模型一站搞定，兼容龙虾Skills，高安全，腾讯网关护航。页面中部有“下载WorkBuddy”和“Claw快捷接入指南”按钮，右下角有一个红色卡通虾形象。该图片与上下文介绍的WorkBuddy功能相呼应，直观呈现其特点。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGUyZjRmM2ZhZDQ2ZjgyYTU4YTY4ODdlYzVhMTZhNTVfYjNjZjM5MWMyMWVjN2E5YTUzMDZjMDFiZWI4NzYzY2FfSUQ6NzY0NTcxMzI1NTg1OTY1Mzg0NV8xNzgyMDk5MTUyOjE3ODIxMDI3NTJfVjM)
 
 ## 2\\. 网上看到的东西，自动剪藏 + AI 总结
 
@@ -38,7 +38,7 @@ Obsidian 官方出了 Web Clipper 浏览器插件，看到有用的网页直接�
 
 信息的收集和处理状态一目了然。不会再出现"收藏了一堆但从来不看"的情况。
 
-![图片展示了Obsidian Web Clipper扩展程序的界面。左侧是程序介绍，强调“只需点击一下，即可保存任何内容”，并有“Add to Chrome”按钮。右侧是功能示例，显示“Highlight the important bits”（突出重要部分），并有“Save”按钮。该图片与上下文紧密相关，上下文提到“网上看到的东西，自动剪藏+AI总结”，此图直观呈现了Obsidian Web Clipper这一功能，即通过点击保存网页内容，方便用户将网上信息自动剪藏至Obsidian中。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjA4M2VkNTlkODQyYzk2Y2I3OTVhN2VjN2NkN2ZhYWJfYmQ4NzRjNzBhMjU3NjhmOTUxNjY3YjI1NDQ5NmUzZGVfSUQ6NzY0NTcxMzI3MjM0MjI4NTUxM18xNzgxNzcwOTc1OjE3ODE3NzQ1NzVfVjM)
+![图片展示了Obsidian Web Clipper扩展程序的界面。左侧是程序介绍，强调“只需点击一下，即可保存任何内容”，并有“Add to Chrome”按钮。右侧是功能示例，显示“Highlight the important bits”（突出重要部分），并有“Save”按钮。该图片与上下文紧密相关，上下文提到“网上看到的东西，自动剪藏+AI总结”，此图直观呈现了Obsidian Web Clipper这一功能，即通过点击保存网页内容，方便用户将网上信息自动剪藏至Obsidian中。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjE0MmFhMWEwMGVmMjJkZWQ1N2E3OTI0Y2YzM2FmZTdfMWYzN2VkMmQzYWFhZmJmNDBhYjgyNDFjNmEwNWZhNjRfSUQ6NzY0NTcxMzI3MjM0MjI4NTUxM18xNzgyMDk5MTUyOjE3ODIxMDI3NTJfVjM)
 
 ## 每日汇聚：打开日记，当天的一切都在
 
@@ -68,7 +68,7 @@ AI 每天自动抓取日历中的日程、提醒事项里的待办，写入当�
 
 以后要查某次会议聊了什么、谁负责什么，直接搜就行。
 
-![图片展示的是GitHub平台上的一个项目页面。页面上方显示项目名称“whisper”及“Public”标识，右上角有“Watch”“Fork”“Star”等操作按钮。页面中部列出多个文件和文件夹，如“data”“notebooks”“whisper”等，部分文件有更新时间标注。右侧有“About”板块，介绍项目为通过大规模弱监督实现语音识别，列出项目属性、许可证、活动状态等信息。底部有“Releases”“Contributors”“Languages”等板块，显示了项目版本、贡献者及使用语言等数据。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjUyYmMyYmIwNDZhN2E1YmNlZWE5ZWU2NmM5ZGMwNmFfMDBjNTQ4MzU4YzAzOWI4YzlhNDRjMDNiMTgxZWIzMzhfSUQ6NzY0NTcxMzI4Nzk2NjkxOTg4N18xNzgxNzcwOTc1OjE3ODE3NzQ1NzVfVjM)
+![图片展示的是GitHub平台上的一个项目页面。页面上方显示项目名称“whisper”及“Public”标识，右上角有“Watch”“Fork”“Star”等操作按钮。页面中部列出多个文件和文件夹，如“data”“notebooks”“whisper”等，部分文件有更新时间标注。右侧有“About”板块，介绍项目为通过大规模弱监督实现语音识别，列出项目属性、许可证、活动状态等信息。底部有“Releases”“Contributors”“Languages”等板块，显示了项目版本、贡献者及使用语言等数据。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODAzOWRhNWEyOWVhOGVmMTM1NzUzMGVmZWZiZDBhNjRfMjQ3M2Y4MWVhYWNkMTU3ODIxZDNjZWJjY2QyYzZiY2VfSUQ6NzY0NTcxMzI4Nzk2NjkxOTg4N18xNzgyMDk5MTUyOjE3ODIxMDI3NTJfVjM)
 
 ## 6\\. 读书笔记变成内容大纲
 
@@ -78,7 +78,7 @@ AI 每天自动抓取日历中的日程、提醒事项里的待办，写入当�
 
 从"微信读书划线"到"拿到一份可用的大纲"，中间的整理工作几乎被跳过了。
 
-![图片展示了Obsidian微信读书插件Weread的相关信息。作者为hank_zhao，版本为1.3.0，GitHub仓库地址为https://github.com/zhaohongxuan/obsidian-weread-plugin。该插件可同步微信读书中书籍元信息、高亮标注、划线感想、书评等信息，转换为Markdown格式存入Obsidian文件夹，支持微信扫码登录，校验Cookie有效期自动刷新等。图片与上下文紧密相关，是对上文介绍的“看完一本书，直接让AI读取同步过来的读书笔记，按模板结构生成一份内容草稿，存回Obsidian”功能的补充说明。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWI2NGFmMzg1N2I1MjFjYjkxMjQyMzE0YjZjZDNmYThfZDg1NGE0NTFkNzg3MmM3OTUwZDQwMmNmYjQ2NWRkMjFfSUQ6NzY0NTcxMzMwMzM1MzM2MzY3MV8xNzgxNzcwOTc1OjE3ODE3NzQ1NzVfVjM)
+![图片展示了Obsidian微信读书插件Weread的相关信息。作者为hank_zhao，版本为1.3.0，GitHub仓库地址为https://github.com/zhaohongxuan/obsidian-weread-plugin。该插件可同步微信读书中书籍元信息、高亮标注、划线感想、书评等信息，转换为Markdown格式存入Obsidian文件夹，支持微信扫码登录，校验Cookie有效期自动刷新等。图片与上下文紧密相关，是对上文介绍的“看完一本书，直接让AI读取同步过来的读书笔记，按模板结构生成一份内容草稿，存回Obsidian”功能的补充说明。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzU2Y2ExZTYyY2ExZmMyNjc4MjAyZjcxZmNkY2I1OTJfZGRiMjhkMGI5ZmMyOGU2NDg3ZWI1NDIxMjkwZWMyN2VfSUQ6NzY0NTcxMzMwMzM1MzM2MzY3MV8xNzgyMDk5MTUyOjE3ODIxMDI3NTJfVjM)
 
 ## 笔记库维护：系统越用越干净
 

@@ -66,7 +66,7 @@ openclaw onboard
 
 这时候屏幕上会跳出几个选项，主要是让你绑定大模型的API Key（推荐 Claude Pro 或 GPT，如果想省钱可以用 起因的第三方聚合服务）。**注意：新手在配置系统权限时，最好还是先选择“沙盒模式（Sandbox）”**，别一上来就给最高权限，以防它把你的系统文件给误删了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGY2ZTZkMTcxOWNiZWVjZmZhNTI0ZGRmYWJmODY2YTRfY2UyMjUxZDEzYjg1NGE3MmZiNzZmZjI5MWI1MjJhNWZfSUQ6NzY0ODI3MjE5NjA5OTQxMTE4Nl8xNzgxNzcwOTI2OjE3ODE3NzQ1MjZfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDU4ZTIxMWVmOTc2NjUyNzhiOGE5YTlmZmQwOTNlYjBfYjRiMzIyMDdhNGE3NTFjZTJmNGQ0ZTUxOWJjY2NmM2JfSUQ6NzY0ODI3MjE5NjA5OTQxMTE4Nl8xNzgyMDk5MDk3OjE3ODIxMDI2OTdfVjM)
 
 ### 3. 对接上聊天软件
 
@@ -81,7 +81,7 @@ openclaw config set channels.telegram.enabled true
 
 现在，打开TG，对它说一句：“你好”如果它秒回你，恭喜，你的私人助理正式上线。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWVjMjdkYjgxY2I4MjVkN2MxZGE0OTkzNzg5OGVlM2RfMzEyZThlOTU2NmE5NjdjMjkwNzNhZGRjYzhiOGEwNmFfSUQ6NzY0ODI3MjIyNTc4Njk1NzAwNV8xNzgxNzcwOTI2OjE3ODE3NzQ1MjZfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjdmMmMzMTUxOWY2NjdmNjE3YjFhMjgzNTBhYTBhMmZfOTM2OTc3ZWJhZDk2YjQwZmEwMjAzZmRlNjA5MjFkNzFfSUQ6NzY0ODI3MjIyNTc4Njk1NzAwNV8xNzgyMDk5MDk3OjE3ODIxMDI2OTdfVjM)
 
 ---
 
@@ -105,7 +105,7 @@ openclaw skills install @openclaw/tavily-search
 
 > 在页面菜单上，也可以使用一些OpenClaw内置的Skills，但是一般都和Mac 深度绑定，如果你的不是Mac电脑可能就没那么多玩法，这也就是上面最近Mac Mini卖的那么火的一个原因。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWYxZGYzMWY2YzNlOWRlNGZmNDNkMGQ1Mjk4ZDY0ZDdfMjkwNmU5MTU4NjdlYmEwOGU1ZDNiMDQyNjIxZDI2N2VfSUQ6NzY0ODI3MjI2MDY5MTkzODQ4OV8xNzgxNzcwOTI2OjE3ODE3NzQ1MjZfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjRiNTliNzhkNzM4NDM3NjMyMjdiMDI1MzIxZjM0NjlfYTE3N2IzNDA2NDRjZDQ5YzM4ZWRlYjRmMDdlMTE0NWVfSUQ6NzY0ODI3MjI2MDY5MTkzODQ4OV8xNzgyMDk5MDk3OjE3ODIxMDI2OTdfVjM)
 
 ### 2. 打通谷歌全家桶（生产力暴增）
 

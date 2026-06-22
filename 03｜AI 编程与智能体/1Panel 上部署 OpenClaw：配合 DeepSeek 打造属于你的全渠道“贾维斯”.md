@@ -4,7 +4,7 @@
 
 正是openclaw的爆火，我们既然已经安装了1Panel 面板搭好了，如果不跑点好玩的容器岂不是浪费？今天我就带大家玩个大的——**在自己的 VPS 上部署一个私人 AI 助理：OpenClaw。**
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2I2ZGQ1YjMyNjYyMGI4ZjcwNDNkNmRmYzc2ZTM4NDJfM2RmZDM1MWM3M2ViOTEyNGRhYjQxNGU4MjVkZmY2M2VfSUQ6NzY0ODI3MjI5NjI1OTczNDcyNF8xNzgxNzcwOTI3OjE3ODE3NzQ1MjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yzc1MjMyYjYyNjliZjNmY2YxNDEwMTgyNmM5MDQ0NGVfMDQ2YzJkNjJmM2Q0ZTZkM2E2MDExYWQwMzIyZWE3YjNfSUQ6NzY0ODI3MjI5NjI1OTczNDcyNF8xNzgyMDk5MDk4OjE3ODIxMDI2OThfVjM)
 
 ## 什么是 OpenClaw？
 
@@ -34,7 +34,7 @@
 3. 在搜索框输入 `OpenClaw`。
 4. 点击 **“安装”**。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjIxMGEzY2MzNGJmNTYzZjczZjUwZWM4MzE4ODEyMWJfOTU5YWVmMjQxMmIyMTcyZjhiNzFkYTBiNzljMDg3NmVfSUQ6NzY0ODI3MjMyOTY4ODIyMjkyN18xNzgxNzcwOTI3OjE3ODE3NzQ1MjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGIzMjViNWMzMTgyOTEwMDgxZDQ5MDZlY2YzZmY5MjVfZmQyODE2MzdiZjk5OWVlM2FmZTY0Y2FmMDE1MDYyZDBfSUQ6NzY0ODI3MjMyOTY4ODIyMjkyN18xNzgyMDk5MDk4OjE3ODIxMDI2OThfVjM)
 
 ## 第二步：配置参数
 
@@ -45,20 +45,20 @@
 - **端口**：保持默认（WebUI 18789），除非你的端口被占用了。
 - **模型提供商**：下拉选择 **DeepSeek**（模型供应商很多选择自己喜欢的就好）。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWMyODYzZmI0ZDc1ZGFkN2MzZjk3NzljYjU3OTlhNjNfYWRmM2RlOWQ2ZjRiMmQ0ZGM4ODA4YTVkMDUyNWUwNDRfSUQ6NzY0ODI3MjM2MDg3MjkyMjMxMF8xNzgxNzcwOTI3OjE3ODE3NzQ1MjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzNlNDNmZjAzYmI2YjVlOTVhYTEyZGJlNzU4YjdlMjVfOGYzNWEyMDY0NjdhZWU3OWYxMTgxN2MwMzFjMmEzMGZfSUQ6NzY0ODI3MjM2MDg3MjkyMjMxMF8xNzgyMDk5MDk4OjE3ODIxMDI2OThfVjM)
 
 - **模型**：填入 `DeepSeek Chat`。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjRmOGM1NTRmZjFlZWNmMjM0NjUzMzllMTE4MDg3ODlfNjQ2OWVlMjRkMWVkYmFjZmE1ZTJhZDgyMDBiYzkyMWVfSUQ6NzY0ODI3MjM5MDMyOTQyMTA0MV8xNzgxNzcwOTI3OjE3ODE3NzQ1MjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTUzMTQzNDFjMGJiNjBmZWE1YzBmNGQ0MjE3NmM3ZWNfZjQ4YjI3YzI5ZjFmZjdmMWQ4NTBhZTc0NDFiYzA1NjFfSUQ6NzY0ODI3MjM5MDMyOTQyMTA0MV8xNzgyMDk5MDk4OjE3ODIxMDI2OThfVjM)
 
 - **设置模型账户**：点击`创建模型账号`
 - **API Key**：把你从 DeepSeek 后台申请的 `sk-xxxx` 开头的密钥填进去，名称随意填写你能记住的就可以，添加好后选择你的账户。
 - [DeepSeek API申请地址](https://platform.deepseek.com/)
 - **Token / 令牌**：这里会自动生成，自己保管好，登入的时候需要使用。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTRlODA1NTg2ZDhkM2NjMGI1MTI0ZDRhOWExMTcxMjdfM2M2NmJiNmYyODI3NDAyNmNkMjNjZDZjN2Y1NmY4MDBfSUQ6NzY0ODI3MjQyNDAzOTA1ODYzOV8xNzgxNzcwOTI3OjE3ODE3NzQ1MjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDM4YjUyNGQzODc4ZmRhMjhkNmNkMzk5NWVlYWFhNWRfOWMxYTViZGQyNDFmYzcwNzZkYzQwNjZjMjBlYTYxMmNfSUQ6NzY0ODI3MjQyNDAzOTA1ODYzOV8xNzgyMDk5MDk4OjE3ODIxMDI2OThfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDg0ZDY1YmZkZTUwMzFkYTQ1N2YxYzQ2Y2FjZDNmNGRfYWZjMDA4YjQ3NDRmY2E2YjhiYTY2ZmM1OGQwNGI5NmFfSUQ6NzY0ODI3MjQ1ODQ2MTYxMzI3N18xNzgxNzcwOTI3OjE3ODE3NzQ1MjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yjk0YmE1N2Y3ZjU3NzkyZWY3ZjUzMjQ4NGVkMjUwODVfY2U4YTEyMDE3ODM3NWY4MzNkNWNkZDNmNDViYTJlMzdfSUQ6NzY0ODI3MjQ1ODQ2MTYxMzI3N18xNzgyMDk5MDk4OjE3ODIxMDI2OThfVjM)
 
 - **端口外部访问**：**一定要勾选**，否则你进不去后台。
 
@@ -72,7 +72,7 @@ OpenClaw 为了安全，不允许直接访问 IP:端口，必须带上 Token。 
 
 你如果怕忘记可以把这串地址保存到你浏览器的书签里面去，下次就可以直接打开了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWI4ZTEwYzE1ZGM0M2M5MWFlNDhiZmNiZDBlMjMzNDhfZjA2MjE4NmQzZmI5Y2U4OGRmNTk1YzE0MDVjNGQ3ZjhfSUQ6NzY0ODI3MjQ4ODk0NTg5NjY4OF8xNzgxNzcwOTI3OjE3ODE3NzQ1MjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWYzMjBhMGQ2NzEyYjRmMGExM2I5ODIyZjRiOTYyNzdfZGZjNWQ3NWNmZDZlNjJiNTEwYzk5NjMxNjIyNjU3ODJfSUQ6NzY0ODI3MjQ4ODk0NTg5NjY4OF8xNzgyMDk5MDk4OjE3ODIxMDI2OThfVjM)
 
 ## 第四步：链接聊天软件（可选操作）
 
@@ -84,7 +84,7 @@ OpenClaw 为了安全，不允许直接访问 IP:端口，必须带上 Token。 
 2. 点击顶部的 **“进入安装目录”**。
 3. 看到文件列表顶部那个 **“终端”** 按钮
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWU3YjM1OWRhZmZjYmZkZDk5ODVjZDgxNGU0NTdmMzZfYWVkZDk2NThiMDUzZDI5ZDk4N2FlNjkwMzZhNTE0NmFfSUQ6NzY0ODI3MjUyNjEyNDA1OTg4OF8xNzgxNzcwOTI3OjE3ODE3NzQ1MjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTY2OWU5OTE5ZTcwMzUxN2Y5YWRhZmZjNTg4OTNiNDdfNWJmMjZmOTViNThhNjhmMTE2ZTk5ZjA2N2ZkYjk1MGNfSUQ6NzY0ODI3MjUyNjEyNDA1OTg4OF8xNzgyMDk5MDk4OjE3ODIxMDI2OThfVjM)
 
 1. 在弹出的黑色框框里，输入下面这行命令（以连接 Telegram 为例）：
 2. docker compose -f docker-compose-cli.yml run --rm openclaw-cli channels add
@@ -93,7 +93,7 @@ OpenClaw 为了安全，不允许直接访问 IP:端口，必须带上 Token。 
 
 1. 系统会问你选择哪个 Channel？用键盘上下键选择 `Telegram`。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGNlMTM5YzMwMzMyYzJiMzhiYmU4NmIxMTY4Mjg0MzNfNmIwYmY2ZGIyYzhmMTc3Yjk2NjRlYjZlNWVlNDhhODBfSUQ6NzY0ODI3MjU1ODAzODY5OTIwNl8xNzgxNzcwOTI3OjE3ODE3NzQ1MjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjA1ZjgzZTEwZTMyYTU2YmI5YTc0NzQwOTIxODdjM2NfNTdjNTRiYmMxNmM1ZDUxNjBiMmFiODdlOGZiNTBmY2VfSUQ6NzY0ODI3MjU1ODAzODY5OTIwNl8xNzgyMDk5MDk4OjE3ODIxMDI2OThfVjM)
 
 1. 它会问你要 `Bot Token`。
 
@@ -104,7 +104,7 @@ OpenClaw 为了安全，不允许直接访问 IP:端口，必须带上 Token。 
 
 现在，打开你的 Telegram，找到你的机器人，给它发一句“你好”，看看是不是 DeepSeek 在回复你？
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODFlMjViMTE0NTE2Y2NhZGFjYjVhYTVlMTdmMjFhOTdfMTBjYzRkMWI0NjlmNjJhMjQ3Yzg3Nzk1NTU4ZmZlN2VfSUQ6NzY0ODI3MjU5MTIzMjI3MzY0MF8xNzgxNzcwOTI3OjE3ODE3NzQ1MjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTg2M2U3Mjg2NGE1YzhiYWE3MmQyZWJkMmRkMzAxZThfYTc4ODY4MmJkNTQ0MmUwNTEwNjYwOWNkNThiYmZlOWZfSUQ6NzY0ODI3MjU5MTIzMjI3MzY0MF8xNzgyMDk5MDk4OjE3ODIxMDI2OThfVjM)
 
 ---
 

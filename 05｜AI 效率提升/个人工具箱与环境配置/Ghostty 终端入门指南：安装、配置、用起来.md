@@ -1,6 +1,6 @@
 # Ghostty 终端入门指南：安装、配置、用起来
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjFmNmNhYTAwNGQwNTdjNmRiZTg3YjM2YjBlZDZmMmJfNzIxZWYzZjM0YzQ0YmI4NDRlODAyNGNjZmY5YTc5ODlfSUQ6NzY0NTI2NTQ4NDYzNTcwNDUwMF8xNzgxNzcwOTgzOjE3ODE3NzQ1ODNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGE1NGE2NGJhMjllZmRkNDFiM2RmMjI5ZWUyMWQ2MTJfYjFjNmM2OTRjMzA5N2ZkNzQ4NWY5NTk4NDFiZWU5MWRfSUQ6NzY0NTI2NTQ4NDYzNTcwNDUwMF8xNzgyMDk5MTYwOjE3ODIxMDI3NjBfVjM)
 
 ## Ghostty 是什么
 

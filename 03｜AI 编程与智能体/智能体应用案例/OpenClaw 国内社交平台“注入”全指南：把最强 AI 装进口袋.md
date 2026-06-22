@@ -4,7 +4,7 @@
 
 
 
-![图片是OpenClaw国内社交平台“注入”全指南的宣传图。画面左侧是一台被链条锁住的电脑，象征着旧的黑乎乎终端窗口。右侧是“OpenClaw社交平台‘注入’全指南”标题，下方有“告别命令行，微信、飞书、钉钉、QQ随时随地用 | 把最强AI装进口袋”等宣传语。画面中还展示了OpenClaw最强AI大脑，以及其在微信、飞书、QQ、钉钉、企业微信等平台的应用场景，强调其可随时随地使用。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTI0YTY0ZTAxOTk1MzFiMDUwMWQ1Y2ZjZWEwN2U0OTJfZGE2NGExZjRiMzczNjFiZTY0ZTQwMjc1MGQxNTczMzFfSUQ6NzY0NTcxMzQ0OTk3MjAyNjU1NF8xNzgxNzcwOTEzOjE3ODE3NzQ1MTNfVjM)
+![图片是OpenClaw国内社交平台“注入”全指南的宣传图。画面左侧是一台被链条锁住的电脑，象征着旧的黑乎乎终端窗口。右侧是“OpenClaw社交平台‘注入’全指南”标题，下方有“告别命令行，微信、飞书、钉钉、QQ随时随地用 | 把最强AI装进口袋”等宣传语。画面中还展示了OpenClaw最强AI大脑，以及其在微信、飞书、QQ、钉钉、企业微信等平台的应用场景，强调其可随时随地使用。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjlmYjY0NTRhYjE4N2JiYTQ0MDU0OGQwY2ZlNTNkNjhfOGY0MTVlZDM0M2JkNGY0NjhlN2M5MGVjZTZjYTdkYjdfSUQ6NzY0NTcxMzQ0OTk3MjAyNjU1NF8xNzgyMDk5MDg1OjE3ODIxMDI2ODVfVjM)
 
 **导读**
 
@@ -16,9 +16,9 @@
 
 我们完全站在普通人的视角，抛开枯燥的技术名词，按「**合规不封号 > 闭眼能接上 > 稳定不断联 > 手机操作爽度**」这四大硬核标准，帮你排好了各个平台的推荐指数。 强烈建议只选「一次搞定、长期能用、绝不踩坑」的平台，拒绝花里胡哨的高风险作死操作。
 
-![图片是一张表格，对比推荐指数为1 - 4的四个平台，分别是飞书、手机QQ、钉钉、企业微信。表格列出了平台选择、平台人设与核心点评、最适合谁、折损指数、手机操作度等内容。飞书以六边形全学能等为特点，最适合新手小白等；手机QQ以一分钟闪电会话等为特点，最适合怕封号的个人玩家等；钉钉以稳如泰山的千手部等为特点，最适合钉钉的上班族等；企业微信以微信生态的破壁人等为特点，最适合在微信里显摆、有客户接待需求的业务。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDRhOGQxZDFhZmQ0ZWU5MmRmZDUyNjA5OWIxZWUxYWFfMWRhNmUzODFjNWU4ZjMzNjMyYzEwZTYzYTBiY2JlOTZfSUQ6NzY0NTcxMzQ2MjY3Njc2OTk5M18xNzgxNzcwOTEzOjE3ODE3NzQ1MTNfVjM)
+![图片是一张表格，对比推荐指数为1 - 4的四个平台，分别是飞书、手机QQ、钉钉、企业微信。表格列出了平台选择、平台人设与核心点评、最适合谁、折损指数、手机操作度等内容。飞书以六边形全学能等为特点，最适合新手小白等；手机QQ以一分钟闪电会话等为特点，最适合怕封号的个人玩家等；钉钉以稳如泰山的千手部等为特点，最适合钉钉的上班族等；企业微信以微信生态的破壁人等为特点，最适合在微信里显摆、有客户接待需求的业务。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjA0YjYxMDk2NjFlMWY4NDJmODQ2YTk0YWQ1YzY4ZjdfOTdlMzIzOGU5NjliMTM1MDlkMTM2YjlkMmMwYTNmYWFfSUQ6NzY0NTcxMzQ2MjY3Njc2OTk5M18xNzgyMDk5MDg1OjE3ODIxMDI2ODVfVjM)
 
-![图片左侧是一位坐在电脑前，双手抓头、表情痛苦的男性，电脑屏幕上显示着代码。右侧是一位坐在阳台上的女性，手持咖啡，手机屏幕上显示着聊天界面。这张图片与文档中“哪个平台最适合你？懒人接入爽度大揭秘”部分内容相关，通过对比电脑编程与手机聊天的场景，形象地展示了不同平台使用体验的差异，强调了选择适合自己的平台，能带来更愉悦的使用感受。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGU1MmFiOTg1NGJhM2NiM2ZhZTI3NTMzOTI4YjAzYjFfZGQ2ODUwNTlhNDkxNWIwN2RlOTA1ZGRlODdmZWU5NWJfSUQ6NzY0NTcxMzQ3NjI4Njk5MTU3MF8xNzgxNzcwOTEzOjE3ODE3NzQ1MTNfVjM)
+![图片左侧是一位坐在电脑前，双手抓头、表情痛苦的男性，电脑屏幕上显示着代码。右侧是一位坐在阳台上的女性，手持咖啡，手机屏幕上显示着聊天界面。这张图片与文档中“哪个平台最适合你？懒人接入爽度大揭秘”部分内容相关，通过对比电脑编程与手机聊天的场景，形象地展示了不同平台使用体验的差异，强调了选择适合自己的平台，能带来更愉悦的使用感受。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDEzMWQ2YTM2MDM2OTA5OThkYzU1ZDMyN2FiMTQ3NjhfZDY0MzhhODM5ZDhmMzVmYjljMTFhZmNmYjgwNjk0NGVfSUQ6NzY0NTcxMzQ3NjI4Njk5MTU3MF8xNzgyMDk5MDg1OjE3ODIxMDI2ODVfVjM)
 
 ## 📖 四大平台全盘点：闭眼选指南
 
@@ -70,7 +70,7 @@ openclaw gateway restart
 
 打开飞书APP，在联系人里找到你创建的机器人，单聊发送「你好」，或者拉到群里@机器人发送消息，收到自动回复即为接入成功。
 
-![图片展示了一位身着西装的机器人形象，左手持一块透明显示屏，显示屏上显示“今日日程（Today's Schedule）”等内容。机器人背景为现代化的办公环境，周围有多个显示屏，显示着各类数据图表。该图片位于文档中“成功验证”步骤之后，起到视觉引导作用，与上文提到的在飞书APP联系人里找到机器人、单聊发送“你好”或拉群@机器人发送消息以验证接入成功的内容相呼应，增强了文档的趣味性和引导性。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDA4NWYxNGM4MGI0NDQxZDUyNzk2ZDkyMGIxYWI3NzRfN2RmYjlhMzA2MWZjOGIxZDFmZTkyMGYwNDI1NDI4MzBfSUQ6NzY0NTcxMzQ4OTQ0ODgzMjIwM18xNzgxNzcwOTEzOjE3ODE3NzQ1MTNfVjM)
+![图片展示了一位身着西装的机器人形象，左手持一块透明显示屏，显示屏上显示“今日日程（Today's Schedule）”等内容。机器人背景为现代化的办公环境，周围有多个显示屏，显示着各类数据图表。该图片位于文档中“成功验证”步骤之后，起到视觉引导作用，与上文提到的在飞书APP联系人里找到机器人、单聊发送“你好”或拉群@机器人发送消息以验证接入成功的内容相呼应，增强了文档的趣味性和引导性。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2I0MGUyMDc0ZjE3MmU0ZTRmZTkzNTY5YWIzMGNiMTdfYTczODc2MWY0YTg2ZTNlYjE3ODFmMzM3Zjg1MWZkODVfSUQ6NzY0NTcxMzQ4OTQ0ODgzMjIwM18xNzgyMDk5MDg1OjE3ODIxMDI2ODVfVjM)
 
 **必看避坑提示**
 
@@ -118,7 +118,7 @@ openclaw gateway restart
 
 打开手机QQ，机器人会自动出现在你的联系人列表里，直接私聊发送消息，或者拉到群里@机器人发送消息，收到自动回复即为接入成功。
 
-![图片展示了一个以科技感为主的场景，背景为深色的电子屏幕和电路板，画面中央是一个带有“QQ”标识的对话气泡，气泡被一道蓝色闪电劈开，周围有火花飞溅。这与文档中介绍的国内社交平台“注入”全指南上下文相关，可能象征着QQ机器人在AI技术驱动下，具有强大的功能和活力，契合其作为国内企业办公覆盖率最高、稳定合规的平台定位。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGIyY2I2MTRmNjAwYjZmMWNlNTQ0YzhjY2Q0MDk3MGFfMTY1YzBiMTVlOWQwOTdiNWYxZDdiMWFiYzFjYTVmYThfSUQ6NzY0NTcxMzUwNjU0NDY4NDIzNl8xNzgxNzcwOTEzOjE3ODE3NzQ1MTNfVjM)
+![图片展示了一个以科技感为主的场景，背景为深色的电子屏幕和电路板，画面中央是一个带有“QQ”标识的对话气泡，气泡被一道蓝色闪电劈开，周围有火花飞溅。这与文档中介绍的国内社交平台“注入”全指南上下文相关，可能象征着QQ机器人在AI技术驱动下，具有强大的功能和活力，契合其作为国内企业办公覆盖率最高、稳定合规的平台定位。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWZiZDlkYTA3NDY2NTNlOTliMzliNTIxMTc2MzI4ZmVfNDk1NjhiZTM0Nzg1NGZlNDg1ZDMxYjdiYWY5YjUzYTVfSUQ6NzY0NTcxMzUwNjU0NDY4NDIzNl8xNzgyMDk5MDg1OjE3ODIxMDI2ODVfVjM)
 
 **必看避坑提示**
 
@@ -241,7 +241,7 @@ openclaw gateway restart
 1. 回到企业微信「API接收」页面，点击「保存」，提示保存成功即为对接完成
 2. 打开企业微信，进入应用发送消息，或在微信「企业微信插件」里找到应用，发送消息，收到自动回复即为接入成功。
 
-![图片展示了一个未来科技感场景，画面中有“防火墙”“安全边界”“内网”等标识的石柱，石柱间有蓝色、紫色光线穿行。画面右侧是一台手机，屏幕上显示“企业微信”界面，有聊天列表、消息等信息。画面背景为城市夜景，有高楼大厦和电子屏幕。该图片与文档中“企业微信管理后台配置”部分上下文相关，可能意在形象地传达企业微信在企业内部网络中的安全边界和信息传输场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWZlMTA4NDM0NDljYWE3NGQxZjRkN2M0NTVkZjM3M2NfZWRkYzQxZDI0NzkzMmUyMDY0ZDExMzgzZThhNTI4NzNfSUQ6NzY0NTcxMzUyMDY5NjM0NzgzNF8xNzgxNzcwOTEzOjE3ODE3NzQ1MTNfVjM)
+![图片展示了一个未来科技感场景，画面中有“防火墙”“安全边界”“内网”等标识的石柱，石柱间有蓝色、紫色光线穿行。画面右侧是一台手机，屏幕上显示“企业微信”界面，有聊天列表、消息等信息。画面背景为城市夜景，有高楼大厦和电子屏幕。该图片与文档中“企业微信管理后台配置”部分上下文相关，可能意在形象地传达企业微信在企业内部网络中的安全边界和信息传输场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTAzYWFlOGFlMzFkMjQwNjJlNDEyMzQ3ZTU0YTI4YmVfODRlZDUxNDZiYmUzZTZkNTBiODBiMmFlMTUwNzhkMDZfSUQ6NzY0NTcxMzUyMDY5NjM0NzgzNF8xNzgyMDk5MDg1OjE3ODIxMDI2ODVfVjM)
 
 **必看避坑提示**
 

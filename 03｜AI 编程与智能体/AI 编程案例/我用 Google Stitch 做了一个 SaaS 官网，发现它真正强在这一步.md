@@ -4,7 +4,7 @@
 
 
 
-![图片展示了Google Stitch的高保真原型加速器功能。画面中，一台电脑屏幕上显示“AI会议纪要：有序、智能”的界面，旁边有提示“生成会议纪要AI工具的AI SaaS落地页”。下方有设计系统、即时模型、React应用代码等板块，还展示了导出和原型路径的便捷性。背景有手机、平板等设备，以及代码、图标等元素。该图与文档中验证Google Stitch能否将产品想法更快推到前端原型这一实际任务相关，直观呈现其功能。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWQzY2M0MjFiNzExOTg4Zjc2MGQ3MmM4MmU4ZDcxZjlfYzRhY2E3NDQzOTdlNTllZjg4MWZjNzU0ZTA5ZGFkMTNfSUQ6NzY0NTcxNTE2NDkxMzg5NjY0Ml8xNzgxNzcwOTAyOjE3ODE3NzQ1MDJfVjM)
+![图片展示了Google Stitch的高保真原型加速器功能。画面中，一台电脑屏幕上显示“AI会议纪要：有序、智能”的界面，旁边有提示“生成会议纪要AI工具的AI SaaS落地页”。下方有设计系统、即时模型、React应用代码等板块，还展示了导出和原型路径的便捷性。背景有手机、平板等设备，以及代码、图标等元素。该图与文档中验证Google Stitch能否将产品想法更快推到前端原型这一实际任务相关，直观呈现其功能。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjY4MDM1ZDZkNWM1OWYzMjYyYjJiMmU2MzdkOGM3MzhfZTc4N2Q5N2NjNzA1MTdhMmEyYTcwMWIzYWFlNDVmNjlfSUQ6NzY0NTcxNTE2NDkxMzg5NjY0Ml8xNzgyMDk5MDczOjE3ODIxMDI2NzNfVjM)
 
 我拿 Google Stitch 做了一个真实的 AI SaaS 官网首页。最有意思的点在于它已经开始把“从需求到前端原型”的一段过程压缩到一起。
 
@@ -20,7 +20,7 @@
 
 ## 一、我先把需求说清楚
 
-![图片展示了Google Stitch平台的界面，左侧为项目列表，右侧是欢迎界面。右侧红框内是“帮我生成一个AI SaaS官网首页”的需求描述，包含产品介绍、核心功能、CTA区域等内容。下方有“生成”和“预览”按钮。该图片与上下文紧密相关，上下文提到作者在使用Stitch时，先将需求描述为“帮我生成一个AI SaaS官网首页”，此图直观呈现了需求输入界面及内容，为后续展示Stitch生成结果做铺垫。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzQ3MGZmNTA0MmM3OTg3MjM1YTMzMTNhMDdmMTBhYjVfODdmNjQxYjIxMDIyMmVkMDBiZDJiNWNhYjIzYmIxOTBfSUQ6NzY0NTcxNTE4MDQxMTg4MjcxNl8xNzgxNzcwOTAyOjE3ODE3NzQ1MDJfVjM)
+![图片展示了Google Stitch平台的界面，左侧为项目列表，右侧是欢迎界面。右侧红框内是“帮我生成一个AI SaaS官网首页”的需求描述，包含产品介绍、核心功能、CTA区域等内容。下方有“生成”和“预览”按钮。该图片与上下文紧密相关，上下文提到作者在使用Stitch时，先将需求描述为“帮我生成一个AI SaaS官网首页”，此图直观呈现了需求输入界面及内容，为后续展示Stitch生成结果做铺垫。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmZmNDgxMDExZGQ3OGFlNDZhZjc1YWMxNDIwNDkwNzBfOTQ5MWNhZjBiNjhlZTg0Y2FiYjg0MmUzMjE4YTI5MTRfSUQ6NzY0NTcxNTE4MDQxMTg4MjcxNl8xNzgyMDk5MDczOjE3ODIxMDI2NzNfVjM)
 
 很多人第一次用 Stitch，最容易做的一件事，就是输入一句：
 
@@ -75,7 +75,7 @@
 
 ## 二、第一版结果出来后，我最意外的是它已经像个页面了
 
-![图片展示了SyncLib官网首页。上方大标题为“Every meeting, distilled. Every action, tracked.”，并有产品介绍及“Start Free Trial”“Watch Demo”按钮。中部功能区列出实时转录、导出摘要、自动任务等特性，角色区有Master Sprint Planning、Weekly Syncs等，底部CTA为“Ready to reclaim your time?”及“Get Started for Free”按钮。该图与上下文紧密相关，直观呈现了第一版生成的SaaS官网结构，印证了文档中对首页具备明确产品页结构的描述。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTExMDFlMGQxOTNiZmRiOWI4ZGY5NzNmNDIyNWUzOWFfZTZiZWYwOGRmYmE5YWFjMmU5YjRiZDBiZjFiZTNiOTFfSUQ6NzY0NTcxNTE5NTUzMjQxNDE3M18xNzgxNzcwOTAyOjE3ODE3NzQ1MDJfVjM)
+![图片展示了SyncLib官网首页。上方大标题为“Every meeting, distilled. Every action, tracked.”，并有产品介绍及“Start Free Trial”“Watch Demo”按钮。中部功能区列出实时转录、导出摘要、自动任务等特性，角色区有Master Sprint Planning、Weekly Syncs等，底部CTA为“Ready to reclaim your time?”及“Get Started for Free”按钮。该图与上下文紧密相关，直观呈现了第一版生成的SaaS官网结构，印证了文档中对首页具备明确产品页结构的描述。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTc1NTU1ZDA3ODRlMTY2ZDZjYTViYjVhYWRhYWMxMjFfZjNlZWJlODVjMzdlNjFjYWE2ZWFhZWYwMTMxZjhhZTRfSUQ6NzY0NTcxNTE5NTUzMjQxNDE3M18xNzgyMDk5MDczOjE3ODIxMDI2NzNfVjM)
 
 实际生成出来之后，我最意外的点不在于它有多炫，而在于它已经具备了比较明确的产品页结构。
 
@@ -91,7 +91,7 @@
 
 ## 三、怎么判断这版结果值不值得继续做
 
-![图片展示了SyncAI官网页面，标题为“Every meeting, distilled. Every action, tracked.”，介绍其自动转录通话、总结关键要点并分配任务给团队的功能，可节省每周5小时工作时间。页面有“Start Free Trial”和“Watch Demo”按钮，右侧展示AI总结和行动项。底部标识“TRUSTED BY MODERN TEAMS AT VOLTA, NEBULAI, ORBIT, CORTEX, PRISM”，并强调“Focused on what matters”。该图与上下文关系为，作为判断Stitch结果值不值得继续推进的示例，用于说明信息层级是否清楚、模块完整度是否够等判断标准。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGYyOTRlMjhlMzY3NDBkNDE0YTY4NzMzODY3Mjg1MjhfYmNkN2FhNDBiMTc5YjZkMzQwYzI4NGE2NTk5MDBmYmVfSUQ6NzY0NTcxNTIxMDczMTYwNTE4Ml8xNzgxNzcwOTAyOjE3ODE3NzQ1MDJfVjM)
+![图片展示了SyncAI官网页面，标题为“Every meeting, distilled. Every action, tracked.”，介绍其自动转录通话、总结关键要点并分配任务给团队的功能，可节省每周5小时工作时间。页面有“Start Free Trial”和“Watch Demo”按钮，右侧展示AI总结和行动项。底部标识“TRUSTED BY MODERN TEAMS AT VOLTA, NEBULAI, ORBIT, CORTEX, PRISM”，并强调“Focused on what matters”。该图与上下文关系为，作为判断Stitch结果值不值得继续推进的示例，用于说明信息层级是否清楚、模块完整度是否够等判断标准。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGEyNmE3ZTQxOWJhMmEzMzE5MzVlOGM5NTI5ODBkYjhfZjI4YzU2MDUxYWRlOTEwMmEyZWQzYTlhOGVhNGMzYzBfSUQ6NzY0NTcxNTIxMDczMTYwNTE4Ml8xNzgyMDk5MDczOjE3ODIxMDI2NzNfVjM)
 
 当然，第一版生成得“像样”，不等于它已经可以直接上线。
 
@@ -109,7 +109,7 @@
 
 ## 四、第一版出来之后，我没有急着导出，而是先想清楚还差什么
 
-![图片展示的是SyncAI官网页面，上方有导航栏，中间大标题为“Every meeting, distilled. Every action, tracked.”，下方有“Start Free Trial”和“Watch Demo”按钮。页面中部有“Focused on what matters”及三个功能模块介绍。底部有“Purpose-built for your role”及“SyncAI Homepage”字样。图片下方有红色框标注的提示，内容为“请增加一块定价或套餐模块，让页面更像真实SaaS官网。”该图片与上下文关系紧密，是对作者在使用Google Stitch制作SaaS官网时，对第一版页面进行思考和优化的直观呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjhhYTgwMmQ4MTdjMjBiMjY0YjFlOTUwMGIxMTQ4ZjRfOGEwMzU4ZjliOWIyMjI3ZWYxM2ZiZDFjNWYzZTUxN2FfSUQ6NzY0NTcxNTIyNDEyNTAxNzI3N18xNzgxNzcwOTAyOjE3ODE3NzQ1MDJfVjM)
+![图片展示的是SyncAI官网页面，上方有导航栏，中间大标题为“Every meeting, distilled. Every action, tracked.”，下方有“Start Free Trial”和“Watch Demo”按钮。页面中部有“Focused on what matters”及三个功能模块介绍。底部有“Purpose-built for your role”及“SyncAI Homepage”字样。图片下方有红色框标注的提示，内容为“请增加一块定价或套餐模块，让页面更像真实SaaS官网。”该图片与上下文关系紧密，是对作者在使用Google Stitch制作SaaS官网时，对第一版页面进行思考和优化的直观呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWMwNDdmZDYzNWY4NWRjZmYwMzJiNDdkNTM0YmYwZmNfZDVmOTIxMGIwNzFiYjFjZWVmNmY3MDc3NGM2OWZmNjlfSUQ6NzY0NTcxNTIyNDEyNTAxNzI3N18xNzgyMDk5MDczOjE3ODIxMDI2NzNfVjM)
 
 我觉得这里特别像真实工作里会发生的事情。
 
@@ -134,7 +134,7 @@
 
 ## 五、页面出来之后，下一步到底怎么处理
 
-![图片展示了Google Stitch生成的SaaS官网页面及后续处理路径。左侧是生成的网页界面，有“Generate”“Modify”“Preview”“More”等选项。右侧是网页内容，强调“每次会议，精简。每次行动，追踪”。右侧还显示了“模型演示”“退出”“模型导出路径”等操作按钮，以及“AI Studio”“Figma”“Jules”“.zip”等模型导出格式选项。该图与上下文紧密相关，直观呈现了页面生成后的处理方式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjhkYjIwMjY0NzMwNDhhYTE4N2U0ZjI2MDA1NDY0OTZfMDQ0MmExMjcyZDcxNTlkMDA0YzJmZjQxYWUzMDEyNzlfSUQ6NzY0NTcxNTIzOTk2NDI2NTY1Ml8xNzgxNzcwOTAyOjE3ODE3NzQ1MDJfVjM)
+![图片展示了Google Stitch生成的SaaS官网页面及后续处理路径。左侧是生成的网页界面，有“Generate”“Modify”“Preview”“More”等选项。右侧是网页内容，强调“每次会议，精简。每次行动，追踪”。右侧还显示了“模型演示”“退出”“模型导出路径”等操作按钮，以及“AI Studio”“Figma”“Jules”“.zip”等模型导出格式选项。该图与上下文紧密相关，直观呈现了页面生成后的处理方式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGY4MmIwNWFmM2ViZDU5ZWE4ZTljYWExOWM5MzA3MmNfMGY5ZmZmZDk1NzQyNTc2MjEzMmExMmVlYmNlYzJlYjhfSUQ6NzY0NTcxNTIzOTk2NDI2NTY1Ml8xNzgyMDk5MDczOjE3ODIxMDI2NzNfVjM)
 
 这一步我也专门看了它的后续路径，结论比我预期里更清楚一些：它提供的是几条完全不同的往下走的方式。
 
@@ -150,7 +150,7 @@
 
 如果你只是想快速演示一个产品方向，那 即时原型 就已经很有意义。它更像一个帮助你展示流程、讲产品故事、做内部评审的出口。
 
-![图片展示的是SyncAI官网页面。上方有“Product”“Features”“Pricing”等导航栏，右上角有“Log In”和“Start Free Trial”按钮。中间大标题为“Every meeting, distilled. Every action, tracked.”，下方介绍SyncAI自动转录通话、总结关键要点并分配任务给团队，每周可节省5+小时。下方有“Start Free Trial”和“Watch Demo”按钮。右侧是“Sprint Planning Sync”示例，显示会议信息、AI总结和行动项等。该图与文档中介绍SyncAI官网内容相关，直观呈现其功能特点。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODdjY2Y4NmI0ZDUwMWQ1MTlhZjAyZmQ5ZDY4YzU0YTFfMzM4OWMyYzU5YjRhOTFjNmI0NTUwNTJmZWQ1YjAyYjlfSUQ6NzY0NTcxNTI1NTU2MTEyOTE0OF8xNzgxNzcwOTAyOjE3ODE3NzQ1MDJfVjM)
+![图片展示的是SyncAI官网页面。上方有“Product”“Features”“Pricing”等导航栏，右上角有“Log In”和“Start Free Trial”按钮。中间大标题为“Every meeting, distilled. Every action, tracked.”，下方介绍SyncAI自动转录通话、总结关键要点并分配任务给团队，每周可节省5+小时。下方有“Start Free Trial”和“Watch Demo”按钮。右侧是“Sprint Planning Sync”示例，显示会议信息、AI总结和行动项等。该图与文档中介绍SyncAI官网内容相关，直观呈现其功能特点。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjlhOGNiNjc1NjM3YzQ1ZGU5OGFiNzhjMzM2NzcwNWJfOWY5ZGVmMzlhNjczZTIwYWRhNmJjMjk2YjhiNmQxMThfSUQ6NzY0NTcxNTI1NTU2MTEyOTE0OF8xNzgyMDk5MDczOjE3ODIxMDI2NzNfVjM)
 
 我自己点开之后的感受是：页面可以上下滑动，按钮也有颜色和触觉反馈，但不会真的跳转。这让我更确定它的定位——即时原型更像“可演示的高保真预览”，适合评审节奏和结构，但不等于完整交互稿。
 

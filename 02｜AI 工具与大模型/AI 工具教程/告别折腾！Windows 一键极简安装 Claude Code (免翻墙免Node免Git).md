@@ -4,7 +4,7 @@
 
 
 
-![图片展示的是Windows一键安装Claude Code的宣传图。背景为蓝色，上方文字为“Windows 一键安装 Claude Code 免翻墙 / 免Node / 免Git”。画面中有一台笔记本电脑，屏幕显示代码编辑界面，左侧有“npm install”“Set-ExecutionPolicy”等图标及文字，右侧有“claude setup”“PowerShell”等图标及文字。底部有Windows图标、绿色对勾、代码符号等元素。该图与文档中介绍的Windows一键安装Claude Code免翻墙、免Node、免Git的自动化安装脚本内容相契合，直观呈现了安装过程中的关键步骤和界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTgxNzQyZWRhMjRiYmVkYzY1YmM3ZjE3NjdlZGJkZGNfNjBlMDVjMmMyZDMyMjFmNWY5NThhZDEzOTY1MTNkMGNfSUQ6NzY0NTcxNDA4NjM0MDE1MjUwNl8xNzgxNzcwNzkzOjE3ODE3NzQzOTNfVjM)
+![图片展示的是Windows一键安装Claude Code的宣传图。背景为蓝色，上方文字为“Windows 一键安装 Claude Code 免翻墙 / 免Node / 免Git”。画面中有一台笔记本电脑，屏幕显示代码编辑界面，左侧有“npm install”“Set-ExecutionPolicy”等图标及文字，右侧有“claude setup”“PowerShell”等图标及文字。底部有Windows图标、绿色对勾、代码符号等元素。该图与文档中介绍的Windows一键安装Claude Code免翻墙、免Node、免Git的自动化安装脚本内容相契合，直观呈现了安装过程中的关键步骤和界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2NlMGU1ZmU3MDViZTE0YWYyNDUyNWU3YTg5NGQ2MzlfZTk2ODc2NWRhMTZmMWQ1ZmNmOTA3MWY3MDdlZmJmMzdfSUQ6NzY0NTcxNDA4NjM0MDE1MjUwNl8xNzgyMDk4OTU5OjE3ODIxMDI1NTlfVjM)
 
 Anthropic 旗下的 **Claude Code** 被公认为目前业界最强的 AI 编程助手，很多小伙伴都想在自己的电脑上体验它的彪悍能力。
 
@@ -29,7 +29,7 @@ Anthropic 旗下的 **Claude Code** 被公认为目前业界最强的 AI 编程�
 
 第一步：从阿里百炼平台拿到并修改你的真实 API Key
 
-![图片展示的是阿里百炼平台的界面，突出显示了“Lite基础套餐”及“获取专属API Key”区域。套餐信息包括月度用量、月度消耗、剩余用量等，有效期为2024年3月22日 - 2024年4月20日。下方有“续费”按钮。关键部分是“获取专属API Key”区域，显示API Key为部分被遮挡的字符串，下方还有Base URL等信息。该图片与文档中“第一步：从阿里百炼平台拿到并修改你的真实API Key”内容相关，直观呈现了获取API Key的操作位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGNiZjE5ODhiNWFiNzViMWE5NmNkMjA5Yjc2MDhhNGNfZDQzMWUwZTNiNjZlODRmMTY3ZDNkMDYyOTQ2OGVkNmJfSUQ6NzY0NTcxNDA5ODMzMTk3ODk2OF8xNzgxNzcwNzkzOjE3ODE3NzQzOTNfVjM)
+![图片展示的是阿里百炼平台的界面，突出显示了“Lite基础套餐”及“获取专属API Key”区域。套餐信息包括月度用量、月度消耗、剩余用量等，有效期为2024年3月22日 - 2024年4月20日。下方有“续费”按钮。关键部分是“获取专属API Key”区域，显示API Key为部分被遮挡的字符串，下方还有Base URL等信息。该图片与文档中“第一步：从阿里百炼平台拿到并修改你的真实API Key”内容相关，直观呈现了获取API Key的操作位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWU3OGQ1ZWI2ZTk5OWY1ZjliYzc2YzQ0NWU1ZjY0NGRfZjhhN2MyZWUzOWEyZTMyNzY3ZDNiNDEyMTRhNzg5NWJfSUQ6NzY0NTcxNDA5ODMzMTk3ODk2OF8xNzgyMDk4OTU5OjE3ODIxMDI1NTlfVjM)
 
 将下面脚本中的 [\$API\\\_KEY](https://x.com/search?q=$API_KEY&src=cashtag_click) = "REPLACE\\\_WITH\\\_YOUR\\\_API\\\_KEY" 这行，把引号里的内容替换成你自己的真实 API Key（比如阿里云百炼的 Key）。
 
@@ -41,7 +41,7 @@ Anthropic 旗下的 **Claude Code** 被公认为目前业界最强的 AI 编程�
 
 然后，你就可以去泡杯咖啡了 ☕。看着屏幕上的进度条从 \\[0/10\\] 跑完到 \\[10/10\\]。**注意因为要安装node、node等程序，记得让安全软件放行**
 
-![图片展示的是Windows PowerShell界面，显示了安装Claude Code的脚本执行过程。界面中包含变量设置、API Key修改、判断API_KEY是否为空或为默认值、检测winget安装状态、更新winget源、更新winget、安装Node.js LTS等步骤。其中，API_KEY部分被红色框突出显示，且有文字提示“请先把API_KEY改成真实值”。该图片与文档中“如何使用”部分内容对应，直观呈现了脚本执行的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yzg1OTBlMzc4ZWRiMTdjOTE5YjNlZDYwMGRmYzY0OTNfOTU1OGQzNGZkZjNmMjE0ZDBkYzlmZmE1MWQ0OGY4NmRfSUQ6NzY0NTcxNDExNTE1OTMxMzYxMV8xNzgxNzcwNzkzOjE3ODE3NzQzOTNfVjM)
+![图片展示的是Windows PowerShell界面，显示了安装Claude Code的脚本执行过程。界面中包含变量设置、API Key修改、判断API_KEY是否为空或为默认值、检测winget安装状态、更新winget源、更新winget、安装Node.js LTS等步骤。其中，API_KEY部分被红色框突出显示，且有文字提示“请先把API_KEY改成真实值”。该图片与文档中“如何使用”部分内容对应，直观呈现了脚本执行的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjY2MTc4ODdhMzc2YmZlY2Y5NDI2NzE2YzdmMmE1NTlfNWYxMTZkODEyN2U2ZGIyYjA4ZmI4MTg2MjEyNTliNTlfSUQ6NzY0NTcxNDExNTE1OTMxMzYxMV8xNzgyMDk4OTU5OjE3ODIxMDI1NTlfVjM)
 
 当看到屏幕提示 **"完成。请关闭并重新打开 PowerShell"** 时，说明大功告成！
 
@@ -58,15 +58,15 @@ claude
 
 选择信任文件夹
 
-![图片展示的是Windows系统中PowerShell窗口界面，窗口左上角显示“claude”字样。窗口中提示“Accessing workspace”，并询问“Is this a project you created or one you trust?”，给出“1. Yes, I trust this folder”和“2. No, exit”两个选项。该图片与文档中“启动Claude Code”步骤相关，是选择信任文件夹操作的界面展示，用户需在此选择“1. Yes, I trust this folder”以继续操作。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmJlY2U3MmYyNTZkNTZiZjliZjliZGQzNmNjNTI5YmNfNzA1ZjRmOWE5MmE0Y2UyYjRjNzFjZDA0MmU3NTcwYjBfSUQ6NzY0NTcxNDEyOTExNzk5MDA4NF8xNzgxNzcwNzkzOjE3ODE3NzQzOTNfVjM)
+![图片展示的是Windows系统中PowerShell窗口界面，窗口左上角显示“claude”字样。窗口中提示“Accessing workspace”，并询问“Is this a project you created or one you trust?”，给出“1. Yes, I trust this folder”和“2. No, exit”两个选项。该图片与文档中“启动Claude Code”步骤相关，是选择信任文件夹操作的界面展示，用户需在此选择“1. Yes, I trust this folder”以继续操作。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDAzMDYzZGViNzczZTAwNDY2NGU0NGE1NGMzZTUwMzdfZjVhNzk3YjZiODlhZDIzN2QzNjc2MjMwZDk0YjQ2ZjFfSUQ6NzY0NTcxNDEyOTExNzk5MDA4NF8xNzgyMDk4OTU5OjE3ODIxMDI1NTlfVjM)
 
 选择yes
 
-![图片展示的是在Windows系统中使用Claude Code时，PowerShell窗口中出现的API密钥确认界面。界面显示“Detected a custom API key in your environment”及“ANTHROPIC_API_KEY”等内容，询问是否使用此API密钥，选项为“1. Yes”和“2. No (recommended)”。其中“1. Yes”被红色框突出显示。该图片与文档中“启动Claude Code”步骤相关，是选择是否使用已检测到的API密钥的界面示例，用户可根据实际需求选择相应选项。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGVjMmJhNTA3NWNiYjc0ZDVlYjVmYmRmNDI2YjRlYjJfYzk1Nzk3MGZkNDc1MDU3YTBmMzlhMGIxYWVkYmMxYjNfSUQ6NzY0NTcxNDE0NDU3ODA2MzU2NV8xNzgxNzcwNzkzOjE3ODE3NzQzOTNfVjM)
+![图片展示的是在Windows系统中使用Claude Code时，PowerShell窗口中出现的API密钥确认界面。界面显示“Detected a custom API key in your environment”及“ANTHROPIC_API_KEY”等内容，询问是否使用此API密钥，选项为“1. Yes”和“2. No (recommended)”。其中“1. Yes”被红色框突出显示。该图片与文档中“启动Claude Code”步骤相关，是选择是否使用已检测到的API密钥的界面示例，用户可根据实际需求选择相应选项。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YThlMTAwMDczYWY3N2QxNzQ0MDkyYjkxOTQ0MDM0YzJfOTMxZTIyZDRiNWVmYmNlYmRlNTQ2NzNkNTBmYjNjMmNfSUQ6NzY0NTcxNDE0NDU3ODA2MzU2NV8xNzgyMDk4OTU5OjE3ODIxMDI1NTlfVjM)
 
 享受你的 AI 编程之旅吧！
 
-![图片展示了Claude Code的欢迎界面。界面上方显示“Welcome back!”及欢迎卡通形象，右侧有使用提示和最近活动信息。下方突出显示“你好！”，并介绍Claude Code是Anthropic的官方CLI工具，可帮助编写、修改代码等。下方还有“? for shortcuts”提示。该图片与文档中“启动Claude Code！”部分对应，直观呈现了启动后界面情况，帮助用户了解使用状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODg4YjBlOTYyMmM4ZWM4YjE0YWYwZGVkNDlkODA2ODhfYjZlMzQ4NWZhMDI0N2JmMzZhNDU3MzcwNjQ4YWYwYjdfSUQ6NzY0NTcxNDE1NjAzMDI4Mjk2M18xNzgxNzcwNzkzOjE3ODE3NzQzOTNfVjM)
+![图片展示了Claude Code的欢迎界面。界面上方显示“Welcome back!”及欢迎卡通形象，右侧有使用提示和最近活动信息。下方突出显示“你好！”，并介绍Claude Code是Anthropic的官方CLI工具，可帮助编写、修改代码等。下方还有“? for shortcuts”提示。该图片与文档中“启动Claude Code！”部分对应，直观呈现了启动后界面情况，帮助用户了解使用状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGM0YjM5N2Q4ZTdiZDNlNDJmNzUxNWFhZWRiZTU5NDdfN2QxY2FiY2E0ZDMzZTVmZjY0ZGY5ZWZiODZlOWVjNjBfSUQ6NzY0NTcxNDE1NjAzMDI4Mjk2M18xNzgyMDk4OTU5OjE3ODIxMDI1NTlfVjM)
 
 ## 💻 完整脚本代码附上
 

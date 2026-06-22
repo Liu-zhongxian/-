@@ -4,7 +4,7 @@
 
 
 
-![图片展示了Codex直接调用Claude的双Agent工作流。左侧是Codex，作为项目经理，中间是Claude Code，其身份为工程师，右侧是CC Switch本地代理，以及Ling-2.6 - flash模型服务。箭头指示工作流程方向，底部文字说明本地部署、灵活切换、成本可视。该图与文档中介绍Claude能调用Codex，且能搭建双Agent工作流的内容相关，直观呈现了工作流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTZkYjExZDQ4MzU4ODU3MDc1Yjg5NmFkMTQyNWNhZjVfYjcwYTI3Y2Y2MjlhMjkzMDNmY2ZjMjhkYzdkM2FkZDlfSUQ6NzY0NTcxNDE4MjAwNzk2NjkxOV8xNzgxNzcwODg4OjE3ODE3NzQ0ODhfVjM)
+![图片展示了Codex直接调用Claude的双Agent工作流。左侧是Codex，作为项目经理，中间是Claude Code，其身份为工程师，右侧是CC Switch本地代理，以及Ling-2.6 - flash模型服务。箭头指示工作流程方向，底部文字说明本地部署、灵活切换、成本可视。该图与文档中介绍Claude能调用Codex，且能搭建双Agent工作流的内容相关，直观呈现了工作流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTcwYjg2ZGY0OGQyMWQzMzRhZjBhOWE2MzQ3OTNjMDVfMTdjNTExY2U2OGRhMjhjMDFhOGIyMDlkZWFiOGE5NzFfSUQ6NzY0NTcxNDE4MjAwNzk2NjkxOV8xNzgyMDk5MDU5OjE3ODIxMDI2NTlfVjM)
 
 今年 3 月，OpenAI 干了一件挺有意思的事——他们给 Claude Code 开发了一个官方的 **Codex 插件**。装上之后，Claude Code 可以直接在工作流里调用 OpenAI 的 Codex 来做代码审查、安全审计这些活。说白了，就是**让 Claude 指挥 Codex 干活**。
 
@@ -89,7 +89,7 @@ Ling-2.6-flash 是蚂蚁集团 inclusionAI 的模型，不是 Anthropic Claude�
 4. 进入 API Key 管理页面，创建一个新的 API Key
 5. 复制并保存好这个 Key，后面填到 CC Switch 里
 
-![图片展示的是Ant Ling官网API控制台页面。页面显示当前余额为0.00元，今日剩余免费额度为500千计算单元。授权管理区域有Claude的授权信息，创建时间为2024 - 06 - 27，状态为有效。页面右上角有“接口文档”“去充值”“创建令牌”等选项。该图片与文档中“Step 1：去Ant Ling官网注册并获取API Key”内容相关，直观呈现了API Key管理页面，帮助用户了解获取API Key的操作环境。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjZmNzM0YWNjZGI2ZGEwYzkxZTdlMzcxZjgyOTEzNTRfNTNmNTU1Yjg3MmIyOGI5ZjQ5YmJmNDUzNWE4M2M4ZWRfSUQ6NzY0NTcxNDE5Mjc3NDk0MTkwMV8xNzgxNzcwODg4OjE3ODE3NzQ0ODhfVjM)
+![图片展示的是Ant Ling官网API控制台页面。页面显示当前余额为0.00元，今日剩余免费额度为500千计算单元。授权管理区域有Claude的授权信息，创建时间为2024 - 06 - 27，状态为有效。页面右上角有“接口文档”“去充值”“创建令牌”等选项。该图片与文档中“Step 1：去Ant Ling官网注册并获取API Key”内容相关，直观呈现了API Key管理页面，帮助用户了解获取API Key的操作环境。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWNiZjdiODA3ZTZjYTBhZWMxYzFjNDkxNWVjNzc5NGRfY2M1ZWRiMTgzNDRmM2Q0NjZiYWM4NjQ0NjYyOGIzOWVfSUQ6NzY0NTcxNDE5Mjc3NDk0MTkwMV8xNzgyMDk5MDU5OjE3ODIxMDI2NTlfVjM)
 
 ## Step 2：安装并配置 CC Switch
 
@@ -101,17 +101,17 @@ CC Switch 是一个开源的桌面应用，专门用来管理 Claude Code 等 AI
 2. 找到最新版本，下载 **.msi** 安装包（Windows 用户）
 3. 双击安装，一路下一步
 
-![图片展示的是CC Switch v3.14.1版本在GitHub上的Assets页面。页面中列出了不同格式的CC Switch安装包，其中“CC - Switch v3.14.1 - Windows Portable.zip”和“CC - Switch v3.14.1 - Windows.msi”两个安装包被红色框突出显示。该图片与文档中“下载安装”步骤相关，对应打开github.com/farion1231/cc - switch/releases后找到最新版本下载安装包的操作，直观呈现了下载安装包的具体文件。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTY2NGYwYzkyZjVkN2E0MzJhNzY5ZjRlMzM0YTg3YjdfMDJiOTMwM2E2NDQzMjM3N2UxNjdiYTc2Y2UzNzI1NmNfSUQ6NzY0NTcxNDIxMTQzMTAwOTQ1OV8xNzgxNzcwODg4OjE3ODE3NzQ0ODhfVjM)
+![图片展示的是CC Switch v3.14.1版本在GitHub上的Assets页面。页面中列出了不同格式的CC Switch安装包，其中“CC - Switch v3.14.1 - Windows Portable.zip”和“CC - Switch v3.14.1 - Windows.msi”两个安装包被红色框突出显示。该图片与文档中“下载安装”步骤相关，对应打开github.com/farion1231/cc - switch/releases后找到最新版本下载安装包的操作，直观呈现了下载安装包的具体文件。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Mjg3MmIwYTQzZjNkY2VlZjk5ZWE2M2NiYzgwYTYxMmFfNGJiYzE1NmM5OTllNzIwZDA0MDU2NTAyZTU4ZDU0OTVfSUQ6NzY0NTcxNDIxMTQzMTAwOTQ1OV8xNzgyMDk5MDU5OjE3ODIxMDI2NTlfVjM)
 
 **配置供应商：**
 
 API 格式：Anthropic Message Base URL：[https://api.ant-ling.com/anthropic](https://api.ant-ling.com/anthropic) Model：Ling-2.6-flash Haiku/Sonnet/Opus：都填 Ling-2.6-flash 完整 URL：关闭 API Key：填百灵官网 Key
 
-![图片展示了CC Switch中编辑供应商的界面。关键信息有：供应商名称为码百灵，官网链接为https://apisample.com（可选），API Key和请求地址分别为“********”和“https://api-ant-ling.com/anthropic”，API格式为Anthropic Messages（原生），认证路径为ANTHROPIC_API_KEY，主模型和Sonnet默认模型均为Ling-2.6 -flash，Haiku默认模型为Ling -2.6 -flash，Opus默认模型为Ling -2.6 -flash。该图与上下文配置供应商步骤相关，直观呈现了配置所需填写的详细信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzEyNjQyZTcxNWQ1MzI5MzJlOTU2OWQ0MTg2OWY3YzFfMjFlM2RlODViMTUyNzYyOTExM2ZjOTEzNGUyNDU3ZGZfSUQ6NzY0NTcxNDIyNTU3MDAyNDY2MV8xNzgxNzcwODg4OjE3ODE3NzQ0ODhfVjM)
+![图片展示了CC Switch中编辑供应商的界面。关键信息有：供应商名称为码百灵，官网链接为https://apisample.com（可选），API Key和请求地址分别为“********”和“https://api-ant-ling.com/anthropic”，API格式为Anthropic Messages（原生），认证路径为ANTHROPIC_API_KEY，主模型和Sonnet默认模型均为Ling-2.6 -flash，Haiku默认模型为Ling -2.6 -flash，Opus默认模型为Ling -2.6 -flash。该图与上下文配置供应商步骤相关，直观呈现了配置所需填写的详细信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjE1YjkzN2IwNWIwOWYxZmM5NjE0ZGE1NTFhNGE0ODdfYzFjNDA0NGE0OGUzY2QxNjNjYTg1ZGI4ZWIzZmU0NGZfSUQ6NzY0NTcxNDIyNTU3MDAyNDY2MV8xNzgyMDk5MDU5OjE3ODIxMDI2NTlfVjM)
 
 回到主界面，选中刚配置好的供应商，点 **Enable**（启用）
 
-![图片展示了CC Switch的主界面。界面上方有“CC Switch”标题及多个图标。下方列出了多个供应商，如XueDingToken、Nvidia、DeepSeek、OpenRouter等，每个供应商名称后有其网址。其中“蚂蚁百灵”供应商名称后有网址“https://api.ant-ling.com/anthropic”，其右侧有一个绿色的“启用”按钮，该按钮被红色框突出显示。此图对应文档中“配置供应商”步骤里，回到主界面选中刚配置好的供应商后点“启用”的操作说明。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzJmNmJjYTExNDEwNGE0OWU5ZGNjMDkwNGIwOTFlNGZfODdiMmQ3NjBlYWEyM2FkNzIyNzFmNjM3ZWUyMjRiN2VfSUQ6NzY0NTcxNDIzOTcwOTAyMzQzNl8xNzgxNzcwODg4OjE3ODE3NzQ0ODhfVjM)
+![图片展示了CC Switch的主界面。界面上方有“CC Switch”标题及多个图标。下方列出了多个供应商，如XueDingToken、Nvidia、DeepSeek、OpenRouter等，每个供应商名称后有其网址。其中“蚂蚁百灵”供应商名称后有网址“https://api.ant-ling.com/anthropic”，其右侧有一个绿色的“启用”按钮，该按钮被红色框突出显示。此图对应文档中“配置供应商”步骤里，回到主界面选中刚配置好的供应商后点“启用”的操作说明。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzEzOTdmOGExNGJmOGFiODlmNGNlODBiOTFmNTUwMzlfMGI0ZWViMzBmOTdiZWY3NjI0NDZhOTRiZDBmNWQ4NjhfSUQ6NzY0NTcxNDIzOTcwOTAyMzQzNl8xNzgyMDk5MDU5OjE3ODIxMDI2NTlfVjM)
 
 **开启本地代理：**
 
@@ -121,7 +121,7 @@ API 格式：Anthropic Message Base URL：[https://api.ant-ling.com/anthropic](h
 2. 找到 **路由**（Routing）选项
 3. 打开 **本地路由**（Local Routing）的开关
 
-![图片展示了CC Switch的设置界面。在“路由”选项卡下，本地路由开关被红色框突出显示，处于开启状态。在“路由选择”区域，Claude开关被红色框突出显示，处于开启状态，而Codex和Gemini开关则处于关闭状态。界面底部显示了服务地址“http://127.0.0.1:15721”。该图片与文档中“开启本地代理”步骤相关，直观呈现了开启本地路由和Claude代理服务的操作结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGZiM2Q5ZDExMzdmNzZkOTNmZDk1YTlhNTU2YjY1NjlfYzE0OTVjMDFmZTI1YzAyNGU4ODNjZDNjYzQzMjA4NGRfSUQ6NzY0NTcxNDI1NDMyNjE4OTI0NF8xNzgxNzcwODg4OjE3ODE3NzQ0ODhfVjM)
+![图片展示了CC Switch的设置界面。在“路由”选项卡下，本地路由开关被红色框突出显示，处于开启状态。在“路由选择”区域，Claude开关被红色框突出显示，处于开启状态，而Codex和Gemini开关则处于关闭状态。界面底部显示了服务地址“http://127.0.0.1:15721”。该图片与文档中“开启本地代理”步骤相关，直观呈现了开启本地路由和Claude代理服务的操作结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmYyODk4ZDgyYjJkNWU2ZjRlNGNlZGRjNWU4ZTEwYTRfNTM0NzI1ZTA2OTg1ZjlkOWM5NDA0YjZmOGVmM2UyZjlfSUQ6NzY0NTcxNDI1NDMyNjE4OTI0NF8xNzgyMDk5MDU5OjE3ODIxMDI2NTlfVjM)
 
 开启后，CC Switch 会在本地启动代理服务（默认监听 127.0.0.1:15721），并**自动把 Claude Code 的请求指向这个本地代理**。你不需要手动去改 Claude Code 的 settings.json 或设环境变量——CC Switch 全部帮你处理好了。
 
@@ -133,9 +133,9 @@ API 格式：Anthropic Message Base URL：[https://api.ant-ling.com/anthropic](h
 
 再去 CC Switch 的面板看一眼，应该能看到刚才那条请求的日志——双重确认，稳了。
 
-![图片展示了Claude Code的界面，显示其版本为v2.1.119，支持AI Usage Billing。界面中输入“hi”，Claude Code回复“雨哥，您好！今天是2026年4月29日。请问有什么我可以帮您的吗？您可以告诉我需要完成的任务，我会尽力为您提供支持。”并询问“你是什么模型啊”。该图片与上文提到的验证连通性步骤相关，通过与Claude Code聊天，确认整条链路是否通畅，以确保请求从Claude Code出发，经CC Switch本地代理，转发到Ant Ling，拿到结果返回。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGIyMDEwZDA0NzVkMmUyMTg0OGIxNTAzMjdmNjQ0M2VfNzFjMjEwMTk3OGVjMDNlMzFkY2EzNzMwNmI1ZjM3NjdfSUQ6NzY0NTcxNDI2NjE2MjYyOTgyM18xNzgxNzcwODg4OjE3ODE3NzQ0ODhfVjM)
+![图片展示了Claude Code的界面，显示其版本为v2.1.119，支持AI Usage Billing。界面中输入“hi”，Claude Code回复“雨哥，您好！今天是2026年4月29日。请问有什么我可以帮您的吗？您可以告诉我需要完成的任务，我会尽力为您提供支持。”并询问“你是什么模型啊”。该图片与上文提到的验证连通性步骤相关，通过与Claude Code聊天，确认整条链路是否通畅，以确保请求从Claude Code出发，经CC Switch本地代理，转发到Ant Ling，拿到结果返回。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTFlNmI5ZGE5NjUzZDJlNDhkMDljNGY4NDJiODEzZmVfZTRkOWFkYzQ1OGExMmU1MTc3YTk2Nzk0OGExMGU1ZTlfSUQ6NzY0NTcxNDI2NjE2MjYyOTgyM18xNzgyMDk5MDU5OjE3ODIxMDI2NTlfVjM)
 
-![图片展示的是CC Switch面板的设置界面，重点突出“Claude -sonnet-4 -6 - Ling -2.8 -flash”这条请求的日志。该日志显示时间为04/29 12:42，供应商为蚂蚁百灵，计费模型为Claude -sonnet -4 -6 - Ling -2.8 -flash，输入33.925，输出23，总成本$0.000，用时2.3s/2.5s，状态200，来源proxy。该图片与上文提到的验证连通性步骤相关，通过查看CC Switch面板的日志，双重确认整条链路通畅，三层架构搭建完成。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTc3NmY1NTE1MzU1ZmQ5NWM5MThmZDJiZDcxNzg1M2ZfZmRjMWQ5MGMwNzc0NDc0NTA3M2JjMThlMzQ2Mjc0NDlfSUQ6NzY0NTcxNDI4MDE1ODg3NDg0MF8xNzgxNzcwODg4OjE3ODE3NzQ0ODhfVjM)
+![图片展示的是CC Switch面板的设置界面，重点突出“Claude -sonnet-4 -6 - Ling -2.8 -flash”这条请求的日志。该日志显示时间为04/29 12:42，供应商为蚂蚁百灵，计费模型为Claude -sonnet -4 -6 - Ling -2.8 -flash，输入33.925，输出23，总成本$0.000，用时2.3s/2.5s，状态200，来源proxy。该图片与上文提到的验证连通性步骤相关，通过查看CC Switch面板的日志，双重确认整条链路通畅，三层架构搭建完成。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTJmMThhNmIxZTI1YzlmZjQ3MGRmOGNhYjJmYWM5N2FfNzczNTlmN2FiYjMyMmY4MzdlM2U4MjAxMTg3NzJjNTlfSUQ6NzY0NTcxNDI4MDE1ODg3NDg0MF8xNzgyMDk5MDU5OjE3ODIxMDI2NTlfVjM)
 
 到这里，你的三层架构就搭好了。剩下的就是让 Codex 来调用它。
 
@@ -166,7 +166,7 @@ Codex 就会：
 3. Claude Code 的请求经过 CC Switch → Ant Ling → 返回结果
 4. Codex 拿到 Claude 的输出，检查后合并到最终工作中
 
-![图片展示了Codex与Claude的对话界面。用户请求Claude写一首关于夏天的古诗，Claude回复的内容是古诗《山亭夏日》的原句，而非原创，诗句为“绿树阴浓夏日长，楼台倒影入池塘。水晶帘动微风起，满架蔷薇一院香。”该图片与上下文紧密相关，直观呈现了在跟Codex对话时，说类似“让claude帮我写一首关于夏天的古诗”这类话后，Codex会将任务交给Claude处理，Claude返回的并非原创内容这一实际操作情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2ZmZTIzNWRlOWRhMGU2NTdjNjkzYjg0ODViMDNkNGVfZTljMWNkMzUxYTc0NzYwMjFiMmY0YTA1NzIxN2ZiYTRfSUQ6NzY0NTcxNDI5NDIwMTM4ODIxN18xNzgxNzcwODg4OjE3ODE3NzQ0ODhfVjM)
+![图片展示了Codex与Claude的对话界面。用户请求Claude写一首关于夏天的古诗，Claude回复的内容是古诗《山亭夏日》的原句，而非原创，诗句为“绿树阴浓夏日长，楼台倒影入池塘。水晶帘动微风起，满架蔷薇一院香。”该图片与上下文紧密相关，直观呈现了在跟Codex对话时，说类似“让claude帮我写一首关于夏天的古诗”这类话后，Codex会将任务交给Claude处理，Claude返回的并非原创内容这一实际操作情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzdmOTVlMzkyNDAxYjU0OTlkNWE0Mzc4NDRhZTBkNjRfNThmY2M5YWQ0OTkyOWJkMDBhZDU1M2I3OTU3ODExOGFfSUQ6NzY0NTcxNDI5NDIwMTM4ODIxN18xNzgyMDk5MDU5OjE3ODIxMDI2NTlfVjM)
 
 背后的实现仍然是 Claude Code 的命令行能力，但日常使用时你不需要关心命令细节。你只要把意图说清楚，Codex 会负责调度、检查和整合。
 

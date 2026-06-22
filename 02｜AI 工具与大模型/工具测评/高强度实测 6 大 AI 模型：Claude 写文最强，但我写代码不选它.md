@@ -2,7 +2,7 @@
 
 # 高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它
 
-![图片为文档中介绍6大AI模型实测内容的图片。左侧大标题为“6大AI模型实测真实分工经验复盘”，下方小标题为“写文选Claude 写代码我用Codex”。右侧分为“写作”“代码”“日常任务”三个板块，分别列出Claude、CodeGram、PI线报评对应写作任务，Codex（GitHub Copilot）对应代码任务，ChatGPT Plus对应日常任务。该图与上下文紧密相关，直观呈现了作者对不同AI模型在不同任务上的使用偏好。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmRmODlmNTA3OTY4NWE3MTYyYmJhMWQ1MGE4OTk1NGFfY2Q1ZjNhMzVhZGM4ZDNiNzYwZTRkYzIzNmI4YTY5ZmNfSUQ6NzY0NDk2NzU3Nzk0ODY4NzU4MV8xNzgxNzcwODAxOjE3ODE3NzQ0MDFfVjM)
+![图片为文档中介绍6大AI模型实测内容的图片。左侧大标题为“6大AI模型实测真实分工经验复盘”，下方小标题为“写文选Claude 写代码我用Codex”。右侧分为“写作”“代码”“日常任务”三个板块，分别列出Claude、CodeGram、PI线报评对应写作任务，Codex（GitHub Copilot）对应代码任务，ChatGPT Plus对应日常任务。该图与上下文紧密相关，直观呈现了作者对不同AI模型在不同任务上的使用偏好。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWUzZDM3ZWYwNDczNThiMGYxZTVmYTgzNTc4ZGFiMDNfOTRmNTFhYjAxNTAyM2MzZTFkN2Q1ODNiYmMzYzkxNTVfSUQ6NzY0NDk2NzU3Nzk0ODY4NzU4MV8xNzgyMDk4OTY4OjE3ODIxMDI1NjhfVjM)
 
 最近刚刚好把国产模型都玩了一遍，包含GLM、MiniMax、Kimi。国外的Gemini、Claude、Codex我也在高强度使用。
 
@@ -39,7 +39,7 @@ Codex 在写脚本，归纳数据、整理步骤方面更强，文章创作上�
 
 Kimi 在以前本来领先地位的，但最近没什么大更新，体感就往后掉了。MiniMax 写文就别指望太多了，能用，但我不会把它放到这种活上。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2Y4ZjYxYTc0MzQzY2MwOTg4OGQ1YzU2MWYyYjM0YjdfYTUwZGIyN2IzMWE4Njk2Y2ZlZWY5MGEyODA4NzdjM2RfSUQ6NzY0NTE2ODAwNjM4NDkxMzYwOV8xNzgxNzcwODAxOjE3ODE3NzQ0MDFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmVlM2I0MzA2ODYyNjA3Mjk3ODE5ZjI1YWZjNzhlYjVfMjVjNDQ4YmRiOGFjZjEyODZlOTdmOGZhYWIyODMzNTNfSUQ6NzY0NTE2ODAwNjM4NDkxMzYwOV8xNzgyMDk4OTY4OjE3ODIxMDI1NjhfVjM)
 
 ---
 
@@ -54,7 +54,7 @@ Kimi 在以前本来领先地位的，但最近没什么大更新，体感就往
 
 > 注意： 我这里说的“代码更常用 Codex”，不是说它全维度都压过 Claude。我只是把自己最常碰到的活拆开以后，发现 在代码方面 Codex 更适合做我的主力工具。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjU3ZGZiNjIwNzgyNzc0MTIyNDU2ZWZiMjQ2YWQyZjdfYjg2NDUxNTYxOWRkMzczODQ4ZTlkYmEzNDkwZWJiNzRfSUQ6NzY0NTE2ODAzNTY1NzMwNTI5Ml8xNzgxNzcwODAxOjE3ODE3NzQ0MDFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWM5NzRhNzMxNDhlOWExZjk0OTU4NjEyNjY4MTMxZjhfYTMxMWJkMzIxZTRjZWU3YzIxNGE1YjBmMDU0NmM3MjFfSUQ6NzY0NTE2ODAzNTY1NzMwNTI5Ml8xNzgyMDk4OTY4OjE3ODIxMDI1NjhfVjM)
 
 ---
 
@@ -66,7 +66,7 @@ GLM 现在面临最大的问题其实是供给问题。你真把它当主力，�
 
 > 如果你能接受高一点的价格，可以考虑国际站。价格会高一点，但是供给更稳定，至少你能买到，国内你就只能蹲点抢购了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzM4MzY3Zjg4OTNkYjZmYjhjMGVkNWM2OGQ3MDIwMjFfMjdmNDc2ZDc1YmJhNGY5NDk5YjAzNDQxMTgyYWRhOTZfSUQ6NzY0NTE2ODA3MTY0MTY0ODMxOF8xNzgxNzcwODAxOjE3ODE3NzQ0MDFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjRjMTZiODNiODFlNmZkNGVkMDliODcyNmI5OGM5NzVfOWU4OGE3MDIzMzBkN2JlNDdiNjIxY2UwNDg4ZjE0MmRfSUQ6NzY0NTE2ODA3MTY0MTY0ODMxOF8xNzgyMDk4OTY4OjE3ODIxMDI1NjhfVjM)
 
 Kimi 让我最可惜的地方，本来是领先地位的，但最近这段时间新模型消息不多，整体体感就慢慢被拉开了。最主要的是模型的计费有点问题，最低档的套餐基本上是不够用的用没几下就没了，如果要开我建议使用99元那一档位的套餐。
 
@@ -79,7 +79,7 @@ MiniMax 给我的感觉，能干活但是不太聪明的感觉。能力上它和
 
 > 如果都想体验一下，可以选择阿里的code plan套餐，可以使用国内市面上绝大部分的模型，但是价格也不便宜，200元每个月。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2NiNDJkY2RiMGYzMWM0MTRiNWU5ZDEzYmRmNTc2Y2VfMmMwOWExNjc5MjY4ODgxY2JkODk3YzY2N2UxMWIwZjJfSUQ6NzY0NTE2ODEwNzYzNTQ0NDk1Ml8xNzgxNzcwODAxOjE3ODE3NzQ0MDFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmQ3Y2FmZDgzYzJiYjE5MTZmNDhiZWE3YzNkNjUzZTdfYTQwZDE1ZWQ4NjNiNGZlMTQyNjU1MTQ5NThjNWY3YTFfSUQ6NzY0NTE2ODEwNzYzNTQ0NDk1Ml8xNzgyMDk4OTY4OjE3ODIxMDI1NjhfVjM)
 
 ---
 

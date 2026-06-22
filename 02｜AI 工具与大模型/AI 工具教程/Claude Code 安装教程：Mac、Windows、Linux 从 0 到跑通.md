@@ -2,7 +2,7 @@
 
 # Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通
 
-![图片是Claude跨平台安装教程v2.1.87，展示了Mac、Windows、Linux三种操作系统下Claude Code的安装步骤。Mac需下载、解压、移动；Windows需运行.exe并选择路径；Linux需tar -xzf并运行二进制。配置和初始化时，输入“Enter Claude Code configuration”“Run /init...”后显示“Configuration complete!”。右侧有欢迎语“Welcome back ton!”及提示，如“Run /init to create a...”“Note: You have launch...”“Recent activity”。该图与文档中介绍Claude Code安装教程的内容相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2UyY2M1MDY3Y2U5NmEzZmU3NDJkNmU0ZjIwODYzZTFfYTRjOTJkZmQ4ODk2NzgwOGFjZmI0ZDkzZjg1ZGZlZDBfSUQ6NzY0NDk0Mzg1MzY2NDk2MzgwMV8xNzgxNzcwNzc4OjE3ODE3NzQzNzhfVjM)
+![图片是Claude跨平台安装教程v2.1.87，展示了Mac、Windows、Linux三种操作系统下Claude Code的安装步骤。Mac需下载、解压、移动；Windows需运行.exe并选择路径；Linux需tar -xzf并运行二进制。配置和初始化时，输入“Enter Claude Code configuration”“Run /init...”后显示“Configuration complete!”。右侧有欢迎语“Welcome back ton!”及提示，如“Run /init to create a...”“Note: You have launch...”“Recent activity”。该图与文档中介绍Claude Code安装教程的内容相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmQyNzNmODMyY2NiZGYzMWU1ZmE4MjliNzg0MmRmZWRfYWE1OWVlNzFhMmFjMDk2YmZmMmVkY2VmNjg3ZDZiODdfSUQ6NzY0NDk0Mzg1MzY2NDk2MzgwMV8xNzgyMDk4OTI5OjE3ODIxMDI1MjlfVjM)
 
 最近 AI CLI 是越来越火了。Gemini 有自己的 CLI，Claude 有 Claude Code，OpenAI 这边也有 Codex 相关工具，御三家这算是都下场了。你现在再看 AI 编程这件事，大家已经不在满足“网页里聊两句代码”那么简单，越来越多人想让 AI 融合进自己的项目里面，创建自己的工作流了。
 
@@ -35,7 +35,7 @@ npm -v
 
 按 Anthropic 官方文档，Claude Code 现在要求 **Node.js 18+**。如果 `node` 或 `npm` 根本不存在，或者版本太老，还是建议先按照基础的环境，再安装 Claude Code。
 
-![图片展示了在Mac终端中检查Node.js和npm版本的界面。终端显示“node -v”命令执行结果为v24.14.1，“npm -v”命令执行结果为11.11.0。这与文档中介绍的在安装Claude Code前进行最低环境检查的内容相关，用于确认当前系统中Node.js和npm的版本是否满足Claude Code的最低要求，若版本不达标，需先按照基础环境要求进行更新。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2M4M2RiNGE4YjA2M2Y4Y2M2ZGFhOThiZjcyYzgzYzFfYWM1ZjZkMWIwNTZiNzc5NDRmNzdhZWViOWIxZTkzOGJfSUQ6NzY0NDk0MzkwMjY1ODc3NjI2OF8xNzgxNzcwNzc4OjE3ODE3NzQzNzhfVjM)
+![图片展示了在Mac终端中检查Node.js和npm版本的界面。终端显示“node -v”命令执行结果为v24.14.1，“npm -v”命令执行结果为11.11.0。这与文档中介绍的在安装Claude Code前进行最低环境检查的内容相关，用于确认当前系统中Node.js和npm的版本是否满足Claude Code的最低要求，若版本不达标，需先按照基础环境要求进行更新。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmQ2OGJlYTJkYjUyNGRlYWM1ZGFhMjkzZDNmMjYxMzZfOTZkZTg4MjE0Y2EwOWY5NmY2NzQ1YTk4YTA5ZWM4MzVfSUQ6NzY0NDk0MzkwMjY1ODc3NjI2OF8xNzgyMDk4OTI5OjE3ODIxMDI1MjlfVjM)
 
 ---
 
@@ -67,7 +67,7 @@ claude --version
 
 > 注意：安装完先验命令，不要直接跳认证和工作流。
 
-![图片展示了在macOS系统中安装Claude Code后的验证结果。终端中输入“claude -v”命令后，显示版本号为2.1.87，括号内有“Claude Code”字样，表明安装成功。该图片与文档中“安装命令”部分的“通用安装命令”内容相关，用于说明在macOS系统里安装Claude Code后，通过验证命令能看见返回版本号，以确认命令已装进系统。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGIwM2JjZGQ3YzIwYWJmOTNiNzY0NTA4MDI4M2Y5ZGNfNGUyNzA1Y2E5YmQyY2Q2ZjY1ZmY1YWRkYzBjZmZhNGVfSUQ6NzY0NDk0Mzk1OTk2NTc0ODQzM18xNzgxNzcwNzc4OjE3ODE3NzQzNzhfVjM)
+![图片展示了在macOS系统中安装Claude Code后的验证结果。终端中输入“claude -v”命令后，显示版本号为2.1.87，括号内有“Claude Code”字样，表明安装成功。该图片与文档中“安装命令”部分的“通用安装命令”内容相关，用于说明在macOS系统里安装Claude Code后，通过验证命令能看见返回版本号，以确认命令已装进系统。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWFjMTI2MmE2ODNkOTliNmFmZDQ3ODM1YTM1MzNkN2NfZTk5NzgzZjY4YzVlMjY5MDk1ZWY4YjA1Y2MwYTNiNzFfSUQ6NzY0NDk0Mzk1OTk2NTc0ODQzM18xNzgyMDk4OTI5OjE3ODIxMDI1MjlfVjM)
 
 ### macOS 需要注意什么
 
@@ -128,7 +128,7 @@ claude
 
 你这一步只要确认它能正常启动、正常认证、正常进入交互界面，就算成功了。
 
-![图片展示了Claude Code登录界面。界面上方显示“/login”，下方提示Claude Code可使用订阅的Claude账号或通过Console账户按API使用量计费。登录方法有三种选择：1. 使用订阅的Claude账号，包括Pro、Max、Team或Enterprise；2. 使用Anthropic Console账户，按API使用量计费；3. 使用第三方平台，如Amazon Bedrock、Microsoft Foundry或Vertex AI。底部有“Esc to cancel”取消操作的提示。该图片与文档中测试验证Claude Code能否正常启动、认证、进入交互界面的内容相关，是登录操作的展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Mjk3ZTAxM2Y2ODEzZGRlOWZmYWQ1ODEwOGQ3YTcxYjRfNDBkNWZkY2YxMzBlMGE2Nzk2NWVhMDk4YjNhNGUyNjVfSUQ6NzY0NDk0Mzk4NjI5MzI0NzE2N18xNzgxNzcwNzc4OjE3ODE3NzQzNzhfVjM)
+![图片展示了Claude Code登录界面。界面上方显示“/login”，下方提示Claude Code可使用订阅的Claude账号或通过Console账户按API使用量计费。登录方法有三种选择：1. 使用订阅的Claude账号，包括Pro、Max、Team或Enterprise；2. 使用Anthropic Console账户，按API使用量计费；3. 使用第三方平台，如Amazon Bedrock、Microsoft Foundry或Vertex AI。底部有“Esc to cancel”取消操作的提示。该图片与文档中测试验证Claude Code能否正常启动、认证、进入交互界面的内容相关，是登录操作的展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2I5ZTA5NTExOTRlNTc4Njc4YzQ2ODE4Y2M5MWRlY2NfODI5MDMxODEyOGE3MGFiNTY1YzA0YjkyMTc2YWVmMjZfSUQ6NzY0NDk0Mzk4NjI5MzI0NzE2N18xNzgyMDk4OTI5OjE3ODIxMDI1MjlfVjM)
 
 > 但其实最难的还是claud的账户存活问题，因为A社的封号太诡异了，就没什么规律可行。
 

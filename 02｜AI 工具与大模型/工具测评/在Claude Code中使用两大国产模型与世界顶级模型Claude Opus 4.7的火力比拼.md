@@ -4,7 +4,7 @@
 
 ​
 
-![图片展示了国产大模型崛起的相关数据与信息。上方标题为“国产大模型崛起”，下方文字说明多款模型密集发布，能力全面提升。图片左侧显示中国阵营Token消耗占比45%+，已实现反超，美国三巨头合计占比42%。右侧有通义千问、小米大模型等国产大模型标识。下方还列出多款国产大模型密集发布、能力全面提升、应用场景丰富高效易用、生态加速发展未来可期等内容。该图与文档中介绍中国AI厂商密集发布大模型、能力提升及市场份额变化的上下文紧密相关。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzVhMDU4ZjVkYTQ0Y2RkMDA3OWNiZjU5MDZlYTRkZGZfYjM2OGMzNDRlMmM4Y2JkYTc0MjFlYmVkMDc1MmIzMmJfSUQ6NzY0NjMwNzA1MTAzMTEyMDg1OF8xNzgxNzcwODAzOjE3ODE3NzQ0MDNfVjM)
+![图片展示了国产大模型崛起的相关数据与信息。上方标题为“国产大模型崛起”，下方文字说明多款模型密集发布，能力全面提升。图片左侧显示中国阵营Token消耗占比45%+，已实现反超，美国三巨头合计占比42%。右侧有通义千问、小米大模型等国产大模型标识。下方还列出多款国产大模型密集发布、能力全面提升、应用场景丰富高效易用、生态加速发展未来可期等内容。该图与文档中介绍中国AI厂商密集发布大模型、能力提升及市场份额变化的上下文紧密相关。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmM2YmQyYTZlNDE5NGU4NmE1MzRlM2RhMmNkNjQwMDdfMWNjNTczMzFmMzIwY2VhNjMyNjgwNmZkMjVhN2Q2MjhfSUQ6NzY0NjMwNzA1MTAzMTEyMDg1OF8xNzgyMDk4OTcwOjE3ODIxMDI1NzBfVjM)
 
 上个月发生了一件令我非常振奋的事情，而且持续了整整一个月。这一个月中国AI各大厂商，无论是黑马小米、Kimi和智谱以及千问、甚至期待已久的DeepSeek、还有昨天霸榜 在LMArena 文本领域成为国内第一的百度文心，最后还有加入的蚂蚁集团百灵大模型 以及等等我没关注到的。在这大致一个多月的时间，都密集发布了自己的大招，能力和性能各方面确实都有了长足的进步和提升，真是令人欣慰。
 
@@ -38,7 +38,7 @@
 
 [https://modelscope.cn/models/inclusionAI/Ling-2.6-1T](https://modelscope.cn/models/inclusionAI/Ling-2.6-1T)
 
-![图片展示了在Claude Code中使用Ling-2.6-1T模型时出现的错误界面。界面中突出显示了“Rate limit exceeded. Free models-per-day. Add 10 credits to unlock 1000 free model requests per day”等错误信息，表明API请求超出限制，需支付10个额度以解锁每天1000次免费模型请求。该图片与文档中测试Ling-2.6-1T模型时出现错误的内容相关，直观呈现了错误提示情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWE1NWQxMTg2NjkzZGQ3ZTI3NDA3ZGMxNDMwNWZiODhfOGM1ZjU1OWVlNGMyYWE3NGY3MTA0NGM5YTc2ZTZlMjdfSUQ6NzY0NjMwNzA3Njk2MDExMTU3N18xNzgxNzcwODAzOjE3ODE3NzQ0MDNfVjM)
+![图片展示了在Claude Code中使用Ling-2.6-1T模型时出现的错误界面。界面中突出显示了“Rate limit exceeded. Free models-per-day. Add 10 credits to unlock 1000 free model requests per day”等错误信息，表明API请求超出限制，需支付10个额度以解锁每天1000次免费模型请求。该图片与文档中测试Ling-2.6-1T模型时出现错误的内容相关，直观呈现了错误提示情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTk5MzcyN2U2NmE0NmU1YTVmMjczYTU3NzljYmZkZDhfMDAxMTc0ZmM5M2FhNzE1NTg1MTVkZTZmOWVlNWE3YjJfSUQ6NzY0NjMwNzA3Njk2MDExMTU3N18xNzgyMDk4OTcwOjE3ODIxMDI1NzBfVjM)
 
 上图就是我在测试的过程中突然出现了错误。我左侧使用的是Claude Opus 4.7、中间是ling-2.6-1t:free，而右侧是DeepSeek-V4-Pro。
 
@@ -48,13 +48,13 @@
 
 再来看看三个模型的消耗情况，其实还是上面那张图。
 
-![图片展示了在Claude Code中使用DeepSeek模型时的费用情况。左侧显示使用DeepSeek - 1.0t模型，消耗0.25元，输入6.1k输出，412.6k代码读取，33.4k代码写入，消耗0.01782元；右侧显示使用DeepSeek - 0.9k模型，消耗0.0568元，输入31.9k输入，18.2k代码读取，4代码写入，0代码读取，0代码写入。图片与上下文关系紧密，直观呈现了不同模型在Claude Code中的费用消耗情况，辅助说明模型使用成本。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzQ5NDhkYmFhOWI3OWE1ZDIzZWM1ZjgwZjRmNjQzNTBfZWIzYjdhYjY0OWQyYTcyZTkxY2Q1MWZiNjYyNjllYmVfSUQ6NzY0NjMwNzA5ODE3OTYxOTc5M18xNzgxNzcwODAzOjE3ODE3NzQ0MDNfVjM)
+![图片展示了在Claude Code中使用DeepSeek模型时的费用情况。左侧显示使用DeepSeek - 1.0t模型，消耗0.25元，输入6.1k输出，412.6k代码读取，33.4k代码写入，消耗0.01782元；右侧显示使用DeepSeek - 0.9k模型，消耗0.0568元，输入31.9k输入，18.2k代码读取，4代码写入，0代码读取，0代码写入。图片与上下文关系紧密，直观呈现了不同模型在Claude Code中的费用消耗情况，辅助说明模型使用成本。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Zjg4Mjk5YTE5YjIwMjk3N2YwMDMyMjAwNmY0ZTcwMmVfYjU0YzAwNTNhNDM0ZWJiZjNmOWJjNGY0ZjVlNzI3YzdfSUQ6NzY0NjMwNzA5ODE3OTYxOTc5M18xNzgyMDk4OTcwOjE3ODIxMDI1NzBfVjM)
 
 - 左一由于只是文本处理，而且Claude Code会自主根据任务进行选择模型，所以相对来说消耗并不大，0.61\\\*7=4.2元。
 - 中间蚂蚁百灵模型没有识别出model，所以他估算的价格可能也不准。
 - 而DeepSeek 我使用的国内官网的，而且我去看了消耗如下图是0.25，简直跟不要钱一样，所以针对Claude Code中的非Claude 模型「cost指令」应该仅供参考一下而已，当然可能有其他插件可以适配各种模型的真实消耗吧。
 
-![图片展示了2026年4月30日的DeepSeek模型费用情况。上方文字显示日期及各模型费用，其中“deepseek-chat & deepseek-reasoner”为0元，“deepseek-v4-flash”费用小于0.01元，“deepseek-v4-pro”为0.24元。下方柱状图对应各模型费用，直观呈现费用数据。该图与文档中提到的DeepSeek模型费用相关，用于说明其费用情况，与文档中对DeepSeek模型费用的讨论相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWM5YzM3YWQ0MzAxMTcyNzQ4MDBiZWY0MWNmYmRlYzFfYWYxMGY2NGU5YmExNzI2NjRhODg4ZDQ4ZTc1OTNhZjJfSUQ6NzY0NjMwNzEyMTExMzY0ODA4NF8xNzgxNzcwODAzOjE3ODE3NzQ0MDNfVjM)
+![图片展示了2026年4月30日的DeepSeek模型费用情况。上方文字显示日期及各模型费用，其中“deepseek-chat & deepseek-reasoner”为0元，“deepseek-v4-flash”费用小于0.01元，“deepseek-v4-pro”为0.24元。下方柱状图对应各模型费用，直观呈现费用数据。该图与文档中提到的DeepSeek模型费用相关，用于说明其费用情况，与文档中对DeepSeek模型费用的讨论相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGM4MzVkYTA4NjNkYTVhOWNkN2QwZmNjYWM4N2M2ZDZfNmI5MjU4ODQ0ZDNkNTgwYTRhNzVhZjYzYjNjZDZhODZfSUQ6NzY0NjMwNzEyMTExMzY0ODA4NF8xNzgyMDk4OTcwOjE3ODIxMDI1NzBfVjM)
 
 因为我上面处理了474个md文档，而且对话次数触发中间蚂蚁百灵50次的限制，我查看DeepSeek官网请求次数是22次。蚂蚁百灵与DeepSeek初步比较也就是有些任务，蚂蚁百灵需要与AI多很多轮的会话交互。
 
@@ -71,7 +71,7 @@
 
 为了继续测试，我就绑定了一番，然后果不其然，接口又可以继续调用了，真香啊。
 
-![图片展示了在Claude Code中使用Claude Pro、inclusionAI Ling-2.6-1T和deepseek-v4-pro处理474个文件的场景。左侧Claude Pro调用5次大模型，中间inclusionAI Ling-2.6-1T调用30次，右侧deepseek-v4-pro调用2次。画面中呈现了各模型调用大模型的次数、处理内容及部分代码指令，如Bash命令查找文件、分类文档等。该图与上下文紧密相关，直观呈现了不同模型处理文件的效率差异。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjU5MDM0ZDU1MDczZjA2OWVhMmY2NmU3MGE2NzE3ZGVfZjNjN2ZjODRmNWMyYjYyZTlmMzk5ZTMwYmE1MGI5NTVfSUQ6NzY0NjMwNzE0OTAwMTkxOTQ0Nl8xNzgxNzcwODAzOjE3ODE3NzQ0MDNfVjM)
+![图片展示了在Claude Code中使用Claude Pro、inclusionAI Ling-2.6-1T和deepseek-v4-pro处理474个文件的场景。左侧Claude Pro调用5次大模型，中间inclusionAI Ling-2.6-1T调用30次，右侧deepseek-v4-pro调用2次。画面中呈现了各模型调用大模型的次数、处理内容及部分代码指令，如Bash命令查找文件、分类文档等。该图与上下文紧密相关，直观呈现了不同模型处理文件的效率差异。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDA3NWRhYmJlNmJhOTA3M2Y5ZDIyYjhhYTI3NWFkMmJfMDU1ODA3NjFlZTFmNWYyNjE0ZTVhYmU2MGI2MDBiYTVfSUQ6NzY0NjMwNzE0OTAwMTkxOTQ0Nl8xNzgyMDk4OTcwOjE3ODIxMDI1NzBfVjM)
 
 同样的左侧还是Claude Opus 4.7，中间是蚂蚁百灵1T大模型，右侧是DeepSeek-V4-Pro。
 
@@ -81,13 +81,13 @@
 
 而Claude Opus 4.7，竟然也就比蚂蚁百灵慢了20秒的时间，但是DeepSeek确实慢了很多，可能是DeepSeek-V4-Pro思考过程确实很慢的原因?
 
-![图片展示了Claude Code在处理474个文件时的情况。左侧显示已创建四个并行Agent，共完成分析470篇markdown文件，其中部分文件已删除。右侧说明已启动3个分析Agent并行处理，分别号标注了“已启动3个分析Agent并行处理，分别负责：”及各负责内容，如“docs/article/”AI相关（约140个文件）”等。该图片与上下文紧密相关，直观呈现了Claude Code在处理文件时的Agent分配及任务划分情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTZlODIzN2Q0Njc5YmUxMzc5NWYzNjQzN2EzZDBjZjBfYmUxNGI0OGY4NTNlYjAwM2MzZmFjNDlhNGY2Y2RjMTNfSUQ6NzY0NjMwNzE3NDcxMjYyNjEwN18xNzgxNzcwODAzOjE3ODE3NzQ0MDNfVjM)
+![图片展示了Claude Code在处理474个文件时的情况。左侧显示已创建四个并行Agent，共完成分析470篇markdown文件，其中部分文件已删除。右侧说明已启动3个分析Agent并行处理，分别号标注了“已启动3个分析Agent并行处理，分别负责：”及各负责内容，如“docs/article/”AI相关（约140个文件）”等。该图片与上下文紧密相关，直观呈现了Claude Code在处理文件时的Agent分配及任务划分情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTc0MGQ1MDUxNjFiYTdiMjVjNjJmOWI5ODk4NDVhNDBfYmYwNTEzYzRiMmMyOGRlNTYyNTMxMTg3NTRhYmEyMjlfSUQ6NzY0NjMwNzE3NDcxMjYyNjEwN18xNzgyMDk4OTcwOjE3ODIxMDI1NzBfVjM)
 
 上图可以看到Claude Opus 4.7 自己创建了四个并行的子Agent去分析内容整理分类，右侧DeepSeek自己也创建了三个子Agent去完成分析，就是确实慢了很多大概8分钟才完成整个任务。
 
 我也仔细查看蚂蚁百灵，它处理过程并没有创建子Agent，直接自己独立Agent就全部搞定了，而且速度和质量都非常好好。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTE5YmNkYzQyYWFjNTIzOWFkNWNiODRkN2MyMzFlMWFfMjJhYWQzMTAwMGRlNmQyNTI2NDgxZTVlMDczYzQxMjhfSUQ6NzY0NjMwNzE5NzkxNTQ4MzEwOF8xNzgxNzcwODAzOjE3ODE3NzQ0MDNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDkxNjcwM2Y0OTY0MmEzOWMyODI4N2JjYThlZjI0ODBfNTEzMDlhNzUxYmY5ZWE1NmUwMzQ2YmNlZDdiYWI4YzNfSUQ6NzY0NjMwNzE5NzkxNTQ4MzEwOF8xNzgyMDk4OTcwOjE3ODIxMDI1NzBfVjM)
 
 花费大致统计
 
@@ -97,11 +97,11 @@
 
 然后我突然想试试，告诉蚂蚁百灵，“能否创建子agent来重新帮我梳理”
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzQ2NjNjZjU1MWMxN2UwNzkxMzBiMDA1NmU0MTRhNmFfNDhlODYwZDhmZGUwNTA2MjUyMGFjNzAxZTdjODhiYmFfSUQ6NzY0NjMwNzIyNTEzNjYzMDc0NV8xNzgxNzcwODAzOjE3ODE3NzQ0MDNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWRiMjhkNmY5YmZjNmE3MTllNWRlNGE1M2ZjNWNkZGJfMzljMGFkNzAyZWY1NmU4Mjc3ZjVhN2VhYTg3NDY5MTFfSUQ6NzY0NjMwNzIyNTEzNjYzMDc0NV8xNzgyMDk4OTcwOjE3ODIxMDI1NzBfVjM)
 
 蚂蚁百灵也是可以创建子agent进行处理的，但是很明显确实也慢了非常多的时间，消耗的token也多了很多，原来50次请求，现在多了134次左右，三个子agent各自都独立的上下文吧。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWQwZjFkYmQ5ZmE2ZmM3ZTk3ZTJjZWQ0MjkyZTU5ZjFfNGJiNzJjNzYzMjZlZWYxZGYyNjY0N2IzNzZlMGJmYjBfSUQ6NzY0NjMwNzI0NjMzNjY1ODM5NF8xNzgxNzcwODAzOjE3ODE3NzQ0MDNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmYxMGEzNDc2YWI0YjM0NWY4Y2RmYTU5OGQ2YzFhMzJfZDlmMzEyOTg5OGM1OGMxZmJjZDEyYjkyNmI3ODMyYWNfSUQ6NzY0NjMwNzI0NjMzNjY1ODM5NF8xNzgyMDk4OTcwOjE3ODIxMDI1NzBfVjM)
 
 所以蚂蚁百灵自己选择的方式可能是更好的，又快效果相对来说更好，而且可能更省token。
 

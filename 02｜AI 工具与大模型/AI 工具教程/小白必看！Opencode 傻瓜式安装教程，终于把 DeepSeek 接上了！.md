@@ -18,7 +18,7 @@ opencode 这东西，本身安装并不难，使用下来，其实一行命令�
 curl -fsSL https://opencode.ai/install | bash
 ```
 
-![图片展示的是在Mac终端中安装opencode的命令界面。左侧显示了登录信息，右侧终端提示符后输入了“curl -fsSL https://opencode.ai/install | bash”命令，用于从opencode官方网址下载并执行安装脚本。该图片与文档中介绍opencode安装方法的内容相关，直观呈现了使用curl命令进行安装操作的场景，帮助用户理解安装过程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzVhNmUyOWJhMTY2YjJhZDU0ZThmOTc0MWRhZjMyNDdfOGIwNzRmZmU1MTNmYWRlZWZkMzQ3N2YyNzdjZDBmZjFfSUQ6NzY0NDk2NzI0NzU1NDkwNzMyN18xNzgxNzcwNzgyOjE3ODE3NzQzODJfVjM)
+![图片展示的是在Mac终端中安装opencode的命令界面。左侧显示了登录信息，右侧终端提示符后输入了“curl -fsSL https://opencode.ai/install | bash”命令，用于从opencode官方网址下载并执行安装脚本。该图片与文档中介绍opencode安装方法的内容相关，直观呈现了使用curl命令进行安装操作的场景，帮助用户理解安装过程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2NlNzc3YzY0MmNiZDExMzVjNDYxMTgwYjFhNzEwNzZfZDExZDlmN2FhNDMyNzliYTFjYjZlZGEyZDIxODZmNzdfSUQ6NzY0NDk2NzI0NzU1NDkwNzMyN18xNzgyMDk4OTMyOjE3ODIxMDI1MzJfVjM)
 
 跑完它会自动把 opencode 下载好、放进系统路径，整个过程不用你管。
 
@@ -48,7 +48,7 @@ opencode -v
 
 我这边返回的是 `1.15.5`：
 
-![图片展示的是在终端中执行`opencode -v`命令的界面。左侧显示终端提示符为`(base)`，右侧输入命令后，终端返回版本号`1.15.5`。该图片与文档中“装完先验证，顺手说个最常见的坑”部分内容相关，用于说明在安装opencode后，可通过此命令验证其是否安装成功及版本号，以确保后续接DeepSeek模型时opencode版本满足要求。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTVkNTA5N2Y5OWE5OTBhNjIxZTZiZmVlNzIzNzY0YmJfZGQyZGU2N2VlZGM2ODFlMjRjNmYyYzkzZmZiNjUxMDZfSUQ6NzY0NDk2NzI3NzYyMzk3MTAzMF8xNzgxNzcwNzgyOjE3ODE3NzQzODJfVjM)
+![图片展示的是在终端中执行`opencode -v`命令的界面。左侧显示终端提示符为`(base)`，右侧输入命令后，终端返回版本号`1.15.5`。该图片与文档中“装完先验证，顺手说个最常见的坑”部分内容相关，用于说明在安装opencode后，可通过此命令验证其是否安装成功及版本号，以确保后续接DeepSeek模型时opencode版本满足要求。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2MxMGU0ODE0ZGZmZjk3ZDI3Y2JmZGZlOWI0ZTJjZDlfMTQ2MDk4MWE2ODEyMTRiNmJjZDhlNWU5YWNmZDI1NTZfSUQ6NzY0NDk2NzI3NzYyMzk3MTAzMF8xNzgyMDk4OTMyOjE3ODIxMDI1MzJfVjM)
 
 能看到一个版本号，就说明 opencode 装进来了。这个版本号顺手记一下，后面接 DeepSeek 模型要用到——opencode 得是 v1.14.24 以上才认 DeepSeek V4 系列，我这台 1.15.5 够用。
 
@@ -81,7 +81,7 @@ opencode 装好了，但它现在还是个空壳——你还没给它接模型�
 
 登录之后，点「创建 API key」，给它起个名字（随便起，比如就叫 `opencode`，方便以后认出这把 key 是给谁用的），确认，它就会弹出新建好的 key：
 
-![图片展示的是DeepSeek开放平台中创建API key的界面。上方显示“API key已创建”，下方有“创建API key”按钮。弹出的“创建API key”窗口提示将此API key保存在安全且易于访问的地方，因安全原因无法再次查看，丢失需重新创建。窗口中API key部分被模糊处理，下方有“关闭”和“复制”按钮。该图片与上文“登录后点‘创建API key’，给它起名并确认，弹出新建好的key”的内容对应，直观呈现了创建API key后的界面及关键信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWRiMjMyMWQ4MGNjOTk5MmNhZjkxM2RjYzE3MzM0MzNfZmU1MDE2OWE4ODY2ODMzOWFhMTdiYTc1YzExZTY5MGVfSUQ6NzY0NDk2NzMxMDMxODQzOTYwM18xNzgxNzcwNzgyOjE3ODE3NzQzODJfVjM)
+![图片展示的是DeepSeek开放平台中创建API key的界面。上方显示“API key已创建”，下方有“创建API key”按钮。弹出的“创建API key”窗口提示将此API key保存在安全且易于访问的地方，因安全原因无法再次查看，丢失需重新创建。窗口中API key部分被模糊处理，下方有“关闭”和“复制”按钮。该图片与上文“登录后点‘创建API key’，给它起名并确认，弹出新建好的key”的内容对应，直观呈现了创建API key后的界面及关键信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjdkMzJkOTNjOGY0ODc0ZWEzZjM1MzdjNjljOGRhYjJfNzAzZWY2M2M4ZTNjZTZlYTEzZjVkMWUwMzljNDgyOTNfSUQ6NzY0NDk2NzMxMDMxODQzOTYwM18xNzgyMDk4OTMyOjE3ODIxMDI1MzJfVjM)
 
 这串以 `sk-` 开头的就是你的 key，点「复制」存到一个安全的地方。创建完之后，这把 key 也会出现在 API keys 列表里，能看到它的名字和创建日期，方便管理。
 
@@ -107,13 +107,13 @@ opencode
 
 进去之后，输入 `/connect`。opencode 会让你选 provider，也就是模型来源，输入 `deepseek`，把列表里的 DeepSeek 选中。接着它会弹出一个输入框，让你填 API key：
 
-![图片展示的是opencode接上DeepSeek V4 Pro时输入API key的界面。画面中有一个输入框，提示“API key”，并显示“API key”字样。画面右上角有“esc”字样。底部有“enter”和“submit”两个按钮。该图片与上文提到的在opencode中输入`deepseek`后弹出的输入框内容相关，直观呈现了输入API key这一操作步骤。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjZjYjVjOWQ4NzYyYjNmZDEwZTQ3NGQ4ZTA0ZWE1OGRfYTdmNmFjODRjMzhjMTRhMTEyYWYxODFkYmYyOTk2OWZfSUQ6NzY0NDk2NzMzNjEzNDQ2MjY4NV8xNzgxNzcwNzgyOjE3ODE3NzQzODJfVjM)
+![图片展示的是opencode接上DeepSeek V4 Pro时输入API key的界面。画面中有一个输入框，提示“API key”，并显示“API key”字样。画面右上角有“esc”字样。底部有“enter”和“submit”两个按钮。该图片与上文提到的在opencode中输入`deepseek`后弹出的输入框内容相关，直观呈现了输入API key这一操作步骤。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2YzNTMxNjRhMTgzY2QzMGZjZjE5M2ExMWFlMjhiYmFfYTUwZmE0MGMzNzQxOWNiOTgwM2NmMWY0NWY0MDZjNzJfSUQ6NzY0NDk2NzMzNjEzNDQ2MjY4NV8xNzgyMDk4OTMyOjE3ODIxMDI1MzJfVjM)
 
 把刚才在 DeepSeek 官网复制的那串 `sk-` 开头的 key 粘进去，回车。
 
 key 接上之后，再输入 `/models`，opencode 会列出当前能用的模型。在列表里找到 `DeepSeek V4 Pro`，选中它：
 
-![图片展示了在opencode中选择模型的界面。界面上方有“Select model”标题和“Search”搜索框。“Recent”栏下，“DeepSeek V4 Pro DeepSeek”模型处于选中状态，背景为橙色突出显示。其下方还罗列了Claude、GPT - 5.2、DeepSeek Chat等众多其他模型。该图片对应文档中“在列表里找到‘DeepSeek V4 Pro’，选中它”的步骤，是在opencode中接上DeepSeek V4 Pro模型操作流程中的一部分，用于直观展示选中模型的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTU4ZDJkZmU1MTZhODEwNDMyZThhODUzNTVmNDg1NDlfNGRmNjRhYWE1YWNlNTVhYWMxZjk5ODRmZjVjNjMwMGFfSUQ6NzY0NDk2NzM2OTA5MDg3ODY0Ml8xNzgxNzcwNzgyOjE3ODE3NzQzODJfVjM)
+![图片展示了在opencode中选择模型的界面。界面上方有“Select model”标题和“Search”搜索框。“Recent”栏下，“DeepSeek V4 Pro DeepSeek”模型处于选中状态，背景为橙色突出显示。其下方还罗列了Claude、GPT - 5.2、DeepSeek Chat等众多其他模型。该图片对应文档中“在列表里找到‘DeepSeek V4 Pro’，选中它”的步骤，是在opencode中接上DeepSeek V4 Pro模型操作流程中的一部分，用于直观展示选中模型的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTc5NzcwYzgzNjFlNTVhNjY4MTUyYWM1ODMyOTMwYTBfZDhhMmEwOGEyNjI1YTAyZGY0NTZjNzVlZTFhNWQ1YTFfSUQ6NzY0NDk2NzM2OTA5MDg3ODY0Ml8xNzgyMDk4OTMyOjE3ODIxMDI1MzJfVjM)
 
 到这里，opencode 就已经在用 DeepSeek V4 Pro 了。
 
@@ -125,7 +125,7 @@ key 接上之后，再输入 `/models`，opencode 会列出当前能用的模型
 
 我直接问了一句「你是什么模型」，它回的是「我是 DeepSeek-V4-Pro。」，opencode 界面底部的状态栏也明明白白写着当前模型是 `DeepSeek V4 Pro`：
 
-![图片展示的是 addCriterion图片展示的是DeepSeek V4 Pro模型接通后的界面。界面顶部显示“你是什么模型”，下方有“Thought for 7929s”和“我是 DeepSeek - V4 - Pro”等信息。底部状态栏显示“Build - DeepSeek V4 Pro Pro - 3.7s”，并有“|”符号。该图片与上文提到的确认DeepSeek V4 Pro接通的内容相关，通过显示模型信息及状态栏内容，直观呈现了模型接通后的状态，帮助用户确认是否成功接通。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGI1MzUwNTZmMGU1NzkzYzNlYmRjYWQ2YWUxYWJmNWRfNDVhZjUyNmM0ZjY0ZTAzZDM0OGM2YTUwNTc3ZDM1ZjdfSUQ6NzY0NDk2NzM5NzAzOTk4MzgzMF8xNzgxNzcwNzgyOjE3ODE3NzQzODJfVjM)
+![图片展示的是 addCriterion图片展示的是DeepSeek V4 Pro模型接通后的界面。界面顶部显示“你是什么模型”，下方有“Thought for 7929s”和“我是 DeepSeek - V4 - Pro”等信息。底部状态栏显示“Build - DeepSeek V4 Pro Pro - 3.7s”，并有“|”符号。该图片与上文提到的确认DeepSeek V4 Pro接通的内容相关，通过显示模型信息及状态栏内容，直观呈现了模型接通后的状态，帮助用户确认是否成功接通。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjJlZTMxY2EwNWNhYzgyMTM3NThlOWFkZGQ3ZTE2OWVfYTMyZmQ0ZDk0NTEwY2Q2NmJiMWNmMDA3NmY1YzIyMDVfSUQ6NzY0NDk2NzM5NzAzOTk4MzgzMF8xNzgyMDk4OTMyOjE3ODIxMDI1MzJfVjM)
 
 模型自己报的名字、状态栏显示的名字，两个对上了，就说明 DeepSeek V4 Pro 真的接通了，不是还在用别的默认模型。
 

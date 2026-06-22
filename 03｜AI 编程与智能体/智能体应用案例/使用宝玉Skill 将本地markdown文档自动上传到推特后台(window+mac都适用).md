@@ -4,7 +4,7 @@
 
 ​
 
-![图片展示了宝玉的自动发推Skill流程，分为背景&痛点、准备工作、安装&配置、执行&发布四部分。背景&痛点中宝玉感叹推特编辑器难用，痛点是长文排版难。准备工作包括本地Markdown文档、软连接、安装npx skills add等。安装&配置有OpenCode、agents、skills等操作。执行&发布则有登录信息本地存储、浏览器授权登录、成功上传草稿箱等步骤。该图直观呈现了宝玉Skill的使用流程，与上下文介绍的自动将本地markdown文档上传到推特后台的功能相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzM5NWZmYjJkMWMzNzY1OWQxOTQwMzM1YjUyOGM4NDRfNWM3MjJhNGY4Y2MyNGUxMjg4NzRkNGNiOGIyZDU3ZmVfSUQ6NzY0NjMwNTkyMDU4NjU5OTM1Nl8xNzgxNzcwOTE5OjE3ODE3NzQ1MTlfVjM)
+![图片展示了宝玉的自动发推Skill流程，分为背景&痛点、准备工作、安装&配置、执行&发布四部分。背景&痛点中宝玉感叹推特编辑器难用，痛点是长文排版难。准备工作包括本地Markdown文档、软连接、安装npx skills add等。安装&配置有OpenCode、agents、skills等操作。执行&发布则有登录信息本地存储、浏览器授权登录、成功上传草稿箱等步骤。该图直观呈现了宝玉Skill的使用流程，与上下文介绍的自动将本地markdown文档上传到推特后台的功能相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjZhY2FjMDU4YWY1ZDQwMWNlMWE1MzliMTkyY2U2YWFfNmRiOGY4OGIzODMwNzM2YjM0NmExOWI1Y2Y4ZDc4ZjJfSUQ6NzY0NjMwNTkyMDU4NjU5OTM1Nl8xNzgyMDk5MDkwOjE3ODIxMDI2OTBfVjM)
 
 想看效果的可以直接到最后，我录了一个视频。
 
@@ -22,11 +22,11 @@
 
 这里就不讲太多了，进入正题。也就是说要先准备一个包含图文的markdown文档，下面是我截图的markdown 文档预览。
 
-![图片展示的是一个markdown文档预览界面。上方有“笔记属性”栏，显示标题为“测试自动发推到推特平台”，封面图片为“/Gemini_Generated_Image_9paxk69pax69pax.png”。中间部分为“引用”内容，开头是“你好啊，这是文章的开头”。下方“中间”部分有“创作”“构思”“呈现”三个图标及文字。最下方“最后”部分写着“哈哈 这篇文章就是测试的”。该图片与文档中介绍准备包含图文的markdown文档以使用宝玉Skill自动上传到推特后台的内容相关，展示了文档的预览样式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDAyNDFmM2Y4ZDA5YTA4ODRmNWM4YmQ2MjViY2ExNDlfZThmNGJjOWZhMDYyZWMxOThmNTlmZGNjZThkMmI1M2FfSUQ6NzY0NjMwNTk0MjE3ODcyODkwMF8xNzgxNzcwOTE5OjE3ODE3NzQ1MTlfVjM)
+![图片展示的是一个markdown文档预览界面。上方有“笔记属性”栏，显示标题为“测试自动发推到推特平台”，封面图片为“/Gemini_Generated_Image_9paxk69pax69pax.png”。中间部分为“引用”内容，开头是“你好啊，这是文章的开头”。下方“中间”部分有“创作”“构思”“呈现”三个图标及文字。最下方“最后”部分写着“哈哈 这篇文章就是测试的”。该图片与文档中介绍准备包含图文的markdown文档以使用宝玉Skill自动上传到推特后台的内容相关，展示了文档的预览样式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmFmYjM4Y2RiZWIxZWNlOWMwMmRiMTEzYTMxYmIxNDlfZGI0MDMyODM3MmExMGZiYmU4NWE4ZmZiODA5ZWIzNDBfSUQ6NzY0NjMwNTk0MjE3ODcyODkwMF8xNzgyMDk5MDkwOjE3ODIxMDI2OTBfVjM)
 
 里面的图片也是在本地文件夹中的。
 
-![图片展示了在本地文件夹中生成的markdown文档及图片文件。其中，“index.md”是包含图文的markdown文档，“test.md”是测试用的markdown文档。红色箭头指向的“output.mp4”是生成的视频文件，下方有多个以“Pasted image”开头的图片文件，这些图片文件是文档中插入的图片。该图片与上文提到的准备包含图文的markdown文档相呼应，直观呈现了文档及图片文件的存储情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjJhZjRjMTg1YWEwNDYyZWNlZDkzOWViYTdlYWJiZGVfOWVhZGUyZmQ5YmNkOGYxODgwZDFlNmFkYWZhYjFmNGVfSUQ6NzY0NjMwNTk2MTMxNzc2NDA0OV8xNzgxNzcwOTE5OjE3ODE3NzQ1MTlfVjM)
+![图片展示了在本地文件夹中生成的markdown文档及图片文件。其中，“index.md”是包含图文的markdown文档，“test.md”是测试用的markdown文档。红色箭头指向的“output.mp4”是生成的视频文件，下方有多个以“Pasted image”开头的图片文件，这些图片文件是文档中插入的图片。该图片与上文提到的准备包含图文的markdown文档相呼应，直观呈现了文档及图片文件的存储情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2Y2NDBjY2I5OGJmZjc4ZTMyYTI2NDFmN2MyOGJjMTVfMTg2NDhkYmQ1YTBkNDJkOGNiZDVkMTRjMWZjODIyYTVfSUQ6NzY0NjMwNTk2MTMxNzc2NDA0OV8xNzgyMDk5MDkxOjE3ODIxMDI2OTFfVjM)
 
 ## 准备skill
 
@@ -46,7 +46,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-post-to-x
 
 我现在是一个项目下的skill就统一放到下图 .agents文件夹目录下，因为使用 npx skills 命令时他都会装到这个目录下。
 
-![图片展示了在“github > blog 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTE1Zjc3NjQyM2Q4NzUxOGJkMDc0ZmM2YzcwZDA4ZDBfZTVlOTcwZmIxMzRiMjViNDhlNThjYzZlOTEzNmI4MWFfSUQ6NzY0NjMwNTk3OTYzNDcxNTU5N18xNzgxNzcwOTE5OjE3ODE3NzQ1MTlfVjM)
+![图片展示了在“github > blog 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Njg4NTA3NGVhMTA2YjE1NzI1ZWU1ODhiMzk3NzViOTFfMGU1NGYxMWE3YTk2ZDg3ZmYxOTg0Mjg2NjNlZTU4N2NfSUQ6NzY0NjMwNTk3OTYzNDcxNTU5N18xNzgyMDk5MDkwOjE3ODIxMDI2OTBfVjM)
 
 因为我平时使用OpenCode、Codex、google antigravity比较多，所以只需要进行设置软连接就可以了，维护的话只需要维护一份，就是我上图中.agents 目录，其他使用最终都会指向.agnets目录。
 
@@ -54,7 +54,7 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-post-to-x
 
 > // window下 相当于访问A最终访问B，就不用在每个 .claude、 .opencode、codex、.agent等等文件夹在单独再拷贝一份Skill，而且维护的时候也方便 mklink /D A B // window下 使用codex的时候就会去访问.agnet mklink /D .codex .agents // mac下,写法刚好和window下相反,要像下面这样写， 访问A最终才会访问B ln -s B A // 其他类似了
 
-![图片展示了在Windows系统下，使用cmd命令创建符号链接的操作界面。左侧是文件夹结构，显示了多个文件夹，其中“.agents”“.claude”“.codex”“.opencode”被红色箭头指向。右侧是cmd窗口，显示了在“H:\\github\\blog-vitepress”目录下，使用“mklink /D”命令为“.agents”“.claude”“.codex”“.opencode”创建符号链接的命令及结果。该图片与文档中介绍如何通过软连接管理项目skill的内容相关，直观呈现了创建符号链接的操作过程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjRjNDBhNjg3ZGFkMWViYjhiMWZkNjgyZjYzOGE0ZmRfZTkzYjM3Mjk1ZmM2NGRkOWE1NDJmZDUyYTEwOTUyMTdfSUQ6NzY0NjMwNjAwMjYwMjU3Njg2MF8xNzgxNzcwOTE5OjE3ODE3NzQ1MTlfVjM)
+![图片展示了在Windows系统下，使用cmd命令创建符号链接的操作界面。左侧是文件夹结构，显示了多个文件夹，其中“.agents”“.claude”“.codex”“.opencode”被红色箭头指向。右侧是cmd窗口，显示了在“H:\\github\\blog-vitepress”目录下，使用“mklink /D”命令为“.agents”“.claude”“.codex”“.opencode”创建符号链接的命令及结果。该图片与文档中介绍如何通过软连接管理项目skill的内容相关，直观呈现了创建符号链接的操作过程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWQ4ZGZkMTU4ZDk1ZDMyZGIzNjA1MDFmNmJjYTE5NjVfZWVkMGRjYmY1NmVhNGE1MGU3ZGI0MmZjYmJmYzJjN2RfSUQ6NzY0NjMwNjAwMjYwMjU3Njg2MF8xNzgyMDk5MDkwOjE3ODIxMDI2OTBfVjM)
 
 第一个是google antigravity使用的agent skill目录
 
@@ -66,27 +66,27 @@ npx skills add https://github.com/jimliu/baoyu-skills --skill baoyu-post-to-x
 
 在OpenCode客户端使用@便可以找到我们要
 
-![图片展示的是在OpenCode客户端中使用@技能操作的界面。界面中显示“@docs\\ai\\2026-02-07-post-x-skill\\test.md 将这篇文章自动发送到推特”，下方有“Build”“GPT-5.2”“Medium”选项，以及一个“上传”图标。该图片与文档中介绍使用宝玉Skill将本地markdown文档自动上传到推特后台的操作流程上下文相关，展示了在OpenCode中使用@技能进行相关操作的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGU4MTM5NWMzMWJmMjUwOGQxYjViYTQ1OWI0MDViZTVfMDU2ZjVjNzc0MzlmMDFiMzcwYjQ0NmIxNjI4MjhmZWVfSUQ6NzY0NjMwNjAyMzA5MTg5OTM0Ml8xNzgxNzcwOTE5OjE3ODE3NzQ1MTlfVjM)
+![图片展示的是在OpenCode客户端中使用@技能操作的界面。界面中显示“@docs\\ai\\2026-02-07-post-x-skill\\test.md 将这篇文章自动发送到推特”，下方有“Build”“GPT-5.2”“Medium”选项，以及一个“上传”图标。该图片与文档中介绍使用宝玉Skill将本地markdown文档自动上传到推特后台的操作流程上下文相关，展示了在OpenCode中使用@技能进行相关操作的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDI1MzEyNzdiOTBlOGM4MDBjODAzMzlmMWZmZDc4YzZfYzM0MmVjZmQyNDI5Y2JmM2VkMzE4YmE1ZmVmNTBkNjNfSUQ6NzY0NjMwNjAyMzA5MTg5OTM0Ml8xNzgyMDk5MDkxOjE3ODIxMDI2OTFfVjM)
 
 执行之后会弹出浏览器进行登录授权
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjY3MGZmNTc2MDFhMjA1ZjU5M2MwNWRhNWZiZTA0YWVfNGM4OGQxZTBmMzIzODMzOWJmZjlmYTU3MDRhZDM4ZDdfSUQ6NzY0NjMwNjA0NjkyNzI3NzAyNV8xNzgxNzcwOTE5OjE3ODE3NzQ1MTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2E4NmU3MjRkYjAzYzlmYzA5Njk3ZjU3NmNhMDc0ZjBfNGJmZDEyY2NmMjcyMDJjOTRiNmZkZjg0Y2E5MTlhMjdfSUQ6NzY0NjMwNjA0NjkyNzI3NzAyNV8xNzgyMDk5MDkwOjE3ODIxMDI2OTBfVjM)
 
 登录完，你关闭浏览器，你的登录信息就在本地进行存储了，一段时间之内就不需要进行再次登录了。
 
 如果跳转到下面页面也没关系，你点击搜索进入登录就可以了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTEyMDIyMzNmODRkNzkzODBhYThlMWNjMjRlOTdmODRfMjkzMzk2M2FjMzY3YmIwNjAxMmYwZWUyZmE5MDE5MzhfSUQ6NzY0NjMwNjA2NDAyNzgzMTI1Nl8xNzgxNzcwOTE5OjE3ODE3NzQ1MTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGY1ZGZlZGEwZTcyOTJlMjEzN2JiYzMyNWRhYjZiYTRfOTY5ZTE2ZWE5NGRjYmI2MjNjMDYzZGUyMTFhNzI2MDRfSUQ6NzY0NjMwNjA2NDAyNzgzMTI1Nl8xNzgyMDk5MDkwOjE3ODIxMDI2OTBfVjM)
 
 进入登录成功后，看看AI聊天会话，不行的话，你就直接说，现在已经登录成功，请重新自动发送推文。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDhjMWRkZTQ1ZDJjMmMwNDY4NzhjNjQ2OWYyZjc1ZTNfNDJjM2JkMGZkYjdkNmU3N2Q2M2M2M2FhYmI0ZDEzZDZfSUQ6NzY0NjMwNjA4NDQ1MDQyMTY5Ml8xNzgxNzcwOTE5OjE3ODE3NzQ1MTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTBkYmE4NGY2N2FhYmRjMTE3MDViMjY3ODVkNTU5ZjRfODEwZmNhODQ3M2U1Y2U4YTRhOTBkYTYzZjM0MDNhZGRfSUQ6NzY0NjMwNjA4NDQ1MDQyMTY5Ml8xNzgyMDk5MDkxOjE3ODIxMDI2OTFfVjM)
 
 如果进入到上面这个界面他没有继续自动点击了，你就点击我箭头的指向 \\[文章\\] => \\[撰写\\]，然后他就会自动进行了。看我下面的视频，重点注意视频中我的鼠标位置，其实是没动的。
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzhmZWFjNDk3NDg5NzI1NTVhNzYwNGFhMTIzOTAwNzVfZjU2MzM4YWJhOTc0ZDBhYzIyMjAyNGY2NTViZmIxYzdfSUQ6NzY0NjMwNjEwNjUxNTcwNDgwNF8xNzgxNzcwOTE5OjE3ODE3NzQ1MTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmZiMDRmYjVjN2QyMmViNWZjZmM3MDE0YTkwODRmMDRfOWY5YmIwY2EwMGUzYjcwYWZhMzRmYjc3ZDg4ZmQxYTVfSUQ6NzY0NjMwNjEwNjUxNTcwNDgwNF8xNzgyMDk5MDkwOjE3ODIxMDI2OTBfVjM)
 
 自动将本地markdown文档自动上传到推特后台
 

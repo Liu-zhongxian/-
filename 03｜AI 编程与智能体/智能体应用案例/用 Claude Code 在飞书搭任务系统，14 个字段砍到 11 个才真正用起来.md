@@ -2,7 +2,7 @@
 
 # 用 Claude Code 在飞书搭任务系统，14 个字段砍到 11 个才真正用起来
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWYyZGJlZjgxNTYzN2RmNDViMDM0OTQwNDU0NzA1NjVfZGVjYjM2MTAwMGEzMDgzOWE4M2FjMTg2MWY3OWY0OTVfSUQ6NzY0NTI2NjY2NjA3MDgwNTcwM18xNzgxNzcwOTExOjE3ODE3NzQ1MTFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yjk1NWRlNjcyZTk5YTEyZDBiMWQxM2ZjMjc4YWZlN2FfYmRhOWM4NDgwMzcyZjlhMGE5OTU2YzdjYTJlN2JiMjBfSUQ6NzY0NTI2NjY2NjA3MDgwNTcwM18xNzgyMDk5MDgzOjE3ODIxMDI2ODNfVjM)
 
 用 Claude Code 在飞书搭了个任务管理系统。
 
@@ -18,7 +18,7 @@
 
 上周我跟 Claude Code 说了句"帮我在飞书建个任务管理表"。两分钟，表出来了。字段、自动化、看板、仪表盘，全配好了。我没打开过飞书后台，没点过一次界面。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTc4OTkwZjI4NDBlNTNkNGUyOTY1MWZjM2UyZTljNDdfNTdkZGFiOTRlOWMyMzlhYmFhNWRmMzQ0MTNlODAwZTVfSUQ6NzY0NTI2NjY2ODIxMzcwMTg0Nl8xNzgxNzcwOTExOjE3ODE3NzQ1MTFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGYwYmM2OWFjNjc2NjM2MzViOGZlODY4YTcxZTkxY2VfNGNlZDkwMzJmMjc5MDJhYmY3Mzg3YzBmZDVkYTE2MjhfSUQ6NzY0NTI2NjY2ODIxMzcwMTg0Nl8xNzgyMDk5MDgzOjE3ODIxMDI2ODNfVjM)
 
 用了一周，录了 30 多条任务。这是我用过所有任务工具里坚持最久的一次。
 
@@ -65,7 +65,7 @@
 
 录入摩擦从 14 个字段降到 1 个。这才是能坚持用下去的原因。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTg3YWUzYjczZDY4MzNhYzE5ZDg3NjVhNTlmYzRlZmRfOGMxNmI3Y2RjYmMxODA5NDc0NmU5ZWM5MTczZDA1ZWNfSUQ6NzY0NTI2NjY2OTQyMTQ2NDc2OV8xNzgxNzcwOTExOjE3ODE3NzQ1MTFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDcyYjE5Yjc0Mjg2M2ZjZmYwZTI4ZTJlNzY0N2MzM2ZfNTQ4NGQ2MzU3NzdhMTFjZDZmYjgyMDg2MjNhZjU2NjdfSUQ6NzY0NTI2NjY2OTQyMTQ2NDc2OV8xNzgyMDk5MDgzOjE3ODIxMDI2ODNfVjM)
 
 还有两个公式字段自动算，不用你管。逾期时长：过了截止时间自动开始计算差几天。是否逾期：超期了直接标红。看板上红的就是该赶紧处理的，一眼能看到。
 
@@ -106,7 +106,7 @@
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OThmNzI1NzZjMmM2MDU5OGQ5MjQwODcwNzA1ZDM3MWJfYmIwOTA5ZTFmMDQwZTM3N2ExYTRmZWM1NjkxM2RlZDNfSUQ6NzY0NTI2NjY2NjYzMjk4OTg5NV8xNzgxNzcwOTExOjE3ODE3NzQ1MTFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmQ2ZTI2NGZjZTAzOWFmZjgzMTZkMjdlMjEwYTk3Y2JfODg4ZGQxNzA3OGY1MWQ0NmZjMmZkY2FkM2QxNDE4M2RfSUQ6NzY0NTI2NjY2NjYzMjk4OTg5NV8xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
 GIF
 
@@ -121,7 +121,7 @@ GIF
 
 仪表盘是给自己看的。干了多少活、积了多少没干的、哪个分类最多，数字不会骗人。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Nzg1OWZmZDkxYzVjNWMxYjk1ZTQyMzVmMjExZjY4NTNfZGYwOTFhNWVjYjhhMjk2MjNmYWUzNzliYWQyNTQ5YzVfSUQ6NzY0NTI2NjY2NTI5OTE1MjA5MV8xNzgxNzcwOTExOjE3ODE3NzQ1MTFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzMxNDZmYzY5ZTZiOTI3OTVmZWMzOTNkYjMzNmYyNDlfMzdlZjdkNzQ5OTU0NWEzZTViYTRmODJmNGVhNTMyMWRfSUQ6NzY0NTI2NjY2NTI5OTE1MjA5MV8xNzgyMDk5MDgzOjE3ODIxMDI2ODNfVjM)
 
 ## 懒人模板
 

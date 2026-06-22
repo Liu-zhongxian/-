@@ -2,7 +2,7 @@
 
 # Codex 移动端配置，保姆级教程带你 5 分钟搞定
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWY2ZGI4OTU0MzBmNjM4MmIzYjY2MjhhMThlYmIzYWFfZTM4YWQxZjdkM2JkY2M0NzJjOWFmNzhjMjhkYmU3ZDJfSUQ6NzY0NTI2NTM4MjcyMzAxMzgyNl8xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGU5YTkyNWVlYTUwOWFhMDIzMGJmMzdlNmYyYjk5MWVfZWUyYzY5NjRlMGMyMjQzODAyZWQzNjNmMjA5Nzc5NDBfSUQ6NzY0NTI2NTM4MjcyMzAxMzgyNl8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 🔥首发！codex 移动端连接配置保姆级教程奉上 今天 Codex 上线了移动端远程控制功能，我第一时间配好试了一下，人不在电脑前，手机也能给 Codex 下指令、看结果、接着之前的对话继续聊。
 
@@ -29,7 +29,7 @@
 
 打开 Codex 桌面端，点击左上角菜单，右上角会有一个蓝色的「更新」按钮。点它，等更新完。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDZiMzA5NzFlYzFjOGY4MjIzNmZhNWVhNDUwZGNjM2ZfZGEyN2Y5ZGU0OTdiYWQ2NzkyODZhMmJmMzlmYTA4OWFfSUQ6NzY0NTI2NTM4NjM2NDYxOTk5NV8xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWNhZDU1MjE0MDhiYzFlMGEyMGUxNWEwMDcwNzYxNjNfYjk4OTNkYjUwYjMxNzg5Y2EyZjZkN2Q2NmE5NDkyMDVfSUQ6NzY0NTI2NTM4NjM2NDYxOTk5NV8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 更新前菜单里只有「新对话」「搜索」「插件」「自动化」四个选项，看不到「设置 Codex 移动版」。更新后才会出现。
 
@@ -37,7 +37,7 @@
 
 更新完重新打开左上角菜单，多了一个「设置 Codex 移动版」。点进去。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTdjYjYzMTgzZTkwZjZhZWM1ODRlYmQxMjhiYjU1NGJfMDhlZmM1NmI2N2RmNTZmZjRlNzY3MDQ5YWE1NWZmOTRfSUQ6NzY0NTI2NTM4NDg0MjMxNjk4NV8xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmU0MTA3MTdiOTRiYTY4NWE2YjFiYzQ2MWE1MmU1ZGJfMzcxODgyM2Q3ODNjYjE1NDI4ZDI3MTZjMzJiMDI4ZGRfSUQ6NzY0NTI2NTM4NDg0MjMxNjk4NV8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 会弹出一个「Introducing Codex mobile」的介绍弹窗，点「Get started」。
 
@@ -49,7 +49,7 @@
 - **Stay in the loop**，Codex 完成任务时手机收到通知
 - **Start something new**，直接从手机发消息让电脑上的 Codex 开始工作
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjFlYTBkNDQ0Y2VmOTMwZjM0Zjg1MzJiMGY0NjgxYWFfMWZiNzZhYjNjOWQxODliZjJmMmNmZDQ0NWQzYjY2YTlfSUQ6NzY0NTI2NTM4NTM5MDA2Njg3N18xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2E4ZDJkYzViNWRjYjc4MjljYTFlYjc2ZmUzYWVhNjVfZWRjMTU2OTJkM2E5YjdjNzY4MTU1NTgxN2JhMjQ4ZmRfSUQ6NzY0NTI2NTM4NTM5MDA2Njg3N18xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 ⚠️ 注意页面顶部那行字：**电脑必须处于唤醒状态**。电脑睡眠了手机就连不上，这个后面还会提到。
 
@@ -63,7 +63,7 @@
 
 页面提示「启用多重身份验证」，点「前往 [chatgpt.com](https://chatgpt.com/) 继续」，浏览器会自动打开。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWZjN2ZmZTJjYjVmOGYyNDFjMjQ1OGE2M2I0Y2RhYjBfMWNiNmNhNGE1YjEwYjkyNDI1NDRkMDFhOTQwNjUyMzlfSUQ6NzY0NTI2NTM4MzY2Mzk3OTcxM18xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTNjOWIyZGU1ZTc2YWZiMTFlOGRlOTFkYmU4MGJlOTJfZGJmY2UxY2I4ODAxYjBkY2NmNzlmYjUzZWVmZDZiOWNfSUQ6NzY0NTI2NTM4MzY2Mzk3OTcxM18xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 ## 5️⃣ 在网页端配置 MFA
 
@@ -71,7 +71,7 @@
 
 找到「多因素身份验证 (MFA)」区域，把 Authenticator app（验证器应用）右边的开关打开。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODY4ZTNhODVkMDNlM2FiNDUwODE2MzAwZGIzNjU1NmNfNTJjNjk1ZThlMTUxOTdmZmM2ODFmZjUxZTUxZDAzMTlfSUQ6NzY0NTI2NTM4MzE1OTIyMTQ2MF8xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDRjYWZkNTViZWQwZGExMjZlM2I0ZWU5Nzc3NTMxMTJfNmQxNWE0ODkxNjk0MmU1ZTNkZTdiODExMDE1ODUwMzRfSUQ6NzY0NTI2NTM4MzE1OTIyMTQ2MF8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 ## 6️⃣ 绑定验证器应用
 
@@ -81,27 +81,27 @@
 
 **❷ 填验证码** 扫完之后验证器会生成一个 6 位数字，填回网页的输入框，点确认。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGQ0ODhkODhmYmY4MzU0NDk2N2Y2ZWIwMjE4MDAyZGNfMDA3M2JlMWFmMDdlNWZlZjBjNmJkOGUyNjNkZTdiZGJfSUQ6NzY0NTI2NTM4MjYzMDgwNDY5N18xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjRiNTBiMTA0MDRhZGIyNTliZGY0NDIwZmRmNTczNWNfMjllYWIxMzgwNDM0MTk4ODRiZjQxNjFjYjQ4MDhmYTBfSUQ6NzY0NTI2NTM4MjYzMDgwNDY5N18xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 手机上找到刚添加的 OpenAI 条目，把验证码填回去就行。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjQzZmY2ODhjNzg4ZDQ0M2Y2YTA4ZDM3OWNhMzk1MTJfM2E4MDY0YzdjODdkZWE1ZDVmNGIwY2E0ODFmMWNiMTdfSUQ6NzY0NTI2NTM4NjE3MDEwOTEwNl8xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjJiYmJjMGJmYjAyNDFjOTZlZGRjZmMzYmUwYWRjNjZfODNkNTg3YjJlZjA3M2U5NWIyMzc0MTc5NGE1ZjE1MWZfSUQ6NzY0NTI2NTM4NjE3MDEwOTEwNl8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 ## 7️⃣ 手机端更新 ChatGPT 并授权
 
 先去应用商店把手机上的 ChatGPT App 更新到最新版。这步别跳，旧版本看不到 Codex 入口。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yjc3NDAzOTUyODFhMTVhNTFmYzY3OGJmYWM2OTFiMzhfMzE1NzAwNDA1ZDczZjFkOTVlYTI5OGYyNzBiMTY3NWFfSUQ6NzY0NTI2NTM4NjQ3MjAxNzA3NF8xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGU1NjZkNThkNmMwZjI2MjkyOTVlOWQyNzFjY2QxMmZfOTY5Y2QyY2I3NTVjYjk5OGQwM2E5YTM5N2EzMWNjMjVfSUQ6NzY0NTI2NTM4NjQ3MjAxNzA3NF8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 更新完打开 App，侧边栏会多一个「Codex」入口，点进去。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDQwNzFmOWZlMjRiOGM5ZmZkOGI4Y2ZjODc2MTU3ZTJfYTIxZWUxYjgwZTI0NzAzNGIxNmMyNzIyNjc0OWNjZjBfSUQ6NzY0NTI2NTM4MzYxMTc5NjY3MV8xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjJkNzZmZDc5MDEzOTA2OTJjZmI1MDNmZjRlOGQ5YzlfMmQ3OWYwMWIwOTc4ZTc1N2U0ZGMzYzdlNTFlNzZkZTBfSUQ6NzY0NTI2NTM4MzYxMTc5NjY3MV8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 手机端弹出授权页面：「允许此手机访问你电脑上的 Codex 吗？」点「授权此手机」。
 
 授权完成后你会看到 Codex 的主界面，顶部显示你电脑的名称，说明连上了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDg5NzhkYWJkNTg2OTMxNzhhM2VjODQwZjllMjFiYTZfOGQwMjNjOTc2NmU0NmU3ZDdiYzBiNTBmZmI4MThkZWNfSUQ6NzY0NTI2NTM4Mzk5MTEwMjY0OV8xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2Y5YzRjYjlmNTJmZTk0YTMxNWRlNmFhMGY0OTcwYzFfZDY2YjU3OGJlZDM4ZjgyODQyNjhlZGViMjdlYTY3ZDlfSUQ6NzY0NTI2NTM4Mzk5MTEwMjY0OV8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 ## 8️⃣ 电脑端确认允许
 
@@ -109,7 +109,7 @@
 
 点「允许」。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmY4YjYyNzE2ZDUxNDNjZjdkYjg2MTlmMTRiZWEzMGRfNTE2Yjc5YTQ3NDcwYjIwMzg1ZWQ2NDNjYWUyYjY3YTJfSUQ6NzY0NTI2NTM4NTM0ODEyMzg2N18xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTQ3OWJhYTI3ZmIxOWU4NzY2ZDRjMDU1YmEwMWQ4NWFfN2UyYTNmNzNlYTMwMmRiODYyNGY3OWE5N2I2NjU2NzFfSUQ6NzY0NTI2NTM4NTM0ODEyMzg2N18xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 ## 9️⃣ 配置完成，选择附加功能
 
@@ -123,7 +123,7 @@
 
 **❸ 安装 Chrome 扩展程序** 让 Codex 能操作浏览器页面内容。装了之后手机可以通过 Codex 控制浏览器。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTY5MDQxY2VjMTA1MGZjYmE3NzRjNjM3YWI3NzYxY2FfNDAyOWIyNDMxNTk1Y2RmMTVjOGVhYzFhMDEyY2JlY2VfSUQ6NzY0NTI2NTM4MzcyNTI1NTg5Ml8xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjY5MGUzNWI0ZTc0Y2ExZjRkODVkYTI4NDk5MGQ1MzFfZDMxNjFlNmJmOTkxYWM2MjI1YTgzMGZlZTI1ZDdlZTNfSUQ6NzY0NTI2NTM4MzcyNTI1NTg5Ml8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 点「完成设置」。
 
@@ -135,11 +135,11 @@
 
 **手机端：**
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGEzOWYxMTEyNzQ3ZWE0ZTk2NDg3MmI4M2E4ZjlhODVfNWEyNmU2NTcwNzA0YmQ4MWY2ZDAxNjUxZmEwNWUwM2JfSUQ6NzY0NTI2NTM4NjE0OTA4ODQ1NV8xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTJkZWFiOWUyN2M4ZTUyZWMxZWEyN2Y2NDAzMzY0MDhfNWVkYTgxZGM2YWMyYTkzMzk1MWZjOWI0ODdhZGY4YTlfSUQ6NzY0NTI2NTM4NjE0OTA4ODQ1NV8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 **电脑端同步显示：**
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDBiMjIyMGZiMDhlODhhMzA2N2YwMTY4YjVkMDYxODBfNGRlMDU3MTk0MDFlYWFkOTdkNjcxMWQyOTg1MzUyMDNfSUQ6NzY0NTI2NTM4NjEwMzAzMzAzMV8xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Zjk3NGE0MGZkYmI1NmU3YzNkYWVkMjk5M2JkZDFjODZfZjM3MWQ0MWU2NTkxNDczN2U1YWQxZTAxYjExZTY1ODRfSUQ6NzY0NTI2NTM4NjEwMzAzMzAzMV8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 手机发的消息电脑实时同步，反过来也一样。
 
@@ -163,4 +163,4 @@
 
 Codex 桌面端**左下角**有个手机图标，点一下会弹出二维码（区分 iOS 和 Android）。用手机自带扫码功能扫一下，自动打开 ChatGPT App 引导授权，省去在 App 里找入口的步骤。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWRhZmIzNGYwZTllMTFiZDNmYWYxMGRmOGE1NzNlNTNfMTVlNjhkNzY5YzVlMTgxNzhiNTc0YjllMjgzMTk4NDRfSUQ6NzY0NTI2NTM4NTM4NTgwNzAzM18xNzgxNzcwODg0OjE3ODE3NzQ0ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDc4MWRjY2U5YmMyNmY2YzQxZTkwOWQyY2IzMWI5ZThfODg4MGIxMDg4Yjg4YTVhODNmODY1MTk3YTczY2VhOGRfSUQ6NzY0NTI2NTM4NTM4NTgwNzAzM18xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)

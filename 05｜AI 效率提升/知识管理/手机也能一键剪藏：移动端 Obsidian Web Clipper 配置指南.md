@@ -2,7 +2,7 @@
 
 # 手机也能一键剪藏：移动端 Obsidian Web Clipper 配置指南
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODVlNGM2NzYwOTk5NWVjZjg3Y2IzOWU3YjQ3YWIxMGRfYmQxMTc4YzYxOGNkNGYxMjExMjcxYWE2OGY2NWM3NThfSUQ6NzY0NTI2NjUyNzg1MTQxNjc4M18xNzgxNzcwOTY2OjE3ODE3NzQ1NjZfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWEzNzU4OTEyN2UzNTllNWMwMTI1ODRiNmRjODcyNDFfZGNlMzdhN2NlNGM1MDY1NjMyMzAzZmViMDZhYjlhODdfSUQ6NzY0NTI2NjUyNzg1MTQxNjc4M18xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 上一篇教你在电脑浏览器上装了 Web Clipper 看到好文章点一下就存进 Obsidian 了。
 
@@ -24,25 +24,25 @@ iPhone 和 Android 走的路不一样，但都不难： 📱 iPhone: Safari 扩�
 
 打开 App Store，搜 "Obsidian Web Clipper"，认准 Obsidian 官方出品（Dynalist Inc.），点安装。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjAwMDU0NmUyNjZmOWJkMGVlYzJhZjQyOWY3OTAzNzlfMDFiNDJlZGIyMDRiZTI1ODg5ZWIyNzBmOGQyZGI0YWZfSUQ6NzY0NTI2NjUyOTE5NzUwOTgyMF8xNzgxNzcwOTY1OjE3ODE3NzQ1NjVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjNlMDkzMzZlNGVjMTAyMmVlMWVmZTIxYTA1N2YyMThfMTc4ZWYwNzU4ZDhlNGM2MjRhOWY2ZTkxNWM1NzNmNjRfSUQ6NzY0NTI2NjUyOTE5NzUwOTgyMF8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 装完打开 App，它会告诉你：去 Safari 里找拼图图标 🧩 就能用了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTgzYTQ1ZWRkODYzMWMxZjIyOWNhN2I3MWU3YjYwNGRfNzg5MzFmZDJiOTgwM2ZmYTk3ZmY4ZGU0YmIxZmQ1NDRfSUQ6NzY0NTI2NjUyODQ5NzM4ODczMF8xNzgxNzcwOTY1OjE3ODE3NzQ1NjVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGVjMDI2MmYwMzVkOTg0MTkwZmQxODQ0MmVmNTljYjJfMjkyNDJjMDg3ZjgyZTZmYTRkMmY4ZDlkNjg3MTdiYmNfSUQ6NzY0NTI2NjUyODQ5NzM4ODczMF8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 但装完还不能直接用 — 需要先在 Safari 里把它开启。
 
 打开 Safari，随便进个网页（比如 [google.com](https://google.com/)），点底部工具栏左边的拼图图标 🧩：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDYxOWU4MjQzZTExMDg1ZTM2NzA3MzYxODk4YzgwNzFfYmRlMDU0ZGViOWI3ZWM5NTM3ZGViNmIxOGZlYjEyNmVfSUQ6NzY0NTI2NjUyNTc1NDgyMTgyMV8xNzgxNzcwOTY1OjE3ODE3NzQ1NjVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2FkZjkyYmMxZDI4Mzg2N2UyNWE0OTc4OGM1N2Y5MWVfYzJlNzc4NGE5NGQyNTEwZmQxMWM2NDY4OTUxNWYzZWVfSUQ6NzY0NTI2NjUyNTc1NDgyMTgyMV8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 找到 Obsidian Web Clipper，把开关打开：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTQzODU2ZDljOGRlZTRjYTNjYzE3YjJlYzU3OTI3MDBfNTlkY2Q4YzAxODUyZTA3MzYyZjkxNzFmNmMxMjc5NmJfSUQ6NzY0NTI2NjUyNTk2NDA5NDY3NF8xNzgxNzcwOTY1OjE3ODE3NzQ1NjVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTM1MzRmMzMyNzQ0OGZhMzU1OTNlYjIzNGQ2ZDA1NDBfNjJhYjJlZDljMjFhNTNmZTgzMGQ4NDVhY2NiOWJmNGRfSUQ6NzY0NTI2NjUyNTk2NDA5NDY3NF8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 打开后 Safari 会弹权限提示。❶ 顶部如果有「检查」按钮可以点一下看详情，❷ 然后点「始终允许」— 它需要读网页内容才能帮你剪藏。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2QxMDE3ZjRjNjFlZjAyNDUzMWNmMTM1NjFmYWIxZTVfNjIxMDI2Y2NmYzQ4NTU2MDY5YWVlNWRlMjBjMDc5Y2ZfSUQ6NzY0NTI2NjUyNjg5OTQ5MDAwOV8xNzgxNzcwOTY2OjE3ODE3NzQ1NjZfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGVhNmNkODJjNWYzNDYzMzk0Yzk2NDAwNjA5OGQwYjRfMzZhOWE0MWIzZmViMGY1Yzg0ZGYzMTczMzc4ODYyMTNfSUQ6NzY0NTI2NjUyNjg5OTQ5MDAwOV8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 搞定，扩展装好了。
 
@@ -50,11 +50,11 @@ iPhone 和 Android 走的路不一样，但都不难： 📱 iPhone: Safari 扩�
 
 先打开 Web Clipper 的设置 — 还是点底部拼图图标 🧩，在扩展列表里选 Obsidian Web Clipper：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzNkODM4ZDU3MzkxMGZmYjgyMWIwODYwNTMzNWFjNGVfZTJhMjFhOTc3Nzc0YTdjNzZhMTliOWE2YTAzODNiYTBfSUQ6NzY0NTI2NjUyOTczNDQxMzUwNV8xNzgxNzcwOTY1OjE3ODE3NzQ1NjVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmE0ODVmNjY0NTgxMjEwMDYyYzczMzk0YTg3Zjg2ODZfZTk2MmE1MzgwYTg1NmMzZDNhMDVkMjM3YThiMzBmZTVfSUQ6NzY0NTI2NjUyOTczNDQxMzUwNV8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 进入设置页面，三件事跟着编号来：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjliOTVkYzNhNTBlZWFiOGFjNDIyYWFlNjJmNDBiZDdfZWRkM2Y3ZDI5YTZiZjQ3YTUwNGE1YTg3ZWU1ZmM3MWJfSUQ6NzY0NTI2NjUyNTUyMTQxNTM3MV8xNzgxNzcwOTY1OjE3ODE3NzQ1NjVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmU1YmFjMWJjZDEzMzhjOTdjNjQwZTNjNjRlZTUwN2NfMzMyNzVkMGRiMjVmYmViMDBmMTEzMDhmMTExYjJjMGJfSUQ6NzY0NTI2NjUyNTUyMTQxNTM3MV8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 ❶ **语言切成「简体中文」** — 点语言下拉框选就行。
 
@@ -68,13 +68,13 @@ iPhone 和 Android 走的路不一样，但都不难： 📱 iPhone: Safari 扩�
 
 点「新建模板」：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmU5YjQ4YjNmMzM2MGNiMzg0M2Q1M2U2ODMwYjZkZjNfYzEwZjkwNzIzMmIwNjU4NzhmOGMwMjEwNDZiOTBkMzlfSUQ6NzY0NTI2NjUyNTU3ODUyOTk4OF8xNzgxNzcwOTY1OjE3ODE3NzQ1NjVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDNjNDA2ZGM5Yzg1MmFhNGNkN2ZmNzU4NDQ0OGI2OTlfNjIwNzkwMGU0ZTYzZDkzOWNkZWI3NGQwYTNjNGVkNzFfSUQ6NzY0NTI2NjUyNTU3ODUyOTk4OF8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 **推荐一键导入**现成配置，不用手动填：
 
 点右上角「更多」→ 底部弹出菜单选「导入」：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGI2ZjNhYzYyYjVjNDZmOTBjYjhiY2YwYjQ0MzgwYjNfOGU5M2Q3ZjQ1Nzc2NTk4MzUyN2UxNTIxOWZhNjIwOWVfSUQ6NzY0NTI2NjUyODcwODU2MjEzOV8xNzgxNzcwOTY2OjE3ODE3NzQ1NjZfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDk0ZTk3NDQ3ODA1YmUxN2MxODljNjYwZGM4MDNmY2VfZjQ1MjQ1ZmY2YWJkMGE5M2IyNDM0Y2JhY2E3YWVjNzdfSUQ6NzY0NTI2NjUyODcwODU2MjEzOV8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 把下面这段 JSON 整段复制，粘贴到导入框里：
 
@@ -102,7 +102,7 @@ iPhone 和 Android 走的路不一样，但都不难： 📱 iPhone: Safari 扩�
 
 💡 **已经在电脑上配好属于自己的高级模板了？** 在电脑版 Web Clipper 里把现有模板导出成 JSON，再到手机上导入 — 效果一样，两边配置完全一致。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGYyYmEzZjFjOTlhNDc0YjAwYTg5ZTAxNjEzYzFiMWJfZmQzNmMzMjk3NWNjZDNmM2U5ZDMyYzUxODc4ZmU2MWNfSUQ6NzY0NTI2NjUyNjc1Njg2NzI2NV8xNzgxNzcwOTY1OjE3ODE3NzQ1NjVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2FhYWRkOWI5ZGNlN2YxNWIxZjA0ZDM1ZGJiZTdkYzBfZTViYjQ4ZTgyZGRiNTA4MTZkZWIxNDFlODBkOTJjYjhfSUQ6NzY0NTI2NjUyNjc1Njg2NzI2NV8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 保存，搞定。
 
@@ -110,11 +110,11 @@ iPhone 和 Android 走的路不一样，但都不难： 📱 iPhone: Safari 扩�
 
 用 Safari 随便打开一篇文章。点底部拼图图标 🧩 → 选「Obsidian Web Clipper」→ 确认模板和预览内容没问题 → 点「添加到 Obsidian」。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTBmMGQzOTgyYzViYjlhOTZhMDIwMTEwOTZmYjU4ZmFfY2RmOWI5ZTk4NWMxNjBlZTc1Y2M0YmRlNGExMzIwMmFfSUQ6NzY0NTI2NjUyNjc1Njg1MDg4MV8xNzgxNzcwOTY1OjE3ODE3NzQ1NjVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2IzZjNkYzI4MmVlN2I1ODljYWEwMjFlMDAwMzM3MjFfNjc5NGNiOWExYzc4ZTU5MjE3NTAxMTllZTFjZDRkZTdfSUQ6NzY0NTI2NjUyNjc1Njg1MDg4MV8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 会自动跳转到 Obsidian App，收件箱里多了一篇笔记。标题、原文链接、正文全都有，属性也自动带上了：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGI3ZTU3YWJiOGQ1NzNlYzY0YTRmNTU5NDM0NWYyNTNfNzYyYWE5YTdmNzg1ZGQ4Yzk3NjM4MjQ1ZGI5NDE4NGRfSUQ6NzY0NTI2NjUyNjgxNzMyNDI0Nl8xNzgxNzcwOTY1OjE3ODE3NzQ1NjVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWM4NmZhMzU3ODI0ZGNmMjE1MDVlZDViZDU4YWY1ODhfMTk2Yjc0NWEyODAzZjk4NzZkMmI1YTcwODBkOGU1YjBfSUQ6NzY0NTI2NjUyNjgxNzMyNDI0Nl8xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 以后躺床上刷手机看到好文章，两下点完就存好了。
 

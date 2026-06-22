@@ -10,7 +10,7 @@
 
 不了解 GitHub 也没关系，后面我有时间也会专门花时间去讲解一下 GitHub 出一篇文章。
 
-![图片展示的是小红书Red Skill管理页界面。左侧导航栏有首页、笔记管理、Red Skill、数据看板、活动中心等选项，当前选中“Red Skill”。右侧主区域显示“Red Skill - 管理管理和发布你的Skill”，下方有“Seedance2.0提示词”技能信息，版本为V1.2.7，状态为生效中，还标注了“更新版本”按钮。该图片与文档中作者设计让开源小白也能上手的Skill，只需扫描电脑等操作的上下文相关，展示了已生效的Skill管理页面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzJlOWNlMmFkZWQ4NDdhZGU5YWRmZGI5NDJlNTAyMTFfMDY3NTVlYTdhMzZlMjg0Yzc5NzIwMGE5OTdlZDY5YWNfSUQ6NzY0NDk3ODM5NTU0MjU4ODYyM18xNzgxNzcwOTA4OjE3ODE3NzQ1MDhfVjM)
+![图片展示的是小红书Red Skill管理页界面。左侧导航栏有首页、笔记管理、Red Skill、数据看板、活动中心等选项，当前选中“Red Skill”。右侧主区域显示“Red Skill - 管理管理和发布你的Skill”，下方有“Seedance2.0提示词”技能信息，版本为V1.2.7，状态为生效中，还标注了“更新版本”按钮。该图片与文档中作者设计让开源小白也能上手的Skill，只需扫描电脑等操作的上下文相关，展示了已生效的Skill管理页面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGViNDQyNjQwOGFkMjliM2JiZjFmYTkxYzgxNWYwZWVfZTRkOTlkYmYxNGVlZDllYTg5MzM0YTAyOWQ3OTBlMTBfSUQ6NzY0NDk3ODM5NTU0MjU4ODYyM18xNzgyMDk5MDc5OjE3ODIxMDI2NzlfVjM)
 
 ---
 
@@ -49,7 +49,7 @@
 
 拆成 7 个阶段，主要是怕一路推到 GitHub 才发现 secret 已经泄出去。停在哪一步，错在哪、怎么修都看得见。
 
-![图片展示了“开源”技能的7个阶段及对应操作。阶段1为环境自检，运行`preflight.py`，报告缺失的git、gh、PAT等，附对应OS的安装命令；阶段2是项目识别，运行`detect_project_type.py`，识别项目类型；阶段3为三层安全扫描，运行`scan_project.py`，扫描secret、硬编码用户路径、大文件；阶段4是生成必备，运行`generate_files.py`，用模板写出README.md、LICENSE、.gitignore；阶段5为本地git，运行`publish.py`，执行git操作并提交；阶段6是建仓+推送，运行`create_repo_safe.py`，三路径兜底；阶段7是远端验证，运行`verify_remote.py`，确认HEAD一致及关键文件在remote上。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODliNTg0ZTczZjFjMmNjMDNjYjkyZGE0OGZhNzllY2ZfYTI3YTgxNmFhNDRhMjg1MDJiNjUyZjdmMjExMTRiOWFfSUQ6NzY0NDk3ODQyMTMxMDc1Mzk4MF8xNzgxNzcwOTA4OjE3ODE3NzQ1MDhfVjM)
+![图片展示了“开源”技能的7个阶段及对应操作。阶段1为环境自检，运行`preflight.py`，报告缺失的git、gh、PAT等，附对应OS的安装命令；阶段2是项目识别，运行`detect_project_type.py`，识别项目类型；阶段3为三层安全扫描，运行`scan_project.py`，扫描secret、硬编码用户路径、大文件；阶段4是生成必备，运行`generate_files.py`，用模板写出README.md、LICENSE、.gitignore；阶段5为本地git，运行`publish.py`，执行git操作并提交；阶段6是建仓+推送，运行`create_repo_safe.py`，三路径兜底；阶段7是远端验证，运行`verify_remote.py`，确认HEAD一致及关键文件在remote上。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjBiOTkxNjEzYjA2ZmFiYTU5ZWQ2YTRjZTBhOWU5ZmZfMzI2YjYxMmFlZmQ5ZjQzNmUwMTI1OTAzN2FhOGZiNWNfSUQ6NzY0NDk3ODQyMTMxMDc1Mzk4MF8xNzgyMDk5MDc5OjE3ODIxMDI2NzlfVjM)
 
 简单过一下每个阶段在做什么：
 
@@ -65,7 +65,7 @@
 
 不过最终我都处理了我多轮检查，也是为了让小白可以更放心的直接在自己电脑上运行，不需要处理技术问题的。
 
-![图片展示的是使用`python3 -c "import github_publisher; github_publisher.publish('~/Documents/projects/my-prompt-skill', '--yes')"`命令执行`github_publisher`脚本的完整输出。输出按7个阶段依次呈现，包括预检、检测项目、安全扫描、生成README/LICENSE/.gitignore、初始化git、创建GitHub仓库并推送、验证远程仓库等，最终显示项目已成功发布到GitHub。该图片与上文介绍的Skill发布流程相关，直观呈现了各阶段的执行情况及结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTI2NzcxYTVhOGM5YzE2MDJhMDFmZjczNTA2NTJiZGRfYjZiZDA5YjViZDQ3MmIyZGVkMGYyNWI2OTRlNjZlMzNfSUQ6NzY0NDk3ODQ0NzY5NzEzNjg0NF8xNzgxNzcwOTA4OjE3ODE3NzQ1MDhfVjM)
+![图片展示的是使用`python3 -c "import github_publisher; github_publisher.publish('~/Documents/projects/my-prompt-skill', '--yes')"`命令执行`github_publisher`脚本的完整输出。输出按7个阶段依次呈现，包括预检、检测项目、安全扫描、生成README/LICENSE/.gitignore、初始化git、创建GitHub仓库并推送、验证远程仓库等，最终显示项目已成功发布到GitHub。该图片与上文介绍的Skill发布流程相关，直观呈现了各阶段的执行情况及结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTdlOGQxNDUyMDM1YjBjNjhiMjYzN2IxOGNkMTMyNGZfMzAzODJiMzI1NDBhYzY1MDNjNmRkYjQ3MTg5NjQ4YjhfSUQ6NzY0NDk3ODQ0NzY5NzEzNjg0NF8xNzgyMDk5MDc5OjE3ODIxMDI2NzlfVjM)
 
 ---
 
@@ -77,7 +77,7 @@
 
 不带 `--yes` 也会停在推送之前，但已经默默给你 `git init` 了，也写了 LICENSE / README。`--dry-run` 是只跑前 3 步（体检、识别、扫描），打一份"如果真跑会怎样"的报告，**不写任何文件、不 git init、不 commit**。
 
-![图片展示的是`--dry-run`命令的输出结果。命令执行后，分为三个阶段：Phase 1 - Preflight，显示总体准备情况；Phase 2 - Detect project，识别项目类型type为claude-skill，包含文件、type为claude-skill，给出了项目路径、可见性、License等信息；Phase 3 - Security addCriterionsecurity + attribution scan，扫描结果为GREEN，列出私有仓库、强秘钥、敏感文件、大](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTIyZDBiZTcwOTMzNzg5MTQzMDI3YzFlOTkzNjE4YmVfNTk0ZDI5YzUyOWE2ZDlkMWEzZjU4YzA1ZGIxY2RkMjBfSUQ6NzY0NDk3ODQ3NzcyNTAxMTE2NV8xNzgxNzcwOTA4OjE3ODE3NzQ1MDhfVjM)
+![图片展示的是`--dry-run`命令的输出结果。命令执行后，分为三个阶段：Phase 1 - Preflight，显示总体准备情况；Phase 2 - Detect project，识别项目类型type为claude-skill，包含文件、type为claude-skill，给出了项目路径、可见性、License等信息；Phase 3 - Security addCriterionsecurity + attribution scan，扫描结果为GREEN，列出私有仓库、强秘钥、敏感文件、大](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2YzN2Y2NTk3YTUxYTkzZmE2N2M5ZDhhYWYxMjA0YWNfYzlmNzcyYjExMmU5OWI4M2Y2YWQwMjUzYmRhMzgwZWFfSUQ6NzY0NDk3ODQ3NzcyNTAxMTE2NV8xNzgyMDk5MDc5OjE3ODIxMDI2NzlfVjM)
 
 **README 占位符发布前会醒目警告**
 
@@ -117,7 +117,7 @@ python3 ~/.claude/skills/github-publisher/scripts/preflight.py
 
 8 项检查，缺啥按提示装就行。
 
-![图片展示了在macOS系统下，使用`python3 ~/.claude/skills/github-publisher/scripts/preflight.py`命令执行`preflight`操作后的结果。结果显示8项检查全部通过，包括Python版本、git版本、用户信息、GitHub客户端版本、登录状态、凭证可用性、网络连接等，最后一行显示““Ready to publish. You can ask the AI: 'open source this project'。”，表明已准备好发布，可让AI操作。该图片与文档中“跑preflight，缺啥按提示装”部分内容相关，是跑完8项检查全过后的画面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmM2NmZmMTNmZGM5M2IyZjljZjRhYzJmYWVhYmNhMGFfZjgyODI1NmJhZTMyOGY2MjE5ZDJkNzVhMGJiNWEyYmNfSUQ6NzY0NDk3ODUwMDc4MDM3OTM1NV8xNzgxNzcwOTA4OjE3ODE3NzQ1MDhfVjM)
+![图片展示了在macOS系统下，使用`python3 ~/.claude/skills/github-publisher/scripts/preflight.py`命令执行`preflight`操作后的结果。结果显示8项检查全部通过，包括Python版本、git版本、用户信息、GitHub客户端版本、登录状态、凭证可用性、网络连接等，最后一行显示““Ready to publish. You can ask the AI: 'open source this project'。”，表明已准备好发布，可让AI操作。该图片与文档中“跑preflight，缺啥按提示装”部分内容相关，是跑完8项检查全过后的画面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzU3Mjg2MjJjZDJhODM3MGYyMzI1ZjFmY2Y5MGQxZTVfMmQyNzVhMmEzYWU3MTg5Y2FjZDNhZmVhZDIwZDQ4ZWJfSUQ6NzY0NDk3ODUwMDc4MDM3OTM1NV8xNzgyMDk5MDc5OjE3ODIxMDI2NzlfVjM)
 
 **三、第一次正式用，先跑 `--dry-run`**
 

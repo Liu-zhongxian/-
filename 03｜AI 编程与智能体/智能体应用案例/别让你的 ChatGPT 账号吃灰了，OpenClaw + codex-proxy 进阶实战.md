@@ -4,7 +4,7 @@
 
 
 
-![图片标题为“OpenClaw + Codex-Proxy 王炸组合配置指南”，左侧是Codex-Proxy网关的插画，右侧是OpenClaw智能体的插画。中间有代码示例，展示了OpenClaw + Codex-Proxy的组合使用方式。该图片与上文提到的OpenClaw能无缝用上通过codex-proxy变成本地接口池的ChatGPT账号相呼应，直观呈现了二者结合的配置思路，为读者提供配置指南。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDk3Nzg1Y2I3YTQ3ZmIyZWM1MjMzN2ZhMDQzZjg1ZGJfNDA0NWVkMjkxOTFiM2MyMTViMDY1YmRmMjhhZDI3ZmZfSUQ6NzY0NTcxMzgwODQ2MzI4NTQyNl8xNzgxNzcwOTE0OjE3ODE3NzQ1MTRfVjM)
+![图片标题为“OpenClaw + Codex-Proxy 王炸组合配置指南”，左侧是Codex-Proxy网关的插画，右侧是OpenClaw智能体的插画。中间有代码示例，展示了OpenClaw + Codex-Proxy的组合使用方式。该图片与上文提到的OpenClaw能无缝用上通过codex-proxy变成本地接口池的ChatGPT账号相呼应，直观呈现了二者结合的配置思路，为读者提供配置指南。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWZkM2I5ODM2MGNiN2E5MTFjYTU1NDY2ZmJhZjNkZWNfNTk1NzI4YzRmYWRkZjhlNmY2YTk4NzVjOTViZjllZGNfSUQ6NzY0NTcxMzgwODQ2MzI4NTQyNl8xNzgyMDk5MDg2OjE3ODIxMDI2ODZfVjM)
 
 **导语**： 上一篇文章教大家把吃灰的 ChatGPT 账号通过 codex-proxy 变成了万能的本地 API 接口后，
 
@@ -61,7 +61,7 @@ Invoke-RestMethod -Method Post -Uri "http://localhost:8080/v1/chat/completions" 
 
 ```
 
-![图片展示了在Windows PowerShell中对Proxy进行最小闭环验证的三条命令及结果。首行命令为Invoke -RestMethod -Method Get -Uri 'http://localhost:8080/modules/health'，返回status、status_code、authenticated等信息。第二行命令为Invoke -RestMethod -Method Post -Uri 'http://localhost:8080/modules/health' -Headers @{'Authorization' = 'Bearer pad'} -Body @{}，返回object data、list等数据。第三行命令为Invoke -RestMethod -Method Post -Uri 'http://localhost:8080/api/v1/chat/completions' -Headers @{'Authorization' = 'Bearer pad'} -Body @{'model' = 'gpt-3.5-turbo'; 'messages' = @(@{role = 'user'; content = '你好'}); 'stream' = 'False'} | ConvertTo -Json -Depth 100，返回id、choices等信息。三条命令均正常返回，无报错，验证Proxy升级成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDk3MDQ0YmNlNzRkZDUwYWQyZTViMzVhNjdiNjM5MWJfNjZiM2QwMzFhNDQzYWZiNzk4OTUyZWQ4MTVlOWZlYzJfSUQ6NzY0NTcxMzgyMTY5NjM0NzMyNF8xNzgxNzcwOTE0OjE3ODE3NzQ1MTRfVjM)
+![图片展示了在Windows PowerShell中对Proxy进行最小闭环验证的三条命令及结果。首行命令为Invoke -RestMethod -Method Get -Uri 'http://localhost:8080/modules/health'，返回status、status_code、authenticated等信息。第二行命令为Invoke -RestMethod -Method Post -Uri 'http://localhost:8080/modules/health' -Headers @{'Authorization' = 'Bearer pad'} -Body @{}，返回object data、list等数据。第三行命令为Invoke -RestMethod -Method Post -Uri 'http://localhost:8080/api/v1/chat/completions' -Headers @{'Authorization' = 'Bearer pad'} -Body @{'model' = 'gpt-3.5-turbo'; 'messages' = @(@{role = 'user'; content = '你好'}); 'stream' = 'False'} | ConvertTo -Json -Depth 100，返回id、choices等信息。三条命令均正常返回，无报错，验证Proxy升级成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDUyYzA3NGViYjZiZmE1MTk5YTA2NzE5YzZhY2EwNzVfMjkyZjgxYmQ1ODg5NWEwNTQzMmJiYTMyZDczNDg5MjFfSUQ6NzY0NTcxMzgyMTY5NjM0NzMyNF8xNzgyMDk5MDg2OjE3ODIxMDI2ODZfVjM)
 
 ## 1\\. 对接 OpenClaw 最大的配置坑：进错前门
 
@@ -143,7 +143,7 @@ openclaw gateway status
 
 当你看到屏幕吐出 RPC probe: ok 时，长舒一口气吧——你们的接头成功了！
 
-![图片展示的是在终端中执行“openclaw gateway status”命令后的输出结果。内容包括OpenClaw版本信息、服务状态、日志文件路径、命令及服务环境变量等。关键信息是“RPC probe: ok”，表明RPC探针测试成功，是网关运行状态正常的重要标志。该图片与上文提到的“极其关键的一手查房”相呼应，通过查看此信息来确认网关接头是否成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzI5YjIzNjFjYjllODAwYzYwY2IzNjdkMWQ2YjlhMzhfODZlNzUyOTliYmRmNDQwNzA3OGJlYTNjYzZmNWZlYzlfSUQ6NzY0NTcxMzgzNDk3OTgwNjQyMV8xNzgxNzcwOTE0OjE3ODE3NzQ1MTRfVjM)
+![图片展示的是在终端中执行“openclaw gateway status”命令后的输出结果。内容包括OpenClaw版本信息、服务状态、日志文件路径、命令及服务环境变量等。关键信息是“RPC probe: ok”，表明RPC探针测试成功，是网关运行状态正常的重要标志。该图片与上文提到的“极其关键的一手查房”相呼应，通过查看此信息来确认网关接头是否成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjAxNDZjOWRmYzYwZGZmOTFjNzFhNzc2MWZhYmVlZTJfOWE5NWZjYjA1ZDI4YzFhMzQxMWFmYTU0ZjQzZTk0ZWNfSUQ6NzY0NTcxMzgzNDk3OTgwNjQyMV8xNzgyMDk5MDg2OjE3ODIxMDI2ODZfVjM)
 
 ## 2\\. 跨设备联调的“隐形高墙”：本地防火墙
 
@@ -158,11 +158,11 @@ Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
 
 ```
 
-![图片展示了Windows本地防火墙的安全性概览界面。界面中显示“病毒和威胁防护”“账户保护”“设备安全性”等选项，其中“防火墙和网络保护”被红色框突出显示，提示防火墙已关闭，设备可能易受攻击，下方有“打开”按钮。该图片与上文提到的Windows本地防火墙将代理设备当成陌生设备，直接掐断网络请求的内容相关，直观呈现了防火墙关闭的状态，为后续用管理员身份打开PowerShell执行指令以关闭防火墙的操作提供参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWIwNjNjZGY5NTE3YTZiZGVlZjY4YmIwNzFiYzAwYTBfYmZjYmZmZTE2YWUzMzRlYjIxMTkzNDk0MWNiNDZkYThfSUQ6NzY0NTcxMzg0ODA3ODY2Njk3Nl8xNzgxNzcwOTE0OjE3ODE3NzQ1MTRfVjM)
+![图片展示了Windows本地防火墙的安全性概览界面。界面中显示“病毒和威胁防护”“账户保护”“设备安全性”等选项，其中“防火墙和网络保护”被红色框突出显示，提示防火墙已关闭，设备可能易受攻击，下方有“打开”按钮。该图片与上文提到的Windows本地防火墙将代理设备当成陌生设备，直接掐断网络请求的内容相关，直观呈现了防火墙关闭的状态，为后续用管理员身份打开PowerShell执行指令以关闭防火墙的操作提供参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTY4ZDE5ODNmZTY4NTFiMmFhYjIxZjVlOGE5ZWE3ZWNfMGUxZmI2MDkzZGFiZjM2YzE3ZWM1MDVlZGRlNTBjNDZfSUQ6NzY0NTcxMzg0ODA3ODY2Njk3Nl8xNzgyMDk5MDg2OjE3ODIxMDI2ODZfVjM)
 
 此时，再去你的 Ubuntu 虚拟机上，让 OpenClaw 测一下接口。如果立马就通畅了——恭喜，精准定位病根！
 
-![图片展示了在终端中运行OpenClaw TUI的界面。上方红框突出显示了“openclaw tui”命令。下方显示了OpenClaw的版本信息及连接ws://127.0.0.1:18789的连接状态。接着输入“1”后，出现“Request timed out”提示。之后询问“你现在是什么模型”，回复显示当前会话状态为codexproxy/gpt-5.3-codex（别名可叫codex53）。该图片与上下文介绍的OpenClaw TUI操作及模型信息相关，直观呈现了操作过程及结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjliNDM4OTYzNDQ4OGIyYTBmNjEzNDRhYzVlZDVlMmVfZDY3NmY0MzU3YTdkZDBhMjVhNzdkM2QyZDkzNzMzMWJfSUQ6NzY0NTcxMzg2NDg0MzA4NzAyNl8xNzgxNzcwOTE0OjE3ODE3NzQ1MTRfVjM)
+![图片展示了在终端中运行OpenClaw TUI的界面。上方红框突出显示了“openclaw tui”命令。下方显示了OpenClaw的版本信息及连接ws://127.0.0.1:18789的连接状态。接着输入“1”后，出现“Request timed out”提示。之后询问“你现在是什么模型”，回复显示当前会话状态为codexproxy/gpt-5.3-codex（别名可叫codex53）。该图片与上下文介绍的OpenClaw TUI操作及模型信息相关，直观呈现了操作过程及结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTg3M2M3MDQ2ZWUwMGViYjYzOWQ2MTM0NjhjNWMwMDZfNGM3YzM2MGJlN2RiNjhhNWMwYjA4YWJjM2ZlYWU3MDdfSUQ6NzY0NTcxMzg2NDg0MzA4NzAyNl8xNzgyMDk5MDg2OjE3ODIxMDI2ODZfVjM)
 
 ## 结语：享受“免费智能大脑”的掌控快感
 

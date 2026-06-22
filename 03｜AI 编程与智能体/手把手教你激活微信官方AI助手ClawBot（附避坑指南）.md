@@ -12,17 +12,17 @@
 
 > 在我出文章的时候，Android的微信也跟新上了ClawBot，安卓用户也是一样的操作，更新微信对接CLawBot。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Mzg2OWUxZGQ2NTNmNWIzMTcxNzE5ZGJmZDY1MTUzMTBfNmQzNWFiYWM2ZjNlM2E4YjE5OGMwNzNjOTc5OTFmMDZfSUQ6NzY0ODI3MzIyOTYzODg4MDQ3MV8xNzgxNzcwOTMwOjE3ODE3NzQ1MzBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjMyMDFjYjcyY2NkZDJlNjQzZmMzZjRmZTc0NWVlOWVfMGYxYjJkODEyODUwOWQ2N2FjYjM5ODNiYzcxM2YyYTVfSUQ6NzY0ODI3MzIyOTYzODg4MDQ3MV8xNzgyMDk5MTAxOjE3ODIxMDI3MDFfVjM)
 
 ### **第二步：找到并启用微信ClawBot插件**
 
 更新完毕后，直接打开微信，依次点击“我” -> “设置” -> “插件”。 在插件列表中，你就可以看到”ClawBot”的插件。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGViZTgyZTliYWI1YTEwZGMxZjlmNmI4N2MyMzdmOTNfYmY5MWM4OTE4MmQ4MjljMDFkYzQyZTExNjQ0NjUwZWNfSUQ6NzY0ODI3MzI2MjQwNTE2MDExNl8xNzgxNzcwOTMwOjE3ODE3NzQ1MzBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTgyMzM1ODY5NTg3N2JhOTVhZDY1OTMxN2U0ZjBkYThfNTgyYjM0ODM3ZGM2MjRlZDhmN2JkZjRhOTBjZDllNjdfSUQ6NzY0ODI3MzI2MjQwNTE2MDExNl8xNzgyMDk5MTAxOjE3ODIxMDI3MDFfVjM)
 
 > **注意一个常见问题：** 很多人第一次进去会发现提示“暂无可用的插件”，下面只有一个微信输入法的应用，找不到微信ClawBot的插件应用。遇到这种情况不用慌，直接从手机后台将微信彻底杀掉（完全退出应用），然后再重新打开微信。再次进入插件页面，微信ClawBot就会刷出来了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjhmZTc2MWU2MGM5Y2E1NzdiOWQxNzZiNDc4YWZlZmFfOTk2MTY0MjU0MDQyOGUwMzJmODVhNmYyODVhZDk4ZDNfSUQ6NzY0ODI3MzI5Nzk5MzYzMjk4N18xNzgxNzcwOTMwOjE3ODE3NzQ1MzBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWJmMGFiMTY0YjQ0YzU0NjQ1MTM4MWVhZGM5ZjlmOGVfZjUxYjQ2NDBmNmI2NGQ4ZDQ2NGE4MmVhYjkyOTRhMzJfSUQ6NzY0ODI3MzI5Nzk5MzYzMjk4N18xNzgyMDk5MTAxOjE3ODIxMDI3MDFfVjM)
 
 ### **第三步：在服务器或本机执行安装命令**
 
@@ -30,21 +30,21 @@
 
 将这行代码复制下来。通过SSH登录到你已经安装了Openclaw的服务器，或者你本地运行Openclaw的机器，直接在终端控制台里粘贴并执行这行命令。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWQ5ZTJiODIyODJmNTRhYTk1M2UxOGE3MTY2OTA5MDhfMTFkN2VkZGU2NzIwMjYwNjUyMDFjZTNiZjZmMGQ3OTdfSUQ6NzY0ODI3MzMzMTM3MjA1MTY0MV8xNzgxNzcwOTMwOjE3ODE3NzQ1MzBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGI3NjMzNTk2NjJhM2I5YTA4YzZiNmQ1ZjA4NWUxNGZfZjAzNmJhMGE1ODcxYTRlNWEyYjVlYmU1Zjc0N2U1ZjVfSUQ6NzY0ODI3MzMzMTM3MjA1MTY0MV8xNzgyMDk5MTAxOjE3ODIxMDI3MDFfVjM)
 
 > **避坑经验分享：** 这里我之前想图省事直接把指令丢给AI让它自己去跑安装流程，结果出现了错误，导致终端无法正常调用并渲染出二维码。所以我测试下来，还是建议大家自己把命令丢到控制台去安装。其实安装过程十分简单没有什么复杂的操作和流程。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTE0NzliZjJlNTNmODkwZTRmZDgyNjQ4YmFmMjk3ZjlfODgyMGIzMTdmMTgxOWNkZGJhNjM4YWYyNDYxYzFlNmNfSUQ6NzY0ODI3MzM2OTU4MTgxNzA1Nl8xNzgxNzcwOTMwOjE3ODE3NzQ1MzBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWQ3OWI4ZWQ3MWU2MzVjOTUzNjk2YTdiMWQ1OGVhZThfNmRjMDc5M2YzYmEyZGY5OTBiYmZjYzljMTdkOTlhZTBfSUQ6NzY0ODI3MzM2OTU4MTgxNzA1Nl8xNzgyMDk5MTAxOjE3ODIxMDI3MDFfVjM)
 
 ### **第四步：扫码对接并重启**
 
 控制台执行完命令并安装好依赖后，终端界面会出现一个二维码。 只需要点击插件详情页面的扫一扫功能，扫描屏幕上面的二维码就可以了。 扫描确认后，控制台会输出提示“与微信连接成功！”。然后终端会自动重启OpenClaw Gateway来加载刚刚安装的微信插件。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDYxM2M0MWFmNDkyNmQ0N2ZjOTc3NWUwYzk2ZjJjYmVfM2VjOTI2MTJmMjUyNmY2MGQ0MzU5NGJjNzQwNjAwNjZfSUQ6NzY0ODI3MzQwMTcyMjgzNDE0NF8xNzgxNzcwOTMwOjE3ODE3NzQ1MzBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTdkYjNiOWI3YTI5NmI1YWIwNDZjYWZkN2M3NjA2MTFfODAwYmEzZWVjZTFmNjc5YTQzNmE1MGE2NWI0MWFhNWZfSUQ6NzY0ODI3MzQwMTcyMjgzNDE0NF8xNzgyMDk5MTAxOjE3ODIxMDI3MDFfVjM)
 
 **第五步：测试对话** 重启完成之后，回到微信界面。你就可以直接在微信里和你的OpenClaw对话了。 打开微信ClawBot的聊天窗口，我这里是随便发送一个“你好”，你的微信ClawBot就会立即向你打招呼，并开始它的初始化认知流程。如果出现消息就说明对接成功了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzlmZDgwNWY0ZDliNTEyYjU4NjNhOWQ5MDhjYTE1NzZfMjJkYmM2YjAzOGI4OWQ0YTFmMTM4YjE2Y2ExYjkxNjVfSUQ6NzY0ODI3MzQzNjA4NjcwMTI0Nl8xNzgxNzcwOTMwOjE3ODE3NzQ1MzBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGVjZjFhZWM2ZGUxMjU2ZjMxNTEyZDc4MzY1MmQwNThfZDdjNzcyNjNlZjgyMjYxOThiYjc0OGMxMGE0MzMzMDFfSUQ6NzY0ODI3MzQzNjA4NjcwMTI0Nl8xNzgyMDk5MTAxOjE3ODIxMDI3MDFfVjM)
 
 ### **总结**
 

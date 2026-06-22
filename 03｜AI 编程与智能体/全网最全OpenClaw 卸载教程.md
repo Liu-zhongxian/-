@@ -6,7 +6,7 @@
 
 这也就是我为什么出篇教程的意义，很多人手足无措的时候不知道怎么卸载。这里我就把官方的、Win、Mac、Linux的卸载方式都集齐了，不管是什么设备都可以找到自己的卸载方案。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Zjc5NGMxMmY4ZGYzZTMxMzM5ZDY2YTY1N2U1YWYwZDNfODQ0NDMxNGQ3N2NkOTk1NjA3Y2RhNGRiMDZhMGEyNzBfSUQ6NzY0ODI3MTE1MDE4MjcxNDYxMF8xNzgxNzcwOTI1OjE3ODE3NzQ1MjVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmY3Mjg4MWI0MjdkMzIyNTZlODIwNWUxYjExNzE5NzJfNGUyMjNlYjc2YmQ5OTEwNzM5ZGQ3MWYwOGEyZDQxM2VfSUQ6NzY0ODI3MTE1MDE4MjcxNDYxMF8xNzgyMDk5MDk2OjE3ODIxMDI2OTZfVjM)
 
 > 这里顺便告诉大家一个商机，现在闲鱼还没有大批量Openclaw卸载服务，学了我这篇教程就可以去给人家收费卸载了。
 

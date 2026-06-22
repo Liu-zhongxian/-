@@ -8,17 +8,17 @@
 
 听起来很简单对吧？一开始我也觉的很简单，但当我把这套东西部署到自己那台便宜的VPS上时，才发现问题还是蛮多的。这里复盘一下我的填坑过程，希望能帮大家在配置无头浏览器的时候可以节约点时间。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTkyZWM4M2M0MWI1ZjRhOGM0NTczMmE5YjYwZTBkYThfYTk0NDFkNjNmMWE5YTYzZDBiMGI0MzNmYWNmMjQ4NTNfSUQ6NzY0ODI3Mjk3MDQyNjg2MjgzMl8xNzgxNzcwOTI5OjE3ODE3NzQ1MjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjZjMTVmZWVmNmE5MWVmMDViYmI1ODVkMjFhNmE4ZGNfNzBiNGRhZWIwZjBmZTg2YjhkODNhODk1YWVjNjI4NjFfSUQ6NzY0ODI3Mjk3MDQyNjg2MjgzMl8xNzgyMDk5MTAwOjE3ODIxMDI3MDBfVjM)
 
 ### 第一个大坑：VPS上浏览器死活启动不了
 
 起初我想偷个懒，直接在使用Openclaw自动安装，于是使用了简单的提示词：`帮我安装pinchtab，然后写一个skills，以后控制浏览器就用pinchtab`。然后Openclaw告诉我安装完成了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzcwMmIzYzZkMGMzZDdmMzM1N2I4NTNhYTg5N2M2ZjJfMjA5MzU3OTQ1YTU2OGYzMGU1NmVhY2I5MmZlYzViMDdfSUQ6NzY0ODI3MzAwMzI4OTIxODI2NV8xNzgxNzcwOTI5OjE3ODE3NzQ1MjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODEyZWJlOGZhZDkyMjg1OTIwNDIyOTM3NmM4NDRkNTVfZTI3MmRlOTA1NzM4NDBmMTkyZGU1OTljYzYzOGM1MThfSUQ6NzY0ODI3MzAwMzI4OTIxODI2NV8xNzgyMDk5MTAwOjE3ODIxMDI3MDBfVjM)
 
 我也信以为真的去测试，让它使用浏览器去搜索我的网站：`使用浏览器，搜索：传家宝vps`。但是后来我等了两分钟也没见好，等了大半天才给出回答无法使用。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGEwMTljMzJkM2Q3YzQ5ZjFjZTQwYzdmYjI1ZWE2ZDRfNmExMmYwOTg2ZGMyNmRhNzJlMGMxNDBjMWMyOWY0YWVfSUQ6NzY0ODI3MzA0MDY1NjIzOTgyMF8xNzgxNzcwOTI5OjE3ODE3NzQ1MjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTNlYzFhMmY0ZWQ4OTdlOWNmYjBiNThhODA4NzUxNzNfYjQzZWQ1ODYzNTkyOTA2ZTE4ZmQwM2QyNDgxMWMwNDFfSUQ6NzY0ODI3MzA0MDY1NjIzOTgyMF8xNzgyMDk5MTAwOjE3ODIxMDI3MDBfVjM)
 
 后面去官网查看了半天的资料，问题出在环境上。我这台VPS是纯命令行的，没装图形界面。很多人（包括我）以为只要给Chrome加上Headless无头模式参数，浏览器就可以纯终端的机器上跑，但实际上，某些版本和配置下的Chrome即使在无头模式下，依然依赖底层的显示服务器组件。环境里缺这些东西，Chrome进程直接就僵死了。
 
@@ -28,13 +28,13 @@
 
 因为已经有现成的Openclaw，我也就懒得自己安装docker启动对应的容器，直接让Openclaw自己使用docker方式安装pinchtab浏览器，并且测试后是否正常然后告诉我。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmQ4M2RiZDM2YjQ4ZWIxNTJjZjNkZDEwMTQzMjUxZDlfZGIzM2YzMGZkYTYwM2ZiZGNiNDM5Y2QzZjJkMzQ2NDVfSUQ6NzY0ODI3MzA3NTU1NzE5MDgzNF8xNzgxNzcwOTI5OjE3ODE3NzQ1MjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2NjM2YxZTRjZjEzYWZhMTIxMDAwMWJmMWMzMzAxMjhfYzgyNzJjYTgwMTAxNWQzYTkwZGNlY2NjMzliODcxMDRfSUQ6NzY0ODI3MzA3NTU1NzE5MDgzNF8xNzgyMDk5MTAwOjE3ODIxMDI3MDBfVjM)
 
 然后我就测试搜索相关的内容，测试了搜索`马斯克`。Openclaw正确的调用了pinchtab并且返回了**马斯克**相关的内容。
 
 我以为到这里就大功告成了，但是出于对职业的敏感性，我还是让AI确认一下它使用Docker的启动方式。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDQ2OTc0YzJlODlkYzIwY2ZkZmQ3ZDg4MGJkOTVmNmZfZjhjOWJkZDIzOTdjYjdkNmYyODM0NjlkMzE3NzI3ZDdfSUQ6NzY0ODI3MzExMjc3NzM5NTQwNV8xNzgxNzcwOTI5OjE3ODE3NzQ1MjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGExMTM5OTNjNDk4ZDg0M2NmYjc1YWFjMWY3NWNmZTdfYWUyZGI1MDc2YjhkMTZjNjRjODY0OTYxMTIyYzZkZmFfSUQ6NzY0ODI3MzExMjc3NzM5NTQwNV8xNzgyMDk5MTAwOjE3ODIxMDI3MDBfVjM)
 
 我的这台VPS默认是没有配外部防火墙的。查看到启动Docker的默认映射方式是对外暴露的，默认会把端口绑定到 0.0.0.0，这意味着PinchTab服务直接暴露在了公网上。如果有人扫描到我VPS的IP，并且扫描了9867端口，确认到是pinchtab程序，它不需要任何验证就可以能通过API调用我服务器上的浏览器去干任何事。
 
@@ -48,7 +48,7 @@ docker run -d --name pinchtab-working -p 127.0.0.1:9867:9867/tcp pinchtab-ubuntu
 
 改好之后我拿自己手机访问了一下我VPS的公网IP加9867端口，页面转了一会儿圈然后报错超时，看到这里我就放心了，说明我的本地服务对外网彻底隔绝了。只能给我自己本地使用，或者给本地的Openclaw调用。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjM2OGY5YjAwOWYwMTNlYjRmOTkwZGJmYTgwNWQwZjNfMjJiNWE0NzkwYjg2MDZlNzI2YjE2M2YzZmQyYjNmMjNfSUQ6NzY0ODI3MzE0NjI0Nzk5MDQ1MF8xNzgxNzcwOTI5OjE3ODE3NzQ1MjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjNlMTg5NTY0ODE1Y2NjMTZlYWVhMjc0ZTk0YWEzZWNfYjBjNzUyNzgxOWRmZGJmYmNmZDcxN2RlNDkzMDMyYjZfSUQ6NzY0ODI3MzE0NjI0Nzk5MDQ1MF8xNzgyMDk5MTAwOjE3ODIxMDI3MDBfVjM)
 
 > 所以使用Openclaw的情况下，还是要具备一定的网络安全意识。AI不是万能的，如果你的指令不够完善，就会漏掉一些安全方面的事情，任务它也完成了工具也可以正常使用，但是如果不注意就看被黑，服务器关机是小事但是如果有重要的数据丢失或者泄露就得不偿失。
 
@@ -58,7 +58,7 @@ docker run -d --name pinchtab-working -p 127.0.0.1:9867:9867/tcp pinchtab-ubuntu
 
 这样就可以安全的使用**pinchtab**去搜索一些内容，比如你的Skill搜索额度用完了也可以直接使用pinchtab，访问对应的网站或者搜索对应的关键字，只需要消耗一定的Token就可以完成了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmQzY2EyNjRmNGZjOWQzMGRmZjEzOWVlYjAzNjdjMGVfMDljZTc1YWU3ZmQzMzkwMTA0MjgxODNkODA0ZDYwNDRfSUQ6NzY0ODI3MzE4MDMwNTU3NTEzNl8xNzgxNzcwOTI5OjE3ODE3NzQ1MjlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2RjYTNiNzVjNTJhZmFhMWU5NWI5Mjg2OGRhYzQ5ZjlfOWRiYTllZTJjZWRhYWVhNDRmZTM4Yjg2YmI2ZDMwMTVfSUQ6NzY0ODI3MzE4MDMwNTU3NTEzNl8xNzgyMDk5MTAwOjE3ODIxMDI3MDBfVjM)
 
 ### 踩坑总结
 

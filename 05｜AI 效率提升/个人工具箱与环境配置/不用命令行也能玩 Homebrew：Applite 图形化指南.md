@@ -2,7 +2,7 @@
 
 # 不用命令行也能玩 Homebrew：Applite 图形化指南
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjQ4ZjcxYzM2ZDIxMzU4NWU5YmJiMjY4NDdhMmRlMWNfOGY1YzgyOWM5NGRjZmNjMTNlMmJkODgzNzM4NGJjZDhfSUQ6NzY0NTI2NTkxMzQyODQxMzYyNV8xNzgxNzcwOTg0OjE3ODE3NzQ1ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjVjZjAzOWZjODRkZDM0MTUzZjRhNzEyNGJjYjA5MzZfMDI3ZGMyYjcxZGFkMDUxYmVhMmFlNTQxY2VhM2U2YTJfSUQ6NzY0NTI2NTkxMzQyODQxMzYyNV8xNzgyMDk5MTYxOjE3ODIxMDI3NjFfVjM)
 
 ## Homebrew 是什么
 
@@ -21,7 +21,7 @@ brew install --cask ghostty
 
 工具叫 Applite。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWU4ZmE3NWVkN2M2ZjE0Y2EwZjczMzc1NTVkMDFhYjRfY2RkMTc3Y2I3ZmM3YTM2Y2I1NzdjNTk4ZjhmZGQxOThfSUQ6NzY0NTI2NTkxMTMzOTE1ODczMV8xNzgxNzcwOTg0OjE3ODE3NzQ1ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWJjZjU0YTBmNDFmOGU5OTRhMjFhMjE1MGYxZDRlNjhfYWVmYWRjYmYyZjAzZDhlMzg1OWE1NjMxYmY3NTlkZjdfSUQ6NzY0NTI2NTkxMTMzOTE1ODczMV8xNzgyMDk5MTYxOjE3ODIxMDI3NjFfVjM)
 
 ## Applite：把 Homebrew 变成 App Store
 
@@ -66,7 +66,7 @@ macOS 会弹一个安全提示——"Applite 是从互联网下载的应用"。�
 1. **检测你有没有 Homebrew**。有的话直接用，没有的话帮你装一个
 2. **拉取应用目录**。第一次可能要等几秒到几十秒，取决于网络
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2QyZmE3YzU0MzBlM2U2NmM4YTQxZGZiMWY4NWY5MDdfNjk0NzQ2Y2RiNjZjN2EyYmZmM2FiZjNjZjRjYjI4YzJfSUQ6NzY0NTI2NTkxMDY5MzQxNjEyOV8xNzgxNzcwOTg0OjE3ODE3NzQ1ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTM5N2Q0ZTM3ODNlZTQzYWIzNGIwNzc3OTZkZWYyMDlfZTI4YWFhN2Y2NjZlMjczZWEwM2ViODRiMTNiMzUzZmFfSUQ6NzY0NTI2NTkxMDY5MzQxNjEyOV8xNzgyMDk5MTYxOjE3ODIxMDI3NjFfVjM)
 
 如果你电脑上已经有 Homebrew，Applite 会问你：用已有的安装，还是创建一个独立的。**选"用已有的"就行**，这样之前用命令行装的应用也会出现在 Applite 里。
 
@@ -74,7 +74,7 @@ macOS 会弹一个安全提示——"Applite 是从互联网下载的应用"。�
 
 ## 基本使用
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTliY2M4YTA0ZmUyMTEzNzNmNjFkODYxOWY4MGI0MDRfZjBiY2VlM2U1ZDZjZGU4NGY5MTQwMWZjMjI5OWRlNjBfSUQ6NzY0NTI2NTkxMjUzODU2NTgzM18xNzgxNzcwOTg0OjE3ODE3NzQ1ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGNlMWEzMzcxYWUzMzczNDE4ZjY5YjQzZDUyMzQ4YzFfYmRiNThmMGRmNzhjMjA5OGMzMDZiN2Q3YTk5ZjQ0NzFfSUQ6NzY0NTI2NTkxMjUzODU2NTgzM18xNzgyMDk5MTYxOjE3ODIxMDI3NjFfVjM)
 
 **浏览和搜索**
 
@@ -82,7 +82,7 @@ Applite 把应用分成了十几个类别：浏览器、通讯、生产力、办
 
 懒得翻？直接用顶部的搜索框。输入应用名或关键词，结果实时出来。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODYwMDgxOTcxY2ViOGViMDRmYTBkMTFlYjg2ODQxMzJfYWE2ZTRkZDA2OTNjNTRhYjMxODBiZGM2NDdkMzU0MGFfSUQ6NzY0NTI2NTkxMjYzNTAzNDgyNV8xNzgxNzcwOTg0OjE3ODE3NzQ1ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTc1NDQ1N2IyMzMzYjI4MWJhYTI5ZjFkZDE3ZDEwMWFfN2ZlODY4OGRlOGUwZmIwNjY1NmU0M2NlYmUzZGQ2YjhfSUQ6NzY0NTI2NTkxMjYzNTAzNDgyNV8xNzgyMDk5MTYxOjE3ODIxMDI3NjFfVjM)
 
 **安装应用**
 
@@ -103,7 +103,7 @@ Applite 侧边栏有个**更新**分区。有应用需要更新时，这里会�
 
 点单个应用旁边的更新按钮逐个更新，或者点顶部的**完整升级**一键全部更新。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTE2MjZhNjI5ZjBkMWFjZmRjNjZkNDRkODg4NDVkOTlfYjFlNDY3NDhiOWVlNWRjNzVmM2RhN2JjZjAxNzcyZDhfSUQ6NzY0NTI2NTkwOTU1NzA1NDY2NV8xNzgxNzcwOTg0OjE3ODE3NzQ1ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmM3MDRlZDAzNTcwZTZiMzQ2OTc3NjhjMTM0Nzg2ZTVfYTA5YzRjZDhlYjZmZGIxNmY1YjZiNzA4OTcwNTU1YThfSUQ6NzY0NTI2NTkwOTU1NzA1NDY2NV8xNzgyMDk5MTYxOjE3ODIxMDI3NjFfVjM)
 
 这个功能对那些没有内置自动更新的应用特别有用——比如你装了好几个开发工具，全靠自己记着去官网下新版本，现在 Applite 帮你盯着。
 
@@ -133,7 +133,7 @@ Homebrew 的软件源托管在 GitHub 上，服务器在国外。国内直连的
 2. **预设** 下拉框里选一个镜像源——内置了三个：**USTC**（中科大）、**Tsinghua University**（清华）、**Aliyun**（阿里云），选一个就行，下面四个地址会自动填好
 3. 关掉设置，完事
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjBkZTU5ODQ5YWEzMWM2YWYyYWI3Mjk2NTY4MTVhYmJfMjVhMDhkNDIxZGQ4MWM3MTAzMzI2ZGVmMGVmYmY4NjhfSUQ6NzY0NTI2NTkxMzIyNjM4MjUxNF8xNzgxNzcwOTg0OjE3ODE3NzQ1ODRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2ZkMGFjZjVkNWEzMGRmZmUyYjM2ZmI5ODIyY2U5NWJfNGY5MjNjODY5NGI5NWM3NWFmY2M5NWU5OTVlMzE0ZjhfSUQ6NzY0NTI2NTkxMzIyNjM4MjUxNF8xNzgyMDk5MTYxOjE3ODIxMDI3NjFfVjM)
 
 四个地址分别对应 HOMEBREW\\\_API\\\_DOMAIN、HOMEBREW\\\_BREW\\\_GIT\\\_REMOTE、HOMEBREW\\\_CORE\\\_GIT\\\_REMOTE、HOMEBREW\\\_BOTTLE\\\_DOMAIN——其实就是命令行用户手动配的那些环境变量，Applite 帮你做成了图形界面。国内用户开了之后体感差别很大，从"转圈超时"变成"几秒装完"。
 

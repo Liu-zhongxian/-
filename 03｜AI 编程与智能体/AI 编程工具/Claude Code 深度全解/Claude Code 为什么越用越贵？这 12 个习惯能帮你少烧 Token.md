@@ -4,7 +4,7 @@
 
 
 
-![图片以深蓝色背景为基调，左侧机器人手持盾牌，盾牌上显示数字“12”，盾牌旁有“/clear /compact 合并消息”字样，下方写着“burning Tokens”和“高效上下文 精准Prompt”。右侧以大字呈现“Claude Code 越用越贵？”及“12个习惯！少烧 Token 省下钱”。图片与文档中介绍Claude Code Token消耗问题及分享省Token技巧的内容相呼应，直观传达了节省Token、省钱的主题。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDg4YTU5YWI3ZmY0MmQyNGNiNDM4YzJkZDcwZWUzZWJfMzY0Y2M0MmIyMTk4NTkxODgwYjI3ODVlMGFjYzRjYWVfSUQ6NzY0NTcxMTMxNjMxMjY1NzEwN18xNzgxNzcwODgxOjE3ODE3NzQ0ODFfVjM)
+![图片以深蓝色背景为基调，左侧机器人手持盾牌，盾牌上显示数字“12”，盾牌旁有“/clear /compact 合并消息”字样，下方写着“burning Tokens”和“高效上下文 精准Prompt”。右侧以大字呈现“Claude Code 越用越贵？”及“12个习惯！少烧 Token 省下钱”。图片与文档中介绍Claude Code Token消耗问题及分享省Token技巧的内容相呼应，直观传达了节省Token、省钱的主题。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzY2MmIwZTczM2ZjOTlmZWYxYTliZGQyOGExYjFjMzFfZTczMWU3MGRhYmE3YWQ4ZDlkODUwMDI0YzdmMTVhM2JfSUQ6NzY0NTcxMTMxNjMxMjY1NzEwN18xNzgyMDk5MDUyOjE3ODIxMDI2NTJfVjM)
 
 用过 Claude Code 的人都知道，Token 就是钱。每一次对话、每一次文件读取、每一次上下文传递，都在消耗你的额度。
 

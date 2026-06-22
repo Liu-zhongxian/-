@@ -2,7 +2,7 @@
 
 # Chat Bot 加一个循环，就进化成了 Agent
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTVmZTU1YmIzZDIwYTdmNjU0OTQ4MmM3YzYwNWJkNjhfMTYzZmYzNTYyMmM5NWQ0MmJjNTAyNWQyMGY1NmIzMmRfSUQ6NzY0NTMxNTgyODYxODg5MDIwMV8xNzgxNzcwODk1OjE3ODE3NzQ0OTVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzlkODc0NWI4MjA2YWFiNzI1OTlkMzlhY2NkMzFiMGJfNTkzMzkwYmIxZjIyOGNkZmE1YmZjMWM5YTVkMmIwN2ZfSUQ6NzY0NTMxNTgyODYxODg5MDIwMV8xNzgyMDk5MDY1OjE3ODIxMDI2NjVfVjM)
 
 **一、Agent 是什么暂且不谈，先说 ChatGPT，世界上第一个 LLM 大模型的 ChatBot**
 
@@ -44,23 +44,23 @@ Agent 不是什么高大上的东西。
 
 ### 第一幕：随意跟 chat bot 聊天问事情，这个没有任何问题。
 
-![图片展示的是一个对话界面，左侧为用户提问“我跟谢霆锋谁帅”，右侧是ChatBot的回复。ChatBot表示无法客观回答因没见过提问者长相，但称 addCriterion谢霆锋是公认港星颜值天花板，称“帅”很主观，气质、风格、自信心比五官更有说服力。若想知道答案，可发照片让其分析。该图片与上下文紧密 addCriterion上下文讨论ChatBot在随意聊天时的表现，图片内容体现了ChatBot在面对特定问题时的回复方式，与上下文对ChatBot聊天能力的 addCriterion的描述相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDZkMTBiZDgyNGE0Y2RjMTliYjcwYTk2YTJmNThjY2JfMGFlNzUxNGExZmFjYjRlMTU0YmQ4YzVkOGYyM2ExOGFfSUQ6NzY0NTMxNTYxNDAyMTcwMDU4MF8xNzgxNzcwODk0OjE3ODE3NzQ0OTRfVjM)
+![图片展示的是一个对话界面，左侧为用户提问“我跟谢霆锋谁帅”，右侧是ChatBot的回复。ChatBot表示无法客观回答因没见过提问者长相，但称 addCriterion谢霆锋是公认港星颜值天花板，称“帅”很主观，气质、风格、自信心比五官更有说服力。若想知道答案，可发照片让其分析。该图片与上下文紧密 addCriterion上下文讨论ChatBot在随意聊天时的表现，图片内容体现了ChatBot在面对特定问题时的回复方式，与上下文对ChatBot聊天能力的 addCriterion的描述相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzkxMmU2NTQ5YjY5ODIyMDMwNGQ2NWI5Y2RkNDcwNmNfODNmZTdjY2JjNmE5MzUzODQ1ODZiNTUxODg3OTBjMzVfSUQ6NzY0NTMxNTYxNDAyMTcwMDU4MF8xNzgyMDk5MDY1OjE3ODIxMDI2NjVfVjM)
 
 但是涉及到一些工具操作就不行，因为网页版的 ChatBot 没有工具操作跟网页搜索能力，只会提出其他的方式：让你自己查了之后，自己设置闹钟。
 
-![图片展示的是一个聊天界面，用户询问“明天上海如果下雨，帮我设个早上 addCriterion图片](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTQ0MTI4MGNkZmNmYjQxMmQwNGIwYjMyM2I4YmJjNzBfYjUzM2Q0M2I3ZGFjMzM1N2QxMzNmZjU3YmZhYzczMDNfSUQ6NzY0NTMxNTYzMTM3NzY5NzcyNF8xNzgxNzcwODk0OjE3ODE3NzQ0OTRfVjM)
+![图片展示的是一个聊天界面，用户询问“明天上海如果下雨，帮我设个早上 addCriterion图片](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjZmNmQ1ODYwZDY5MGExMzNjMjM4MGVjZDMxMTM5Y2JfY2EyOWJlODU0NzZiNGRhNmJmOWI1ZDZiZTE3ZGE4NjVfSUQ6NzY0NTMxNTYzMTM3NzY5NzcyNF8xNzgyMDk5MDY1OjE3ODIxMDI2NjVfVjM)
 
 ### 第二幕：给它一个假的工具箱
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmViYjk5ODYxNGQ5ODM1YzY5ZWJlZTdiZWYzNzI1ODVfZDNjZGRkMTE1YzU0OTBiN2JiYWUyMmJhYjg1NjNiYjVfSUQ6NzY0NTMxNTY5MDE2MDc4NjQwMl8xNzgxNzcwODk0OjE3ODE3NzQ0OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzkxM2VjOWQxOWY0MTU0NjY4OTg0MmZjZDQyY2VkNmZfMzkzODllZTJhN2YwYWFiZjcwNjk4MDgyM2UzODI4NTBfSUQ6NzY0NTMxNTY5MDE2MDc4NjQwMl8xNzgyMDk5MDY1OjE3ODIxMDI2NjVfVjM)
 
 然后这个调用【查天气】的动作，由我模拟执行代劳，然后我就随便告诉它一个结果
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODc1NjI2MjJiODc3OTAzNjQzMzUzNGM5Yzk5ODQ3NjVfNDlhYTM2Mzk2YmZhMWViNDkxZjVlM2M2Mjk5NzgwODBfSUQ6NzY0NTMxNTcwMTc2ODI0NDE2N18xNzgxNzcwODk0OjE3ODE3NzQ0OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2M0M2FjOGI3YmRiM2E0MTVmMjNhMThiOTMwYWQ3YWFfYjIyZjczNzc3ZTc4ZDUwZjliODQ3MzI3OGExZWY4NmVfSUQ6NzY0NTMxNTcwMTc2ODI0NDE2N18xNzgyMDk5MDY1OjE3ODIxMDI2NjVfVjM)
 
 我们继续把【设提醒】的工具调用结果，告诉它。ChatBot 就会返回，它已经搞定了你让它做的事情了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzMyNjNkZThlNzcyYjQwOWRiMGFmZTIyYjllYWJiNzlfYmQyZDUyOGNlZjAyMWFkNTgyNjBhNzY2MDAwMmVjMDVfSUQ6NzY0NTMxNTcxNzI1MjAwODkxMF8xNzgxNzcwODk0OjE3ODE3NzQ0OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDZjNGM2NDExOWE5NTMwYjc4YWI0MmYzZWQ1NWUxMzlfNGQ0NzUyZWIzZjg3ZmRlYmRiYTMwYzE1MTNiYWY1Y2VfSUQ6NzY0NTMxNTcxNzI1MjAwODkxMF8xNzgyMDk5MDY1OjE3ODIxMDI2NjVfVjM)
 
 从上面的结果来看，如果我们忽略掉中间的工具调用过程跟我们的结果反馈，并且假设我们在反馈结果的时候，是按照 ChatBot 的指示认认真真的完成了工具的使用 —— 去网页查了查上海的天气、在手机或者电脑设置了提醒。
 
@@ -86,7 +86,7 @@ ChatBot 根据我们的提供的工具跟任务，自动识别到，如果要完
 
 先制定规则：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yjc4NmFhNTJhMjkzNjg1NzEyOTQ4YjgyMmIwOWZjNTZfMmNkMzdjYzcwMDI5M2ZmYWY5NDBkNzY4ZGI1MWI2ZjdfSUQ6NzY0NTMxNTc3MjEyNTg5MTUzMV8xNzgxNzcwODk1OjE3ODE3NzQ0OTVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTVkNjVkNTQ0ZTVhZTNkYzdjY2E1MmI5MjAwMGRmYjFfMDZmMmE0ZjEwNWNiZjhkYmY5N2ZjYzc4MGMzZDUwYjVfSUQ6NzY0NTMxNTc3MjEyNTg5MTUzMV8xNzgyMDk5MDY1OjE3ODIxMDI2NjVfVjM)
 
 发送任务：
 
@@ -97,7 +97,7 @@ ChatBot 根据我们的提供的工具跟任务，自动识别到，如果要完
 
 运行结果：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDljMzc3YzZiODczYjc2MGRkYzE3MzhmODFhZmQ2NzZfODQwMGM5NDY0MjcyMzI3MDMwNmY5MmQ1MTYyZWU0OTNfSUQ6NzY0NTMxNTc4NzY2NTkwMjUzNF8xNzgxNzcwODk1OjE3ODE3NzQ0OTVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzAwNjQ2YmNiMDUzY2IxZWRlZmJiOTI2NjFkZGI4YWFfODc1ZDRhNGFkNTU3MTk1OTAwMGEyZjMxOTY0YjNmZjBfSUQ6NzY0NTMxNTc4NzY2NTkwMjUzNF8xNzgyMDk5MDY1OjE3ODIxMDI2NjVfVjM)
 
 说完任务之后。ChatBot 就自己查了天气，自己判断要不要设提醒，自己设好，自己告诉你完成了。
 

@@ -4,7 +4,7 @@
 
 ​
 
-![图片以漫画风格呈现，背景为白色，带有黑色放射状线条。上方文字为“三分钟大白话：什么是Agent Teams?”，下方文字为“让AI学会吵架才能出好结果”。图片位于介绍Agent Teams的文档开头部分，通过简洁明了的文字和漫画元素，直观传达了Agent Teams的概念，即让AI学会协作，通过“吵架”（即团队协作）才能达到好的结果，与上下文对Agent Teams的介绍相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2NlZGVjMWM0NWQ3NGUxMDc3ZTNmYWVlNGNlZjAwM2RfZWRmZjE4ZGM3ZWNlZWQyMTBhZGJhOGI3YjE5M2QwYjJfSUQ6NzY0NjMwMjQyODE3Nzk1OTkwMl8xNzgxNzcwODk1OjE3ODE3NzQ0OTVfVjM)
+![图片以漫画风格呈现，背景为白色，带有黑色放射状线条。上方文字为“三分钟大白话：什么是Agent Teams?”，下方文字为“让AI学会吵架才能出好结果”。图片位于介绍Agent Teams的文档开头部分，通过简洁明了的文字和漫画元素，直观传达了Agent Teams的概念，即让AI学会协作，通过“吵架”（即团队协作）才能达到好的结果，与上下文对Agent Teams的介绍相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWE2N2I3ZGNjYzE2NmFkMTI1MzZkMDJkZThmYzFlNzVfMjBkNTkyYmI3N2RmMzFmNWRmY2VmN2MyMTBhNTliZmZfSUQ6NzY0NjMwMjQyODE3Nzk1OTkwMl8xNzgyMDk5MDY2OjE3ODIxMDI2NjZfVjM)
 
 我相信在国产各类OpenClaw的狂轰滥炸下，很多人肯定知道了Agent Skills，它就是给Agent增加了新的能力，或者说给Agent换上了更好的工具。也可能了解到了SubAgent相当于给主Agent(主会话)增加了一个新的帮手，能够接管某类工作单独执行，执行完毕再向主Agent汇报结果。当我们理解了SubAgent其实也算是摸到了Agent Teams的门槛了。
 
@@ -18,7 +18,7 @@
 
 如果有对SubAgent不太了解的可以点击上面的链接进行查看，跟这篇文章有比较大的关系。 下面是我对SubAgent文章内容的截图，方便快速回顾。
 
-![图片展示了在没有SubAgent时，一个人包办一切的外卖店工作场景，如买菜、洗菜切菜、炒菜、收银、打包等；以及有了SubAgent后分工明确的场景，主Agent负责统筹安排任务、验收结果，采购SubAgent负责找采购、比价格、下单补货等，各司其职。图片与上下文紧密相关，通过对比说明SubAgent和SubAgent在工作中的分工协作，引出今天的Agent Teams概念。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODg3NjQwZjhmMTViYTM1ZWZlNzk2OWI2NjVhZjRhNGVfZTU1OGZhNWNiMzk4ZmNlZjE3NTQ5Njg1YjM1YzNmNmZfSUQ6NzY0NjMwMjQ1MDA4MjQzNDAwOV8xNzgxNzcwODk1OjE3ODE3NzQ0OTVfVjM)
+![图片展示了在没有SubAgent时，一个人包办一切的外卖店工作场景，如买菜、洗菜切菜、炒菜、收银、打包等；以及有了SubAgent后分工明确的场景，主Agent负责统筹安排任务、验收结果，采购SubAgent负责找采购、比价格、下单补货等，各司其职。图片与上下文紧密相关，通过对比说明SubAgent和SubAgent在工作中的分工协作，引出今天的Agent Teams概念。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjMwYjFhMDdmNWQyY2Q3MmIyZDE5NzVjMGVkMDRmMWZfZTU2NTI4ZGE0NWYyNWM3MTcyZmI5Y2VhNTAyMTA0ZTJfSUQ6NzY0NjMwMjQ1MDA4MjQzNDAwOV8xNzgyMDk5MDY2OjE3ODIxMDI2NjZfVjM)
 
 SubAgent这篇中我就简单的说过，例子可能稍微不太恰当，但应该能快速理解其中的意思，咱们继续凑合听。因为主Agent和SubAgent在中间干活的过程中是不进行沟通的，主Agent只管拿结果，而实际餐厅里的人员不是这样的，这就引出了今天的Agent Teams。
 
@@ -136,7 +136,7 @@ SubAgent这篇中我就简单的说过，例子可能稍微不太恰当，但应
 
 官网也明确对何时使用Agent Teams进行过明确说明
 
-![图片展示了何时使用Agent Teams的内容。它指出Agent teams最适合用于于并行探索能增加真实价值的任务，如研究和审查、新模块或功能开发、使用竞争假设进行调试、跨层协调等场景。当队友可以独立运作时，效果最好，但任务太小、太简单、必须按顺序做、多人容易互相打架时，可能不适合使用Agent Teams，此时SubAgent或直接单Agent addCriterionAgent更有效。该图片与上下文紧密相关，是对上下文提到的“什么时候适合用Agent Teams”这一问题的具体呈现，为读者提供了明确的使用场景参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzU4MzM3NmU0ZjNlMzhkYjU3OTZmZGIzNDBkOThiYzZfYjE4MWEwZDI3YmIzMjE3ZTcxYWVkYTUxMjU2NGRlZjFfSUQ6NzY0NjMwMjQ2ODU5NTE1Nzk2OF8xNzgxNzcwODk1OjE3ODE3NzQ0OTVfVjM)
+![图片展示了何时使用Agent Teams的内容。它指出Agent teams最适合用于于并行探索能增加真实价值的任务，如研究和审查、新模块或功能开发、使用竞争假设进行调试、跨层协调等场景。当队友可以独立运作时，效果最好，但任务太小、太简单、必须按顺序做、多人容易互相打架时，可能不适合使用Agent Teams，此时SubAgent或直接单Agent addCriterionAgent更有效。该图片与上下文紧密相关，是对上下文提到的“什么时候适合用Agent Teams”这一问题的具体呈现，为读者提供了明确的使用场景参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWY0Yjk0YTEyY2ZiN2Q1ZTIwMDU3OWQ4NWYyMThmODVfOTNmY2E3ZjY4MjU3NzViODhlZTY0NmFhNzVmMWY0MWRfSUQ6NzY0NjMwMjQ2ODU5NTE1Nzk2OF8xNzgyMDk5MDY2OjE3ODIxMDI2NjZfVjM)
 
 **任务太小、太简单、必须按顺序做、或者多人容易互相打架的时候，可能就不适合 Agent Teams，可能SubAgent或者直接单Agent直接完成都是更好的选择。**
 
@@ -179,7 +179,7 @@ Agent Team：像“直接组一个工作小组”
 
 > **SubAgents 是一个小助手，或者几个小助手 Agent Teams 是一个合作小组**
 
-![图片展示了Agent Teams和 subagents的对比。左侧为subagents，由主代理和多个子代理组成，子代理仅向主代理报告结果，彼此不交流；右侧为Agent Teams，有主代理和队友，队友间可直接通信，共享任务列表，需讨论协调独立完成任务。底部表格总结了两者在上下文、通信、协调、最适合及命令成本方面的区别。该图与上下文紧密相关，直观呈现了两种工作方式的不同，帮助理解在不同场景下应选择subagents还是Agent Teams。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjIzMjFmNDUwNDQ3ZTliNDIxZTExNjU2Y2FkNTI1MTJfYmVjYmJhOTc1ODdjODFlNzkwNjk1ZWEwMmNmNjE0ZDBfSUQ6NzY0NjMwMjQ5MjY0Mjc5MDM1MF8xNzgxNzcwODk1OjE3ODE3NzQ0OTVfVjM)
+![图片展示了Agent Teams和 subagents的对比。左侧为subagents，由主代理和多个子代理组成，子代理仅向主代理报告结果，彼此不交流；右侧为Agent Teams，有主代理和队友，队友间可直接通信，共享任务列表，需讨论协调独立完成任务。底部表格总结了两者在上下文、通信、协调、最适合及命令成本方面的区别。该图与上下文紧密相关，直观呈现了两种工作方式的不同，帮助理解在不同场景下应选择subagents还是Agent Teams。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDNjMTcyZjcxN2E4Y2QxODlhZGM4YmI1MDgyYmZmZmVfZjYzOTFkNzhjNTlhNTA1NmM2NDZiNDlkNDA4NzRkOGVfSUQ6NzY0NjMwMjQ5MjY0Mjc5MDM1MF8xNzgyMDk5MDY2OjE3ODIxMDI2NjZfVjM)
 
 ## 6\\. Agent Teams 现在还有哪些问题？
 

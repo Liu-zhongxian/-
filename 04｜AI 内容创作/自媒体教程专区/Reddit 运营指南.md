@@ -4,8 +4,7 @@
 
 > 📌 **适用范围说明**：Reddit 在中国大陆无法直接访问，本文内容仅供**海外用户**或有海外运营需求的团队参考。
 
-> 以运营AI类型账号为例
-
+> ✍️ 以运营AI类型账号为例
 
 ## 第一章：平台核心机制与 AI 文化解读
 
@@ -71,7 +70,7 @@ Karma 是 Reddit 的“信用积分”，对于 AI 赛道，它代表了你在�
 
 #### **社区挖掘SOP（标准操作流程）**
 
-![图片image_id处的图片是一张流程图，展示了社区挖掘SOP。从关键词搜索开始，经Reddit搜索框、切换Communities标签，再到Google: site:reddit.com AI tools，筛选1万 - 50万成员，加入并观察7天，记录热门帖类型，最后制定首帖计划。该图与文档中“社区挖掘SOP”内容对应，直观呈现了从搜索到制定计划的完整流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDVhYjdjZmUwMzNlOTdhMmI0NWE3YmJkYjJhMjdmMDRfNGUxYTM3ZjM2MWY4NjI5YmQzMDkzNzI3ODRjOTBjN2RfSUQ6NzY0NTI0Mjc5MDY1NDAzNzIxMV8xNzgxNzcwOTQxOjE3ODE3NzQ1NDFfVjM)
+![图片image_id处的图片是一张流程图，展示了社区挖掘SOP。从关键词搜索开始，经Reddit搜索框、切换Communities标签，再到Google: site:reddit.com AI tools，筛选1万 - 50万成员，加入并观察7天，记录热门帖类型，最后制定首帖计划。该图与文档中“社区挖掘SOP”内容对应，直观呈现了从搜索到制定计划的完整流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjM3NTRiN2U0MGIwMTk4ZjY5Y2Y1YTkzODQ3YzVmZWFfNjM4YmU1MzUxYzBjNzdkNzBlOWRjZjlhMjc1ZDE3OTZfSUQ6NzY0NTI0Mjc5MDY1NDAzNzIxMV8xNzgyMDk5MTE0OjE3ODIxMDI3MTRfVjM)
 
 ### 1.3 Reddiquette：AI运营的礼仪圣经
 
@@ -97,7 +96,7 @@ Karma 是 Reddit 的“信用积分”，对于 AI 赛道，它代表了你在�
 - 价值：高成就账号的AI资讯帖，点击率+50%。
 - 玩法：参与AMA（Ask Me Anything），如“AMA: Built an AI news aggregator”。
 
-![图片是一张表格，展示了Reddit平台的徽章及其获取条件、AI玩法和信任加成。表格包含徽章、获取条件、AI玩法、信任加 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGRkZTY5NjgyZGYwMmU5Njc2NTJiZWJmMzkzYjEzODdfYmE0MGY3ZGVhMzg5N2UwNDM1NGFlMjI5ZjkwZDBlZTBfSUQ6NzY0NTI0Mjc5OTk0MTM1Njc1NF8xNzgxNzcwOTQxOjE3ODE3NzQ1NDFfVjM)
+![图片是一张表格，展示了Reddit平台的徽章及其获取条件、AI玩法和信任加成。表格包含徽章、获取条件、AI玩法、信任加 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTAyNzk1Nzk1YmY1ZWI0MGMwMmZhODY3ZjdjNjE1NTJfNTEyNWYxZmMxZTQwYTM0OTA4NDg4OTM1MjgzOTAyMTlfSUQ6NzY0NTI0Mjc5OTk0MTM1Njc1NF8xNzgyMDk5MTE0OjE3ODIxMDI3MTRfVjM)
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Claudian 安装教程：把 Claude Code 接进 Obsidian，从 0 到侧边栏对话
 
-![图片为Claudian安装教程的封面，标题为“Claudian安装教程 把重点先讲清”，右侧有三个流程图框，分别标注“config”“验证”“上动”，并有箭头连接。右下角有“小墨同学”标识。该图片位于介绍Claudian安装教程的文档开头部分，起到引导和说明教程流程的作用，与后续下载、创建仓库等安装步骤内容相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzYzZjMwZGQ3NWMyNTc4YTkyYjZmYzNlY2UwOWFmNjNfMzIwN2Y3NzVlYTk3ZTgwZDkxNWRlZDFkZjY4MjQ3YjFfSUQ6NzY0NTI0MjI1MjE1NjE3NzYxMl8xNzgxNzcwOTYwOjE3ODE3NzQ1NjBfVjM)
+![图片为Claudian安装教程的封面，标题为“Claudian安装教程 把重点先讲清”，右侧有三个流程图框，分别标注“config”“验证”“上动”，并有箭头连接。右下角有“小墨同学”标识。该图片位于介绍Claudian安装教程的文档开头部分，起到引导和说明教程流程的作用，与后续下载、创建仓库等安装步骤内容相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWEyNWU5YTE2NTUwZWRiMDFlYzkwZGZiNzIzY2Q1MDdfYmZiYThhNDA0OTI4OGI3MThmNmQzZjhjNjkzN2FjYTNfSUQ6NzY0NTI0MjI1MjE1NjE3NzYxMl8xNzgyMDk5MTM1OjE3ODIxMDI3MzVfVjM)
 
 ## 在很多人看来使用CLI还是有一定难度的，或者在编辑文案内容的时候很不方便，需要来回切换文章和CLI命令行，我这篇要做的事很直接：Obsidian 左边多一个机器人图标，点开之后在侧边栏发一句话，Claude 直接把内容写进笔记。不切屏，不开终端让AI模型和Obsidian融为一体。我自己也是Obsidian 高强度的使用者。但是在文学创作的时候Claude code和Obsidian来回切换让我痛苦不堪，最后我找到了这个`Claudian` 可以完美的解决我的问题，这里我也把我自己的踩坑和安装总结成了这篇文章。
 
@@ -10,23 +10,23 @@
 
 第一步：下载Obsidian
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTE4ZDAxOGRhYjU2Y2EyNGIyZmIxNGI3MzY0MzhmNGJfMDVmMDAwMzFlYmNlNmYyMjUxZTg0ODVjOWZiOGQxOWVfSUQ6NzY0NTI0MjIxMDUzMTc0MDg4OF8xNzgxNzcwOTYwOjE3ODE3NzQ1NjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmUxYjdjMDc0YmY4MTY1NTJiMGYyN2I5ZDFhZjQ5ZjRfMmQ1MjM4M2E1NWQ3OWUzYTg0MDk4Mzc2NDA2YjVmNDVfSUQ6NzY0NTI0MjIxMDUzMTc0MDg4OF8xNzgyMDk5MTM1OjE3ODIxMDI3MzVfVjM)
 
 > 下载地址：[https://obsidian.md/download](https://obsidian.md/download)
 
 第二步：创建仓库
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzVhOGQ0ZjMzNDA1NzNkZjBjNGMxY2EyYTgxMDNkMDNfNTJlZDgyMmM0NTlmMDdmM2JmNTA5Y2FhNTQwYmFjMDZfSUQ6NzY0NTI0MjIxODU1NTcyMjk1OV8xNzgxNzcwOTYwOjE3ODE3NzQ1NjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjI5NzdlMDc5NDJjMjM3YmI2MTI5MmRhNGZjYjM1ZmFfODc3MTVmZjRkZTgxOWNhOWZmOWRlMThhM2NhNmQ2MWVfSUQ6NzY0NTI0MjIxODU1NTcyMjk1OV8xNzgyMDk5MTM1OjE3ODIxMDI3MzVfVjM)
 
 ## 第二步：用 BRAT 装 Claudian，把 CLI 路径填进去
 
 因为Claudian 还没进官方插件市场，所以我们需要通过 BRAT 装。BRAT 是 Obsidian 社区专门装 beta 插件的工具，非常的安全和高效。第一步：先开 Obsidian 第三方插件：设置 → 第三方插件 → 关掉安全模式
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmYxNGM0NDgzZmRjNmEyMDFiYTY3YTg5ZDNmNzVmZWJfZTg3ODkxY2VlODk4MTg1MzY3ZWQ0Nzk0Yzc3MDY5MzdfSUQ6NzY0NTI0MjIyNjM4MTY4ODAxOF8xNzgxNzcwOTYwOjE3ODE3NzQ1NjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTgzNDZiZTkwNGFkNWUzNTA5MTk4ZTIxYzdmZDU0ZjJfZjIzZTJlOTZiYTBlYzE3ZDc1OTcxYjEzOGJkNzExZTFfSUQ6NzY0NTI0MjIyNjM4MTY4ODAxOF8xNzgyMDk5MTM1OjE3ODIxMDI3MzVfVjM)
 
 第二步：搜索BRAT插件（启用插件）
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjBmYjIwOTg1MmIyOGZmYzNhYzQ4ZDIwNmNkYmJiY2NfNDY5N2IyZGRmZjVhNGUwNDY5ZDE1YTJkZDZjODE2MjJfSUQ6NzY0NTI0MjIzMTM5ODQ2ODgwN18xNzgxNzcwOTYwOjE3ODE3NzQ1NjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTNiZTg5MjNhZGUzZjEyMzdlMTkzM2EzZTQyYWFhOWZfYmRlMTg1YTRjMDc1NzhkMDc2MTQ3ZGI3ZjE3ZTczZDNfSUQ6NzY0NTI0MjIzMTM5ODQ2ODgwN18xNzgyMDk5MTM1OjE3ODIxMDI3MzVfVjM)
 
 然后用 BRAT 拉 Claudian：左侧列表进 BRAT → `Add beta plugin` → 粘这个地址：
 
@@ -35,7 +35,7 @@ https://github.com/YishenTu/claudian
 
 ```
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzQ3Y2Q0ODAzZmNhZjZkZTgxMDg2OGQ5OWZjMWMxMDVfNmE3NjM5YTRiNzg2OTZkY2VkOTU1Mjc3Zjg5NzhlMjJfSUQ6NzY0NTI0MjI3MTgzNjQ0MTgxMl8xNzgxNzcwOTYwOjE3ODE3NzQ1NjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDQ0MzRjMmQ3NjliNTI3ZWI1NTgxNjUzODBkMjg2ZWVfYzU3MGQ5Y2VmZTJiZWNhMWU3NDA1YWMyZGMzOTM3MTVfSUQ6NzY0NTI0MjI3MTgzNjQ0MTgxMl8xNzgyMDk5MTM1OjE3ODIxMDI3MzVfVjM)
 
 等它装完。回设置页，左侧多出 `Claudian`，点进去：
 
@@ -43,7 +43,7 @@ https://github.com/YishenTu/claudian
 2. 找到 `Claude CLI 路径`，粘上第一步复制的完整路径
 3. 粘完 Claudian 会自动探测一次，没报错就往下走
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDE2YjQ2OWNmMjA2OTlmYmE2MWFmODM0MjJhNjY3NzBfODBmNTBkOWY0YjQyN2RkMDQxMzhmNDQyYjFhM2U4ZGJfSUQ6NzY0NTI0MjI1OTkxOTI0NDQ5OF8xNzgxNzcwOTYwOjE3ODE3NzQ1NjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODUzNTBkYWVjNzkzOTg5MThjYzgzM2JmN2RlNmUwZjlfMGZkMmQwYzQyMzJhYThiMjZmMjdjOGRkYmNhZDI5ZTNfSUQ6NzY0NTI0MjI1OTkxOTI0NDQ5OF8xNzgyMDk5MTM1OjE3ODIxMDI3MzVfVjM)
 
 这一步之后，分成两条路：订阅路径和反代。**订阅路径**：不用再改。第一次发消息时 Claude Code 可能弹一个登录链接，跟着走，跟claude code都是一样的使用方式，如果你一个登入授权过就不需要管了。**反代/中转路径**：在 Claudian 设置里找到"自定义环境变量"这一块（字样以你装的版本为准），追加两条：
 
@@ -55,7 +55,7 @@ ANTHROPIC_BASE_URL=你第三方 API 服务的地址
 
 `ANTHROPIC_BASE_URL` 是接口根路径，不是登录页地址，别粘错。第三方 API 服务控制台的"API 接入"那栏一般能找到。如果是使用nvm安装的node环境的需要注意CLI命令的路径，默认使用的是用户的命令行窗口，但是如果你有多个node环境可以会导致出现错误。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDY5OTAyYzUzY2E2MDI5YmU2YzAzNThhYjUxZDViMmJfZGJiNGU2YzNlN2ViYzk4Yzg2MWI0YjUxYmFhMzE4OWNfSUQ6NzY0NTI0MjIzODc4MDAxNzg4MF8xNzgxNzcwOTYwOjE3ODE3NzQ1NjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzdlOTlkODkxZjVmNDUxYzdmYmQ4YzlkZmIyYWMxM2RfNjZiNzM3MmYwYTJjYTc3YWQ3MzA4Mjc1Njg5ZGQ0OThfSUQ6NzY0NTI0MjIzODc4MDAxNzg4MF8xNzgyMDk5MTM1OjE3ODIxMDI3MzVfVjM)
 
 ---
 
@@ -77,7 +77,7 @@ ANTHROPIC_BASE_URL=你第三方 API 服务的地址
 - **红色报错**：多半是 `Claude CLI not found`
 - **什么都没动**：Claudian 没启用，或者你点的不是机器人图标
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODk2ODY5ZWVmY2QwZDg0NmZhN2IwMWIwM2JiM2Q4NTNfNGJlZDBhMjMyZTEwYmQ1MGE5MGU1ZjE5YjMyMzE1MjVfSUQ6NzY0NTI0MjI0Mjg3OTAxNjEyNF8xNzgxNzcwOTYwOjE3ODE3NzQ1NjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTQ5YTZhYWQwNDQ2MTU5NzEzZTk2ZDJmZWFkZDAxN2RfYmE0NDc5NWY0ZjJjNWMxYjIxNjZiMGE5NjFhMzFmMDBfSUQ6NzY0NTI0MjI0Mjg3OTAxNjEyNF8xNzgyMDk5MTM1OjE3ODIxMDI3MzVfVjM)
 
 ## 两个最容易卡的报错
 

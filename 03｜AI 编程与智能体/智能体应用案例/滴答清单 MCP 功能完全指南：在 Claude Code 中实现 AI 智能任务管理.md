@@ -2,7 +2,7 @@
 
 # 滴答清单 MCP 功能完全指南：在 Claude Code 中实现 AI 智能任务管理
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmNkZmIyNGEzYmMxM2ZjODNlMjQwNmJhOGRlMjc0OGNfZjk0ZTVlZjAxZjBjMzM4MmZiYTU0Mzk5ZjYyOTE4OTVfSUQ6NzY0NTI2NjAwMjI4NDEyMTI5Ml8xNzgxNzcwOTEwOjE3ODE3NzQ1MTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDg0YmFlNmI0YzhiOTE2ZThmZjVkZjE5MWU0ZjA3ZTdfNTQ2MzNmOGYyNzgwZjEzNDQ2NzJhNWQ2YzYyZjE5NDNfSUQ6NzY0NTI2NjAwMjI4NDEyMTI5Ml8xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
 跟 Claude 说了句「把这个开发计划拆成任务同步到滴答清单」，它直接拆好、建好了。
 
@@ -59,7 +59,7 @@ File modified: /Users/你的用户名/.claude.json
 
 这表示 MCP 服务器已成功添加到配置文件中。✅
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjVmNmQyODQyNjUxMDdkMzQyOWNiMzYyZmM5MjRmOTFfNWFkMDc3ZDNlNDM4ZmNlMGNjNWU4NDZhMjAyMmU3ZDhfSUQ6NzY0NTI2NjAwMjc3NDk2OTU2OF8xNzgxNzcwOTEwOjE3ODE3NzQ1MTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWQ5NGFlODdlZTQyNzAzYzlhNzU5MTMxMWI2MzNmMDRfMTM5OGVjYjFmNzE1MDliNGMxYzkxYjI1NDFmN2M0OTdfSUQ6NzY0NTI2NjAwMjc3NDk2OTU2OF8xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
 **💡** **关于** \\--scope **参数说明：**
 
@@ -90,9 +90,9 @@ Claude Code 会检测到未授权的 MCP 服务器，并提示你完成授权流
 3. **确认授权**：查看授权信息，点击"授权"或"同意"按钮
 4. **完成授权**：授权成功后，浏览器会显示成功提示，你可以关闭浏览器窗口
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGIxNTVkZWYzNDdhODA0NmQyZDE4ZTIzNDA3MmRmMDFfMjgwYmQxN2VkN2E2ZGFlZmE4YzQ2MTgwNTZiNzA2NTRfSUQ6NzY0NTI2NjAwMjgzMzY4OTc4MF8xNzgxNzcwOTEwOjE3ODE3NzQ1MTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDhmM2RjNzE0MzhhYTg2ODA0MjUyZWM4OWIyMjQwNzhfMWU1YzFjMjc0M2YwZDM1OGJhZWRkOTA0N2ZhYWU4NTNfSUQ6NzY0NTI2NjAwMjgzMzY4OTc4MF8xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjQwMzk3ZGUyM2RiYzM1YmY5YjhiZTMzNjNhNGVmYjRfZmI3ZTJmNjg3ZGZhZjQyZDM5MDY5OWE4ODY0MzhhMWRfSUQ6NzY0NTI2NjAwMDgxNjUyNDQ4Ml8xNzgxNzcwOTEwOjE3ODE3NzQ1MTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yzg0ZjhiNzcxYzg4MmJhYWEyMDYzMDlkY2ZlZGU1NzNfNmEyYmExM2ZkN2Q1OTMwNzIyMDUzOTg1ZTU3NzExYjVfSUQ6NzY0NTI2NjAwMDgxNjUyNDQ4Ml8xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
 返回终端，Claude Code 会显示授权成功的消息。
 
@@ -113,7 +113,7 @@ Claude Code 会检测到未授权的 MCP 服务器，并提示你完成授权流
 
 你应该能看到 dida365 出现在列表中，状态显示为已连接。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDhmMzNjOWEyMTdiZTE2NmQzZDYwYWQ3MWQ2ZjhkYWRfNGQxMzhjNWJlZmJiNmE1ZmRhYWE3YjA1OTI5NjMwZjVfSUQ6NzY0NTI2NjAwMTM1MzEzMzI0OV8xNzgxNzcwOTEwOjE3ODE3NzQ1MTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2IzZTFmMmE5OWMxMzhkZjdlYTdiMGZiZGZlN2JjYWVfNjg3NmQyMWUzZWZkYmI4MmFjNDIwYzRmMDhlZTBiY2NfSUQ6NzY0NTI2NjAwMTM1MzEzMzI0OV8xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
 **测试 MCP 功能**
 
@@ -126,7 +126,7 @@ Claude Code 会检测到未授权的 MCP 服务器，并提示你完成授权流
 
 如果配置成功，Claude 会调用滴答清单 MCP 工具，并返回你今天的任务列表。你会在输出中看到 🔨（工具）图标，表示 Claude 正在使用 MCP 工具。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzBiOWYzMmRkZGI3NzVkZTZkMDA0ZDVhOGQ2N2ViMjVfZDc2YTQ1YmNjMDgwNWQ1ZmVlODA5NWRmNGNhYzQ0NjVfSUQ6NzY0NTI2NjAwMTQ2NjY1ODAwM18xNzgxNzcwOTEwOjE3ODE3NzQ1MTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2JlOTk0MjA4MmNkODBmODYwOGNmZTUzOWUyZWI1NTVfM2ZhMTcyZWRjMTc4YzEwMmNiMTRiNjNjNzNhNTJiOTJfSUQ6NzY0NTI2NjAwMTQ2NjY1ODAwM18xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
 ## 四、实际使用示例
 
@@ -150,9 +150,9 @@ Claude Code 会检测到未授权的 MCP 服务器，并提示你完成授权流
 - 调用 create\\\_task 工具在该清单中创建任务
 - 返回创建成功的确认信息
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmFhNjljYjM0ZTk0OWVmMTdiYzg0ZmViMmU1NWUwNDhfMGFmZTQ5ODg4ZjIyYThlNjQ4MjNjZmNlNWExNjY2NzVfSUQ6NzY0NTI2NjAwMzg3MzY2NDIxNF8xNzgxNzcwOTEwOjE3ODE3NzQ1MTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTIzMDA5MTFlNzg2MjUwNDE2Y2QxN2U0MWEwZTZjMTdfYTFiM2QwYjc4M2ZiOGY2MTQzNzExZTM3ZWRlNmY0M2JfSUQ6NzY0NTI2NjAwMzg3MzY2NDIxNF8xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmQ1ZGRjODRjZDFiZWYyYWNlZDkyMmY0YjFhNWU1ZjJfZmQwYmVmYzJmNGMyYjkzMjY5Y2QxZjRjZWQyMzcyYThfSUQ6NzY0NTI2NjAwMTk4MjI3ODg1MF8xNzgxNzcwOTEwOjE3ODE3NzQ1MTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmRjZjJiZDU4YWRlNmY4ZTE0MDBmZTIxYWE2OTU1YTRfMGEwYjg4MTVmYzE3NTk2MWJiOTdiNmUxY2E4ODNhNzVfSUQ6NzY0NTI2NjAwMTk4MjI3ODg1MF8xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
 **示例 2：查看今日待办**
 
@@ -169,7 +169,7 @@ Claude Code 会检测到未授权的 MCP 服务器，并提示你完成授权流
 - 列出任务详情（标题、清单、优先级等）
 - 按优先级或清单分组显示
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTlmMDk2MzNlOTk5M2YxOGY0OGQ0OTJkODQxMWZiZDFfMDQzMTQ1NmFiOTY0NDA1Y2U1NzRmYjhkYmQ1ZWIwNDNfSUQ6NzY0NTI2NjAwMTc3MjcyNzQ5N18xNzgxNzcwOTEwOjE3ODE3NzQ1MTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjJkOGI1NWJjYjVhYTgxNThiMTQ5OGFkZThjNDBmMDBfODNkN2M4Zjg3NTQzYmIyMDljY2U3NjFlMmU4ZTEwNmZfSUQ6NzY0NTI2NjAwMTc3MjcyNzQ5N18xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
 **示例 3：创建带子任务的任务**
 
@@ -190,9 +190,9 @@ Claude Code 会检测到未授权的 MCP 服务器，并提示你完成授权流
 - 然后为该任务添加 4 个子任务（checklist 项）
 - 返回完整的任务结构信息
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODkxMWI0MTQ1NDA2OWM5ZmVmZmQzMmI2OWRkMWZhY2FfNzA3NmQxY2IzNGNjZDc5NDJjZjcxMmU4M2JhNDRhNTVfSUQ6NzY0NTI2NjAwMTI0ODI1OTI3M18xNzgxNzcwOTEwOjE3ODE3NzQ1MTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWQzZGZkYTdmZjgwMzA3ODA4YWJiOTdlNTg4MTAzYWFfMzg2M2UzNzNhMjlkYjU1MDMxOTJhNTUyZjc1N2Y3ZDRfSUQ6NzY0NTI2NjAwMTI0ODI1OTI3M18xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDRhYWVmOWQ2NWYyYmJkOGMyN2UyYmU5ZmE3ZDRmZThfNDYwYTQ3NjRjZDBhMDE1YjcxMzk5ZDllYzM1MGVhMmJfSUQ6NzY0NTI2NjAwMTU4OTg2NTY2Nl8xNzgxNzcwOTEwOjE3ODE3NzQ1MTBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDdhNzZiYThhMTQxMjZkNDg2MjJmNTQ2ZDQxNmFmN2JfMjY5ZDk5YmM1YmExNTBhMjg0MzZhN2ViNmIzNThmNTZfSUQ6NzY0NTI2NjAwMTU4OTg2NTY2Nl8xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
 ## 五、可用的 MCP 工具列表
 

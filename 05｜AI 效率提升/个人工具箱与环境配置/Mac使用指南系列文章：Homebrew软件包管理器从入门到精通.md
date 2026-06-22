@@ -4,7 +4,7 @@
 
 ​
 
-![图片左侧以一杯带有“BREW”标识的啤酒为主题，配文“Homebrew for macOS: 从零开始一切的起点”。右侧展示了一段终端命令代码，包括“xcode-select --install”和“brew install git python nodejs cask visual-studio-code google-chrome”等，右侧还配有多个图标，如VS Code、Chrome、Python等。该图片与文档中介绍Homebrew是macOS包管理器，是Mac使用过程中的重要起点，可安装命令行工具和图形化应用等内容相呼应，直观呈现了Homebrew的功能和使用场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjUwM2M5YzM1MWZhNjY3NjkxZjA5NWEzOTA3NmJlMmRfYTg5MjgyY2EzYTY2ZTU0NDJkOWRlOWIyZTFlODcyODRfSUQ6NzY0NjMwMzc1NTM2NTcxNDkxNl8xNzgxNzcwOTkxOjE3ODE3NzQ1OTFfVjM)
+![图片左侧以一杯带有“BREW”标识的啤酒为主题，配文“Homebrew for macOS: 从零开始一切的起点”。右侧展示了一段终端命令代码，包括“xcode-select --install”和“brew install git python nodejs cask visual-studio-code google-chrome”等，右侧还配有多个图标，如VS Code、Chrome、Python等。该图片与文档中介绍Homebrew是macOS包管理器，是Mac使用过程中的重要起点，可安装命令行工具和图形化应用等内容相呼应，直观呈现了Homebrew的功能和使用场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2Q0OTg1ODc5OGY4ZWY4ZmMyNTg5ZTE0Y2E0Y2Y0MDRfNmQyZDI2NjY4ODNiZWRjYThjYzhhMmVlNTdkOTAyZTlfSUQ6NzY0NjMwMzc1NTM2NTcxNDkxNl8xNzgyMDk5MTY5OjE3ODIxMDI3NjlfVjM)
 
 这是这个系列第一篇文章，我会把自己最近从零开始梳理，整理 Mac 使用过程中的经验与步骤记录下来，作为留存与分享。如果拿到一款新的Mac，我什么都没动，看了大量的装机必备指南后，我首先能想到的就是来安装Homebrew。
 
@@ -64,7 +64,7 @@ xcode-select -p
 
 上面命令安装完毕之后，会提示如下，意思就是复制红色箭头命令继续在命令行中执行，配置PATH环境变量
 
-![图片展示的是在Mac终端中安装Homebrew后的提示信息界面。界面中红色箭头指向的关键命令为“eval '$( /opt/homebrew/bin/brew shellenv zsh )'”，该命令用于配置PATH环境变量。此图片与上文“配置PATH环境变量”步骤相关，是配置步骤中需在终端执行的关键命令示例，帮助用户完成Homebrew的安装配置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDFmOTI2OGE5ZGExYjgxZjEwMjU3MjRkOTRkZDFmZTZfZTY4YmVkNjcxYWU5NGE4OTAwMGExYTE0NDc2YWM4MTNfSUQ6NzY0NjMwMzc4MDQ4MDU4NDY2OF8xNzgxNzcwOTkxOjE3ODE3NzQ1OTFfVjM)
+![图片展示的是在Mac终端中安装Homebrew后的提示信息界面。界面中红色箭头指向的关键命令为“eval '$( /opt/homebrew/bin/brew shellenv zsh )'”，该命令用于配置PATH环境变量。此图片与上文“配置PATH环境变量”步骤相关，是配置步骤中需在终端执行的关键命令示例，帮助用户完成Homebrew的安装配置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjA5MDk0NTljM2U3OGFmNDRkMGIwN2Q3MjM0MTVmNjdfMDk3ZjUyNWE2NmQwZjU5NDAyMWM2MWQyYzA3MGIxNjRfSUQ6NzY0NjMwMzc4MDQ4MDU4NDY2OF8xNzgyMDk5MTY5OjE3ODIxMDI3NjlfVjM)
 
 验证安装是否成功
 
@@ -188,7 +188,7 @@ brew deps --tree <软件名>
 
 想安装什么可以先搜索一下，或者直接叫AI帮我你找，找完再安装
 
-![图片展示了在Mac终端中使用Homebrew搜索软件包的示例。左侧依次执行了`brew search google-chrome`、`brew search obsidian`、`brew search nodejs`命令，右侧显示了搜索结果。其中，`google-chrome`有多个版本，如@beta、@canary等；`obsidian`仅显示一个版本；`nodejs`有多个版本，部分标注为已废弃。该图片与文档中“常用命令”部分的“查看和搜索”内容相关，直观呈现了使用brew search命令搜索软件包时的终端界面及结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzJmZDA4ZDJiNDQyN2E5YjI3NGUzZGU3MmYxNzc3YTJfZWFjMjgyMzEyMGMyZmRjNmQ0NjBiZWRiZjlhOTczYzdfSUQ6NzY0NjMwMzc5ODgwNjIzNjEwOV8xNzgxNzcwOTkxOjE3ODE3NzQ1OTFfVjM)
+![图片展示了在Mac终端中使用Homebrew搜索软件包的示例。左侧依次执行了`brew search google-chrome`、`brew search obsidian`、`brew search nodejs`命令，右侧显示了搜索结果。其中，`google-chrome`有多个版本，如@beta、@canary等；`obsidian`仅显示一个版本；`nodejs`有多个版本，部分标注为已废弃。该图片与文档中“常用命令”部分的“查看和搜索”内容相关，直观呈现了使用brew search命令搜索软件包时的终端界面及结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGNkNGNhN2U1YzJkNDQzZGI5MDEzNzU5NjAxODA2ZDhfNzM2NWQ5Mzg1NTU5YjBjMTM3Mjg2OTFlZDc4MGNiY2JfSUQ6NzY0NjMwMzc5ODgwNjIzNjEwOV8xNzgyMDk5MTY5OjE3ODIxMDI3NjlfVjM)
 
 4.4、维护和清理
 
@@ -268,7 +268,7 @@ brew services restart <软件名>
 
 不过Homebrew也有问题，比如有时候很慢。因为它的底子实在是太老了，主要是用的Ruby+Shell脚本实现的。这在当年可能是非常合理的选择，但是有一个新工具，Zerobrew，最近一段时间刚刚开源目前已经有7.1K star。
 
-![图片展示的是GitHub文档question](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDMwYjhjNjk3MDllOGRkZmE0M2Q5NWY4YTFiNmVjNDZfNzMzZDgyNTI1N2JjMTFjNWM5YzY5N2Q0N2Y4M2RjNDhfSUQ6NzY0NjMwMzgyMDQyMDg5MzYyNl8xNzgxNzcwOTkxOjE3ODE3NzQ1OTFfVjM)
+![图片展示的是GitHub文档question](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODBiNzY2ZmMxNWM0MTFkYzI1ZjY0ZDA5NWU0NmNmNTBfOGZmZmFiYTkxOWM0MjViNTRmMmNkMDU5NmUzNWE3YTdfSUQ6NzY0NjMwMzgyMDQyMDg5MzYyNl8xNzgyMDk5MTY5OjE3ODIxMDI3NjlfVjM)
 
 每次执行brew，都要先启动一整套Ruby运行时，哪怕只是装一个小工具，流程也是一样重。
 

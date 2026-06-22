@@ -2,7 +2,7 @@
 
 # 玩转本地 AI 的「第 0 步」：Node.js 环境保姆级安装教程
 
-![图片展示了“保姆级AI基建教程 Node.js安装”相关内容。左侧以“AI基建”为核心，说明其核心组件为计算、存储、网络。右侧分为“Node安装”和“3. 保姆教程”两部分，“Node安装”包含安装步骤与环境配置，有node.js图标；“3. 保姆教程”分为环境检查、命令行执行、验证通过三步，有对应图标。图片与上下文紧密相关，直观呈现了AI基建及Node.js安装的结构与步骤，帮助小白理解本地AI环境搭建。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTI0NGMyNjYzYzYyYmVjYjIyOTkzODk3YzVhNzc1YTNfYzYwNmQxYzRkMjE4YmU0MDE3YTBlYTQ0NTBlMmVhMThfSUQ6NzY0NDk2NjkwMjA5NTQzMjkwN18xNzgxNzcwNzgwOjE3ODE3NzQzODBfVjM)
+![图片展示了“保姆级AI基建教程 Node.js安装”相关内容。左侧以“AI基建”为核心，说明其核心组件为计算、存储、网络。右侧分为“Node安装”和“3. 保姆教程”两部分，“Node安装”包含安装步骤与环境配置，有node.js图标；“3. 保姆教程”分为环境检查、命令行执行、验证通过三步，有对应图标。图片与上下文紧密相关，直观呈现了AI基建及Node.js安装的结构与步骤，帮助小白理解本地AI环境搭建。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmRkNzk0NzJjODMxNjBlY2Q3MzkzNzFjMjAyYzViZjFfMjA3OTBmYWZhYzRiZWFlNDY0NTlmNjk4MzczN2UzMDVfSUQ6NzY0NDk2NjkwMjA5NTQzMjkwN18xNzgyMDk4OTMxOjE3ODIxMDI1MzFfVjM)
 
 我看现在很多本地 AI 教程，工具安装的教程满天飞，每个细节也非常到位，但是都忽略了真正的小白的痛点，那就是Node环境。基本上所有的AI相关的工具都是基于 `Node.js` 环境去做安装和扩展的，如果不把地基打牢后面很多 `skills`、`MCP`、CLI 工具连跑起来的资格都没有。
 
@@ -40,7 +40,7 @@ where npm
 
 如果运行命令的时候这里已经报 `command not found`，或者 `where node` 指向一堆你根本不认识的目录，那其实是好事。至少问题说明两个问题，电脑是纯净没安装过的或者告诉你电脑已经安装，告诉你安装的位置。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTAzNGNjZjIyMzgzOTkxZTEwMGY5MTg0NGViOTMzNDZfY2Y0OTY2YmI4Y2E4OWI0Yzk0OGNiNDE0Y2U3NmRkYjRfSUQ6NzY0NTE2Nzg1NTkyMzAzOTQ0M18xNzgxNzcwNzgwOjE3ODE3NzQzODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDdmOWI5Njc1OGM2N2UzZjgwNzMyMGNmOWViNjdkM2FfNzlkYTJiZDg5YWE2MTY1NDA2NzQ2ZGE0NmVkNTcwODFfSUQ6NzY0NTE2Nzg1NTkyMzAzOTQ0M18xNzgyMDk4OTMxOjE3ODIxMDI1MzFfVjM)
 
 > 注意：  
 > `npm` 通常会跟着 `Node.js` 一起装，不用单独先装一遍。后面还是推荐使用`nvm` 来做node的版本管理工具 。
@@ -114,7 +114,7 @@ nvm use --lts
 
 ```
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGY2MDVkMmMyODQ4ZTQxN2QzZDczNDRkZjQxMWU1YjZfNmMwYmZkNDgyMWJhMmI1OGYyY2ZiNmJjMjIzOTk1NmNfSUQ6NzY0NTE2Nzg5Mjk3MTIxMTk4MF8xNzgxNzcwNzgwOjE3ODE3NzQzODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTg4Mzc1MjRkYjc2ZmUwZGQ2NzAwMDJhMzU2ZTljMzhfMWNlNmZiNzVkZGVkNjE1MWIwY2M0MmFlMWJmOGZkM2JfSUQ6NzY0NTE2Nzg5Mjk3MTIxMTk4MF8xNzgyMDk4OTMxOjE3ODIxMDI1MzFfVjM)
 
 再检查版本：
 
@@ -180,7 +180,7 @@ nvm debug
 
 那就是直接走 Node 官网安装包。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTNlNjk5YWFlZTdiY2FhNjhiNjllNGJjNzJjODkwMTdfNGI0ZDRkYWM1ZTU5NGE1MmRlYmU4NmY1YzZiNWIxMzFfSUQ6NzY0NTE2NzkyNzY4NzI4NTk3N18xNzgxNzcwNzgwOjE3ODE3NzQzODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODFhZTg3MTk2YzAyZWI1NTEzYjEzZGMyY2UzMGJhODBfNWFhNDNkNTdkZjJhNzk4NWE4ZWI5ZjBmN2ExMDQxOTJfSUQ6NzY0NTE2NzkyNzY4NzI4NTk3N18xNzgyMDk4OTMxOjE3ODIxMDI1MzFfVjM)
 
 这一条适合两类人：
 
@@ -257,7 +257,7 @@ node -e "console.log(process.version)"
 
 能正常打印版本，说明 Node 本体已经能跑。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmUzZjgzNmVhNDkwZWVhNWM2ZGNkYmZjZTU3NTM1YThfZjA4MWFjMTc5MTZhMjZjNGU2MTFlZTFjMjhlY2EwZDlfSUQ6NzY0NTE2Nzk2MDk3OTE5NzEzMV8xNzgxNzcwNzgwOjE3ODE3NzQzODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTg5NmE5ZjQ3NzljMjI5ZDE5MzhiMTJjODI2ZGIwNDdfZDIwZTE0YTQxYmVkODhjOGVkYWY0NTIxZTY2ZmI0NmZfSUQ6NzY0NTE2Nzk2MDk3OTE5NzEzMV8xNzgyMDk4OTMxOjE3ODIxMDI1MzFfVjM)
 
 ---
 

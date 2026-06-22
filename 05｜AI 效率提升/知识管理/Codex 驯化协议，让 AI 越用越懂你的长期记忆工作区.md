@@ -8,4 +8,4 @@
 
 适合用 Codex / Cursor 做开发、做内容、做提效，又觉得"AI 没记性、越用越不顺手"的人。打开协议，复制安装指令词发给 AI，再把个人信息填上即可开始。
 
-<figure view-type="Preview"><source href="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTE0ODQ5MWU5ZTYzYzFjN2Q4ZDgwNDgyMjA4Yjc0N2RfM2MyYWY1ODE2Njg5ZWUxMTg0MzIxOTE1MWQ1N2FhYmZfSUQ6NzY1MjM3Mzk0MDcwMjMxNzgwMV8xNzgxNzcwOTgwOjE3ODE3NzQ1ODBfVjM" mime="text/markdown" token="LLnnbF8yqobKIDxrBaVcKBsinih"/></figure>
+<figure view-type="Preview"><source href="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTI3Yjk3ODIwOTRmOTRkZTg1YTRkOTcwZWVmYTg2YmFfNTViZWQ4NTVjZTFmZjM4NGQ3ZTZmNGE5NjRhZDJkY2RfSUQ6NzY1MjM3Mzk0MDcwMjMxNzgwMV8xNzgyMDk5MTU4OjE3ODIxMDI3NThfVjM" mime="text/markdown" token="LLnnbF8yqobKIDxrBaVcKBsinih"/></figure>

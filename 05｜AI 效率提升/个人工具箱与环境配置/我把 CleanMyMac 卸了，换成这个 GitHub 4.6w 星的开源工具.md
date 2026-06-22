@@ -2,7 +2,7 @@
 
 # 我把 CleanMyMac 卸了，换成这个 GitHub 4.6w 星的开源工具
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTFhY2YyZjI1NmY5MDA0ZDY0NDgwN2Q4MmQxMDdlZWJfOTZhMTlhM2JjNmNlZDg1MTBlZGMyY2FiM2I2NDkxM2JfSUQ6NzY0NTI2NjU2NzI2OTk2MDkwN18xNzgxNzcwOTg1OjE3ODE3NzQ1ODVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGU4NmY0M2E0NzRkODk2MzhjZGI2OTZjYmYxYzFkNjFfZmRjNTY3YzIyNmNhYmNjNzZjYTliOWEyYzgzOTA0MDlfSUQ6NzY0NTI2NjU2NzI2OTk2MDkwN18xNzgyMDk5MTYyOjE3ODIxMDI3NjJfVjM)
 
 电脑越用垃圾越多，甚至我系统数据已经用了 268GB，实在是令人匪夷所思。
 
@@ -52,7 +52,7 @@ mo status
 
 ```
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2VkYjY3NDg0Yjg1MmVkNTc5YzcxZTYwODBlZTMwYTFfZGI4YmIyM2QyMThhYjAwNzI5NzlhMGNiMWZlNmEwODRfSUQ6NzY0NTI2NjU2OTcwNjI0NTMwOF8xNzgxNzcwOTg1OjE3ODE3NzQ1ODVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWU3MzE3MDk3YzM1Y2Y1MWYyY2I4YWM4MjY5YzQxZTVfMTRjNzk2MGRiOGMxNDk1OGRkZjc3NzJiNjI3ZTE0MzZfSUQ6NzY0NTI2NjU2OTcwNjI0NTMwOF8xNzgyMDk5MTYyOjE3ODIxMDI3NjJfVjM)
 
 我这台机器 Health 评分 69 分。磁盘 436G 用掉了，只剩 25G；内存 76%，Swap 用到 4.8GB。
 
@@ -67,9 +67,9 @@ mo clean --dry-run
 
 dry-run 是"假装跑一遍"，只告诉你能清哪些、一共多少 GB，不真的删。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGRmNWI4MjUzMThiZWNkNWMwOGNhNmVkMzQ2ZGJlZjhfNzMxZDhkOTU3MDhlYmYzNGM5NDUwYzA4ZjYyZDgxZmVfSUQ6NzY0NTI2NjU2OTI1NzY1MTQxNl8xNzgxNzcwOTg1OjE3ODE3NzQ1ODVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGFlYmY4ODllZjg0NjU5YmYyODFmODFjYTAwNGJhN2RfZTdlMDM0NmVjMzFhMDlkNzE5MjllMTFhMjMwNjZhZTZfSUQ6NzY0NTI2NjU2OTI1NzY1MTQxNl8xNzgyMDk5MTYyOjE3ODIxMDI3NjJfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzI0MDFlOGFiMWEyMDBkZjE4Y2U3MTc0NWYxMzg3NGFfZGQ4OTFjYzFjYWQxNjgzY2ZkY2QzMWQwMGRhZDI3MDBfSUQ6NzY0NTI2NjU2Nzg0NjA4Nzg4OV8xNzgxNzcwOTg1OjE3ODE3NzQ1ODVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWMxYzRlZWY0YzE3ZGQ1YjY4YTI5OTFkYjdhNzY0YThfZjY4MTZkNTc1MmMwODg3NzUzMjY2YTdiMjIzODFiNDJfSUQ6NzY0NTI2NjU2Nzg0NjA4Nzg4OV8xNzgyMDk5MTYyOjE3ODIxMDI3NjJfVjM)
 
 我这次扫出 28GB 可以清，大概分这几类：
 
@@ -96,7 +96,7 @@ mo clean
 
 ```
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2JmZjBhMDJlNWQ4ZjgxYjY2MDgzNTNmYjAwYTNiZDVfMzczMjEzODA2MGM4NGZiOTYzOTc0Y2MyYzMxMTI4NDJfSUQ6NzY0NTI2NjU2NzAzNDk5Nzk0OF8xNzgxNzcwOTg1OjE3ODE3NzQ1ODVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTkzYmI2M2NiYWZmZjIzZTc5MzViM2VmZjg4NmY5Y2RfNDYwNDVjNWI1Mzc4OGNhNjUwMDUzNDE2MTBhNjAzMTZfSUQ6NzY0NTI2NjU2NzAzNDk5Nzk0OF8xNzgyMDk5MTYyOjE3ODIxMDI3NjJfVjM)
 
 实际释放了 20.72GB
 
@@ -106,7 +106,7 @@ mo clean
 
 268.3 GB → 247.73 GB，清掉了约 20.6GB。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjgzNmU2Yjg3MDQyY2QwOGJjNDllMjE5OTM2YmU4YTZfMTIxZTcxZWZkOTllODExYTlmYmM1ZmFhNzkwNjlkMjlfSUQ6NzY0NTI2NjU2NzU4ODQ5ODYyMF8xNzgxNzcwOTg1OjE3ODE3NzQ1ODVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmFjNmQwYTc2MGM0ZWE5N2ZhODA5M2QyYWNjM2U3ZDZfNWE3NmE1ZWQ3NmU3NjRjZjY3MzliM2YzOTM1NjRiZDJfSUQ6NzY0NTI2NjU2NzU4ODQ5ODYyMF8xNzgyMDk5MTYyOjE3ODIxMDI3NjJfVjM)
 
 ## 6️⃣清构建产物（开发者专属，非专业人员紧急避让）
 
@@ -117,7 +117,7 @@ mo purge --dry-run
 
 ```
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWJmMTg5MmZlYzkzYzkxODc3NzQ2NTk5NDVjOGExYzhfNWU2MmNjNzQ0YTEzNzI4YWQ1M2M2NTA1MzJmNDAwNTVfSUQ6NzY0NTI2NjU3MDc3MTU2NTc3NV8xNzgxNzcwOTg1OjE3ODE3NzQ1ODVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWIxNGY4M2IzZmFkMGNjMWY1MjM3MzNkM2UyMWY3YmVfYTJhMTkyMGExMzY2ZmEwYTc5MGY0YjQxNzM5NzBhMzRfSUQ6NzY0NTI2NjU3MDc3MTU2NTc3NV8xNzgyMDk5MTYyOjE3ODIxMDI3NjJfVjM)
 
 我扫出 5GB 构建产物，25 个目录。
 
@@ -141,7 +141,7 @@ mo analyze
 
 可视化界面，能看出磁盘被谁占了，类似 DaisyDisk 但免费。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWI4YTVjZWE0MjFhOGE0MWQ1NjFmY2Q0ZDIzNmU1NDVfMzliNjRjYjZkMTlkNGNiMzFlMWVlYTJiODU1Y2Y0MjVfSUQ6NzY0NTI2NjU3MDYzNTY0NDEwNF8xNzgxNzcwOTg1OjE3ODE3NzQ1ODVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGJhMWNhMWZjM2UwMzk4YjBiMmM2MTkyMGEwYTcxNThfNmU5YjU3YzlkOWU5MDBkZThlZGQ2MmFiMjQyOGE1MThfSUQ6NzY0NTI2NjU3MDYzNTY0NDEwNF8xNzgyMDk5MTYyOjE3ODIxMDI3NjJfVjM)
 
 ## 8️⃣关于安全性
 

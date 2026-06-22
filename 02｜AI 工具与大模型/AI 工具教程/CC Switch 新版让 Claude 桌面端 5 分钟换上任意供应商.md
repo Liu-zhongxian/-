@@ -6,7 +6,7 @@
 
 ---
 
-![图片展示了CC Switch接入Claude Desktop的相关内容。左侧是Claude Desktop界面，右侧有OpenRouter、DeepSeek及任意供应商的图标。中间是CC Switch v3.15.0，标注有模型映射、本地路由、OpenRouter、DeepSeek。下方有快速接入、本地运行、自由切换、多供应商的标识。图片与文档中介绍CC Switch新版让Claude桌面端5分钟换上任意供应商的内容相呼应，直观呈现了接入方式及支持的供应商。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTViMWIwYjIzNTk3ZDc1ODIzMGUyYTc3YjJkYWFjNDRfYzE2MzJjYzE5MTQ4NTczNzU4ZDFlOTU2N2QxNTQ3MTJfSUQ6NzY0NTcxMjExNDUxODM0NjkzMV8xNzgxNzcwNzg3OjE3ODE3NzQzODdfVjM)
+![图片展示了CC Switch接入Claude Desktop的相关内容。左侧是Claude Desktop界面，右侧有OpenRouter、DeepSeek及任意供应商的图标。中间是CC Switch v3.15.0，标注有模型映射、本地路由、OpenRouter、DeepSeek。下方有快速接入、本地运行、自由切换、多供应商的标识。图片与文档中介绍CC Switch新版让Claude桌面端5分钟换上任意供应商的内容相呼应，直观呈现了接入方式及支持的供应商。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTExZDA4MjVkYmUwMjMwMTI5YTYyNjJhNjY0N2UzMGZfZGNjZDc3ZGEzNjA1M2FmYzU1MmQyZjZiYmU3MDdkZmZfSUQ6NzY0NTcxMjExNDUxODM0NjkzMV8xNzgyMDk4OTUzOjE3ODIxMDI1NTNfVjM)
 
 CC Switch 今天发布了 v3.15.0，把 Claude 桌面端做成了和 Claude Code 并列的一等管理面板。
 
@@ -56,13 +56,13 @@ CC Switch 的编辑供应商页面上有一个「需要模型映射」开关，�
 
 打开 CC Switch，确认 App 切换器里能看到独立的「Claude Desktop」条目，和「Claude Code」并列。这是 v3.15.0 的标志。
 
-![图片展示了CC Switch软件界面，其中“Claude Desktop”选项被红色框突出显示。界面左侧有多个图标，右侧是不同AI服务的列表，包括Claude Official、default、XueDingToken、Nvidia、DeepSeek、OpenRouter、蚂蚁百灵等，每个服务项右侧有编辑、删除等操作按钮。该图片与文档中“二、进入Claude Desktop面板”内容相关，用于说明在App切换器里点击“Claude Desktop”后进入的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmJlMWVjMGUxOGY3MjE0NTEzZWMzZjE3NzliMjI2NTZfZDEzZGFjY2VhZDU2M2M0ODJkNjE3OTE3MGU3NGEwY2JfSUQ6NzY0NTcxMjEzMjA5NjQ2MjAwOV8xNzgxNzcwNzg3OjE3ODE3NzQzODdfVjM)
+![图片展示了CC Switch软件界面，其中“Claude Desktop”选项被红色框突出显示。界面左侧有多个图标，右侧是不同AI服务的列表，包括Claude Official、default、XueDingToken、Nvidia、DeepSeek、OpenRouter、蚂蚁百灵等，每个服务项右侧有编辑、删除等操作按钮。该图片与文档中“二、进入Claude Desktop面板”内容相关，用于说明在App切换器里点击“Claude Desktop”后进入的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzE4NDAzMjgxNmE4ZjllZWNkMmY3ZTZjNmZhZWU5ZDdfMTI2MjZkMWNjZjM0NTZlMzdhODM0ZjA0ZDY3OWJkMTlfSUQ6NzY0NTcxMjEzMjA5NjQ2MjAwOV8xNzgyMDk4OTUzOjE3ODIxMDI1NTNfVjM)
 
 ## 二、进入 Claude Desktop 面板
 
 在 App 切换器里点「Claude Desktop」，进入新面板。
 
-![图片展示了CC Switch桌面端的界面。界面上方有“CC Switch”标题及开关按钮，右侧有多个图标，其中红色框突出显示的“+”号图标是核心内容，用于添加新供应商。下方列表显示了已添加的供应商，包括“DeepSeek”“XueDingToken”“OpenRouter”，每个供应商名称后有“需要路由”标识，且有对应的网址。该图片与文档中“二、进入Claude Desktop面板”内容相关，直观呈现了进入面板后CC Switch桌面端的供应商添加界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2ExYWZkMGVmYjM3Zjc5NzVkNzJiNDZmYmE3M2IwZDNfODhkNjcyNjAyZDM1NmVkYjdlYTkzOTIxYjA5YmE4ZjdfSUQ6NzY0NTcxMjE0NTAxOTE3ODE4NF8xNzgxNzcwNzg3OjE3ODE3NzQzODdfVjM)
+![图片展示了CC Switch桌面端的界面。界面上方有“CC Switch”标题及开关按钮，右侧有多个图标，其中红色框突出显示的“+”号图标是核心内容，用于添加新供应商。下方列表显示了已添加的供应商，包括“DeepSeek”“XueDingToken”“OpenRouter”，每个供应商名称后有“需要路由”标识，且有对应的网址。该图片与文档中“二、进入Claude Desktop面板”内容相关，直观呈现了进入面板后CC Switch桌面端的供应商添加界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTczMTg2MjY5MzAzNTA5N2M1N2FmYzY2NmZmMWYyY2VfYjQwNjM2MzJiNmJjNGRlYmRlMzVjMzYzNzMwODhjODZfSUQ6NzY0NTcxMjE0NTAxOTE3ODE4NF8xNzgyMDk4OTUzOjE3ODIxMDI1NTNfVjM)
 
 ## 三、添加供应商
 
@@ -87,9 +87,9 @@ OpenRouter 是聚合多家模型的中转平台，Ring 2.6 1T 性价比高，日
 
 填到这一步，OpenRouter 配置应该长这样：
 
-![图片展示的是CC Switch添加新供应商界面。界面上方有“添加新供应商”标题，下方有“预设供应商”区域，列出了多个供应商名称，如胜算云、PatewayAI等。其中“OpenRouter”供应商名称被红色框突出显示。界面底部提示“只需填写API Key，请求地址已预设”。该图片与文档中添加OpenRouter供应商的上下文相关，直观呈现了在CC Switch添加OpenRouter供应商时的界面及“OpenRouter”供应商的显示位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTJiOWQ4MDY2NjIzZWMxNjdlMjM4MDU0MzlkYWY2N2VfOTgxOTY4N2YwMDc3MjU2MzI1MzcwOWFkN2JjMzBhODlfSUQ6NzY0NTcxMjE2MDg4NjI2Mjk5NV8xNzgxNzcwNzg3OjE3ODE3NzQzODdfVjM)
+![图片展示的是CC Switch添加新供应商界面。界面上方有“添加新供应商”标题，下方有“预设供应商”区域，列出了多个供应商名称，如胜算云、PatewayAI等。其中“OpenRouter”供应商名称被红色框突出显示。界面底部提示“只需填写API Key，请求地址已预设”。该图片与文档中添加OpenRouter供应商的上下文相关，直观呈现了在CC Switch添加OpenRouter供应商时的界面及“OpenRouter”供应商的显示位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTU3Y2Y4MzY4ZjQwMmVlODY4OWNhNzRkZWEyZDVlMGZfZDMxMDczMWY4ZmJjMmVmMGQyNzA5MTVjNTdmNzIyOGVfSUQ6NzY0NTcxMjE2MDg4NjI2Mjk5NV8xNzgyMDk4OTUzOjE3ODIxMDI1NTNfVjM)
 
-![图片展示了CC Switch中添加OpenRouter供应商时的配置界面。供应商名称为OpenRouter，官网链接为https://openrouter.ai，API Key处有遮挡，请求地址为https://openrouter.ai/api，API格式选“Anthropic Messages(原生)”，需模型映射，模型映射列表中Opus、Haiku、Sonnet等模型对应“inclusion/ving-2.6-ft”。右下角有“点+新增模型列表”和“点+添加模型”按钮。该图与上文添加OpenRouter供应商的配置步骤说明相呼应，直观呈现了配置内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmY3YjhiMmY2YzZhMzBiYWRjOTdkMGRjMDkzNmU1MDFfZjk2NzExNGQ3MjAzYjdjNjYxYTZhZDU3NzBhZmE2OGFfSUQ6NzY0NTcxMjE3MDQwMzEzODc3N18xNzgxNzcwNzg3OjE3ODE3NzQzODdfVjM)
+![图片展示了CC Switch中添加OpenRouter供应商时的配置界面。供应商名称为OpenRouter，官网链接为https://openrouter.ai，API Key处有遮挡，请求地址为https://openrouter.ai/api，API格式选“Anthropic Messages(原生)”，需模型映射，模型映射列表中Opus、Haiku、Sonnet等模型对应“inclusion/ving-2.6-ft”。右下角有“点+新增模型列表”和“点+添加模型”按钮。该图与上文添加OpenRouter供应商的配置步骤说明相呼应，直观呈现了配置内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGJiNWEwOWQxMTE2MmNjZmRiNzQ2YmFmZTFjNmI4NGVfZDIzOTE4ZGI2ZTVlMDdmMjEzYTQ1ZDRjNjkyYzg1NTJfSUQ6NzY0NTcxMjE3MDQwMzEzODc3N18xNzgyMDk4OTUzOjE3ODIxMDI1NTNfVjM)
 
 ## 例子 B：DeepSeek 官方（V4 Flash / Pro）
 
@@ -109,9 +109,9 @@ DeepSeek 官方提供 Anthropic 兼容端点，直接接入不绕中转。CC Swi
 
 填到这一步，DeepSeek 配置应该长这样（模型映射区域在下一步细讲）：
 
-![图片展示的是CC Switch添加新供应商界面。在“预设供应商”区域，有多个供应商名称，其中“DeepSeek”被蓝色框突出显示。下方有“供应商名称”输入框，示例为“DeepSeek”，“官网链接”输入框提示填写API Key，请求地址已预设。该图片与文档中配置DeepSeek供应商的上下文相关，用于直观呈现添加新供应商时的界面及“DeepSeek”供应商的显示位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTM2Y2UzZWRkOTg5ODAwYTdjYzZlMDNiNTA5OTYzMWVfMDYyY2MwYjliY2VjMGFkNzI3NTU0NWE0MzlhOWEwNDRfSUQ6NzY0NTcxMjE4NTUwNjc3ODMzNl8xNzgxNzcwNzg3OjE3ODE3NzQzODdfVjM)
+![图片展示的是CC Switch添加新供应商界面。在“预设供应商”区域，有多个供应商名称，其中“DeepSeek”被蓝色框突出显示。下方有“供应商名称”输入框，示例为“DeepSeek”，“官网链接”输入框提示填写API Key，请求地址已预设。该图片与文档中配置DeepSeek供应商的上下文相关，用于直观呈现添加新供应商时的界面及“DeepSeek”供应商的显示位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjJiZmQ4YzM1YWE2NTAxYjhlZjY2Yjg4NGI0YjEyYTBfN2U4MjhjNTBlNTc4M2VjZDQ5MGMyY2NmYjdkZWEwNDdfSUQ6NzY0NTcxMjE4NTUwNjc3ODMzNl8xNzgyMDk4OTUzOjE3ODIxMDI1NTNfVjM)
 
-![图片展示了CC Switch中添加DeepSeek供应商的配置界面。供应商名称为DeepSeek，官网链接为https://platform.deepseek.com，API Key已输入。请求地址为https://api.deepseek.com/anthropic，API格式选“Anthropic Messages(原生)”，需模型映射，模型映射处显示了Sonnet和Opus的对应关系，分别为deepseek-v4-flash和deepseek-v4-pro。模型映射区域右侧有“+添加模型映射”按钮。该图片与上文介绍的在CC Switch添加DeepSeek供应商配置步骤相关，直观呈现了配置界面及部分关键信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjA1YjM1ODY4MWFjY2RkMzUyYzEyYjcwZDFhODZkMzhfYThmNzI4NjUxYjdmNmZhN2Q3ODY4ZWIyZDM0NThkMzRfSUQ6NzY0NTcxMjE5ODQ2Mjg4NTA3NV8xNzgxNzcwNzg3OjE3ODE3NzQzODdfVjM)
+![图片展示了CC Switch中添加DeepSeek供应商的配置界面。供应商名称为DeepSeek，官网链接为https://platform.deepseek.com，API Key已输入。请求地址为https://api.deepseek.com/anthropic，API格式选“Anthropic Messages(原生)”，需模型映射，模型映射处显示了Sonnet和Opus的对应关系，分别为deepseek-v4-flash和deepseek-v4-pro。模型映射区域右侧有“+添加模型映射”按钮。该图片与上文介绍的在CC Switch添加DeepSeek供应商配置步骤相关，直观呈现了配置界面及部分关键信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzkzMjI2NWRjNDMwZTFjMWI3MTBkOTE1ZDFiOGYyNjNfNDJhYzVhOWJlNjE0NjIzNDA3YWY0MmZiYjNkYTE2ZWNfSUQ6NzY0NTcxMjE5ODQ2Mjg4NTA3NV8xNzgyMDk4OTUzOjE3ODIxMDI1NTNfVjM)
 
 ## 四、配模型映射 + 开本地路由
 
@@ -158,7 +158,7 @@ DeepSeek 这套分级的好处是：在 Claude 桌面端模型菜单选 Sonnet �
 
 服务地址默认是 http://127.0.0.1:15721，正常情况下不用动。
 
-![图片展示了CC Switch新版中本地路由设置界面。界面有“通用”“路由”“认证”“高级”“使用统计”“关于”等选项卡，当前选中“路由”。本地路由总开关和Claude本地路由开关均处于开启状态，服务地址显示为http://127.0.8.1:15721。该图片与文档中介绍本地路由设置的内容相关，直观呈现了开启本地路由总开关、Claude本地路由开关及服务地址等关键操作后的界面状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTEzMWEzYTAxMTE0ZWJjYTMwYTY2Mjg5OTM0OGVlMDNfMzUzMjFmZjA5MzJmMzZiZTEwODZkNzU2MzNiYTI0ODhfSUQ6NzY0NTcxMjIxMTg2OTY5OTI3NV8xNzgxNzcwNzg3OjE3ODE3NzQzODdfVjM)
+![图片展示了CC Switch新版中本地路由设置界面。界面有“通用”“路由”“认证”“高级”“使用统计”“关于”等选项卡，当前选中“路由”。本地路由总开关和Claude本地路由开关均处于开启状态，服务地址显示为http://127.0.8.1:15721。该图片与文档中介绍本地路由设置的内容相关，直观呈现了开启本地路由总开关、Claude本地路由开关及服务地址等关键操作后的界面状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDVhZTE1NzY0ZDVjZDJlYWM2NjYxODAyMjUwYzliNTBfMmM5MWRlYjg5ODg0OWRkNDBlN2QwODY2MGNiNmQ5YWFfSUQ6NzY0NTcxMjIxMTg2OTY5OTI3NV8xNzgyMDk4OTUzOjE3ODIxMDI1NTNfVjM)
 
 如果想让本地路由开关在主页面顶部就能切，把上面的「在主页面显示本地路由开关」一起开了，主面板顶部会出现快捷开关。
 
@@ -184,9 +184,9 @@ DeepSeek 这套分级的好处是：在 Claude 桌面端模型菜单选 Sonnet �
 
 回复正常就说明通了。回 CC Switch 看代理流量记录，能看到刚才那条请求。
 
-![图片展示了CC Switch新版中Claude桌面端的界面及代理流量记录。左侧为Claude桌面端界面，显示“你好，用一句话试试我吧”及“InclusiveAIing 2.0”等选项。右侧是CC Switch设置界面，显示了时间、供应商、计算模型、输入、输出、总成本、时长、状态、来源等信息，其中多条记录供应商为“OpenRouter”，总成本分别为$0.0026、$0.0082、$0.0088、$0.0076、$0.0101等。该图片与文档中“重新打开Claude桌面端，发一句测试，回CC Switch看代理流量记录，能看到刚才那条请求”的内容对应，直观呈现了测试及记录结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWE0Mzc0ZjFjMGU1NDBhNmYwNmRlODFlODEwNTUwYWFfYTkzODZmYTAxN2RmYzVhN2M1YzBlZWMwZjhiOTFlOTdfSUQ6NzY0NTcxMjIyNTMxMDg1NDMzM18xNzgxNzcwNzg3OjE3ODE3NzQzODdfVjM)
+![图片展示了CC Switch新版中Claude桌面端的界面及代理流量记录。左侧为Claude桌面端界面，显示“你好，用一句话试试我吧”及“InclusiveAIing 2.0”等选项。右侧是CC Switch设置界面，显示了时间、供应商、计算模型、输入、输出、总成本、时长、状态、来源等信息，其中多条记录供应商为“OpenRouter”，总成本分别为$0.0026、$0.0082、$0.0088、$0.0076、$0.0101等。该图片与文档中“重新打开Claude桌面端，发一句测试，回CC Switch看代理流量记录，能看到刚才那条请求”的内容对应，直观呈现了测试及记录结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2UxOTBkNTU1NjMyYTZmYjMyZDRjNjc1OTgxOTBhZTlfZDFhNTY4ZTBlNTg2NDVkNGYxMTczZTM3N2EyMzk0MjFfSUQ6NzY0NTcxMjIyNTMxMDg1NDMzM18xNzgyMDk4OTUzOjE3ODIxMDI1NTNfVjM)
 
-![图片展示了CC Switch新版中Claude桌面端的界面及设置情况。左侧界面显示“你好，用一句话回复我”，下方有“deepseek-v4-pro”“deepseek-v4-pro (5M context)”“deepseek-v4-pro (8M context)”等选项，其中“deepseek-v4-pro (8M context)”被选中。右侧是设置界面，显示了多条代理流量记录，其中两条记录被红色框突出显示，记录了时间、供应商、计算模型、输入、输出、总成本、耗时等信息，供应商分别为“DeepSeek”和“OpenRouter”，计算模型均为“Claude correct-v4.0 + instruction+refine”。该图片与文档中介绍CC Switch新版让Claude桌面端5分钟换上任意供应商的内容相关，展示了实际操作界面及设置情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2JhYWUyOWI5YTI2M2Q4OThjY2ViZTBhNmU1NTRmNjNfZTZmY2IwOTcxYzRmNTYxNTk3OGJhYmNkYjIzMTU2OWFfSUQ6NzY0NTcxMjIzODUzMTA1NDc5OV8xNzgxNzcwNzg3OjE3ODE3NzQzODdfVjM)
+![图片展示了CC Switch新版中Claude桌面端的界面及设置情况。左侧界面显示“你好，用一句话回复我”，下方有“deepseek-v4-pro”“deepseek-v4-pro (5M context)”“deepseek-v4-pro (8M context)”等选项，其中“deepseek-v4-pro (8M context)”被选中。右侧是设置界面，显示了多条代理流量记录，其中两条记录被红色框突出显示，记录了时间、供应商、计算模型、输入、输出、总成本、耗时等信息，供应商分别为“DeepSeek”和“OpenRouter”，计算模型均为“Claude correct-v4.0 + instruction+refine”。该图片与文档中介绍CC Switch新版让Claude桌面端5分钟换上任意供应商的内容相关，展示了实际操作界面及设置情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWMwNDQxNzU3MDdkZGY3MDU4ZDk0YzdhNjQxZDc3ZWVfYWQyZjY4ZWEwYjAwOTk5MTNjMjhiODAyZTY4ZGNhYmVfSUQ6NzY0NTcxMjIzODUzMTA1NDc5OV8xNzgyMDk4OTUzOjE3ODIxMDI1NTNfVjM)
 
 ## 常见问题
 

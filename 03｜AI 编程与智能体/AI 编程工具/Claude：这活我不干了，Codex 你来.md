@@ -4,7 +4,7 @@
 
 
 
-![图片展示了Claude Code + Codex高效编程与深度调试指南的内容。左侧是Claude，右侧是Codex，两者对话框中分别写着“这活我不干了，Codex你来”“没问题，深度调试&复杂生成，交给我”。画面中还出现“复杂代码任务”“Powered by Anthropic”“Powered by OpenAI”等字样，以及相关图表和代码界面。该图片与文档中介绍OpenAI Codex CLI及Claude Code插件的内容相呼应，直观呈现了两者在编程与调试中的协作场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODU1NGFlZDQ3M2M5Y2NkOWIxMmI4OTVlNDhjMTFiNjNfZmY1YTkyZDlmNzhiYjQ0MmQwYWU1MTc0NjFjZGYyYzdfSUQ6NzY0NTcxMjM0NTQ1NjY3NjA0OV8xNzgxNzcwODg1OjE3ODE3NzQ0ODVfVjM)
+![图片展示了Claude Code + Codex高效编程与深度调试指南的内容。左侧是Claude，右侧是Codex，两者对话框中分别写着“这活我不干了，Codex你来”“没问题，深度调试&复杂生成，交给我”。画面中还出现“复杂代码任务”“Powered by Anthropic”“Powered by OpenAI”等字样，以及相关图表和代码界面。该图片与文档中介绍OpenAI Codex CLI及Claude Code插件的内容相呼应，直观呈现了两者在编程与调试中的协作场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTE0Zjg0YjNhY2E3MGIyZTUyMTBiYWRlMzYyYjQ3YTlfYWIxZWY3MTE4ZDRiOTEwOTgxYzI4OGFjNzhhZjc5MGFfSUQ6NzY0NTcxMjM0NTQ1NjY3NjA0OV8xNzgyMDk5MDU2OjE3ODIxMDI2NTZfVjM)
 
 > 本文记录了在 Claude Code 中安装 OpenAI Codex 插件、完成配置并实测编程任务委托的完整过程。**测试环境：** Windows 10，Mac/Linux 用户路径格式会有所不同（如 \~/.claude/ 而非 C:/Users/你的用户名/.claude/），其余步骤一致。
 
@@ -16,7 +16,7 @@ OpenAI 为 Claude Code 发布了 codex-plugin-cc 插件，允许你在 Claude Co
 
 什么时候用 Codex，什么时候直接用 Claude？
 
-![图片展示了Claude Code在不同场景下的推荐操作。快速问答、解释代码、简单修改时，推荐直接用Claude；需要深度调试、复杂代码生成、多文件操作时，推荐委托Codex；需要“第二意见”验证方案时，同样推荐委托Codex；Claude卡住或输出质量不满意时，则用codex:rescue救场。该图与文档中介绍Claude Code使用场景的内容相关，为用户在不同需求下选择合适的操作提供了参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjUzYzVlZTc1MWJmM2Y3NjcyZDM1MDVjNzMyYzg2ZTRfNjdlZGEwNDY4ZDE4ODg1MDAxOTVmYjQ4YTY3ZTQ2YjBfSUQ6NzY0NTcxMjM2MjE2NjYwMjkzOF8xNzgxNzcwODg1OjE3ODE3NzQ0ODVfVjM)
+![图片展示了Claude Code在不同场景下的推荐操作。快速问答、解释代码、简单修改时，推荐直接用Claude；需要深度调试、复杂代码生成、多文件操作时，推荐委托Codex；需要“第二意见”验证方案时，同样推荐委托Codex；Claude卡住或输出质量不满意时，则用codex:rescue救场。该图与文档中介绍Claude Code使用场景的内容相关，为用户在不同需求下选择合适的操作提供了参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDc3ZGZiYmU0YTFjZjI4ZDExNTUwOTRkMjc5MzYxN2ZfYzQ5ZDJiZDQzNDc4NDU4N2RmNDM3MjgwNjc5NTIxMTFfSUQ6NzY0NTcxMjM2MjE2NjYwMjkzOF8xNzgyMDk5MDU2OjE3ODIxMDI2NTZfVjM)
 
 费用说明
 
@@ -83,7 +83,7 @@ Reloaded: 5 plugins · 7 skills · 6 agents · 3 hooks · 1 plugin MCP server ·
 
 ```
 
-![图片展示了在终端运行`/codex:setup`命令后的输出结果。首先，Skill成功加载，允许3个工具。接着，Bash脚本执行`codex-companion.mjs`设置，显示`ready: true`。下方表格列出Node.js、npm、Codex CLI版本及登录认证状态，均显示已认证。最后说明可直接使用`/codex:rescue`处理复杂编程任务，还可运行`/codex:setup --enable-review-gate`开启每次执行前需人工审核的保护机制。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTkxZGVjYzlmYzZiYWYzZjM4YmM5YWU2NTUzNGFmYmJfODEyMTYyNTNiODllODQ0NWJkYzhmNDg2MGNmNjY4NWJfSUQ6NzY0NTcxMjM3NTIxOTM0MjU1Nl8xNzgxNzcwODg1OjE3ODE3NzQ0ODVfVjM)
+![图片展示了在终端运行`/codex:setup`命令后的输出结果。首先，Skill成功加载，允许3个工具。接着，Bash脚本执行`codex-companion.mjs`设置，显示`ready: true`。下方表格列出Node.js、npm、Codex CLI版本及登录认证状态，均显示已认证。最后说明可直接使用`/codex:rescue`处理复杂编程任务，还可运行`/codex:setup --enable-review-gate`开启每次执行前需人工审核的保护机制。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTQ3NGY4OGE0MDVjZmNhZGYzOGI5ZjIyNDQ3ZDk3MWZfNTBhMzExMzM3ZTI3MDkyMWNkNzYyMTI3MGY1YmQ5OWZfSUQ6NzY0NTcxMjM3NTIxOTM0MjU1Nl8xNzgyMDk5MDU2OjE3ODIxMDI2NTZfVjM)
 
 这个命令会自动检测本地环境，输出类似：
 
@@ -100,7 +100,7 @@ Reloaded: 5 plugins · 7 skills · 6 agents · 3 hooks · 1 plugin MCP server ·
 
 **各字段含义：**
 
-![图片是一张表格，列出了Codex环境检查命令输出中各字段的含义。包括“ready”（整体是否就绪）、“node”（Node.js版本）、“npm”（npm版本）、“codex”（Codex CLI版本及运行时状态）、“auth”（是否已登录OpenAI账号）。该表格与文档中检查Codex环境的内容相关，为用户理解检查命令输出提供了清晰的字段说明，帮助用户准确判断环境状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjA0N2UzYjJmZWYwMzM2NzY4YTY5MzAyMTAwZDk0OGJfZGJjZjVmZDBlODA0ZWY0NDNjZjUyYTFhNGNkNjNiZGRfSUQ6NzY0NTcxMjM4ODExMDA5MzUxNl8xNzgxNzcwODg1OjE3ODE3NzQ0ODVfVjM)
+![图片是一张表格，列出了Codex环境检查命令输出中各字段的含义。包括“ready”（整体是否就绪）、“node”（Node.js版本）、“npm”（npm版本）、“codex”（Codex CLI版本及运行时状态）、“auth”（是否已登录OpenAI账号）。该表格与文档中检查Codex环境的内容相关，为用户理解检查命令输出提供了清晰的字段说明，帮助用户准确判断环境状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Zjk2OTdjNmNjZWEwODBhMTk0YTg0YzFlMDRiNTc5N2RfY2YyMDQ0MjM1ZDg5ZjljNDllMmQxMjI5MjA1MDA4NDdfSUQ6NzY0NTcxMjM4ODExMDA5MzUxNl8xNzgyMDk5MDU2OjE3ODIxMDI2NTZfVjM)
 
 **如果 Codex CLI 未安装**
 
@@ -152,7 +152,7 @@ codex login
 
 Codex 生成了一个完整的 Python 脚本 csv\\\_stats.py，包含命令行参数解析、数值列自动识别、UTF-8/GBK 编码兼容、以及多种异常处理。
 
-![图片展示了Claude使用Codex处理任务的运行效果。首先显示了Codex成功加载，允许1个工具。接着是Bash命令执行结果，显示任务已暂停。Codex - codex-rescue部分显示任务已完成，用时11.7k tokens，耗时1m 4s。最后列出csv_stats.py脚本功能说明，包括命令行参数使用、数值列自动识别、异常处理等，还展示了数据csv文件中各列的均值。该图片直观呈现了Codex处理任务后的结果及脚本功能。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWM2NTFhNDNhZjQ5ZWIzOTI1M2IzZWQwMmU2NmMxODVfNTJjNmJmNmEzMzFkMDA0MDFhMTBhMjlhMjNkN2Q5YTNfSUQ6NzY0NTcxMjQwNDYyNTQ5MzE3MV8xNzgxNzcwODg1OjE3ODE3NzQ0ODVfVjM)
+![图片展示了Claude使用Codex处理任务的运行效果。首先显示了Codex成功加载，允许1个工具。接着是Bash命令执行结果，显示任务已暂停。Codex - codex-rescue部分显示任务已完成，用时11.7k tokens，耗时1m 4s。最后列出csv_stats.py脚本功能说明，包括命令行参数使用、数值列自动识别、异常处理等，还展示了数据csv文件中各列的均值。该图片直观呈现了Codex处理任务后的结果及脚本功能。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjU2Y2IxZTkzNDY0ZjQzMWNiOTI5MzZmZjAyODdhZDJfMTU4M2QyMWY4NGE1Yzk5OTI0MmI4NzlkMDEyNWI4MmFfSUQ6NzY0NTcxMjQwNDYyNTQ5MzE3MV8xNzgyMDk5MDU2OjE3ODIxMDI2NTZfVjM)
 
 **运行效果：**
 
@@ -214,11 +214,11 @@ Claude 会从逻辑正确性、异常处理、安全性等角度把关，再由�
 
 安装插件后，Claude Code 新增以下技能：
 
-![图片展示了Claude Code安装插件后新增的技能及其用途。左侧为技能名称，右侧为用途说明。其中，“/codex:setup”技能用于检查环境、安装/登录引导；“/codex:rescue”技能将编程任务委托给Codex处理。该图片与文档中介绍Claude Code可用技能的内容相关，直观呈现了安装插件后新增技能的具体信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjA4NDJiMjQwNjE2ZDM2ZTcwNWMwYmIyNTExMWQ4NmNfM2IxOTEzN2IwNDc1MWMzNTQ5YmVmNjA5MmFmMTJlNjdfSUQ6NzY0NTcxMjQxNTgwNzYzODc0MV8xNzgxNzcwODg1OjE3ODE3NzQ0ODVfVjM)
+![图片展示了Claude Code安装插件后新增的技能及其用途。左侧为技能名称，右侧为用途说明。其中，“/codex:setup”技能用于检查环境、安装/登录引导；“/codex:rescue”技能将编程任务委托给Codex处理。该图片与文档中介绍Claude Code可用技能的内容相关，直观呈现了安装插件后新增技能的具体信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2U3MTI5YzIyMTdlYzZhMjQyMzA3NjVmYWE2MjM4ZDVfMTU1NTQ3MGM3ZjMzMTRkMDBjNzUzZTUwY2Y2ZDQzMTZfSUQ6NzY0NTcxMjQxNTgwNzYzODc0MV8xNzgyMDk5MDU2OjE3ODIxMDI2NTZfVjM)
 
 **codex:rescue 支持的参数**
 
-![图片展示了Claude Code插件中codex:rescue支持的参数及其说明。包括--background后台运行、--wait前台运行（默认）、--resume继续上一个Codex会话线程、--fresh强制开启新的Codex线程、--enable-review-gate开启执行前人工审核、--model <model>指定模型（如spark → gpt-5.3-codex-spark）、--effort <level>指定推理强度。这些参数可帮助用户根据需求调整Codex运行方式，与插件使用相关，是插件功能配置的重要参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDcwOGY2NDNlODdmZDg2YWZhMjc5NTQxYzRiMWNlZWRfOGRiYmM2Yzc5YWVhNjk3MDFhYTlhNjMyMTlkYmQzMDJfSUQ6NzY0NTcxMjQzMjQ2MzIwMzUxNF8xNzgxNzcwODg1OjE3ODE3NzQ0ODVfVjM)
+![图片展示了Claude Code插件中codex:rescue支持的参数及其说明。包括--background后台运行、--wait前台运行（默认）、--resume继续上一个Codex会话线程、--fresh强制开启新的Codex线程、--enable-review-gate开启执行前人工审核、--model <model>指定模型（如spark → gpt-5.3-codex-spark）、--effort <level>指定推理强度。这些参数可帮助用户根据需求调整Codex运行方式，与插件使用相关，是插件功能配置的重要参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjIyNjNiZGVlMzNiZmM1NjIwMzU3Zjc4ZmNlOWIwNzRfYjRmN2UyNGRlMDdmOGM4OTUyMjY3ZGVkMGM1M2U1ZTJfSUQ6NzY0NTcxMjQzMjQ2MzIwMzUxNF8xNzgyMDk5MDU2OjE3ODIxMDI2NTZfVjM)
 
 ## 常见问题
 

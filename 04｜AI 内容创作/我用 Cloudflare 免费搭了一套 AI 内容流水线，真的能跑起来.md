@@ -4,7 +4,7 @@
 
 
 
-![图片展示了Cloudflare五件套中免费搭建AI内容流水线的内容。画面左侧有Cloudflare标志及“Cloudflare五件套”字样，右侧是一位正在使用笔记本电脑的卡通人物。中间有五个步骤，分别为抓取（1）、AI处理（2）、存储（3）、数据库（4）、发布（5），每个步骤配有图标和数字序号标识。该图片与上下文紧密相关，直观呈现了利用Cloudflare免费套餐搭建自动化内容工作台的流程，契合文档中“一个人不买云服务器、不掏月租，靠白嫖大厂免费套餐搭‘自动化内容工作台’”的主题。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2Y5YjgwNjA1ZWJkYmRjNDUwY2VhNjQ4N2YzMmM5MDRfYjVhNzBhN2RjZTA4M2JiZDYwZjVlMTg0ZmEyN2EyZTZfSUQ6NzY0NTcxNTAyNTI2NDU0NDk1NF8xNzgxNzcwOTUwOjE3ODE3NzQ1NTBfVjM)
+![图片展示了Cloudflare五件套中免费搭建AI内容流水线的内容。画面左侧有Cloudflare标志及“Cloudflare五件套”字样，右侧是一位正在使用笔记本电脑的卡通人物。中间有五个步骤，分别为抓取（1）、AI处理（2）、存储（3）、数据库（4）、发布（5），每个步骤配有图标和数字序号标识。该图片与上下文紧密相关，直观呈现了利用Cloudflare免费套餐搭建自动化内容工作台的流程，契合文档中“一个人不买云服务器、不掏月租，靠白嫖大厂免费套餐搭‘自动化内容工作台’”的主题。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjkwYmQzMzEzZmQ0ZGJjOGJlOTBiYmM2ODZmODgwNDRfZDcxZWE1ZTBmOGM2MmI2NjFkMTQyNGFlNzFmMzc3MWZfSUQ6NzY0NTcxNTAyNTI2NDU0NDk1NF8xNzgyMDk5MTIzOjE3ODIxMDI3MjNfVjM)
 
 每天刷那么多信息，有用的记不住、存不下、找不到。
 
@@ -20,7 +20,7 @@
 
 只要你有一个 Cloudflare 账号，就相当于拥有了一个全栈的云端机房。我们这条“流水线”会用到它家的 5 个核心服务：
 
-![图片展示了AI内容流水线的架构。从RSS/ API源定时抓取内容，经Workers + Cron处理，存标题标签链接至D1数据库，存原图与JSON至R2存储。Workers AI接收请求分析，进行英文翻译+摘要，存入D1数据库，还可接收存入D1数据库的标题标签链接，进行英文翻译+摘要。最后，D1数据库查询展示，R2存储加载图片，呈现于Pages展示页。该图直观呈现了各组件间数据流转关系。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWJmNzIwOGQwM2JhODZhYzQ2Y2M1YzcxMjI3Y2UzMWJfNDhjYmZjNjFiZTM2YmE3MjU1MzUyZTY4ZDdkMmE5YjFfSUQ6NzY0NTcxNTAzODE0OTU2MTU1NV8xNzgxNzcwOTUwOjE3ODE3NzQ1NTBfVjM)
+![图片展示了AI内容流水线的架构。从RSS/ API源定时抓取内容，经Workers + Cron处理，存标题标签链接至D1数据库，存原图与JSON至R2存储。Workers AI接收请求分析，进行英文翻译+摘要，存入D1数据库，还可接收存入D1数据库的标题标签链接，进行英文翻译+摘要。最后，D1数据库查询展示，R2存储加载图片，呈现于Pages展示页。该图直观呈现了各组件间数据流转关系。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDVmODg0ZmQ4ZGM5MDZjYjY5YTM0MTYzMjBlMDY4YjdfNGJhODdiYjE0MGJmMDEyMjExZWNmYjY5Y2MwY2I5YWVfSUQ6NzY0NTcxNTAzODE0OTU2MTU1NV8xNzgyMDk5MTIzOjE3ODIxMDI3MjNfVjM)
 
 用人话解释一下它们的分工：
 
@@ -85,11 +85,11 @@ export default {
 
 Cloudflare 后台 - Worker 定时触发
 
-![图片展示的是Cloudflare后台中Worker定时触发的界面。界面左侧为导航栏，右侧上方显示“ai - content - pipeline - demo - 20240505”等信息。关键部分是红框突出显示的“触发”区域，其中“cron”字段为“scheduled()”，“cron表达式”为“* * * * *”，“下一次触发时间”为“2024 - 05 - 05 10:00:00”，下方还有“触发”按钮。该图片与上下文介绍的用Workers+Cron定时抓取信息的内容相关，直观呈现了定时触发的设置情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Nzg0MmQxNWU4MzdjODhmMzkwYmNiMDU0MTJhMjc5OTlfMGU4Nzk2ZWY0MDc1N2Y3MjU4ZTlmMjJkODhjMDQxYjRfSUQ6NzY0NTcxNTA1NDE3NTgzMzMwMV8xNzgxNzcwOTUwOjE3ODE3NzQ1NTBfVjM)
+![图片展示的是Cloudflare后台中Worker定时触发的界面。界面左侧为导航栏，右侧上方显示“ai - content - pipeline - demo - 20240505”等信息。关键部分是红框突出显示的“触发”区域，其中“cron”字段为“scheduled()”，“cron表达式”为“* * * * *”，“下一次触发时间”为“2024 - 05 - 05 10:00:00”，下方还有“触发”按钮。该图片与上下文介绍的用Workers+Cron定时抓取信息的内容相关，直观呈现了定时触发的设置情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODlhOGEzMmE0NjdmOTg0OWE2MWZmY2U3ZWUwMmI1NDhfNzcyZWZjZjZkYTBmN2VkMzA1NzE5NTI3MjJlYmU3ZjFfSUQ6NzY0NTcxNTA1NDE3NTgzMzMwMV8xNzgyMDk5MTIzOjE3ODIxMDI3MjNfVjM)
 
 手动触发流水线结果
 
-![图片展示的是Cloudflare后台中Worker定时触发流水线的结果界面。界面中显示了“Hacker News”标签下的条目列表，包括标题、作者、发布日期、评论数、点赞数等信息，如“New York Giants told the NFL about some kids \[book review\]”等。该图片与上下文紧密相关，是对上文提到的“Worker从Hacker News抓取条目”这一操作结果的呈现，直观展示了抓取的条目内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDY2NWIxNmNkZWFlOWVlMWE2N2FhZDRkODJjODQwYTFfYmY5MmM2M2MzMDE2YzI3YzJkYjczYmFkMDU3NmFiNjdfSUQ6NzY0NTcxNTA2OTMxODIwNDU5NV8xNzgxNzcwOTUwOjE3ODE3NzQ1NTBfVjM)
+![图片展示的是Cloudflare后台中Worker定时触发流水线的结果界面。界面中显示了“Hacker News”标签下的条目列表，包括标题、作者、发布日期、评论数、点赞数等信息，如“New York Giants told the NFL about some kids \[book review\]”等。该图片与上下文紧密相关，是对上文提到的“Worker从Hacker News抓取条目”这一操作结果的呈现，直观展示了抓取的条目内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzBkMmY0MmE2YTgwZmZlNjk2ODdmNDEwOGM4Mjg0YmFfYWU0MjM0ZTYzNWE4MzgxNDNjY2ViNWE0OWM4ZmZlZDVfSUQ6NzY0NTcxNTA2OTMxODIwNDU5NV8xNzgyMDk5MTIzOjE3ODIxMDI3MjNfVjM)
 
 ## Step 2：用 Workers AI 做摘要、翻译、分类
 
@@ -182,7 +182,7 @@ async function saveToStorage(article, env) {
 
 R2 原始 JSON 数据
 
-![图片展示的是R2原始JSON数据，包含多个数据条目，如id、title、url、content等字段。其中一条数据的id为4190000000000000000，title为“AI生成的图片，你敢用吗？”，url为“https://gitee.com/ai...”。该图片与文档中“用R2存图片和原始资料”部分内容相关，用于说明在代码里将原始抓取的数据存档，留着以后分析，展示了存档数据的具体格式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGRhMjBmZGY5ZWJhOTMxM2ZmNTRjMTgxMTMwYTJjM2JfODMyMWY0YzIzZWZkODYxZjRkNzViYzg4MjNiY2UxNjNfSUQ6NzY0NTcxNTA4NDU1MTAxNTYyM18xNzgxNzcwOTUwOjE3ODE3NzQ1NTBfVjM)
+![图片展示的是R2原始JSON数据，包含多个数据条目，如id、title、url、content等字段。其中一条数据的id为4190000000000000000，title为“AI生成的图片，你敢用吗？”，url为“https://gitee.com/ai...”。该图片与文档中“用R2存图片和原始资料”部分内容相关，用于说明在代码里将原始抓取的数据存档，留着以后分析，展示了存档数据的具体格式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTBiNTY2NzQwNzk3MzBlMDRjZTFhNDM3MGFhZTc0YTNfN2MzZWMxNzA0NTJjMDhlYzg0NWEwZjBlNjk4ZWIyNTJfSUQ6NzY0NTcxNTA4NDU1MTAxNTYyM18xNzgyMDk5MTIzOjE3ODIxMDI3MjNfVjM)
 
 ## Step 4：用 D1 存文章、链接、标签
 
@@ -249,11 +249,11 @@ async function saveToDatabase(article, aiResult, env) {
 
 Cloudflare 后台 - D1 数据表
 
-![图片展示了Cloudflare后台的D1数据表界面。左侧为数据表名称“articles_v1.0.0”，右侧显示了数据表结构，包含id、title、summary_ch、url、tags、create_time等字段。下方是数据列表，呈现了id、title、summary_ch、url、tags、create_time等信息，如id为1的记录，title为“Base 7.7 comes the real reality”等。该图与上下文紧密相关，直观呈现了上文提到的后台自动抓取流水线中AI处理完数据后存入数据库的结构及部分数据内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDM4YWMyMTJiMTYyMGEyMWU4ZDdjZWU2MmU3ZTNmZWJfZGY0MzU2OGM5OTYxMGQ4NGU1MmU3NzA5NzExMTNlZTdfSUQ6NzY0NTcxNTA5ODUzMDU0ODkyOV8xNzgxNzcwOTUwOjE3ODE3NzQ1NTBfVjM)
+![图片展示了Cloudflare后台的D1数据表界面。左侧为数据表名称“articles_v1.0.0”，右侧显示了数据表结构，包含id、title、summary_ch、url、tags、create_time等字段。下方是数据列表，呈现了id、title、summary_ch、url、tags、create_time等信息，如id为1的记录，title为“Base 7.7 comes the real reality”等。该图与上下文紧密相关，直观呈现了上文提到的后台自动抓取流水线中AI处理完数据后存入数据库的结构及部分数据内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzAxNmM5MTIxNDQxYzk4MGNhZGFlZjU0ZjJiMGJlMWVfZWViYWFkYjYxMDE3MzZiYjIxNzEwYzAyN2U0ZDg1ZDdfSUQ6NzY0NTcxNTA5ODUzMDU0ODkyOV8xNzgyMDk5MTIzOjE3ODIxMDI3MjNfVjM)
 
 D1 数据接口返回
 
-![图片展示了Cloudflare后台D1数据表中的一条数据记录。记录包含“id”“title”“content”“tags”“created_at”等字段，如“id”为1，“title”是“RabbitMQ”相关内容，“content”是AI处理后的文本内容，“tags”有“RabbitMQ”“消息队列”等，“created_at”是2024 - 04 - 04 01:41:41。该图片与文档中介绍后台自动抓取流水线的内容相关，直观呈现了D1数据表中数据的结构与示例。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzU0ZDM4NGRmOTU4YTc2ODY0NzU5Yjg2ZjZmNmI1YTVfODE3MWQ5MmMwYTFjZmFhMmY2ZmY0OTQwYzUxNzMxNzRfSUQ6NzY0NTcxNTExNTI2MTYyNzU5OV8xNzgxNzcwOTUwOjE3ODE3NzQ1NTBfVjM)
+![图片展示了Cloudflare后台D1数据表中的一条数据记录。记录包含“id”“title”“content”“tags”“created_at”等字段，如“id”为1，“title”是“RabbitMQ”相关内容，“content”是AI处理后的文本内容，“tags”有“RabbitMQ”“消息队列”等，“created_at”是2024 - 04 - 04 01:41:41。该图片与文档中介绍后台自动抓取流水线的内容相关，直观呈现了D1数据表中数据的结构与示例。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDk0MjY0NDIzN2EzYzNjMTEzMGFhNjA0MDY0MzYyOThfYTVlNWUxYWY4OGVhYzg1NTUwNDdlMzMyMmEwMDkzNWNfSUQ6NzY0NTcxNTExNTI2MTYyNzU5OV8xNzgyMDk5MTIzOjE3ODIxMDI3MjNfVjM)
 
 ## Step 5：用 Pages 展示成公开网站
 
@@ -309,7 +309,7 @@ export async function onRequest(context) {
 
 最终展示页
 
-![图片展示了AI科技内容流水线的最终展示页。上方标题为“AI科技内容流水线”，下方是关于ChatGPT全家桶的介绍，包括其特点、优势及使用场景。下方有五个内容板块，分别是Linux kernel vulnerabilities、OpenAI 4.7版本、OpenAI 4.7的真正核心、Mark Klein告诉EVP关于Room 6143的书信、OpenAI 4.7。每个板块都有标题、描述及“阅读原文”链接。该图片与上下文介绍的AI内容订阅站上线后展示内容相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjBlYTA3NTZhZWViNGUyMTRjMzViYjc1ZGJlZjAyYjBfYmQ2OTcyOTkxZmE4M2Q1NjhjYmIxNmNhZTYyZDQxMzhfSUQ6NzY0NTcxNTEyOTU3MDA4NjA5MV8xNzgxNzcwOTUwOjE3ODE3NzQ1NTBfVjM)
+![图片展示了AI科技内容流水线的最终展示页。上方标题为“AI科技内容流水线”，下方是关于ChatGPT全家桶的介绍，包括其特点、优势及使用场景。下方有五个内容板块，分别是Linux kernel vulnerabilities、OpenAI 4.7版本、OpenAI 4.7的真正核心、Mark Klein告诉EVP关于Room 6143的书信、OpenAI 4.7。每个板块都有标题、描述及“阅读原文”链接。该图片与上下文介绍的AI内容订阅站上线后展示内容相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDMyODFiMzY3N2VhMTY4N2U1YTMyMWYwNjAzYmVjOGRfNzkwM2Y3ZmZkZmNhMmNlY2VlN2U2MTRjNDExODQ1MjFfSUQ6NzY0NTcxNTEyOTU3MDA4NjA5MV8xNzgyMDk5MTIzOjE3ODIxMDI3MjNfVjM)
 
 ## 免费额度到底够不够用？
 
@@ -317,7 +317,7 @@ export async function onRequest(context) {
 
 我们来算笔账。假设你搞的这个周刊，每天自动抓取 **50 篇** 文章进行 AI 翻译和总结，你的前端页面每天有 **1000 次** 访问。
 
-![图片为“Cloudflare免费额度够不够用？”的表格，按每天抓取50篇文章、页面1000次访问估算。表格对比了Workers、Workers AI、D1、R2、Pages等服务每天大概用多少，与免费方案额度，得出结论。如Workers每天1000次访问+1次Cron，免费方案10万次请求，连零头都用不到；Pages静态页面访问+1000次接口调用，静态页面额度很宽松，接口调用按Workers计费，页面展示没压力。该图与上下文计算Cloudflare免费套餐是否足够个人或小团队内容流自动化项目支出相关。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmM1MGE4OTQ1NmQxMjkzYWZkOTZmNzY4OTQyZDdmOWZfMWY1OWI3MGIzODA2OTIzODkxYTY1NjFhMzIxNDVmYzlfSUQ6NzY0NTcxNTE0MjU2MjQzNDI0Ml8xNzgxNzcwOTUwOjE3ODE3NzQ1NTBfVjM)
+![图片为“Cloudflare免费额度够不够用？”的表格，按每天抓取50篇文章、页面1000次访问估算。表格对比了Workers、Workers AI、D1、R2、Pages等服务每天大概用多少，与免费方案额度，得出结论。如Workers每天1000次访问+1次Cron，免费方案10万次请求，连零头都用不到；Pages静态页面访问+1000次接口调用，静态页面额度很宽松，接口调用按Workers计费，页面展示没压力。该图与上下文计算Cloudflare免费套餐是否足够个人或小团队内容流自动化项目支出相关。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTU2MDhmYTY0MmEzMmNjOTBlMmRhZWVkNmUyYjVlZmRfMTQ5MWIyMjUzMTY1YmQ0MmE3YTFmNDE4NjVjNjkzMmZfSUQ6NzY0NTcxNTE0MjU2MjQzNDI0Ml8xNzgyMDk5MTIzOjE3ODIxMDI3MjNfVjM)
 
 结论很明确：**只要你不拿它做商业级别的大型爬虫，对于个人或者小团队的内容流自动化，Cloudflare 的免费套餐通常已经足够起步。真正上线前，还是建议按自己的抓取频率、AI 输出长度和访问量重新算一遍。**
 

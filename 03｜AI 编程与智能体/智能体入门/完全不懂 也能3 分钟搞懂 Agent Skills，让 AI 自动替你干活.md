@@ -4,7 +4,7 @@
 
 ​
 
-![图片以“Agent Skills：AI的超能力插件”为主题，介绍其为AI装App，即插即用的核心机制。画面中，机器人向人类求助，人类表示每次都要重教，重复劳动。右侧展示了技能包结构，包含操作说明、参考资料、可执行脚本、资源文件等内容。还呈现了核心机制的三个步骤：只看目录省Token、需要时看说明书精确、干活时调用工具执行。最后强调更省资源、更专注、少出错，助力驾驭AI系统指数级增长，提升未来竞争力。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmE1MjBiZjg3ZmE1YWVlMTUxMTJhODU1YzZmNDAxNGFfMGYyNmIxOWZiNmY5M2NiZDUwM2Q5Zjg3MThhM2NjMzlfSUQ6NzY0NjMwNzk1MzQ3ODczMjc3MF8xNzgxNzcwODk4OjE3ODE3NzQ0OThfVjM)
+![图片以“Agent Skills：AI的超能力插件”为主题，介绍其为AI装App，即插即用的核心机制。画面中，机器人向人类求助，人类表示每次都要重教，重复劳动。右侧展示了技能包结构，包含操作说明、参考资料、可执行脚本、资源文件等内容。还呈现了核心机制的三个步骤：只看目录省Token、需要时看说明书精确、干活时调用工具执行。最后强调更省资源、更专注、少出错，助力驾驭AI系统指数级增长，提升未来竞争力。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Mjc3OTU5MDJlMzNlOTBkYjQ4MDBiZjc4MjlmMDkzZTBfYzExY2E3YTg1OTIwZjFhNTI4ZjZhYTZkMmJjNDQ5MTJfSUQ6NzY0NjMwNzk1MzQ3ODczMjc3MF8xNzgyMDk5MDY5OjE3ODIxMDI2NjlfVjM)
 
 这篇文章就是通过宝玉Skill自动推送上来的，我检查了一下，然后就发布了。
 
@@ -57,7 +57,7 @@ AI 不需要提前记住所有内容—— 只要需要，就会打开说明书�
 
 其实，一个 Skill 就像一个文件夹，里面放着：
 
-![图片展示了GitHub仓库中技能文件夹的文件结构。左侧是仓库目录，右侧是文件列表，包含assets、references、scripts三个文件夹和SKILL.md文件。其中，assets、references、scripts文件夹被红色箭头1、2、3指向，SKILL.md文件被红色箭头4指向。该图片与上下文紧密相关，直观呈现了技能文件夹中各部分的存放位置，帮助理解技能文件的组织形式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDI3ZjNmNzg3MWVjNDlhOGQ1NjJlNjBhMzU5YzkwMWVfZjBhZDY0MGQ1MDQxMzliOGY4ZWJjYTI5Y2E0MTIyMGZfSUQ6NzY0NjMwNzk3ODUyNjM5NTM0OF8xNzgxNzcwODk4OjE3ODE3NzQ0OThfVjM)
+![图片展示了GitHub仓库中技能文件夹的文件结构。左侧是仓库目录，右侧是文件列表，包含assets、references、scripts三个文件夹和SKILL.md文件。其中，assets、references、scripts文件夹被红色箭头1、2、3指向，SKILL.md文件被红色箭头4指向。该图片与上下文紧密相关，直观呈现了技能文件夹中各部分的存放位置，帮助理解技能文件的组织形式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTY0ZGJkMmE4OWI1MjY2MWU5OThjMzljNWMyYjJjODhfOWVlOTU0NzBjOTdlYzgwN2U0ZGY1N2MzODEzODY4NTRfSUQ6NzY0NjMwNzk3ODUyNjM5NTM0OF8xNzgyMDk5MDY5OjE3ODIxMDI2NjlfVjM)
 
 ## ✅ 1. 操作说明（最重要）
 
@@ -110,7 +110,7 @@ AI 不需要提前记住所有内容—— 只要需要，就会打开说明书�
 
 ## 第一步：只看目录
 
-![图片展示了名为“baoyu-post-to-x”的Skill文件夹内容，其中SKILL.md文件被记事本打开。文件中以Markdown格式定义了Skill的name为“baoyu-post-to-x”，description为“将内容和文章发布到X（Twitter）。支持带图片/视频的常规推文和X文章（长篇Markdown）。通过真实的Chrome CDP绕过自动化检测。当用户提到‘post to X’，‘tweet’，‘publish to Twitter’，或‘share on X’时使用。”该图片与上文提到的“第一步：只看目录”相关，直观呈现了Skill的定义格式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDM5ZGI5MThhMDE3YWUzNTNlM2U3ZGYzMWRkZmQwNTJfNjRiNTlkNzZkNmIwNTZjYTJkZDQ2ZDBhZTE1ZDc5MDRfSUQ6NzY0NjMwNzk5ODEzMTAzMDk4M18xNzgxNzcwODk4OjE3ODE3NzQ0OThfVjM)
+![图片展示了名为“baoyu-post-to-x”的Skill文件夹内容，其中SKILL.md文件被记事本打开。文件中以Markdown格式定义了Skill的name为“baoyu-post-to-x”，description为“将内容和文章发布到X（Twitter）。支持带图片/视频的常规推文和X文章（长篇Markdown）。通过真实的Chrome CDP绕过自动化检测。当用户提到‘post to X’，‘tweet’，‘publish to Twitter’，或‘share on X’时使用。”该图片与上文提到的“第一步：只看目录”相关，直观呈现了Skill的定义格式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDA4NjM3YWNiNWUyOWQ4MGEzZDQ5YWZlMzA1MjA2NGRfMTAyN2U3MzcxM2ZjODkyZmVlZjNlM2E3NTA5ZTg1YThfSUQ6NzY0NjMwNzk5ODEzMTAzMDk4M18xNzgyMDk5MDY5OjE3ODIxMDI2NjlfVjM)
 
 图中只是一个Skill的，时间就像一本书的目录。
 
@@ -134,7 +134,7 @@ AI 才会打开“发推文的处理技能”。
 
 读取详细步骤，也就是去读取SKILL.md， 这样精确到具体的技能说明。
 
-![图片展示了名为“SKILL.md”的Markdown文件内容。文件说明了名为“baoyu-post-to-x”的技能，可将内容和文章发布到X（Twitter），支持带图片/视频的常规推文和长篇Markdown文章，通过Chrome CDP绕过自动化检测。脚本目录位于“scripts/”子目录，Agent执行时需确定SKILL.md文件目录路径为“SKILL_DIR”，脚本路径为“${SKILL_DIR}/scripts/<script-name>.ts”，并替换实际路径。该图片与上文提到的“需要时再看说明书”相呼应，直观呈现了技能说明书的内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGY1MDMxNmJhNmRkZDEzYWUyOWRjOGE2ZjI0ZWI3NGJfNzJkNGZiNmVmZDBhZTdhYWFiODdkOWNhZWE0MGQ4NTdfSUQ6NzY0NjMwODAyMzkwNDIyNjIzNl8xNzgxNzcwODk4OjE3ODE3NzQ0OThfVjM)
+![图片展示了名为“SKILL.md”的Markdown文件内容。文件说明了名为“baoyu-post-to-x”的技能，可将内容和文章发布到X（Twitter），支持带图片/视频的常规推文和长篇Markdown文章，通过Chrome CDP绕过自动化检测。脚本目录位于“scripts/”子目录，Agent执行时需确定SKILL.md文件目录路径为“SKILL_DIR”，脚本路径为“${SKILL_DIR}/scripts/<script-name>.ts”，并替换实际路径。该图片与上文提到的“需要时再看说明书”相呼应，直观呈现了技能说明书的内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjZkM2U1MGE0MmYwYTVjNGFmNWVhZTdiZTJlNjdiZTBfOWNkMTUyZmM1YjY3YjE0YmJmMzg2Mjg2ODllNTk5OTRfSUQ6NzY0NjMwODAyMzkwNDIyNjIzNl8xNzgyMDk5MDY5OjE3ODIxMDI2NjlfVjM)
 
 ## 第三步：真正干活时再调用工具
 

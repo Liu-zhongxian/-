@@ -4,7 +4,7 @@
 
 ​
 
-![图片以白色背景和黑色放射状线条为设计元素，上方文字为“三分钟大白话 什么是SubAgent? Skill大火之后 你该来了解SubAgent了”。图片位于介绍SubAgent的文档开头部分，起到引出主题的作用，强调在Skill大火之后，读者应该了解SubAgent，为后续对SubAgent的介绍埋下伏笔。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDFkZGFmYTlkMmQ2ZTc0YzAwYWQxZDNhYjkwYWJkNjlfNWE2NjJjNTYyYjUwMGUxZDQxYTQ5NGE5ZDQ5YjBjN2RfSUQ6NzY0NjMwNDk3Njk2NDU1MzY5OF8xNzgxNzcwODk3OjE3ODE3NzQ0OTdfVjM)
+![图片以白色背景和黑色放射状线条为设计元素，上方文字为“三分钟大白话 什么是SubAgent? Skill大火之后 你该来了解SubAgent了”。图片位于介绍SubAgent的文档开头部分，起到引出主题的作用，强调在Skill大火之后，读者应该了解SubAgent，为后续对SubAgent的介绍埋下伏笔。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGYyN2I5YTg3ZDQ0NTdlZDM4ZWZkMDRjMTA3MDY4ODFfMGNlODY2ODM2YzNlNDMzMTZhNmNlMzg5MjFjN2U3ZDlfSUQ6NzY0NjMwNDk3Njk2NDU1MzY5OF8xNzgyMDk5MDY4OjE3ODIxMDI2NjhfVjM)
 
 最近 OpenClaw 火的一塌糊涂，连我老婆一个从来不关注AI的人都知道了小龙虾火的不得了啊。 那么我相信只要接触过 OpenClaw 一段时间的人，基本都会听过一个词：**Skill**。 而只要稍微深度玩过OpenClaw的人，肯定就对**Skill** 非常熟悉了。
 

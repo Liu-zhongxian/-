@@ -2,7 +2,7 @@
 
 # Karpathy 的知识库方案，差一个能搜全网的工具
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWFmMTU1YzczNDhkOWI3N2NiNzI5OWQ1MGRjZDUzZWFfYTQwZWY5ZTcyN2Q2MWVmZWEzNjU0ZDVmMmY4YzE2MjJfSUQ6NzY0NTI2NTYxMDYyNDQyMTA4MV8xNzgxNzcwOTcxOjE3ODE3NzQ1NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDU4ZjFmMzYwZWU3YzNjYmI3MTk4YjBhMTYyNzZmYzhfNmVjNTkxODEyNTY5MTYwYzM2NDg1MDg3ZGNjMTRkY2FfSUQ6NzY0NTI2NTYxMDYyNDQyMTA4MV8xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
 Karpathy 前几天发了个知识库方案，架构很漂亮：文档丢进去，LLM 自动编译成 wiki，查东西直接查 wiki，不用每次从头翻原文。
 
@@ -20,7 +20,7 @@ Karpathy 前几天发了个知识库方案，架构很漂亮：文档丢进去�
 
 00收件箱/ 放原始素材，AI 自动编译成 40知识库/ 里的知识条目，写文章的时候直接从知识库调用。和 Karpathy 描述的架构一模一样。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTI2YzRlOTNkNjAzZGY1OTRjNTczYTM3Yzk4ODI1YTJfNGJlNWRiMjM0ODQ0MWFhM2NiM2ZiZWJhNzdhY2E5YjhfSUQ6NzY0NTI2NTYxMTYxNDMwOTU5Nl8xNzgxNzcwOTcxOjE3ODE3NzQ1NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWM2NzA3NjIwYWYwMDA3M2E5ZWVlMjUyMmVlNDgzYzFfYWU2M2IwNzYzZTJmMjFiY2U5YmJjNzVkYTgxYzI2OGVfSUQ6NzY0NTI2NTYxMTYxNDMwOTU5Nl8xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
 ## 卡点：搜索不够用
 
@@ -42,7 +42,7 @@ Claude Code 自带的 WebSearch 能搜，但返回的结果有限，摘要也很
 
 1️⃣ 去 [xcrawl](https://xcrawl.com/?keyword=dcjjy5qc) 注册，拿到 API Key（新账号送 1000 免费积分，不用绑卡）
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTVjMjNhZmRlY2E1NDI4MGZmZDQyOWQ4ZDE1NDIzZjdfZjBiZDdiNjU1MDZjOGYxYjI4YmM5MmY4NjIxYTU3YjJfSUQ6NzY0NTI2NTYxMjk3MjgzODA4Ml8xNzgxNzcwOTcxOjE3ODE3NzQ1NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDliM2RhOTdkNzVkM2ExMDU2NWE4ZTVjZWRkNjU3MjBfYzhkMGM5ZmNjMDk1MzBiZDllM2Q0M2ViZTA3YWUzMjlfSUQ6NzY0NTI2NTYxMjk3MjgzODA4Ml8xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
 2️⃣ 装 CLI
 
@@ -51,7 +51,7 @@ npm install -g @xcrawl/cli
 
 ```
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzAyZDVhOGUwMjYwMDNiZGZhYjA0YjJjZDk3ODc4MjRfMTE4MjQ4ZjIyOGE2NDgwZTMwM2ZiNWJlOTFhNjc5OGNfSUQ6NzY0NTI2NTYxMDQwNDEwNTQyMF8xNzgxNzcwOTcxOjE3ODE3NzQ1NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWZmNmE1NGEzN2NiNzk5YWZlZWEwMWNjMzY3ZWE2MjhfOTgyZjQ3ZTYzYmRiZTIzOWY2NjA4YzkzYjYwZDEzYTBfSUQ6NzY0NTI2NTYxMDQwNDEwNTQyMF8xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
 剩下的交给 Claude Code。打开 Claude Code，说一句：
 
@@ -62,7 +62,7 @@ npm install -g @xcrawl/cli
 
 Claude Code 会自动 clone 仓库、装好 Skills、配好 Key。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjJlZDQ0Njg0MmJmOTJmYWVhMGVmZDAxNDVlMTcyMDJfZmIwNWZmYjM2ZDY5MWQ0MTdmZWZiODk4YmIyYjY2MjVfSUQ6NzY0NTI2NTYwOTQzNzY0NjAxM18xNzgxNzcwOTcxOjE3ODE3NzQ1NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWRjZDlmNmU0MTA5NDM4Zjg5NTU1NWMzYzY3M2Y5MWVfYTk3NTNiZTkwM2Q3NTgyMWQ3Mjg5YjkwZGQ3NGQ1MTJfSUQ6NzY0NTI2NTYwOTQzNzY0NjAxM18xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
 ## 实测：搜索
 
@@ -77,9 +77,9 @@ Claude Code 会自动 clone 仓库、装好 Skills、配好 Key。
 
 几秒钟返回了 20 条结果，Claude Code 还自动帮我分成了「核心源头」和「深度解读文章」两类。Karpathy 本人的 GitHub Gist、VentureBeat 的报道、社区讨论都搜到了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTg1MDAzYzgyMzQ0ZTExYTcyNDU3YThlOGJhOGUwNTJfNjFmMzIwNzhlOGQ5YjhiODBmMTgxNGY3MzU0MzY1NWJfSUQ6NzY0NTI2NTYxMDM0MzUxNzM3Ml8xNzgxNzcwOTcxOjE3ODE3NzQ1NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmUyYTE2NDg2NGNjYWU3M2Q4ZGRkMzY4ZTcwYTYzZjNfMTFkYjNlMTI2NGU3YTgxZjZjYjI2NGM3ZTEyYzc3ZWRfSUQ6NzY0NTI2NTYxMDM0MzUxNzM3Ml8xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDgxZjk1N2M3YmRiYjJlZDJjYWU1ZDc0ZjNmMTQ1NTZfNDdlNTBlNTBkNTJkZmY2NTE3Y2Y0ZWFhZWNjNDFkN2JfSUQ6NzY0NTI2NTYwOTM3NDY4MjMyM18xNzgxNzcwOTcxOjE3ODE3NzQ1NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjY0ODAzMDQ5MzI4YTQ0NzJlNGJhZjQzNjBkYjYwOGJfZTJlMmZlZDJmZDg3OTdhZjg2YmM4MTcxMjdhYjU5OGFfSUQ6NzY0NTI2NTYwOTM3NDY4MjMyM18xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
 ## 实测：抓取全文
 
@@ -87,9 +87,9 @@ Claude Code 会自动 clone 仓库、装好 Skills、配好 Key。
 
 Claude Code 调用 xcrawl-scrape 逐个抓取，返回干净的 Markdown 正文，自动保存到 00\\\_收件箱/Karpathy-LLM-Knowledge-Base/ 目录下。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWRhZWM0YWJhYmMyZTQ1OTE4ZjUzYWQxZmRiYmE0MWZfMTFhMWE4ZTVmNTk2MDY0NGU4MjQyYWFhZGY1ZDMwZTVfSUQ6NzY0NTI2NTYxMDE0NjI3MDQxNV8xNzgxNzcwOTcxOjE3ODE3NzQ1NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTVmZWMxZWE2YmFhMzQ5OThiYzc3NzY1NTk3NTMyOWJfNTViZGQ5MjVkMDUwYjJmMDgwNzBlYjBkMjViMjhlZjJfSUQ6NzY0NTI2NTYxMDE0NjI3MDQxNV8xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjhiOTI5ODVhZmI0ZmUzM2YxNTRhZjc1YzFkNDMwYzhfOTY1OGQzMjRkYTBjY2ZiYTdjMDZiNDk2NjkyMjgxY2RfSUQ6NzY0NTI2NTYwOTcxODcyOTk0OF8xNzgxNzcwOTcxOjE3ODE3NzQ1NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzlhOTQxYTMyNGQ0Y2VjOGQzMTI1YjUwZWUxZDY1MGVfYWQzMWJlZjU5NzU0Mjc4N2NiYTRjN2UxNGIyOTA4YjhfSUQ6NzY0NTI2NTYwOTcxODcyOTk0OF8xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
 ## 实测：编译进知识库
 
@@ -105,9 +105,9 @@ Claude Code 自动读取 5 篇原始素材，提取核心概念，生成了 5 �
 
 5 篇笔记之间用 wikilink 互相引用，在 Obsidian 里自动形成知识图谱。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjZhYTI2MDJjNmJkMzM3YzA2YWQ5MGRhMDIyY2NlMzBfOGE3NWYxZmUxMDc3OGNkZTMxYTZkZmYwZjVhNTIyYjdfSUQ6NzY0NTI2NTYxMTEzNTk3ODcwNV8xNzgxNzcwOTcxOjE3ODE3NzQ1NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjA4NzVlY2IzZTlhMmQxNTljMTMxN2M3YzM5YTY0MDBfOWU2NzVmZDIwNjMwZmY2NjUwZjY5YTEyNDNmYzNkNjVfSUQ6NzY0NTI2NTYxMTEzNTk3ODcwNV8xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmFhZmY3NTAxYThkYzU2ZWE0MTA1NzQ1ZGIwOWVlYjlfYmUxOGRjMDI2Y2JlMDMxMGIzZDFmN2M1NzE2MTJhNTJfSUQ6NzY0NTI2NTYwOTcxMDIxMDIyNl8xNzgxNzcwOTcxOjE3ODE3NzQ1NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDQwMzRlMzg2OTU4ZmFkMGI0NmJmYmQxZGQ2NjM2ZWVfNjg5Zjc5NTNiYmQyMmE3MzYzNWRhZTg5NmJjNWRmZTFfSUQ6NzY0NTI2NTYwOTcxMDIxMDIyNl8xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
 ## 完整流程回顾
 

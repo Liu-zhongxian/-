@@ -2,7 +2,7 @@
 
 # Obsidian × AI 最简方案：不碰终端，5 分钟让 AI 住进侧边栏当你的记忆外挂
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWM3OTE5YWRiZjkxN2RkMmRlYjU3MjgzZThiZTFjYjlfYzZhNGMxOWJjZGM0ODE5NWZlZjY4YTFlZDQ5M2E5YTVfSUQ6NzY0NTI2NTcyODk4MzU1MTE2MV8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDZmYTg5NDUxYmJmMzc1ZTk4NDIxZGE5ODljYzI4NDVfODM4ODRkZTk5NjZmODA3MGNkMDkwYmU3NWNkYjUwZjVfSUQ6NzY0NTI2NTcyODk4MzU1MTE2MV8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 这是「Obsidian + AI」系列第三篇。前两篇走的是 CLI 路线（Claude Code / Codex / opencode），门槛不低。这一篇换条路：纯插件，不碰终端。
 
@@ -34,11 +34,11 @@
 
 第一个结果就是，作者是 Logan Yang。点「安装」→ 点「启用」。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDRmYTUxYTE1Mzk2MDZiZjNiNTcxNGNiNTVjMDE1M2ZfNDQ1MDRlZDc0NDc3MmEwOGRmNDZjMjkxMDhlZjdkZmJfSUQ6NzY0NTI2NTczMDA3Mzk1NTU0MF8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTMxN2E2ZWZhNDZiZjk5NTFhOWVmZWFiY2MwZTAyNTRfNTg5NDZiMGRiMzliNGI4MzU1MGVlYzhhYWNjMzIzNjhfSUQ6NzY0NTI2NTczMDA3Mzk1NTU0MF8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 启用之后，左侧边栏会多出一个对话气泡图标。点一下，Copilot 的聊天面板就出来了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGIwZGNhY2FjZGJkOTA5NWNlMWY0M2RmNmNmN2I2ZjdfMzY5ZmQzODUwNmJmNjJjOTc3N2MwN2I3MmQ4MTBiYjVfSUQ6NzY0NTI2NTczMDkyMDg5MzYxOV8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjgwYTNiODg5ODhjZWY1N2FkZjkxNGQ4OWU5MDBhZmZfYzdhOWRlZDIyYzEwMzg1NjUyYjExOWVhMjA0MWY5NTNfSUQ6NzY0NTI2NTczMDkyMDg5MzYxOV8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 ## 二、拿 Key
 
@@ -62,7 +62,7 @@ Copilot 支持多种 AI 来源：
 
 弹窗里只需要填 Name（随便起，比如 obsidian-copilot），其他全部留默认。点「Create」→ **完整复制生成的 Key**。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2E4MWVlZWQ4NjlhMmE4ZDg4ZDA0ZWM0NWFiNDViZGZfM2ZjMDQ3ZWE2OGRjMTM1N2U3ODA3Y2FhZjM4NWVkMDVfSUQ6NzY0NTI2NTcyOTk2MDUxMjY5OF8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGEyNDI2NDdhZmQ0YzVlODU0ODJmNmQwNTA4ZTM3NmZfYjBiYTE0YTgyN2IyMTU3ZTZlNTc0ZTg1NjQxOGMxY2ZfSUQ6NzY0NTI2NTcyOTk2MDUxMjY5OF8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 ⚠️ Key 只显示一次，复制好存到安全的地方。丢了得重新生成。
 
@@ -72,7 +72,7 @@ OpenRouter 顶部菜单点进 **Models** 页面 → 搜索框输入 ring。
 
 找到 **inclusionAI** 出品的 Ring 模型（标记 Free），点模型名右边的复制图标，拿到模型 ID。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDQxNGMzMmNjNWRhYzEyNjFiYzdhOTk5OWMxODViNjNfOTdkZjQ2NGRkMzdlZGQyNmU4YTUzNTZjYzFkZWI0ZjNfSUQ6NzY0NTI2NTcyOTg0NzU3Nzc3OF8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzlmZWJhOTQyZDY2OTAzMDM0OWRiMjhjNWViMDZiNzVfMDFkNDhmMzdiYjJlMTI5MTEwMGQ1OGEzYThmM2ZiYTFfSUQ6NzY0NTI2NTcyOTg0NzU3Nzc3OF8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 💡 模型 ID 长这样：inclusionai/ring-xxx（具体以你搜到的为准）。记下来，下一节要填。
 
@@ -88,17 +88,17 @@ OpenRouter 顶部菜单点进 **Models** 页面 → 搜索框输入 ring。
 
 ❸ **Default Model**：填刚才复制的 Ring 模型 ID（inclusionai/ring-xxx）
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzA0NGFjYWRiM2JjOGVmZmI4NWI3MjdjM2Q2ZWRiNmRfYzAxOWI1MWMzMDYyYjY4MDYzYjhmMTNjNGZiM2Q1MGJfSUQ6NzY0NTI2NTczMDQzMDU4NjA0MV8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MThjZTg3YjVlMTRlMzZmMTc4ODBkY2E2MzBlZWM5ZWJfNDNhYTYwMWE3ZWIzYTFlN2VhZjdmZDc3YWRhZjllNDNfSUQ6NzY0NTI2NTczMDQzMDU4NjA0MV8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTBmMWU0YzVmY2Q3NzFmNGNiYzRhYTBkMzJmOWU1NzVfODhmYzc2ZjFiODE0Y2JlNTBmNmU3NTQxZTYxNTZjZTBfSUQ6NzY0NTI2NTczMDYzMzI4ODg5NF8xNzgxNzcwOTY4OjE3ODE3NzQ1NjhfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzlhZmNhZmMyNDc2MTA5YTBjZjZmZmFmNmMxOGM2MzNfODM0MzcwYjJjZWM5NGNiOTM4YjI2YzFkZWE5YzViNWFfSUQ6NzY0NTI2NTczMDYzMzI4ODg5NF8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Njg4ZWRlMjRkMjkwMmNlODk3MmMxZTMwMDM5ZTYxMGRfYTQ0ZmQ1MzRkMDk3N2EwMDExYmExODgzMTQzMDk3MjZfSUQ6NzY0NTI2NTczMDI3NTEzNDY0OV8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTQ5NjViZWFkNWZhM2VhMDI1NWM5ZTUyYzBkM2ZjNDJfNmFmMWIyZGUzOTU4NWM3N2NhMWY4MmQ5NzI0NDgwYWZfSUQ6NzY0NTI2NTczMDI3NTEzNDY0OV8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 填完保存。回到 Copilot 聊天面板，发一句「你好」。
 
 AI 回复了，说明通道打通。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzE0MjQ3OThmZGE3YzUxNjJlNTlkM2YwZjQ2YTIwMzlfMjgzZjA0MGU3MTIwMDUwZWJhM2RiZDgzMzI0N2UwNGZfSUQ6NzY0NTI2NTcyODgxNTg5MzcwOF8xNzgxNzcwOTY4OjE3ODE3NzQ1NjhfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzYwZGEyNDQwYWVmYmNkYzk5ZmI2ZDk5ZTg1MjYyMjRfODhlNTQ4MTg5NTkxNzdmN2RlYWY2NTJiZmMyZWNlYjNfSUQ6NzY0NTI2NTcyODgxNTg5MzcwOF8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 ⚠️ 如果报错，检查三件事：① Key 有没有复制完整 ② 模型 ID 有没有拼错
 
@@ -114,7 +114,7 @@ AI 回复了，说明通道打通。
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmQ2YmY1MmJmZDRkMzkwYWMxMDk2ZTQzNzgzZWFkMTZfNzk0ZjJkMmJjZTNjNTdlZWVhOTM1OTRmZWRkNTFiNWZfSUQ6NzY0NTI2NTcyODc0NDQxMDMwMF8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTE3YzQyZTc1YjIwNWUwYjU5ODFjZDMzZDYxNDM2ZGRfZjdjNzk2NjQ1NzNmNDUwYTBkZmQyNTlmODMwNTY5YzJfSUQ6NzY0NTI2NTcyODc0NDQxMDMwMF8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 **场景 2：选中文本，右键让 AI 改**
 
@@ -124,7 +124,7 @@ AI 回复了，说明通道打通。
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWEyNzgxYjA0ZjM4OTYzOWFlYzJlMzdlMjg2MWE4NmJfZDRhN2M1NGE2YTFmYzAxOTNlNDRkNDhmNDQ5OTQ5ZjdfSUQ6NzY0NTI2NTczMDYxOTA1MTE4OF8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWJiOGRmZTExMzIyZGYwMzFkYzM2ODE2MTQ0MTBhMzBfZWU0N2UwMjMyNjdhY2FmYjAyMzhiZDhhYzE1YmNhNWJfSUQ6NzY0NTI2NTczMDYxOTA1MTE4OF8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 ## 五、Vault QA：让 AI 读懂你全部笔记
 
@@ -138,17 +138,17 @@ Copilot 聊天面板顶部有一个 **Relevant Notes** 区域，旁边有个 **B
 
 弹窗提示「Enable Semantic Search?」，说的是语义搜索需要先建索引。点 **Enable**。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjU3Y2I1OGVjMGM3MWJmNDZmZWI3OTUyOWIxMzA3OWJfNTNjNTg4YjE2ZjFhYjZlZmYxYWY4OGFjMmFlYjE3NDRfSUQ6NzY0NTI2NTcyNzg5MDUwODk5OV8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGY4ZmY5M2UwMDZkNjliNWUyNDVhZjA3M2RjZWU2MmVfMjc5YTdjZDY1NjhhNjdiZDEwODgyZjE0MTA4ZGI3ZWRfSUQ6NzY0NTI2NTcyNzg5MDUwODk5OV8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 然后就开始建索引了，有进度条，能看到跑了多少文件。笔记少的话十几秒跑完，笔记多的 vault（500+）可能要几分钟。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2U1OGU0MjFjM2I4YWRiYzAwZTFhYzcwNDZiMDdkOWRfMzM5ZjFmN2ZlMTI0YWNiZjQ5NGEyOWEzMWY0N2Q0ZGVfSUQ6NzY0NTI2NTczMDMyMTQxOTQ2NV8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTM1OGRkOTZiNmQwMDRiNGVhN2Y3MTIyZjkyYzI5ZWJfMThlZTYwNWU5ZjJhN2U1MGFiZjZkMjhhZjRmMGE5MzNfSUQ6NzY0NTI2NTczMDMyMTQxOTQ2NV8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 **建完之后：**
 
 打开任意一篇笔记，Copilot 面板底部的 **Relevant Notes** 会自动列出和当前笔记语义相关的内容。不用你手动搜，打开笔记它就推。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjI0ZmQzOWE1MDg0MjBmMTc0ZWY5MmM0NWE4ZDA5ZTJfYWJmN2IzZWJkOTRmMDdkYmZmZjgxMzJjYzc5MzhjZTlfSUQ6NzY0NTI2NTcyODM3MTM5NTc3MF8xNzgxNzcwOTY3OjE3ODE3NzQ1NjdfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTAxODZhOWZhMzI3YTJhZTVlMzM1YjNkMGI2NGJiMTBfNDA1ZThiZmQ4Zjg0ZjZjNGRlYjM1ZTk1YjZiYjQ2NzFfSUQ6NzY0NTI2NTcyODM3MTM5NTc3MF8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 比如我打开一篇笔记，它自动找到了「关于 AI 的思考」「生产力祛魅」「读书清单」「个人管理习惯」这些相关笔记。这些笔记标题里可能根本没有我当前笔记的关键词，但内容上是相关的。**Obsidian 自带搜索做不到这件事。**
 

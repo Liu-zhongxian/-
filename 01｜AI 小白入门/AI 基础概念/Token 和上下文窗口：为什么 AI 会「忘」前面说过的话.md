@@ -114,10 +114,10 @@ flowchart TB
 
 ## 延伸阅读
 
-- [01.1｜AI 基础概念](https://lcnniolukk80.feishu.cn/wiki/ZDXGwkB7NiaPr6kbDPicgLFHnif) — 回到本章总览
-- [AI Skill 到底是什么？](https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b) — 怎么把长期信息固化进 Skill
-- [高强度实测 6 大 AI 模型](https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb) — 各家模型实测对比
+- [01.1｜AI 基础概念](../AI%20基础概念.md) — 回到本章总览
+- [AI Skill 到底是什么？](../../02｜AI%20工具与大模型/AI%20工具教程/AI%20Skill%20到底是什么？搞懂这个，AI%20才算真的用上了.md) — 怎么把长期信息固化进 Skill
+- [高强度实测 6 大 AI 模型](../../02｜AI%20工具与大模型/工具测评/高强度实测%206%20大%20AI%20模型：Claude%20写文最强，但我写代码不选它.md) — 各家模型实测对比
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/HfzSwaeWZiWmyjkWyGZc8ezVn5g> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/HfzSwaeWZiWmyjkWyGZc8ezVn5g> ｜ 归档：2026-05-29

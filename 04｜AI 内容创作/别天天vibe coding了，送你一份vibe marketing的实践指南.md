@@ -130,4 +130,4 @@ AI 拉平了代码的门槛，但同时也给了你一个前所未有的机会�
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/URuKwLeOtiIgNVkkO7rc2h1pnPf> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/URuKwLeOtiIgNVkkO7rc2h1pnPf> ｜ 归档：2026-05-28

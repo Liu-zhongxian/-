@@ -170,4 +170,4 @@ AI 会先读你的内容，然后问你一些偏好——要不要加水印、�
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/TjaTwAZdHiZTSykP2SncP2y3nDf> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/TjaTwAZdHiZTSykP2SncP2y3nDf> ｜ 归档：2026-06-01

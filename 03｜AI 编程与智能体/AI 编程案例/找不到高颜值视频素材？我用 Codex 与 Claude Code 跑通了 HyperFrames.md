@@ -50,7 +50,7 @@ HyperFrames by HeyGen 其实不复杂，它只是把 AI 写的 HTML/CSS/JS 直�
 
 我就马上开始了尝试，结果卡的就一个点：Claude Code 官方还没给做集中的插件市场，所以 HyperFrames 这一套 skill 没法在 App 内一键装，只能命令行本地装。
 
-> 延伸阅读：还没装 Claude Code 的看这篇 [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](https://lcnniolukk80.feishu.cn/wiki/KWlzwKCPIix1rbkd1GYc9FEwnLc)
+> 延伸阅读：还没装 Claude Code 的看这篇 [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](../../02｜AI%20工具与大模型/AI%20工具教程.md)
 
 如果是Claude Code去运行的时候，你要在你要创作的项目目录下面跑这个：
 
@@ -147,9 +147,9 @@ GIT_LFS_SKIP_SMUDGE=1 npx skills add heygen-com/hyperframes
 
 ## 延伸阅读
 
-- [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](https://lcnniolukk80.feishu.cn/wiki/VPeewqTA6iMP7jkQvYJcvurbnTf) — 前置环境
-- [GitHub 狂揽 10.7k Star！这款飞书神器配合 AI Agent](https://lcnniolukk80.feishu.cn/wiki/S4Y0wf95qi0rW1k8ylAcVgAdnzb) — 另一条 AI Agent 实战
-- [高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它](https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb) — Codex 跟 Claude 拉开了哪些差距
+- [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](../../02｜AI%20工具与大模型/AI%20工具教程/Claude%20Code%20安装教程：Mac、Windows、Linux%20从%200%20到跑通.md) — 前置环境
+- [GitHub 狂揽 10.7k Star！这款飞书神器配合 AI Agent](../智能体应用案例/GitHub%20狂揽%2010.7k%20Star！这款飞书神器配合%20AI%20Agent，工作流彻底起飞了.md) — 另一条 AI Agent 实战
+- [高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它](../../02｜AI%20工具与大模型/工具测评/高强度实测%206%20大%20AI%20模型：Claude%20写文最强，但我写代码不选它.md) — Codex 跟 Claude 拉开了哪些差距
 
 ## HyperFrames 渲染流水线
 
@@ -169,4 +169,4 @@ flowchart LR
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/VBmUwo60IiYeDDkbAaZciEiPnYe> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/VBmUwo60IiYeDDkbAaZciEiPnYe> ｜ 归档：2026-05-29

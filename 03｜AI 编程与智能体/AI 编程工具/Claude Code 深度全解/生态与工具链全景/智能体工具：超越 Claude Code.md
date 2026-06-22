@@ -612,4 +612,4 @@ Claude Code 无头模式（`claude -p`）和 SWE-agent 给你受控的自主性�
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Slh5wuMijitdlmkr9tEcOEkOnC2> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Slh5wuMijitdlmkr9tEcOEkOnC2> ｜ 归档：2026-05-29

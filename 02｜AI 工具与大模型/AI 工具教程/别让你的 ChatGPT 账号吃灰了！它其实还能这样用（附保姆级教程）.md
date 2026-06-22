@@ -173,4 +173,4 @@ xhere应用生效
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/BF2Kw0QxAimq4fkwBZ5cectAn0a> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/BF2Kw0QxAimq4fkwBZ5cectAn0a> ｜ 归档：2026-05-31

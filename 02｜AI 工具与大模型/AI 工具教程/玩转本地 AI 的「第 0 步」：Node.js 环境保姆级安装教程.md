@@ -343,10 +343,10 @@ npm -v
 
 ## 延伸阅读
 
-- [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](https://lcnniolukk80.feishu.cn/wiki/VPeewqTA6iMP7jkQvYJcvurbnTf) — Node 装完下一步跑这个
-- [小白必看！Opencode 傻瓜式安装教程，把 DeepSeek 接上](https://lcnniolukk80.feishu.cn/wiki/MwHFwQw6uiosjDkqTNxcid7in5c) — 另一个需要 Node 的工具
-- [找不到高颜值视频素材？我用 Codex 与 Claude Code 跑通了 HyperFrames](https://lcnniolukk80.feishu.cn/wiki/VBmUwo60IiYeDDkbAaZciEiPnYe) — Node 22+ 实战场景
+- [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](Claude%20Code%20安装教程：Mac、Windows、Linux%20从%200%20到跑通.md) — Node 装完下一步跑这个
+- [小白必看！Opencode 傻瓜式安装教程，把 DeepSeek 接上](小白必看！Opencode%20傻瓜式安装教程，终于把%20DeepSeek%20接上了！.md) — 另一个需要 Node 的工具
+- [找不到高颜值视频素材？我用 Codex 与 Claude Code 跑通了 HyperFrames](../../03｜AI%20编程与智能体/AI%20编程案例/找不到高颜值视频素材？我用%20Codex%20与%20Claude%20Code%20跑通了%20HyperFrames.md) — Node 22+ 实战场景
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/WF3cwAPyIiSlizkJ2qRcj6zSnKb> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/WF3cwAPyIiSlizkJ2qRcj6zSnKb> ｜ 归档：2026-05-29

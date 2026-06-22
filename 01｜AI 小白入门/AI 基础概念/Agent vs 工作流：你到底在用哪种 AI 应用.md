@@ -94,10 +94,10 @@ flowchart TB
 
 ## 延伸阅读
 
-- [01.1｜AI 基础概念](https://lcnniolukk80.feishu.cn/wiki/ZDXGwkB7NiaPr6kbDPicgLFHnif) — 回到本章总览
-- [Hermes Agent 三层学习](https://lcnniolukk80.feishu.cn/wiki/MY8CwTTPOi2LrZkDtrPc8rE3nsh) — Agent 进阶架构
-- [AI Skill 到底是什么？](https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b) — Agent 里的 Skill 触发机制
+- [01.1｜AI 基础概念](../AI%20基础概念.md) — 回到本章总览
+- [Hermes Agent 三层学习](../../03｜AI%20编程与智能体/智能体应用案例/越用越强不是广告语：拆解%20Hermes%20Agent%20的三层学习机制.md) — Agent 进阶架构
+- [AI Skill 到底是什么？](../../02｜AI%20工具与大模型/AI%20工具教程/AI%20Skill%20到底是什么？搞懂这个，AI%20才算真的用上了.md) — Agent 里的 Skill 触发机制
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/OPs0wdSqHiozxHkJxFjcnv8Un8e> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/OPs0wdSqHiozxHkJxFjcnv8Un8e> ｜ 归档：2026-05-29

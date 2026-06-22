@@ -192,4 +192,4 @@ C:\\\Users\\\你的用户名\\\\.config\\\opencode\\\opencode.json
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/StamwxG9niYrVsk7hNic4XsQnTd> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/StamwxG9niYrVsk7hNic4XsQnTd> ｜ 归档：2026-06-01

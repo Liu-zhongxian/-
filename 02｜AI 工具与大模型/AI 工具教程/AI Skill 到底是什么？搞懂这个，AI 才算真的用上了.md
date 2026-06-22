@@ -148,10 +148,10 @@ Skill 也是这个逻辑，分三层：
 
 ## 延伸阅读
 
-- [越用越强不是广告语：拆解 Hermes Agent 的三层学习机制](https://lcnniolukk80.feishu.cn/wiki/MY8CwTTPOi2LrZkDtrPc8rE3nsh) — Skill 在真实 Agent 里怎么发挥作用
-- [我把「开源」这件事本身做成了 Skill](https://lcnniolukk80.feishu.cn/wiki/WnOxwoICHiqqHRkLBqZcQOpYnQe) — 一个具体 Skill 全自动跑通的案例
-- [别让 AI 写得像 AI：83 篇博客训练专属写作助手](https://lcnniolukk80.feishu.cn/wiki/L3rhw5d1AigmZAkD2HPcA4EFnic) — Skill 训练成个人写作助手
+- [越用越强不是广告语：拆解 Hermes Agent 的三层学习机制](../../03｜AI%20编程与智能体/智能体应用案例/越用越强不是广告语：拆解%20Hermes%20Agent%20的三层学习机制.md) — Skill 在真实 Agent 里怎么发挥作用
+- [我把「开源」这件事本身做成了 Skill](../../03｜AI%20编程与智能体/智能体应用案例/我把「开源」这件事本身做成了%20Skill：让%20AI%20全自动帮你发布%20GitHub%20仓库.md) — 一个具体 Skill 全自动跑通的案例
+- [别让 AI 写得像 AI：83 篇博客训练专属写作助手](../../04｜AI%20内容创作/别让%20AI%20写得像%20AI：用自己的%2083%20篇博客训练专属写作助手，顺手做成了一个%20Skill.md) — Skill 训练成个人写作助手
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b> ｜ 归档：2026-06-09

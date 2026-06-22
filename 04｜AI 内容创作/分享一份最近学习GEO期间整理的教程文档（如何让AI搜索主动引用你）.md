@@ -352,4 +352,4 @@ Princeton大学GEO研究（KDD 2024）关键发现：引用权威来源（+40%�
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/BdgMwkUxTiByCWkPEhlcwfaWnEc> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/BdgMwkUxTiByCWkPEhlcwfaWnEc> ｜ 归档：2026-06-01

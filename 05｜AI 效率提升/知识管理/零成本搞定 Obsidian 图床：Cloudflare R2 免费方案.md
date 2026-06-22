@@ -164,4 +164,4 @@ Mac 用户也可以终端敲一行： brew install piclist --cask
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/BCMSwuliwi9JJzk8HPCcgFK5nvd> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/BCMSwuliwi9JJzk8HPCcgFK5nvd> ｜ 归档：2026-05-29

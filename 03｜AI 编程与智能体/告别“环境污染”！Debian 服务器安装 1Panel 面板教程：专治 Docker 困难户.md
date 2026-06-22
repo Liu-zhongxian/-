@@ -124,4 +124,4 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/PVFtwB9SeiQQGFk0bSFcnIwanKb> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/PVFtwB9SeiQQGFk0bSFcnIwanKb> ｜ 归档：2026-06-06

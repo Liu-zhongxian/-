@@ -1,6 +1,6 @@
 param(
   [string]$SpaceId = "7644091204958866380",
-  [string]$SpaceName = "AI Spark AI Wiki",
+  [string]$SpaceName = "",
   [string]$WikiBaseUrl = "https://lcnniolukk80.feishu.cn/wiki",
   [string]$RootReadmeTitle = "",
   [switch]$DryRun,
@@ -8,6 +8,10 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
+
+if ([string]::IsNullOrWhiteSpace($SpaceName)) {
+  $SpaceName = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("QUkgU3Bhcmsg55+l6K+G5bqT"))
+}
 
 function Get-RepoRoot {
   $root = git rev-parse --show-toplevel
@@ -136,10 +140,45 @@ function Get-RelativeMarkdownPath {
 
   $fromFullPath = [System.IO.Path]::GetFullPath($FromFile)
   $fromDir = Split-Path -Parent $fromFullPath
-  $toPath = Resolve-Path -LiteralPath $ToFile
+  $toPath = [System.IO.Path]::GetFullPath($ToFile)
   $fromUri = [System.Uri]::new(($fromDir.TrimEnd('\') + '\'))
-  $toUri = [System.Uri]::new($toPath.Path)
+  $toUri = [System.Uri]::new($toPath)
   return [System.Uri]::UnescapeDataString($fromUri.MakeRelativeUri($toUri).ToString())
+}
+
+function Convert-ToMarkdownLinkPath {
+  param([string]$Path)
+
+  return $Path.Replace(" ", "%20")
+}
+
+function Convert-FeishuWikiLinks {
+  param(
+    [string]$Content,
+    [string]$TargetFile
+  )
+
+  if ([string]::IsNullOrWhiteSpace($Content) -or $script:NodePathByToken.Count -eq 0) {
+    return $Content
+  }
+
+  $wikiBase = [System.Text.RegularExpressions.Regex]::Escape($WikiBaseUrl.TrimEnd('/'))
+  $wikiLinkPattern = "$wikiBase/([A-Za-z0-9]+)(\?[^)\s>]*)?"
+
+  return [System.Text.RegularExpressions.Regex]::Replace(
+    $Content,
+    $wikiLinkPattern,
+    [System.Text.RegularExpressions.MatchEvaluator]{
+      param($match)
+      $token = $match.Groups[1].Value
+      if (-not $script:NodePathByToken.ContainsKey($token)) {
+        return $match.Value
+      }
+
+      $relativePath = Get-RelativeMarkdownPath -FromFile $TargetFile -ToFile $script:NodePathByToken[$token]
+      return Convert-ToMarkdownLinkPath -Path $relativePath
+    }
+  )
 }
 
 function Get-RelativePathFromCurrentDirectory {
@@ -297,6 +336,7 @@ function Convert-LarkMarkdown {
     }
   )
 
+  $content = Convert-FeishuWikiLinks -Content $content -TargetFile $TargetFile
   $content = $content.Trim()
   do {
     $previousContent = $content
@@ -330,6 +370,86 @@ function Get-WikiNodes {
   $result = Invoke-LarkJson $argsList
   return @($result.data.nodes)
 }
+function Register-WikiNodePaths {
+  param(
+    [object[]]$Nodes,
+    [string]$ParentPath
+  )
+
+  foreach ($node in $Nodes) {
+    $safeTitle = Convert-ToSafeName $node.title
+    $nodePath = Join-Path $ParentPath $safeTitle
+
+    if ($node.obj_type -eq "docx") {
+      $targetFile = "$nodePath.md"
+      $script:NodePathByToken[$node.node_token] = $targetFile
+      $script:NodePathByToken[$node.obj_token] = $targetFile
+    }
+
+    if ($node.has_child) {
+      $children = Get-WikiNodes -SpaceId $SpaceId -ParentNodeToken $node.node_token
+      $script:ChildrenByNodeToken[$node.node_token] = @($children)
+      Register-WikiNodePaths -Nodes $children -ParentPath $nodePath
+    }
+  }
+}
+
+function Get-IndexedChildNodes {
+  param([object]$Node)
+
+  if ($script:ChildrenByNodeToken.ContainsKey($Node.node_token)) {
+    return @($script:ChildrenByNodeToken[$Node.node_token])
+  }
+
+  return Get-WikiNodes -SpaceId $SpaceId -ParentNodeToken $Node.node_token
+}
+
+function Get-WikiNodeDetails {
+  param([object]$Node)
+
+  $nodeUrl = "$($WikiBaseUrl.TrimEnd('/'))/$($Node.node_token)"
+  $lastError = $null
+
+  for ($attempt = 1; $attempt -le 3; $attempt++) {
+    try {
+      $result = Invoke-LarkJson @(
+        "wiki", "+node-get",
+        "--node-token", $nodeUrl,
+        "--space-id", $SpaceId,
+        "--as", "bot",
+        "--json"
+      )
+      return $result.data
+    } catch {
+      $lastError = $_.Exception.Message
+      if ($attempt -lt 3) {
+        Write-Warning "Retrying wiki node details for $($Node.node_token) after attempt $attempt failed."
+        Start-Sleep -Seconds (2 * $attempt)
+      }
+    }
+  }
+
+  throw "Failed to read wiki node details for $($Node.node_token) after 3 attempts: $lastError"
+}
+
+function Get-ArchiveDate {
+  param([object]$NodeDetails)
+
+  if ($NodeDetails.updated_at) {
+    try {
+      return ([System.DateTimeOffset]::Parse([string]$NodeDetails.updated_at)).ToLocalTime().ToString("yyyy-MM-dd")
+    } catch {}
+  }
+
+  if ($NodeDetails.obj_edit_time) {
+    try {
+      $seconds = [int64]$NodeDetails.obj_edit_time
+      return [System.DateTimeOffset]::FromUnixTimeSeconds($seconds).ToLocalTime().ToString("yyyy-MM-dd")
+    } catch {}
+  }
+
+  return (Get-Date).ToString("yyyy-MM-dd")
+}
 
 function Sync-Node {
   param(
@@ -360,8 +480,10 @@ function Sync-Node {
       "--json"
     )
 
+    $nodeDetails = Get-WikiNodeDetails -Node $Node
+    $archiveDate = Get-ArchiveDate -NodeDetails $nodeDetails
     $raw = [string]$doc.data.document.content
-    $normalized = Convert-LarkMarkdown -Markdown $raw -Title $Node.title -TargetFile $targetFile -NodeToken $Node.node_token -ArchiveDate $script:ArchiveDate
+    $normalized = Convert-LarkMarkdown -Markdown $raw -Title $Node.title -TargetFile $targetFile -NodeToken $Node.node_token -ArchiveDate $archiveDate
     [System.IO.File]::WriteAllText($targetFile, $normalized, [System.Text.UTF8Encoding]::new($false))
     $script:SyncedDocuments++
 
@@ -375,12 +497,15 @@ function Sync-Node {
       has_child = $Node.has_child
       path = $targetFile
       revision_id = $doc.data.document.revision_id
+      obj_edit_time = $nodeDetails.obj_edit_time
+      updated_at = $nodeDetails.updated_at
+      archive_date = $archiveDate
       synced_at = (Get-Date).ToString("o")
     })
   }
 
   if ($Node.has_child) {
-    $children = Get-WikiNodes -SpaceId $SpaceId -ParentNodeToken $Node.node_token
+    $children = Get-IndexedChildNodes -Node $Node
     foreach ($child in $children) {
       Sync-Node -Node $child -ParentPath $nodePath -Manifest $Manifest
     }
@@ -425,11 +550,14 @@ New-Item -ItemType Directory -Force -Path $stagingRoot | Out-Null
 $script:SyncedDocuments = 0
 $script:MediaDownloadAvailable = $true
 $script:MediaDownloadWarningShown = $false
-$script:ArchiveDate = (Get-Date).ToString("yyyy-MM-dd")
+$script:NodePathByToken = [System.Collections.Generic.Dictionary[string,string]]::new()
+$script:ChildrenByNodeToken = [System.Collections.Generic.Dictionary[string,object[]]]::new()
 $manifest = New-Object System.Collections.Generic.List[object]
 
 Write-Output "Listing root nodes from $SpaceName ($SpaceId)..."
 $rootNodes = Get-WikiNodes -SpaceId $SpaceId
+Write-Output "Indexing wiki node paths for relative links..."
+Register-WikiNodePaths -Nodes $rootNodes -ParentPath $stagingRoot
 
 foreach ($node in $rootNodes) {
   Sync-Node -Node $node -ParentPath $stagingRoot -Manifest $manifest

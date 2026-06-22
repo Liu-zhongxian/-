@@ -120,10 +120,10 @@ brew install --cask cc-switch
 
 ## 延伸阅读
 
-- [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](https://lcnniolukk80.feishu.cn/wiki/VPeewqTA6iMP7jkQvYJcvurbnTf) — 没装的先看这篇
-- [小白必看！Opencode 傻瓜式安装教程，把 DeepSeek 接上](https://lcnniolukk80.feishu.cn/wiki/MwHFwQw6uiosjDkqTNxcid7in5c) — 另一条国产模型替代路
-- [高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它](https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb) — MiniMax / DeepSeek 在六家里的真实位置
+- [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](Claude%20Code%20安装教程：Mac、Windows、Linux%20从%200%20到跑通.md) — 没装的先看这篇
+- [小白必看！Opencode 傻瓜式安装教程，把 DeepSeek 接上](小白必看！Opencode%20傻瓜式安装教程，终于把%20DeepSeek%20接上了！.md) — 另一条国产模型替代路
+- [高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它](../工具测评/高强度实测%206%20大%20AI%20模型：Claude%20写文最强，但我写代码不选它.md) — MiniMax / DeepSeek 在六家里的真实位置
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/DA9zwgqdUi87hWkonVBcMczxnbg> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/DA9zwgqdUi87hWkonVBcMczxnbg> ｜ 归档：2026-05-29

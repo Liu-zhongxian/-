@@ -370,4 +370,4 @@ WIP=1 规则与此相关：每次只保持一个功能处于 `active` 状态，�
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/TSlWwH7koiqK1vk1i2HcKWjpnIh> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/TSlWwH7koiqK1vk1i2HcKWjpnIh> ｜ 归档：2026-05-29

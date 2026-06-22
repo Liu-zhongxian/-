@@ -117,4 +117,4 @@ DeepSeek V4 1.6T激活参数49B，Ling-2.6-1T激活参数63B。Ling-2.6-1T这两
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Nkq7wW378iJ7RAk9ESxccC3Knlh> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Nkq7wW378iJ7RAk9ESxccC3Knlh> ｜ 归档：2026-06-01

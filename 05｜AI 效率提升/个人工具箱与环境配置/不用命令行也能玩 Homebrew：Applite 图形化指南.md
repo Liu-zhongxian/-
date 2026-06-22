@@ -159,4 +159,4 @@ Homebrew 是 Mac 上装软件最方便的方式之一，但命令行确实劝退
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/BF9Vw0D8ainzqVkzDnvca9qxnkf> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/BF9Vw0D8ainzqVkzDnvca9qxnkf> ｜ 归档：2026-05-29

@@ -73,9 +73,9 @@
 
 ## 延伸阅读
 
-- [01.2｜新手学习路径](https://lcnniolukk80.feishu.cn/wiki/SUGqwyesei8DOAkvbxQcfHT5n4c) — 回总览
-- [01.1｜AI 基础概念](https://lcnniolukk80.feishu.cn/wiki/ZDXGwkB7NiaPr6kbDPicgLFHnif) — 配合书籍读
+- [01.2｜新手学习路径](../新手学习路径.md) — 回总览
+- [01.1｜AI 基础概念](../AI%20基础概念.md) — 配合书籍读
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/NBevw4LR5iMkNLkl7oJc8e3Bncb> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/NBevw4LR5iMkNLkl7oJc8e3Bncb> ｜ 归档：2026-05-30

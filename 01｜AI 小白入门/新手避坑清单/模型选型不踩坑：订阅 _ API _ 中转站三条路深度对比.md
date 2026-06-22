@@ -66,10 +66,10 @@
 
 ## 延伸阅读
 
-- [01.3｜新手避坑清单](https://lcnniolukk80.feishu.cn/wiki/Aq7FweDT3iRXt5kOjvhcCqdTnCg) — 回到本章总览
-- [Claude Code 在大陆怎么稳定用](https://lcnniolukk80.feishu.cn/wiki/DA9zwgqdUi87hWkonVBcMczxnbg) — 中转 / 替代实战
-- [高强度实测 6 大 AI 模型](https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb) — 选模型实战
+- [01.3｜新手避坑清单](../新手避坑清单.md) — 回到本章总览
+- [Claude Code 在大陆怎么稳定用](../../02｜AI%20工具与大模型/AI%20工具教程/Claude%20Code%20怎么稳定用：我用%20cc-switch%20接%20MiniMax%20跑通了一套替代方案.md) — 中转 / 替代实战
+- [高强度实测 6 大 AI 模型](../../02｜AI%20工具与大模型/工具测评/高强度实测%206%20大%20AI%20模型：Claude%20写文最强，但我写代码不选它.md) — 选模型实战
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/VHktwwNS9iP62BkUt8HcJy8lnzo> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/VHktwwNS9iP62BkUt8HcJy8lnzo> ｜ 归档：2026-05-29

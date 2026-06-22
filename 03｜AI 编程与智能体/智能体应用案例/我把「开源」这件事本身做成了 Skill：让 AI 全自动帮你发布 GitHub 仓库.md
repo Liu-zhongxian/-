@@ -145,10 +145,10 @@ python3 ~/.claude/skills/github-publisher/scripts/publish.py /path/to/你的项�
 
 ## 延伸阅读
 
-- [AI Skill 到底是什么？搞懂这个，AI 才算真的用上了](https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b) — Skill 概念基础
-- [越用越强不是广告语：拆解 Hermes Agent 的三层学习机制](https://lcnniolukk80.feishu.cn/wiki/MY8CwTTPOi2LrZkDtrPc8rE3nsh) — Skill 在 Agent 里的运行机制
-- [别让 AI 写得像 AI：83 篇博客训练专属写作助手](https://lcnniolukk80.feishu.cn/wiki/L3rhw5d1AigmZAkD2HPcA4EFnic) — 另一个 Skill 训练案例
+- [AI Skill 到底是什么？搞懂这个，AI 才算真的用上了](../../02｜AI%20工具与大模型/AI%20工具教程/AI%20Skill%20到底是什么？搞懂这个，AI%20才算真的用上了.md) — Skill 概念基础
+- [越用越强不是广告语：拆解 Hermes Agent 的三层学习机制](越用越强不是广告语：拆解%20Hermes%20Agent%20的三层学习机制.md) — Skill 在 Agent 里的运行机制
+- [别让 AI 写得像 AI：83 篇博客训练专属写作助手](../../04｜AI%20内容创作/别让%20AI%20写得像%20AI：用自己的%2083%20篇博客训练专属写作助手，顺手做成了一个%20Skill.md) — 另一个 Skill 训练案例
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/WnOxwoICHiqqHRkLBqZcQOpYnQe> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/WnOxwoICHiqqHRkLBqZcQOpYnQe> ｜ 归档：2026-05-29

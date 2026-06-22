@@ -25,7 +25,7 @@ Claude 官方的命令行编程助手。这篇覆盖三个系统从 0 到能跑 
 | 作者 | 小墨同学 |
 | 适合谁 | 没用过 AI CLI 的小白、想把 AI 接进自己项目目录的开发者 |
 | 解决什么问题 | Claude Code 三系统怎么装、装完 command not found 怎么排查、认证哪些坑 |
-| 延伸阅读 | [03.3｜AI 编程案例 → HyperFrames 实战](https://lcnniolukk80.feishu.cn/wiki/Gpg9wUYb7i0slMk8MICc4Zybnle) |
+| 延伸阅读 | [03.3｜AI 编程案例 → HyperFrames 实战](../03｜AI%20编程与智能体/AI%20编程案例.md) |
 
 **关键收获**
 
@@ -36,4 +36,4 @@ Claude 官方的命令行编程助手。这篇覆盖三个系统从 0 到能跑 
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/KWlzwKCPIix1rbkd1GYc9FEwnLc> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/KWlzwKCPIix1rbkd1GYc9FEwnLc> ｜ 归档：2026-05-30

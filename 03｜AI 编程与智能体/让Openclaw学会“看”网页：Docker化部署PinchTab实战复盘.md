@@ -66,4 +66,4 @@ docker run -d --name pinchtab-working -p 127.0.0.1:9867:9867/tcp pinchtab-ubuntu
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/NQhYw48lTiBzKkkQeeocmsRgnIe> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/NQhYw48lTiBzKkkQeeocmsRgnIe> ｜ 归档：2026-06-06

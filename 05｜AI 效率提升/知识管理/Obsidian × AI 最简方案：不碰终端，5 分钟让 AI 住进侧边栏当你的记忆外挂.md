@@ -195,4 +195,4 @@ Copilot 聊天面板顶部有一个 **Relevant Notes** 区域，旁边有个 **B
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/DJvww7W29iwYtbk0htpcscg6nHd> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/DJvww7W29iwYtbk0htpcscg6nHd> ｜ 归档：2026-05-29

@@ -75,9 +75,9 @@ Android 用户的选择更多：
 
 ## 延伸阅读
 
-- [01.4｜普通人如何开始用 AI](https://lcnniolukk80.feishu.cn/wiki/Kh0pwB80oiZ5MXkCXYBcVcTDnmc) — 回总览
-- [Prompt 怎么写才管用](https://lcnniolukk80.feishu.cn/wiki/IOWawSbaPi0hhNkSBlFcJR3fnYr) — 手机上写 Prompt 的简化版
+- [01.4｜普通人如何开始用 AI](../普通人如何开始用%20AI.md) — 回总览
+- [Prompt 怎么写才管用](../AI%20基础概念/Prompt%20怎么写才管用：四要素%20+%20反例对比.md) — 手机上写 Prompt 的简化版
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/P7eiwfChsi5ep6k8fG2cd70nnXb> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/P7eiwfChsi5ep6k8fG2cd70nnXb> ｜ 归档：2026-05-29

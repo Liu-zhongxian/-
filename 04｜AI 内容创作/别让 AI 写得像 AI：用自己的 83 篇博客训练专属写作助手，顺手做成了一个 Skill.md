@@ -117,10 +117,10 @@ Obsidian 提供结构化的本地知识库，Claude Code 能直接读写本地�
 
 ## 延伸阅读
 
-- [AI Skill 到底是什么？搞懂这个，AI 才算真的用上了](https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b) — Skill 概念基础
-- [我把「开源」这件事本身做成了 Skill](https://lcnniolukk80.feishu.cn/wiki/WnOxwoICHiqqHRkLBqZcQOpYnQe) — 另一个 Skill 全自动跑通案例
-- [Obsidian 写作环境搭建：6 款插件让博客管理效率翻倍](https://lcnniolukk80.feishu.cn/wiki/Jv5jwEFN0iKCZ6kmHp3czzVInpb) — 配套写作环境
+- [AI Skill 到底是什么？搞懂这个，AI 才算真的用上了](../02｜AI%20工具与大模型/AI%20工具教程/AI%20Skill%20到底是什么？搞懂这个，AI%20才算真的用上了.md) — Skill 概念基础
+- [我把「开源」这件事本身做成了 Skill](../03｜AI%20编程与智能体/智能体应用案例/我把「开源」这件事本身做成了%20Skill：让%20AI%20全自动帮你发布%20GitHub%20仓库.md) — 另一个 Skill 全自动跑通案例
+- [Obsidian 写作环境搭建：6 款插件让博客管理效率翻倍](../05｜AI%20效率提升/知识管理/Obsidian%20写作环境搭建：这%206%20款插件让我的博客管理效率翻倍.md) — 配套写作环境
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/L3rhw5d1AigmZAkD2HPcA4EFnic> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/L3rhw5d1AigmZAkD2HPcA4EFnic> ｜ 归档：2026-05-29

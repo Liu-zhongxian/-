@@ -123,10 +123,10 @@ flowchart LR
 
 ## 延伸阅读
 
-- [01.4｜普通人如何开始用 AI](https://lcnniolukk80.feishu.cn/wiki/Kh0pwB80oiZ5MXkCXYBcVcTDnmc) — 回总览
-- [Prompt 怎么写才管用](https://lcnniolukk80.feishu.cn/wiki/IOWawSbaPi0hhNkSBlFcJR3fnYr) — Prompt 进阶版（四要素 + Few-shot + CoT）
-- [AI 幻觉 5 个减幻招式](https://lcnniolukk80.feishu.cn/wiki/E914wrridiL2TOk2ScgcKwdcnDd) — 用模板时配合减幻招式
+- [01.4｜普通人如何开始用 AI](../普通人如何开始用%20AI.md) — 回总览
+- [Prompt 怎么写才管用](../AI%20基础概念/Prompt%20怎么写才管用：四要素%20+%20反例对比.md) — Prompt 进阶版（四要素 + Few-shot + CoT）
+- [AI 幻觉 5 个减幻招式](../AI%20基础概念/AI%20幻觉：为什么会胡说%20+%205%20个减幻招式.md) — 用模板时配合减幻招式
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/FfHnwVFf6i46g0kWL2OcMXk3ndg> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/FfHnwVFf6i46g0kWL2OcMXk3ndg> ｜ 归档：2026-05-29

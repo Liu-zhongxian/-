@@ -142,4 +142,4 @@ Karpathy 说他的 data ingest 靠 Web Clipper 手动剪。
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/DbMswt2JwiYlhAkPA2ic5792nuh> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/DbMswt2JwiYlhAkPA2ic5792nuh> ｜ 归档：2026-05-29

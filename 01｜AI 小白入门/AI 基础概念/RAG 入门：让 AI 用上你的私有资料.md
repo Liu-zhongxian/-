@@ -94,10 +94,10 @@ flowchart TB
 
 ## 延伸阅读
 
-- [01.1｜AI 基础概念](https://lcnniolukk80.feishu.cn/wiki/ZDXGwkB7NiaPr6kbDPicgLFHnif) — 回到本章总览
-- [Token 和上下文窗口](https://lcnniolukk80.feishu.cn/wiki/HfzSwaeWZiWmyjkWyGZc8ezVn5g) — Chunking 的物理边界来自这
-- [Hermes Agent 三层学习](https://lcnniolukk80.feishu.cn/wiki/MY8CwTTPOi2LrZkDtrPc8rE3nsh) — 记忆层是 RAG 的进阶形态
+- [01.1｜AI 基础概念](../AI%20基础概念.md) — 回到本章总览
+- [Token 和上下文窗口](Token%20和上下文窗口：为什么%20AI%20会「忘」前面说过的话.md) — Chunking 的物理边界来自这
+- [Hermes Agent 三层学习](../../03｜AI%20编程与智能体/智能体应用案例/越用越强不是广告语：拆解%20Hermes%20Agent%20的三层学习机制.md) — 记忆层是 RAG 的进阶形态
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Up5iwhVgAiAUHwkGdNjcYyBWnKb> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Up5iwhVgAiAUHwkGdNjcYyBWnKb> ｜ 归档：2026-05-29

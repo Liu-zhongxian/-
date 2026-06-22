@@ -99,10 +99,10 @@ MiniMax 给我的感觉，能干活但是不太聪明的感觉。能力上它和
 
 ## 延伸阅读
 
-- [找不到高颜值视频素材？我用 Codex 与 Claude Code 跑通了 HyperFrames](https://lcnniolukk80.feishu.cn/wiki/VBmUwo60IiYeDDkbAaZciEiPnYe) — Codex vs Claude 一个真实对照
-- [越用越强不是广告语：拆解 Hermes Agent 的三层学习机制](https://lcnniolukk80.feishu.cn/wiki/MY8CwTTPOi2LrZkDtrPc8rE3nsh) — 多模型组合在 Agent 里怎么用
-- [Claude Code 在大陆怎么稳定用：cc-switch + MiniMax 替代方案](https://lcnniolukk80.feishu.cn/wiki/DA9zwgqdUi87hWkonVBcMczxnbg) — Claude 用不了怎么办
+- [找不到高颜值视频素材？我用 Codex 与 Claude Code 跑通了 HyperFrames](../../03｜AI%20编程与智能体/AI%20编程案例/找不到高颜值视频素材？我用%20Codex%20与%20Claude%20Code%20跑通了%20HyperFrames.md) — Codex vs Claude 一个真实对照
+- [越用越强不是广告语：拆解 Hermes Agent 的三层学习机制](../../03｜AI%20编程与智能体/智能体应用案例/越用越强不是广告语：拆解%20Hermes%20Agent%20的三层学习机制.md) — 多模型组合在 Agent 里怎么用
+- [Claude Code 在大陆怎么稳定用：cc-switch + MiniMax 替代方案](../AI%20工具教程/Claude%20Code%20怎么稳定用：我用%20cc-switch%20接%20MiniMax%20跑通了一套替代方案.md) — Claude 用不了怎么办
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb> ｜ 归档：2026-05-29

@@ -192,4 +192,4 @@ CC Switch 是个很实用的工具，可以快速切换可用的服务。但切�
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/XI9zwn58til6a6ks7AuckfIqnmq> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/XI9zwn58til6a6ks7AuckfIqnmq> ｜ 归档：2026-05-29

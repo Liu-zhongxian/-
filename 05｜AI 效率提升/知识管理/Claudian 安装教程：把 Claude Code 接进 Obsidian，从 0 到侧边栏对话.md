@@ -116,10 +116,10 @@ dirname $(which node)
 
 ## 延伸阅读
 
-- [Obsidian 写作环境搭建：6 款插件让博客管理效率翻倍](https://lcnniolukk80.feishu.cn/wiki/Jv5jwEFN0iKCZ6kmHp3czzVInpb) — Obsidian 主体环境
-- [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](https://lcnniolukk80.feishu.cn/wiki/VPeewqTA6iMP7jkQvYJcvurbnTf) — Claude Code 本体安装
-- [别让 AI 写得像 AI：83 篇博客训练专属写作助手](https://lcnniolukk80.feishu.cn/wiki/L3rhw5d1AigmZAkD2HPcA4EFnic) — Obsidian + AI 写作实践
+- [Obsidian 写作环境搭建：6 款插件让博客管理效率翻倍](Obsidian%20写作环境搭建：这%206%20款插件让我的博客管理效率翻倍.md) — Obsidian 主体环境
+- [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](../../02｜AI%20工具与大模型/AI%20工具教程/Claude%20Code%20安装教程：Mac、Windows、Linux%20从%200%20到跑通.md) — Claude Code 本体安装
+- [别让 AI 写得像 AI：83 篇博客训练专属写作助手](../../04｜AI%20内容创作/别让%20AI%20写得像%20AI：用自己的%2083%20篇博客训练专属写作助手，顺手做成了一个%20Skill.md) — Obsidian + AI 写作实践
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/F17rwrrLHiYt0OkEnGucptI5nBf> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/F17rwrrLHiYt0OkEnGucptI5nBf> ｜ 归档：2026-05-29

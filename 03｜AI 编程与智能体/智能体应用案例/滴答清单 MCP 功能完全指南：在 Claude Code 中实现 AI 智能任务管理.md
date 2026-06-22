@@ -361,4 +361,4 @@ Claude Code 会检测到未授权的 MCP 服务器，并提示你完成授权流
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/J8bMwfGnMidqGLkqjDicfofnnVc> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/J8bMwfGnMidqGLkqjDicfofnnVc> ｜ 归档：2026-05-29

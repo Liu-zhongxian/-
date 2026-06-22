@@ -110,10 +110,10 @@ npx @larksuite/cli@latest install
 
 ## 延伸阅读
 
-- [我把「开源」这件事本身做成了 Skill：让 AI 全自动帮你发布 GitHub 仓库](https://lcnniolukk80.feishu.cn/wiki/WnOxwoICHiqqHRkLBqZcQOpYnQe) — 类似的自动化 Skill 案例
-- [越用越强不是广告语：拆解 Hermes Agent 的三层学习机制](https://lcnniolukk80.feishu.cn/wiki/MY8CwTTPOi2LrZkDtrPc8rE3nsh) — Agent 自动迭代的底层机制
-- [找不到高颜值视频素材？我用 Codex 与 Claude Code 跑通了 HyperFrames](https://lcnniolukk80.feishu.cn/wiki/VBmUwo60IiYeDDkbAaZciEiPnYe) — 另一种 Agent 跑业务流的玩法
+- [我把「开源」这件事本身做成了 Skill：让 AI 全自动帮你发布 GitHub 仓库](我把「开源」这件事本身做成了%20Skill：让%20AI%20全自动帮你发布%20GitHub%20仓库.md) — 类似的自动化 Skill 案例
+- [越用越强不是广告语：拆解 Hermes Agent 的三层学习机制](越用越强不是广告语：拆解%20Hermes%20Agent%20的三层学习机制.md) — Agent 自动迭代的底层机制
+- [找不到高颜值视频素材？我用 Codex 与 Claude Code 跑通了 HyperFrames](../AI%20编程案例/找不到高颜值视频素材？我用%20Codex%20与%20Claude%20Code%20跑通了%20HyperFrames.md) — 另一种 Agent 跑业务流的玩法
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/S4Y0wf95qi0rW1k8ylAcVgAdnzb> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/S4Y0wf95qi0rW1k8ylAcVgAdnzb> ｜ 归档：2026-05-29

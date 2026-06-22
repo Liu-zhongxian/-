@@ -103,10 +103,10 @@ flowchart TB
 
 ## 延伸阅读
 
-- [01.3｜新手避坑清单](https://lcnniolukk80.feishu.cn/wiki/Aq7FweDT3iRXt5kOjvhcCqdTnCg) — 回到本章总览
-- [Token 和上下文窗口](https://lcnniolukk80.feishu.cn/wiki/HfzSwaeWZiWmyjkWyGZc8ezVn5g) — token 计费的根
-- [高强度实测 6 大 AI 模型](https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb) — 选模型实战
+- [01.3｜新手避坑清单](../新手避坑清单.md) — 回到本章总览
+- [Token 和上下文窗口](../AI%20基础概念/Token%20和上下文窗口：为什么%20AI%20会「忘」前面说过的话.md) — token 计费的根
+- [高强度实测 6 大 AI 模型](../../02｜AI%20工具与大模型/工具测评/高强度实测%206%20大%20AI%20模型：Claude%20写文最强，但我写代码不选它.md) — 选模型实战
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/J73owwF8niB5lLkhCqRc3k7EnRp> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/J73owwF8niB5lLkhCqRc3k7EnRp> ｜ 归档：2026-05-29

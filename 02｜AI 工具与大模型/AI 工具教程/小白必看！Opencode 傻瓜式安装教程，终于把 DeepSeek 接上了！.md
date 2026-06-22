@@ -143,10 +143,10 @@ key 接上之后，再输入 `/models`，opencode 会列出当前能用的模型
 
 ## 延伸阅读
 
-- [Claude Code 在大陆怎么稳定用：cc-switch + MiniMax 替代方案](https://lcnniolukk80.feishu.cn/wiki/DA9zwgqdUi87hWkonVBcMczxnbg) — 另一条国产模型路
-- [高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它](https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb) — DeepSeek 在六家里的位置
-- [别再切屏问 AI！把 Claude、Gemini、Codex 塞进命令行](https://lcnniolukk80.feishu.cn/wiki/XQXGwEHs4iC9i1kIKoycVCOlnkh) — 三家 CLI 横向对比
+- [Claude Code 在大陆怎么稳定用：cc-switch + MiniMax 替代方案](Claude%20Code%20怎么稳定用：我用%20cc-switch%20接%20MiniMax%20跑通了一套替代方案.md) — 另一条国产模型路
+- [高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它](../工具测评/高强度实测%206%20大%20AI%20模型：Claude%20写文最强，但我写代码不选它.md) — DeepSeek 在六家里的位置
+- [别再切屏问 AI！把 Claude、Gemini、Codex 塞进命令行](别再切屏问%20AI%20了！把%20Claude、Gemini、Codex%20塞进命令行的保姆级教程与避坑指南.md) — 三家 CLI 横向对比
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/MwHFwQw6uiosjDkqTNxcid7in5c> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/MwHFwQw6uiosjDkqTNxcid7in5c> ｜ 归档：2026-05-29

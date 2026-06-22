@@ -181,4 +181,4 @@ AI 不是靠猜的，是靠这份文件理解你的整个知识体系。
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/ZhwFwPHl1i06otk516qcpG8onUh> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/ZhwFwPHl1i06otk516qcpG8onUh> ｜ 归档：2026-05-29

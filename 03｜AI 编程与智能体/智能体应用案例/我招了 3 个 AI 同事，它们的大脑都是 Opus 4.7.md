@@ -289,4 +289,4 @@ AI 已经不只是一个"更快的搜索框"了。当它有了名字、有了记
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/HKOfw9WiVik9Kqk4ga4cq5qTnOd> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/HKOfw9WiVik9Kqk4ga4cq5qTnOd> ｜ 归档：2026-05-31

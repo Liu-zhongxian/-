@@ -72,4 +72,4 @@ CC Switch 是供应商切换工具。在列表中启用其他供应商即可切�
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Gtppwyyd1iUtWVkRtiGc8V0mnKg> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Gtppwyyd1iUtWVkRtiGc8V0mnKg> ｜ 归档：2026-06-13

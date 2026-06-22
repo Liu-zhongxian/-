@@ -210,4 +210,4 @@ Markdown 让你能稳定写内容，Obsidian 让你能稳定存内容。
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/VSLOw04QIiyj7hkebRzcHqdsn3e> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/VSLOw04QIiyj7hkebRzcHqdsn3e> ｜ 归档：2026-05-29

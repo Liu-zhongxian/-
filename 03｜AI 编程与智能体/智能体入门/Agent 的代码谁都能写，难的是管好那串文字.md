@@ -216,4 +216,4 @@ Loop 代码就那十几行，谁都能写。真正的功夫，在于你喂给 LL
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/R34XwSEioi73IQkBosbcJ860nAg> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/R34XwSEioi73IQkBosbcJ860nAg> ｜ 归档：2026-05-29

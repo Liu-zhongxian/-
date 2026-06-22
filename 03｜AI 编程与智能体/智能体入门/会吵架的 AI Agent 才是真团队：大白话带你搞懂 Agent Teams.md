@@ -269,4 +269,4 @@ AI 团队也会有类似问题： 如果很多成员同时处理同一块内容�
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/S5sEwFTfyieZDykd4B5cA8ohnde> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/S5sEwFTfyieZDykd4B5cA8ohnde> ｜ 归档：2026-06-01

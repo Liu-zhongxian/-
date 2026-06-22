@@ -129,10 +129,10 @@
 
 ## 延伸阅读
 
-- [Claudian 安装教程：把 Claude Code 接进 Obsidian](https://lcnniolukk80.feishu.cn/wiki/F17rwrrLHiYt0OkEnGucptI5nBf) — Obsidian 接入 AI
-- [别让 AI 写得像 AI：83 篇博客训练专属写作助手](https://lcnniolukk80.feishu.cn/wiki/L3rhw5d1AigmZAkD2HPcA4EFnic) — Obsidian 写作 + AI Skill 实践
-- [GitHub 狂揽 10.7k Star！这款飞书神器配合 AI Agent](https://lcnniolukk80.feishu.cn/wiki/S4Y0wf95qi0rW1k8ylAcVgAdnzb) — 飞书与 Obsidian 协同思路
+- [Claudian 安装教程：把 Claude Code 接进 Obsidian](Claudian%20安装教程：把%20Claude%20Code%20接进%20Obsidian，从%200%20到侧边栏对话.md) — Obsidian 接入 AI
+- [别让 AI 写得像 AI：83 篇博客训练专属写作助手](../../04｜AI%20内容创作/别让%20AI%20写得像%20AI：用自己的%2083%20篇博客训练专属写作助手，顺手做成了一个%20Skill.md) — Obsidian 写作 + AI Skill 实践
+- [GitHub 狂揽 10.7k Star！这款飞书神器配合 AI Agent](../../03｜AI%20编程与智能体/智能体应用案例/GitHub%20狂揽%2010.7k%20Star！这款飞书神器配合%20AI%20Agent，工作流彻底起飞了.md) — 飞书与 Obsidian 协同思路
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Jv5jwEFN0iKCZ6kmHp3czzVInpb> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Jv5jwEFN0iKCZ6kmHp3czzVInpb> ｜ 归档：2026-05-29

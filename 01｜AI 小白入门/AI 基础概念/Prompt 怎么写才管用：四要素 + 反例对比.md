@@ -94,10 +94,10 @@ flowchart LR
 
 ## 延伸阅读
 
-- [01.1｜AI 基础概念](https://lcnniolukk80.feishu.cn/wiki/ZDXGwkB7NiaPr6kbDPicgLFHnif) — 回到本章总览
-- [Token 和上下文窗口](https://lcnniolukk80.feishu.cn/wiki/HfzSwaeWZiWmyjkWyGZc8ezVn5g) — Prompt 太长会被丢的边界
-- [AI Skill 到底是什么？](https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b) — 把成熟 Prompt 固化成 Skill
+- [01.1｜AI 基础概念](../AI%20基础概念.md) — 回到本章总览
+- [Token 和上下文窗口](Token%20和上下文窗口：为什么%20AI%20会「忘」前面说过的话.md) — Prompt 太长会被丢的边界
+- [AI Skill 到底是什么？](../../02｜AI%20工具与大模型/AI%20工具教程/AI%20Skill%20到底是什么？搞懂这个，AI%20才算真的用上了.md) — 把成熟 Prompt 固化成 Skill
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/IOWawSbaPi0hhNkSBlFcJR3fnYr> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/IOWawSbaPi0hhNkSBlFcJR3fnYr> ｜ 归档：2026-05-29

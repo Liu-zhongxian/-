@@ -204,4 +204,4 @@ Firefox 支持装扩展，而且 Obsidian 官方的 Web Clipper 已经上架了 
 
 ---
 
-> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/ECVkwe9FniUy7akpoiicxIhun0g> ｜ 归档：2026-06-22
+> 来源：飞书 · AI Spark 知识库 ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/ECVkwe9FniUy7akpoiicxIhun0g> ｜ 归档：2026-05-29

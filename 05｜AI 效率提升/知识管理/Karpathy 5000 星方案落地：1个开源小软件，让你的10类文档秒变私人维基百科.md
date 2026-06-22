@@ -1,6 +1,6 @@
 # Karpathy 5000 星方案落地：1个开源小软件，让你的10类文档秒变私人维基百科
 
-![图片展示了Karpathy 5000星方案落地，将文档秒变私人维基百科的方案。左侧有Andrei Karpathy头像及“5000+ Star”标识，下方是各类文档图标。中间是AI Conversion Engine，连接LLM Wiki，生成Wiki Entry。右侧有本地隐私、知识图谱标识，以及Wiki Entry示例，呈现知识图谱。底部文字说明全自动本地LLM整理，像查维基一样提问与浏览。该图与文档中介绍的文档整理方案相契合，直观呈现方案内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzY1MmNhY2I5Y2FmZjNhNTliMzI1YjZkNDdiOGU5ZjBfOTc5MDlkYTQ2NmMyNmMzNjAwMGE3NzZmZDg0YmI2MzNfSUQ6NzY0NTcxMzAyNjY1NzcxNzQ1Ml8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了Karpathy 5000星方案落地，将文档秒变私人维基百科的方案。左侧有Andrei Karpathy头像及“5000+ Star”标识，下方是各类文档图标。中间是AI Conversion Engine，连接LLM Wiki，生成Wiki Entry。右侧有本地隐私、知识图谱标识，以及Wiki Entry示例，呈现知识图谱。底部文字说明全自动本地LLM整理，像查维基一样提问与浏览。该图与文档中介绍的文档整理方案相契合，直观呈现方案内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTRkYzEzMThlZTE5M2I4ODBlMDY2ZWNjMmNiNWEwOWZfZjI5YjAyMzM1MDExNDhkYWY4NTYwNzRiNzQ5ZmY5YmVfSUQ6NzY0NTcxMzAyNjY1NzcxNzQ1Ml8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 不知道你有没有这种感觉：
 
@@ -12,7 +12,7 @@
 
 跑了几天下来，我觉得这东西对手上资料多、又懒得手动整理的人来说，是真的好用。这篇文章我就把从下载到跑起来的全过程写一遍，尽量让没接触过这类工具的朋友也能照着做。
 
-![图片展示了LLM Wiki软件界面。左侧为知识库目录，包含Overview、Project Overview等板块。右侧上方显示“New Chat”和“Overview”选项。中间区域有“如果我需要一篇写AI文章如何流畅写文章”的问题，下方是对应答案，涉及AI生产力革命性提升、工作性质转型等内容。底部有“Type a message...”输入框。该图与文档中介绍LLM Wiki软件整理资料、生成私人维基百科的功能相契合，直观呈现了软件操作界面及使用效果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjYxZjgwMmJkYjM4YTFjMDJlOWEzYTJjMmU4MDllMjNfMjZiY2E3NjY3YmVkMmQ2OGJmZWI0NDE1MDA5ODE4Y2VfSUQ6NzY0NTcxMzA0MzEzNzAzOTU3Nl8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了LLM Wiki软件界面。左侧为知识库目录，包含Overview、Project Overview等板块。右侧上方显示“New Chat”和“Overview”选项。中间区域有“如果我需要一篇写AI文章如何流畅写文章”的问题，下方是对应答案，涉及AI生产力革命性提升、工作性质转型等内容。底部有“Type a message...”输入框。该图与文档中介绍LLM Wiki软件整理资料、生成私人维基百科的功能相契合，直观呈现了软件操作界面及使用效果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTJlZmNlMDZkODNmYmRkYjYyN2JiYmU4YTI3ZWQyNDRfMDdhMTY4NDQ1OWFhMWZlYzVkMDdjMDYyZDFiYTBjNGNfSUQ6NzY0NTcxMzA0MzEzNzAzOTU3Nl8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 ## 这套思路是谁提出来的
 
@@ -79,7 +79,7 @@ Karpathy 自己的用法是：一边开着 AI Agent，一边开着 Obsidian，AI
 
 Windows 双击安装一路下一步就行。Mac 第一次打开可能会提示"无法验证开发者"，这时候去**系统设置 → 隐私与安全性**，在最底下找到"仍然打开"就能放行。
 
-![图片展示的是LLM Wiki v0.3.1的资产下载页面。页面上方显示版本号及“Latest”标识，下方提示查看资产获取下载链接。资产部分列出9个文件，包括不同系统平台的安装包、源代码等，如LLM.Wiki - 0.3.1 - x86_64.rpm、LLM.Wiki - 0.3.1 - aarch64.dmg等，还显示了文件大小和更新时间。该图片与文档中下载软件安装包的内容相关，直观呈现了可下载的文件信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTk4MTZjNmQ0YjlhZTRkZWNmN2FhZjFmNGU4NDY4MzJfZGVmYjcwY2YyMzNlMzAwNmU1ZmY4N2QyY2E4YjUyMjFfSUQ6NzY0NTcxMzA1NTc0NTM2MzE0NF8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示的是LLM Wiki v0.3.1的资产下载页面。页面上方显示版本号及“Latest”标识，下方提示查看资产获取下载链接。资产部分列出9个文件，包括不同系统平台的安装包、源代码等，如LLM.Wiki - 0.3.1 - x86_64.rpm、LLM.Wiki - 0.3.1 - aarch64.dmg等，还显示了文件大小和更新时间。该图片与文档中下载软件安装包的内容相关，直观呈现了可下载的文件信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzA3YWVhMDY4ZjUzMmI4OGRjNzVlOGM1ZGI3NDBkYTZfYWQ4YzliZTUwZTQwNjNmY2MzNmYwN2Y2OWMyOGU2OTJfSUQ6NzY0NTcxMzA1NTc0NTM2MzE0NF8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 装完打开，你会看到一个空荡荡的界面，左边是项目列表，中间是欢迎页。先别急着导入资料，我们要先干一件最重要的事：**告诉它用哪个 AI 模型来干活**。
 
@@ -99,7 +99,7 @@ LLM Wiki 本身不带 AI 模型，它需要你接一个大模型给它用。就�
 
 Gemini 免费额度对个人用户基本够用。整理一份 300 页的 PDF，大概在免费额度内可以跑完。如果你已经有 OpenAI 或 Claude 的 API Key，当然也可以直接用，在设置里选对应的 Provider 填进去就行，然后点保存设置就可以了。
 
-![图片展示了LLM Wiki的设置界面。左侧为导航栏，有Knowledge、Files等选项。右侧上方有“界面语言（Wiki内容语言以原始资料为准）”输入框。中间部分是“LLM提供商”设置区域，提供OpenAI、Anthropic、Google等选项，其中Google被红框突出显示。下方有“API密钥”输入框，其内容被红框遮挡。模型部分有“gemini-2.5-pro”和“gemini-2.5-flash”选项，后者被红框突出显示。该图片与文档中介绍在LLM Wiki中设置LLM Provider的内容相关，展示了具体设置界面及关键选项。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTQ3NzFjMTIzYmU2NThhZWMxYjlkNzFlNjVlOTA0M2ZfODU0MDRmZjY3YjhjODJmZmRiOWJiNGQ0YzY2NjQ1MjJfSUQ6NzY0NTcxMzA3MzIwMTgyNzAxN18xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了LLM Wiki的设置界面。左侧为导航栏，有Knowledge、Files等选项。右侧上方有“界面语言（Wiki内容语言以原始资料为准）”输入框。中间部分是“LLM提供商”设置区域，提供OpenAI、Anthropic、Google等选项，其中Google被红框突出显示。下方有“API密钥”输入框，其内容被红框遮挡。模型部分有“gemini-2.5-pro”和“gemini-2.5-flash”选项，后者被红框突出显示。该图片与文档中介绍在LLM Wiki中设置LLM Provider的内容相关，展示了具体设置界面及关键选项。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTdiYTRiZjU5N2U4MGUwYjhiZmMzNTE5MTU0MGQ0NTNfNjE2ZmRlNTdmOTUyNmIxZWMzZTkxYjA0M2M0ZDk4NWZfSUQ6NzY0NTcxMzA3MzIwMTgyNzAxN18xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 配完之后，可以试着导入一份小文件看看能不能正常跑通。如果报错，基本就三个原因：Key 错了、模型名字写错了、或者网络到不了对应的 API 服务。
 
@@ -113,7 +113,7 @@ Gemini 免费额度对个人用户基本够用。整理一份 300 页的 PDF，�
 
 创建时可能会让你选模板，选最基础的那个General模板就行。
 
-![图片展示了LLM Wiki创建新维基项目界面。上方显示“Create New Wiki Project”。中间有“Project Name”输入框，示例为“ai-wiki”；“Template”区域有多种模板选项，如“Research”“Reading”“Business”等，示例选中“General”；“Parent Directory”显示项目路径为“D:\\AI\\ai-wiki\\ai-wiki”。下方有“Cancel”和“Create”按钮。该图与上文“建一个项目，丢第一份资料进去”内容相关，直观呈现了项目创建时的界面及关键输入项。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWVmMzRmMTc4ZjFkMmM0ODkzMWI3ZWM0NzAyMGUyYjVfYTMzYzU4Y2JiYzRiM2RkNjE0OTJlYzRkNGQwNDhkOGJfSUQ6NzY0NTcxMzA4OTc3MzQ0MDIyMV8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了LLM Wiki创建新维基项目界面。上方显示“Create New Wiki Project”。中间有“Project Name”输入框，示例为“ai-wiki”；“Template”区域有多种模板选项，如“Research”“Reading”“Business”等，示例选中“General”；“Parent Directory”显示项目路径为“D:\\AI\\ai-wiki\\ai-wiki”。下方有“Cancel”和“Create”按钮。该图与上文“建一个项目，丢第一份资料进去”内容相关，直观呈现了项目创建时的界面及关键输入项。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2JkZjM5YWUwNjNkZGY4ZTY2NDJmMTQwMmE0NThkZDhfMjY5Zjg1NDgyNmE1OTNkNjU4NTk5NzVhZTk0MmU4NzZfSUQ6NzY0NTcxMzA4OTc3MzQ0MDIyMV8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 **导入资料**
 
@@ -128,7 +128,7 @@ Gemini 免费额度对个人用户基本够用。整理一份 300 页的 PDF，�
 
 挑一份你熟悉内容的 PDF 丢进去（比如你之前看过的一份行业报告），看看它理解得对不对。
 
-![图片展示了LLM Wiki的界面，左侧为知识库导航栏，有AI Wiki、Overview、Entities等分类。右侧是“原始资料”区域，显示了“WEF_Future_of_Jobs_Report_2025.pdf”等文件。界面右上角有“导入”按钮，用红色框突出显示。该图片与上下文紧密相关，上下文提到在建项目时，需先导入一份熟悉内容的PDF，通过界面右侧的活动面板查看资料处理情况，此图直观呈现了导入资料及查看资料处理进度的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmJiZmE1ZmMyNTY4NGJjOTlmMjk0YTI4NTI2NDYxZWRfZDA5ZTI5MzliN2VmMmVkYThlY2IyYWMyMmE3NzM1ZmNfSUQ6NzY0NTcxMzEwMzc3OTkyNTIxMV8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了LLM Wiki的界面，左侧为知识库导航栏，有AI Wiki、Overview、Entities等分类。右侧是“原始资料”区域，显示了“WEF_Future_of_Jobs_Report_2025.pdf”等文件。界面右上角有“导入”按钮，用红色框突出显示。该图片与上下文紧密相关，上下文提到在建项目时，需先导入一份熟悉内容的PDF，通过界面右侧的活动面板查看资料处理情况，此图直观呈现了导入资料及查看资料处理进度的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzM1OGUwM2E4NDU4NzA3MGUxOGYzYjc0MjFhYTk1YjJfZmI4ZmNhYmFkNjEwYTQ5ZTM2NzRmZDhkNjFjMmVjZThfSUQ6NzY0NTcxMzEwMzc3OTkyNTIxMV8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 **看它怎么把资料变成词条**
 
@@ -141,11 +141,11 @@ Gemini 免费额度对个人用户基本够用。整理一份 300 页的 PDF，�
 
 一份 50 页的文档，用 Gemini Flash 大概几分钟就能跑完。跑的时候你可以去干别的，不用一直盯着。
 
-![图片展示了Gemini Flash处理文档的界面。左侧知识树中“Concepts”下有“Processing: 1.pdf”和“1pdf”两个选项，其中“1pdf”处于“Generating wiki pages...”状态。右侧文件列表显示了4个PDF文件。该图片与文档中介绍Gemini Flash处理文档流程的内容相关，直观呈现了文档处理过程中生成维基词条的状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDEwMjAzYjhiMzc3NGZkNTg3NjNhMDc1MGZmYTg1ZDhfZDM3ODZmNDYzMzgyOWY0NWMxNmFlYTBmZDljNTA5MmJfSUQ6NzY0NTcxMzExNDI2ODUzNjAyOF8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了Gemini Flash处理文档的界面。左侧知识树中“Concepts”下有“Processing: 1.pdf”和“1pdf”两个选项，其中“1pdf”处于“Generating wiki pages...”状态。右侧文件列表显示了4个PDF文件。该图片与文档中介绍Gemini Flash处理文档流程的内容相关，直观呈现了文档处理过程中生成维基词条的状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODI5OGI4N2NiOTQ5MGE5NWMzMGMyNmUyZWJiZjlkMDlfMzc3NTgzZDIyODEyZGYxOTNmZGE3ZGMxMGRmN2YxNjhfSUQ6NzY0NTcxMzExNDI2ODUzNjAyOF8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 跑完之后，点左边知识树里的任意一个词条，右边的预览窗口就会显示整理好的内容，里面会有从原文抽出的关键信息、引用出处的行号、以及指向其他相关词条的蓝色链接。
 
-![图片展示了Gemini Wiki的界面，左侧知识树中“Entities”下有“Aviary”词条，右侧预览窗口显示Aviary的词条信息。窗口中“type: entity”等关键信息被突出显示，还列出了创建、更新时间、标签、相关概念及来源等。该图片与文档中介绍Gemini Wiki功能的内容相关，直观呈现了跑完PDF文档后，点击知识树词条可查看整理内容的效果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2YxMTc4MTJiYWRmYmM1NTlkMjM0MjNkMTAzM2RmMDdfYzMzYjM0MTZiZmJmMmE0ZGEzZDdiYTg2YTZkMzEwZTlfSUQ6NzY0NTcxMzEzMDg4NjA4OTk0NF8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了Gemini Wiki的界面，左侧知识树中“Entities”下有“Aviary”词条，右侧预览窗口显示Aviary的词条信息。窗口中“type: entity”等关键信息被突出显示，还列出了创建、更新时间、标签、相关概念及来源等。该图片与文档中介绍Gemini Wiki功能的内容相关，直观呈现了跑完PDF文档后，点击知识树词条可查看整理内容的效果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjkwZjhmMzE2MDk5ZmM3ZTE0MDI3NjcyZDk0NzAyNDZfNzg2YWYxMjM0NDZjYmM4MTY0NDVkMWQyZTRmZTE0OWNfSUQ6NzY0NTcxMzEzMDg4NjA4OTk0NF8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 ## 三个让它真正好用的功能
 
@@ -165,7 +165,7 @@ Gemini 免费额度对个人用户基本够用。整理一份 300 页的 PDF，�
 
 聊天历史会自动保存，你可以随时回来接着聊，也可以开新话题。
 
-![图片展示了知识图谱界面。左侧为导航栏，有Overview、Entities、Concepts、Sources、Raw Sources等选项。中间是知识图谱，呈现多个词条及它们之间的关联。右侧是知识图谱的详细信息，包括词条类型、创建与更新时间、标签、相关类别、来源等。该图与上下文紧密相关，直观呈现了文档导入后生成的知识图谱，体现了知识图谱功能的可视化特点，即用Louvain算法自动将相关词条聚成团并用不同颜色区分。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTcyNDdkZWNmOTQ3MzllYmFjNGQzNDZkNWE5ZGM3YzFfMzFmYTg2NjA2NDEzZGM4NGY1YTY0OWU0NmYyZDQ5OTZfSUQ6NzY0NTcxMzE0NTYxMjI5MTI5Ml8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了知识图谱界面。左侧为导航栏，有Overview、Entities、Concepts、Sources、Raw Sources等选项。中间是知识图谱，呈现多个词条及它们之间的关联。右侧是知识图谱的详细信息，包括词条类型、创建与更新时间、标签、相关类别、来源等。该图与上下文紧密相关，直观呈现了文档导入后生成的知识图谱，体现了知识图谱功能的可视化特点，即用Louvain算法自动将相关词条聚成团并用不同颜色区分。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWU4MTljMTVhZGYyMGIwN2E4Mjg3NjgxOGViOWJkZTJfZmQzNDNjMTY0MmNjNmNmNzY5MDQxODI4MDZlZjE2MWRfSUQ6NzY0NTcxMzE0NTYxMjI5MTI5Ml8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 **二、看你的知识长什么样（知识图谱）**
 
@@ -180,13 +180,13 @@ Gemini 免费额度对个人用户基本够用。整理一份 300 页的 PDF，�
 
 对于做研究、写文章的人来说，这个功能经常能给你意想不到的灵感。
 
-![图片展示了LLM Wiki的Knowledge Graph界面，呈现了28篇页面、29个实体。界面左侧有导航栏，可查看Overview、Project Overview等板块。右侧是知识图谱，节点以不同颜色标识，如蓝色代表Entity，橙色代表Source，黄色代表Concepts等。图中还显示了多个节点名称，如AI Agent、SORA、AI Index Report 2025等。该图与上下文紧密相关，直观呈现了文档知识库中词条之间的关联，体现了Graph Insights功能能主动告知意外关联和知识缺口的特点。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTYzYmFjOTJlMWE5ZTI0Nzg1MTRlYjY5MDUxMWI1ZWZfNTVjYTRkMTM2NTFlZmMxNDQxOWY4YzUzMjYxMmRmZGZfSUQ6NzY0NTcxMzE1OTk1NzA1NjcxNV8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了LLM Wiki的Knowledge Graph界面，呈现了28篇页面、29个实体。界面左侧有导航栏，可查看Overview、Project Overview等板块。右侧是知识图谱，节点以不同颜色标识，如蓝色代表Entity，橙色代表Source，黄色代表Concepts等。图中还显示了多个节点名称，如AI Agent、SORA、AI Index Report 2025等。该图与上下文紧密相关，直观呈现了文档知识库中词条之间的关联，体现了Graph Insights功能能主动告知意外关联和知识缺口的特点。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTU0YzBjYzRjNjMzOGFjMjhiZDExZDgwYjA1ZDFjYzFfOGFmZDBiMjgyZmRiODBiODY3YmUyMDEyY2RhMjkzODNfSUQ6NzY0NTcxMzE1OTk1NzA1NjcxNV8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 **三、让 AI 自己上网补充资料（Deep Research）**
 
 这个功能我第一次用的时候有点震撼。当然前提得需要提前配置好对应的api，申请地址在这里[https://chat-research.tavily.com/](https://chat-research.tavily.com/)，配置好api保存设置即可。
 
-![图片展示了LLM Wiki的设置界面。界面中“Web Search (Deep Research)”功能被红色框突出显示，其下方有“Search Provider”选项，当前为“Disabled”，右侧有“Tally”按钮。此外，还有“API Key”区域，其右侧有“...”按钮。该图片与上下文紧密相关，上下文提到在LLM Wiki中点“Deep Research”可让其自动搜索、抓取文章并整理成词条，此图直观呈现了“Web Search (Deep Research)”功能所在位置及部分设置选项，帮助理解其操作环境。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDg2ZGIzM2YyMDNlZTQxYTQxN2Q1ZDM3ODU2YzA0ODVfMGU3YzYzODQ3YTA3NzhmYzZhYzZiOWEzODJkYzJmZDlfSUQ6NzY0NTcxMzE3NTQyNTQ4NjAxMl8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了LLM Wiki的设置界面。界面中“Web Search (Deep Research)”功能被红色框突出显示，其下方有“Search Provider”选项，当前为“Disabled”，右侧有“Tally”按钮。此外，还有“API Key”区域，其右侧有“...”按钮。该图片与上下文紧密相关，上下文提到在LLM Wiki中点“Deep Research”可让其自动搜索、抓取文章并整理成词条，此图直观呈现了“Web Search (Deep Research)”功能所在位置及部分设置选项，帮助理解其操作环境。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODU5Yzg2OTdiYzcwY2U3YWIzN2E5YjA5NWY1NzkxMWRfZTY1ZjQwNzgwY2YyOTQwNmMwYmUwZDIzOGVjZWU0ZjJfSUQ6NzY0NTcxMzE3NTQyNTQ4NjAxMl8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 场景是这样的：你的知识库里对某个话题讲得不够完整，你点一下 **Deep Research（深度研究）**，告诉它"帮我补充一下关于 xxx 的资料"。然后它会：
 
@@ -197,7 +197,7 @@ Gemini 免费额度对个人用户基本够用。整理一份 300 页的 PDF，�
 
 相当于你雇了个研究助理，让他帮你围绕某个主题做文献补全。用这个功能需要额外配一个搜索 API 的 Key（Tavily 的，有免费额度），在设置里填一下就行。
 
-![图片展示了LLM Wiki的界面，左侧为知识库分类，如AI Agent、ElicitSearch等。中间是搜索栏，下方有“Deep Research”“Create Page”“Skip”选项。右侧显示搜索结果，如“Aviary”词条，包含创建时间、更新时间、标签、相关领域、来源等信息，还列出“Deep Research”“Create Page”“Skip”选项。该图与文档中介绍LLM Wiki自动整理词条加进知识库的功能相关，直观呈现了其操作界面及搜索结果示例。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDAxZWQzMjczMjFjYTQ2NDM4NzM5NTUyYjY1NTUzMTJfZDRiODNhZmM5YTNlYmY0NjNiZDFiZDdlYmNmOTdhOTNfSUQ6NzY0NTcxMzE5MjA0MzQxNjc5MV8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了LLM Wiki的界面，左侧为知识库分类，如AI Agent、ElicitSearch等。中间是搜索栏，下方有“Deep Research”“Create Page”“Skip”选项。右侧显示搜索结果，如“Aviary”词条，包含创建时间、更新时间、标签、相关领域、来源等信息，还列出“Deep Research”“Create Page”“Skip”选项。该图与文档中介绍LLM Wiki自动整理词条加进知识库的功能相关，直观呈现了其操作界面及搜索结果示例。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmM3ZjAwYWZmYmYzNGQyNDgwOTQwOTk2NjU5ZmFkNjhfZmFlMjk5MDhkZjE3YTUwYjRiOTE4NjUyY2Y2OTRkZGRfSUQ6NzY0NTcxMzE5MjA0MzQxNjc5MV8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 ## 几个少走弯路的小建议
 
@@ -223,13 +223,13 @@ LLM Wiki 整理好之后会把原文放在项目的 raw/sources/ 目录下，别
 
 侧栏里有个 Lint 功能，会检查你知识库里有没有冗余词条、失效链接、格式问题，相当于给你的"维基百科"做体检。建议每隔一两周跑一次。
 
-![图片展示了LLM Wiki的界面。左侧为知识库目录，包含Aviary、BigCodeBench等分类，以及GPQA、ILOSTAT等具体文档。中间是Wiki Lint区域，提示运行lint检查知识库健康状况，可检查孤页、断链等。右侧有“Run Lint”按钮，用红色框突出显示。该图与上文介绍LLM Wiki自带Chrome浏览器扩展，装上后在网页上点一下可自动剪文进知识库的内容相关，直观呈现了界面操作位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDU4Y2ZjYjkzOGUyMzM5Y2YyYjY1NzY2MzY5Njc5NWJfMWZjNTQ4MmRmZGZjMzgyNDMyMzA0NTU3ZTY3Y2YzY2ZfSUQ6NzY0NTcxMzIwNzkxNDQzMzc1Ml8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了LLM Wiki的界面。左侧为知识库目录，包含Aviary、BigCodeBench等分类，以及GPQA、ILOSTAT等具体文档。中间是Wiki Lint区域，提示运行lint检查知识库健康状况，可检查孤页、断链等。右侧有“Run Lint”按钮，用红色框突出显示。该图与上文介绍LLM Wiki自带Chrome浏览器扩展，装上后在网页上点一下可自动剪文进知识库的内容相关，直观呈现了界面操作位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTE0YWYxMjFkZjhlNjcyNzc3Y2UwYjZiM2U0NjkxMTZfOGZkM2FjNDY2MWY0MjlkNzBmYzkyZTAxOTE0ZGE2NTdfSUQ6NzY0NTcxMzIwNzkxNDQzMzc1Ml8xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 **6\\. 试试它自带的 Chrome 浏览器扩展**
 
 LLM Wiki 还有个 Chrome 扩展，装上之后在任何网页上点一下就能把文章自动剪进知识库，不用手动复制粘贴。扩展没有上架 Chrome 商店，需要从项目仓库下载源码后手动加载（在 extension/ 文件夹里），适合有一定动手能力的用户。详细步骤可以看项目 README 里的 Chrome Extension 部分。
 
-![图片展示了LLM Wiki剪贴板插件的界面。上方显示“Connected to LLM Wiki”已连接，下方有“SAVE TO PROJECT”下拉菜单，当前选中“Test321 (current)”，“TITLE”输入框内容为“Improving efficiency of nitrogen removal from municipal wastewater in”，“URL”显示网址，底部“CONTENT PREVIEW”区域提示“JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page.”，底部蓝色按钮为“Clip to Wiki”。该图片与文档中介绍LLM Wiki自带Chrome浏览器扩展，装上后可自动剪文进知识库的内容相关，直观呈现了插件操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTNhMTc4NjhkMjljMmU3MTU5YThkNzFlZjZmMmJkYzBfY2I2MDRmMTdlZTBjMjk0MzZiZWQ0NjZkMzliZDg0OTBfSUQ6NzY0NTcxMzIyMjk0NjgwMjg5M18xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
+![图片展示了LLM Wiki剪贴板插件的界面。上方显示“Connected to LLM Wiki”已连接，下方有“SAVE TO PROJECT”下拉菜单，当前选中“Test321 (current)”，“TITLE”输入框内容为“Improving efficiency of nitrogen removal from municipal wastewater in”，“URL”显示网址，底部“CONTENT PREVIEW”区域提示“JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page.”，底部蓝色按钮为“Clip to Wiki”。该图片与文档中介绍LLM Wiki自带Chrome浏览器扩展，装上后可自动剪文进知识库的内容相关，直观呈现了插件操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDU2ZmE1ZmRmMTk5MzY4NGZjYTBmNmFjMjZhNmFmZTlfM2JiNmNlYTk5YWE3MmFkNGQ1ZDMyNTY0N2Q1OGY4YWRfSUQ6NzY0NTcxMzIyMjk0NjgwMjg5M18xNzgyMTA3MzE1OjE3ODIxMTA5MTVfVjM)
 
 ## 谁适合用它，谁别浪费时间
 
@@ -259,3 +259,7 @@ LLM Wiki 还有个 Chrome 扩展，装上之后在任何网页上点一下就能
 最后想问一句：**你手头最想整理的是哪类资料？** 行业报告、课程笔记、还是收藏夹里攒了几百篇的公众号文章？评论区聊聊，说不定我可以帮你出个针对性的整理方案。
 
 文章同步公众号：**雨哥聊AI**
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/JZ2sw4nTJiF2XJk68k0cVPyTnxd> ｜ 归档：2026-06-22

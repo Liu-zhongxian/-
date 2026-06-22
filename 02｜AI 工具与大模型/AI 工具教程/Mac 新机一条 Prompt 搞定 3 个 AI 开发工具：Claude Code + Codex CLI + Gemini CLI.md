@@ -2,7 +2,7 @@
 
 ​
 
-![图片展示了Mac新机必装的AI命令行工具全家桶，包括Claude Code、Codex CLI、Gemini CLI。Claude Code界面有“Logged in”标识，下方有“Redey to help you build anything”的提示图片与上下文的关系是，上下文提到Mac新机使用时，先安装Homebrew，再通过Homebrew安装Codex App桌面端，此图直观呈现了Mac上可用的AI命令行工具，与上下文介绍的Mac AI开发工具安装背景相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmZkMDc4MmUxNDhiMjQ3NjdkZWQxNjI0MWEwYmM0MTNfODJhMDA1YjRlYzA3NzRhNGEwODM4MGI0MDhlYWFjMWZfSUQ6NzY0NjMwMzQ0ODk3MTIxNzg1OF8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示了Mac新机必装的AI命令行工具全家桶，包括Claude Code、Codex CLI、Gemini CLI。Claude Code界面有“Logged in”标识，下方有“Redey to help you build anything”的提示图片与上下文的关系是，上下文提到Mac新机使用时，先安装Homebrew，再通过Homebrew安装Codex App桌面端，此图直观呈现了Mac上可用的AI命令行工具，与上下文介绍的Mac AI开发工具安装背景相契合。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=NmQ0MGI2NzE3ZDdmMDk1Zjc5Y2NhNjNkMDU3N2UwNWFfZTM1NmIyNjA2NWI5MTI1YmRjNjE3YzMzMDc4NTRkOTdfSUQ6NzY0NjMwMzQ0ODk3MTIxNzg1OF8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 这是这个系列第四篇文章，我会把自己最近从零开始梳理，整理 Mac 使用过程中的经验与步骤记录下来，作为留存与分享。如果拿到一台新的Mac电脑，我最先安装的AI命令行工具肯定是Claude Code了，其实安装也超级简单。
 
@@ -31,17 +31,17 @@
 
 直接打开本地的命令行中输入 \\\`node -v\\\` 如果你看到如下的截图，那就说明node还没有安装
 
-![图片 自动生成图片描述图片展示的是Mac系统终端界面，显示了用户登录信息及时间，当前目录为“~/”。用户在终端中输入“node -v”命令，但终端提示“zsh: command not found: node”，表明系统中未找到node命令。该图片与文档中 addCriterion在介绍准备nodejs环境时相关，用于说明直接在本地命令行中输入“node -v”命令时，若出现此提示，即说明node尚未安装，需通过Codex App等途径安装nodejs。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTQxZTY0YTExZDFjMjFjNTQ3MWQ0ZTczOTkzNjk4NjVfNzQ1NjQ1ZmE1ODQwZDZlMmU3ZmU1OTg4ZjAyMTk1ODBfSUQ6NzY0NjMwMzQ2ODA3MzU4NTYyNV8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片 自动生成图片描述图片展示的是Mac系统终端界面，显示了用户登录信息及时间，当前目录为“~/”。用户在终端中输入“node -v”命令，但终端提示“zsh: command not found: node”，表明系统中未找到node命令。该图片与文档中 addCriterion在介绍准备nodejs环境时相关，用于说明直接在本地命令行中输入“node -v”命令时，若出现此提示，即说明node尚未安装，需通过Codex App等途径安装nodejs。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=MWUzODRmNDQ5YThiZTc3Mjg2MzU1MjJmZTAxNGUxYzBfMzhmOTQ4MDY5ZDdiOTYxODQ0NjQzNzMyNjdjYzg0ZjdfSUQ6NzY0NjMwMzQ2ODA3MzU4NTYyNV8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 本着AI first的理念，我还是使用Codex App 来安装nodejs。原则就是能用homebrew来安装的尽量就用homebrew来安装，方便统一，。
 
-![图片展示的是Claude Code在Codex App中的安装界面。界面中显示“帮我用homebrew安装一下nodejs”，下方有“已处理1m”提示。下方内容为AI助手回复，称已用Homebrew装好Node.js，当前终端默认使用的是Homebrew版本，给出具体版本号及npm版本号。还提到验证结果是`which node`指向`/opt/homebrew/bin/node`，可直接运行`node -v`和`npm -v`。该图片与文档中准备nodejs环境及Codex App安装Claude Code等内容相关，直观呈现了安装过程中的关键信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTlhMzRjNWNmZGU5MzI2MDk2YzlhY2M4NWEzZTRkY2FfMTRmNjIyYTdkYjhkNzU2YzIzZTFjODVkZTU4YzJiMzRfSUQ6NzY0NjMwMzQ5MjE0NzM2Njg3OF8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示的是Claude Code在Codex App中的安装界面。界面中显示“帮我用homebrew安装一下nodejs”，下方有“已处理1m”提示。下方内容为AI助手回复，称已用Homebrew装好Node.js，当前终端默认使用的是Homebrew版本，给出具体版本号及npm版本号。还提到验证结果是`which node`指向`/opt/homebrew/bin/node`，可直接运行`node -v`和`npm -v`。该图片与文档中准备nodejs环境及Codex App安装Claude Code等内容相关，直观呈现了安装过程中的关键信息。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=ODBhN2E4YzAyMTBmYTIyY2RmN2MwMjRlNjU4MjdiZTJfY2M0YTczZDFmOTlhMDlhN2U0OGQ5NWFhNmJjODUzZGNfSUQ6NzY0NjMwMzQ5MjE0NzM2Njg3OF8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 ## 二、Codex App下安装Claude Code、Codex CLI、Gemini CLI
 
 看下图就是直接告诉Codex App，“帮我安装Claude Code、 Codex CLI 、 Gemini CLI”。
 
-![图片展示的是Codex App安装Claude Code、Codex CLI、Gemini CLI后的处理结果界面。上方显示“帮我安装Claude Code、Codex CLI、Gemini CLI”，下方提示已处理2分24秒。中间内容表明已安装好三个命令，分别在/opt/homebrew/bin下可用，列出claude、codex、gemini的版本号。底部还提到已确认三个命令指向Homebrew Node的全局安装路径，可直接在终端运行claude、codex、gemini开始登录使用。该图片与文档中介绍在Codex App下安装AI开发工具的内容相关，直观呈现了安装结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjQxYWNkNDZmZTFkMTFjOTNmOGI5Y2Y2MjU1MjI2NDBfMzE2NzExYWYyNjJmNzNlMTA1YWJkNzI0ZWI5N2M3ZjZfSUQ6NzY0NjMwMzUxMTcwOTU2Nzk1MF8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示的是Codex App安装Claude Code、Codex CLI、Gemini CLI后的处理结果界面。上方显示“帮我安装Claude Code、Codex CLI、Gemini CLI”，下方提示已处理2分24秒。中间内容表明已安装好三个命令，分别在/opt/homebrew/bin下可用，列出claude、codex、gemini的版本号。底部还提到已确认三个命令指向Homebrew Node的全局安装路径，可直接在终端运行claude、codex、gemini开始登录使用。该图片与文档中介绍在Codex App下安装AI开发工具的内容相关，直观呈现了安装结果。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=ODE3NTJmZmFkNjVlMjU1NTYzY2E0MGVmN2NlN2NjZGFfYTQzZjY5ZjUwNzQwYjhiZGFiZmMyMDk4Zjg2NmQ4MDJfSUQ6NzY0NjMwMzUxMTcwOTU2Nzk1MF8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 三个直接一起安装好了，其实中间处理过程它就是要先检查环境，再进行检查当前命令行终端是否已经安装，没安装就继续执行，安装了，就跳过进行下一个。然后可以分别继续授权登录使用了。
 
@@ -49,27 +49,27 @@
 
 第一个先网页授权登录Claude Code
 
-![图片展示的是Claude Code网页授权登录界面。上方有“帮我用网页授权登录一下Claude Code”按钮。下方提示Claude Code网页登录页已打开，当前可选择Google、邮箱、SSO等方式登录，询问用户要走哪种方式，如需代填邮箱可直接发送。界面底部有“要求后续变更”“完全访问权限”等选项，以及“本地模式59%”标识。该图片与文档中网页授权登录Claude Code的内容相关，直观呈现了登录操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDQ0YTIwOGUxY2EzMDZjMWUwOWMxOWVlYmMzYjg0MjhfYzE0N2JmYzBjNWNhMWU3ZjY2MWI1ZmM5NjE3NzViYmFfSUQ6NzY0NjMwMzUyOTM3MjI5MDAyMF8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示的是Claude Code网页授权登录界面。上方有“帮我用网页授权登录一下Claude Code”按钮。下方提示Claude Code网页登录页已打开，当前可选择Google、邮箱、SSO等方式登录，询问用户要走哪种方式，如需代填邮箱可直接发送。界面底部有“要求后续变更”“完全访问权限”等选项，以及“本地模式59%”标识。该图片与文档中网页授权登录Claude Code的内容相关，直观呈现了登录操作界面。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=OGI3ZjA1OWFiZTkzN2MzODEzNWIxZTBlMTJlOTU3OThfMDExMTM1N2I3MGFjZWE0OTRiOWJhNGVjNjgxMTY3MzRfSUQ6NzY0NjMwMzUyOTM3MjI5MDAyMF8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 跳转到网页，如果你之前已经在网页登录claude.ai的官网的话，就可以直接点击「授权」就能登录了。
 
 第二个网页授权登录Codex CLI
 
-![图片展示了在Mac新机上使用Claude Code时网页授权登录Codex CLI的操作界面。界面中显示已处理55秒，告知当前停在OpenAI登录页，可选邮箱、Google、Apple、Microsoft、手机登录，询问登录方式。下方显示已处理4秒，确认登录成功，codex login 回调结果为Successfully logged in，codex login status也显示Logged in using ChatGPT，表明Codex CLI已登录状态，可直接使用。该图片与文档中网页授权登录Codex CLI的操作步骤相关，直观呈现了登录过程中的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2I0YWRhNjVlN2UxNDAzMWI5ZmIwNjE2OTc5YWI2YTRfOWFiYjBkNDM3ZGY0NjU2N2RjOTcwOGQwYWU3Y2I5NTNfSUQ6NzY0NjMwMzU0ODgwMTYwMDQ4Nl8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示了在Mac新机上使用Claude Code时网页授权登录Codex CLI的操作界面。界面中显示已处理55秒，告知当前停在OpenAI登录页，可选邮箱、Google、Apple、Microsoft、手机登录，询问登录方式。下方显示已处理4秒，确认登录成功，codex login 回调结果为Successfully logged in，codex login status也显示Logged in using ChatGPT，表明Codex CLI已登录状态，可直接使用。该图片与文档中网页授权登录Codex CLI的操作步骤相关，直观呈现了登录过程中的界面情况。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=N2FmYzQxOTI2YmUyNTFiNmYzOWJmMTc3MmM2ZmIzMDRfNzkyNjI2MzIzMmQ0YTM1MWJkN2ZlYTliODhlZGExYmZfSUQ6NzY0NjMwMzU0ODgwMTYwMDQ4Nl8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 第三个网页授权登录Gemini CLI
 
-![图片展示的是Gemini CLI网页授权登录成功后的界面。上方显示“已处理 3m”，”，中间有登录成功提示，表明Gemini CLI已授权登录成功，并用一条最小测试命令验证过登录状态。下方有“请求后续变更”“完全访问权限”等选项，以及“本地模式81%”等信息。该图片与文档中“网页授权登录Gemini CLI”部分对应，直观呈现了Gemini CLI网页授权登录成功的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmU2YjcxMmIwYWQ0OTkwYjJmZDEwNDZhMTE5ODUxMTZfM2EyNDRhZWIzODUwZDc4MjQxNjM4NzdmNjI5NmNlNWZfSUQ6NzY0NjMwMzU3MjYxMTA5MTQyMF8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示的是Gemini CLI网页授权登录成功后的界面。上方显示“已处理 3m”，”，中间有登录成功提示，表明Gemini CLI已授权登录成功，并用一条最小测试命令验证过登录状态。下方有“请求后续变更”“完全访问权限”等选项，以及“本地模式81%”等信息。该图片与文档中“网页授权登录Gemini CLI”部分对应，直观呈现了Gemini CLI网页授权登录成功的界面情况。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=Mjg5ZGU3Nzg2YzM4NWVkNDhkYTMxOWE2ZGU2ZGMxZTZfZTgxZDdkZmI2ZDc0YmE2ZWIyNWI1NmI5YTVlYmExYzZfSUQ6NzY0NjMwMzU3MjYxMTA5MTQyMF8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 Gemini 网页授权在Codex App 中有一点点奇怪，不过也还好，反正不用自己进行操作Copy ，Codex App会自己进行处理。
 
-![图片展示的是Gemini](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjlmYjNkOTlkZTEyYTJjMjM1ZjE1ZjNkYTFjYjhiMzJfMDE1YjJlOWQwN2Y4MDU0ZDU1NmNiNmNiNDIyZTVjOGVfSUQ6NzY0NjMwMzU5Mzg4ODUzMzQ3OF8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示的是Gemini](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=NTkzMmQ2NzJkZGNkZGQ2YzdhYjI1MjE5YzBkMjhhMDFfMzA3ZDZlN2FiY2FkNDAwNTVjNmM5YmNhZDRjNjdiODJfSUQ6NzY0NjMwMzU5Mzg4ODUzMzQ3OF8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 ## 四、看终端效果
 
 我本地使用是Ghostty终端。如果你也想安装使用，可以参考我系列文章的第三篇，在开头部分。
 
-![图片展示了Mac新机安装Claude Code、Codex CLI、Gemini CLI后在Ghostty终端的运行效果。左侧Claude Code界面显示欢迎信息，可用Opus 4.7，可使用“/model to change”指令切换模型。中间Codex CLI界面有提示信息，可输入“/”打开命令弹窗。右侧Gemini CLI界面显示欢迎信息，提示可输入消息或文件路径，当前工作空间为“sandbox”。该图直观呈现了三个AI开发工具在终端的运行状态，与文档中介绍安装及使用效果的内容相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTE2OTJjOWIxZDIyM2Q3NzAxMTU2MzllZmM4ZjlhMTNfYzUzNTNhZGU2N2U1ZDNjMjQ3NTA4Mjc1YzMyYzNlYTlfSUQ6NzY0NjMwMzYxNDkxMDQzNDI1M18xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示了Mac新机安装Claude Code、Codex CLI、Gemini CLI后在Ghostty终端的运行效果。左侧Claude Code界面显示欢迎信息，可用Opus 4.7，可使用“/model to change”指令切换模型。中间Codex CLI界面有提示信息，可输入“/”打开命令弹窗。右侧Gemini CLI界面显示欢迎信息，提示可输入消息或文件路径，当前工作空间为“sandbox”。该图直观呈现了三个AI开发工具在终端的运行状态，与文档中介绍安装及使用效果的内容相呼应。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=ZGI3ZWRjMDc3OWE3NTE0ZmJiZDM3MTYwNDFmOTI0MzFfMmU0M2EzZDI0ZDNmY2VlMWU3YmEwOGQ1ODRkMWNiNTFfSUQ6NzY0NjMwMzYxNDkxMDQzNDI1M18xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 Ghostty一个屏可以并排或者竖排随意组合，如上图就是1:2:1四个终端一起运行。而且切换方便。
 
@@ -79,15 +79,15 @@ Ghostty一个屏可以并排或者竖排随意组合，如上图就是1:2:1四�
 
 还是直接在Codex App中询问AI，一般都是先确认一下，然后再让他直接安装
 
-![图片展示的是Claude Code界面，左侧为项目列表，右侧是查找nvm的对话框。对话内容显示AI少年回复Homebrew里有nvm，可使用brew install nvm安装。对话框下方有“要求后续变更”按钮，右下角显示评分5.5。该图片与文档中介绍nvm工具使用相关，是先确认nvm工具时AI给出的回复示例，体现了在Claude Code中询问AI工具使用情况的操作场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDUzMGIxNjU1NTBkNDY4MDc5YTU3ZDRiMzc1ZWQzZDZfMjc3N2I0OWFmMjBlMDg3MDUyN2Y0MmVkNTU2YjMzNDFfSUQ6NzY0NjMwMzYzNTc3NzE2MjIwMl8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示的是Claude Code界面，左侧为项目列表，右侧是查找nvm的对话框。对话内容显示AI少年回复Homebrew里有nvm，可使用brew install nvm安装。对话框下方有“要求后续变更”按钮，右下角显示评分5.5。该图片与文档中介绍nvm工具使用相关，是先确认nvm工具时AI给出的回复示例，体现了在Claude Code中询问AI工具使用情况的操作场景。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=YTk1MDI2NWEzNDQzOTIyNWNkMjQwZjY0ZGU5OTI1NzVfZDBlY2Y1NzIzYzQzZWMzZmQ2YjRmZmM1ZWI1NWYyYzZfSUQ6NzY0NjMwMzYzNTc3NzE2MjIwMl8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 上图就是先简单的确认nvm这个工具。
 
-![图片展示了Claude Code界面中关于nvm工具的使用内容。左侧为聊天记录，右侧是搜索结果，显示了安装nvm，推荐使用Homebrew安装，可直接执行brew install nvm。下方有nvm版本信息及配置情况说明，如创建了~/.nvm等。底部有“直接帮我安装”按钮，以及“要求访问权限”](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWJlYjZhOWJiOWUwZjI2NzlhMTUyMjdhOTA4ZTZiMDdfZTFjNTk3Zjg1ZDcxMGE4M2JmMjBiNjhmMjBiZjQ4OWVfSUQ6NzY0NjMwMzY2MTg3MTY5Njg1NF8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示了Claude Code界面中关于nvm工具的使用内容。左侧为聊天记录，右侧是搜索结果，显示了安装nvm，推荐使用Homebrew安装，可直接执行brew install nvm。下方有nvm版本信息及配置情况说明，如创建了~/.nvm等。底部有“直接帮我安装”按钮，以及“要求访问权限”](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=NTc4MTgzMTY0NmVjODgyNzhkMDIxYTYwYzY4ZDYwMGVfNzU4NjcwZmRiZmQ1ODcyYjA0ODgzNTg0ODQ2YjhhZTBfSUQ6NzY0NjMwMzY2MTg3MTY5Njg1NF8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 nvm常用指令，可以作为简单的参考，直接问AI它基本都可以帮我直接执行的
 
-![图片展示了nvm常用指令及其作用，包括查看nvm版本、查看本机已安装Node.js版本、查看所有可安装远程Node.js版本、安装最新LTS稳定版、安装指定大版本、安装指定精确版本、切换当前终端使用Node.js版本、查看当前正在使用的Node.js版本、设置默认Node.js版本、查看所有别名、卸载指定Node.js版本、给当前项目指定Node.js版本、根据当前目录的.nvmrc自动切换版本等，这些指令可作为nvm工具使用时的参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGFiNzQ5NDJmMWNlY2Y1MWZjZmY3NmMzY2ZmMzNlYjlfZGMxMDNlY2M1Mjg0YmVjNDhiODVlZGFhYjI2MTY0NTRfSUQ6NzY0NjMwMzY4MDcyMTIyNjY5NF8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示了nvm常用指令及其作用，包括查看nvm版本、查看本机已安装Node.js版本、查看所有可安装远程Node.js版本、安装最新LTS稳定版、安装指定大版本、安装指定精确版本、切换当前终端使用Node.js版本、查看当前正在使用的Node.js版本、设置默认Node.js版本、查看所有别名、卸载指定Node.js版本、给当前项目指定Node.js版本、根据当前目录的.nvmrc自动切换版本等，这些指令可作为nvm工具使用时的参考。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=YTYwNjU3YzFmM2FlYzc3MDQ1NGM5N2I1NjljNzNkNDFfYTZmNTY5Yjc1NWJhNzg0OTg3MWFlYzYyZGQ4MDM3NDJfSUQ6NzY0NjMwMzY4MDcyMTIyNjY5NF8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 ## 六、最后
 
@@ -101,7 +101,7 @@ nvm常用指令，可以作为简单的参考，直接问AI它基本都可以帮
 
 先找到这个路径：\~/.claude/settings.ling.json（mac），window上可能是C:\\\Users\\\Administrator\\\\.claude。
 
-![图片](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzhiNjNiZTY4MWQwNjBjOTk0NGQ1Njc1ODA1M2I0ZGFfN2RjMzUzMGMxNzA2YzNiMmVhZjY5YWU5ZGEwNWVjYjNfSUQ6NzY0NjMwMzcwMTQ5NDEwNzA3Nl8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=Zjc3YzkxODg2ZTEyMmQ5MjUwNzU4YmY0Y2JlOGIzNjlfZGMyMWRlNTJiMTIyZjNlODJmYWRjZGY5NjM3NDdkZDFfSUQ6NzY0NjMwMzcwMTQ5NDEwNzA3Nl8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 具体配置文件如下
 
@@ -139,8 +139,12 @@ claude --settings /Users/aehyok/.claude/settings.ling.json
 
 如果觉得敲这个命令有点麻烦可以直接通过alias 设置命令别名，参加下图所示，最终通过cc-ling命令就可以使用，甚至可以更短来呼叫我们的AI终端。
 
-![图片展示了Mac新机使用Claude Code等AI开发工具的界面。上方显示了设置环境变量的代码，包括添加ghostty和Claude Code等命令。下方是终端界面，有多个命令别名设置，如cc-ling等。还呈现了Claude Code的欢迎界面，显示版本号、欢迎语及可用功能，如代码生成等。该图片与文档中介绍Mac新机使用Claude Code等AI开发工具的内容相关，直观呈现了相关操作及工具界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWJhYWE2NzhiNmViODRjMmM2YTc4NjhkZjU0Njk0MGRfZmJjYTgzMmJmYWM4YTJhNjExYjcwMzkzNjc3NTkxMGRfSUQ6NzY0NjMwMzcyMzI4MzM2ODkyMl8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)
+![图片展示了Mac新机使用Claude Code等AI开发工具的界面。上方显示了设置环境变量的代码，包括添加ghostty和Claude Code等命令。下方是终端界面，有多个命令别名设置，如cc-ling等。还呈现了Claude Code的欢迎界面，显示版本号、欢迎语及可用功能，如代码生成等。该图片与文档中介绍Mac新机使用Claude Code等AI开发工具的内容相关，直观呈现了相关操作及工具界面。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=YjNhYWQyODRiNjM5ZWMwNjNhMDcxODhhMjE0ODcxYTVfZmIwMDViYzlhNTlhNWQ1YjQwNWE5MDgzMzg5YWRkNDVfSUQ6NzY0NjMwMzcyMzI4MzM2ODkyMl8xNzgyMTA3MDAzOjE3ODIxMTA2MDNfVjM)
 
 如果不知道如何通过alias来设置永久短别名，可以简单的叫AI帮你设置，使用。
 
 最后在mac下安装AI终端工具，不知道你有没有体会到简单，就是这么so easy。没有那么多的弯弯绕绕，环境配置。让你在搭建AI环境以及后续使用AI的路上更加顺畅。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/AE2AwTWllii3Wqkt4gNcdQeCncf> ｜ 归档：2026-06-22

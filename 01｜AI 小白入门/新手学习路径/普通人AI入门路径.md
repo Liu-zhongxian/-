@@ -175,3 +175,7 @@ AI First 的核心，是把 AI 当成第一助手，而不是最后才想起来�
 
 
 真正的门槛不是技术，而是你有没有开始用它。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/A3t0wiZfPiao0OkxN7pcIUT9nVc> ｜ 归档：2026-06-22

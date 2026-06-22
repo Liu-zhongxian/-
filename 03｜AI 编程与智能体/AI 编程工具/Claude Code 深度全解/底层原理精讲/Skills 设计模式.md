@@ -355,3 +355,7 @@ function canUseUnifiedMode(context: MultiFileContext, maxTokens = DEFAULT_MAX_UN
 - 开发方法论：TDD（测试驱动开发）、SDD（规范驱动开发）、BDD（行为驱动开发）、多智能体编排
 - 智能体团队：包括怀疑审查者模式（Skeptical Reviewer Pattern）的智能体团队
 - `examples/skills/mcp-integration-reference/`：MCP 参考文件模式模板
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/F5Lbwgr8siCF5hk9dfbcwlUzn2W> ｜ 归档：2026-06-22

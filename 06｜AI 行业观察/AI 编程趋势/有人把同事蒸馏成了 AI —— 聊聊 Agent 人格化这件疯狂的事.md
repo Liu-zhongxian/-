@@ -1,6 +1,6 @@
 # 有人把同事蒸馏成了 AI —— 聊聊 Agent 人格化这件疯狂的事
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzdkZjY1OWEzMDg5MWFkMWNmNTNkZDExMzFiM2UzY2JfY2Q5N2M1OTZmN2E1ZTE4ZDY0YWM3ZjgyMTRhOTFjMzBfSUQ6NzY0NTI2NjcwNTg4MzA1NzM1Ml8xNzgyMDk5MTgwOjE3ODIxMDI3ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2RjZjVjMTJlMTk0NzlmODM1MjM5YzZkZDk2Yzg2NzNfYmE2OWY4ZjYxZDYyMGRiZTdjNjI0YmZkNmZiZWE5ZTRfSUQ6NzY0NTI2NjcwNTg4MzA1NzM1Ml8xNzgyMTA3MzM4OjE3ODIxMTA5MzhfVjM)
 
 有人把同事蒸馏成了 Agent Skill——以后开会再也不用等他回消息了。
 
@@ -22,7 +22,7 @@ AI 加载之后，语气、思路、甚至吐槽方式，都像那个人。
 
 三个文件，三次跃迁。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDA1OWEzYzk5ZWM4YWE3OGE5OGQ1NjEzNzZhOTg5YTNfOTVlOTJiNjhhYjA2MTNmN2Y5YmU2MGUxMTU5NWQzNjlfSUQ6NzY0NTI2NjcwNzQwOTUzODI0OF8xNzgyMDk5MTgwOjE3ODIxMDI3ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTJhYmQzNTQ3MzljMTAwYTE1ZWYyMTRlYTU0OWIwMjJfODEwNmZlYzhhNGMxMzFjZDBlNzRjOTFiY2NkZDMxZmRfSUQ6NzY0NTI2NjcwNzQwOTUzODI0OF8xNzgyMTA3MzM4OjE3ODIxMTA5MzhfVjM)
 
 **一、CLAUDE.md：教 AI 怎么干活**
 
@@ -40,7 +40,7 @@ CLAUDE.md 解决的是"这个项目怎么做"。
 
 它不关心 AI 是谁。就是一份说明书。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGM3YzFmZmYyNDdkNzliMjY5OTc5YzMzNTlhZjRiMTRfNWY5MjQzMTZiZGVjMjczMTUxZmVlM2Y3ZWI3MzI4Y2JfSUQ6NzY0NTI2NjcwNzc1OTI4NzQ4N18xNzgyMDk5MTgwOjE3ODIxMDI3ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTJjNDNhN2EzYzJjOTI2NGQ1YzNkYzlhMmJlNGRkZTdfZWMzMDk0ODY1NjYwNTkwNDg3NmMxMmQ1MTNkMTNhYmJfSUQ6NzY0NTI2NjcwNzc1OTI4NzQ4N18xNzgyMTA3MzM4OjE3ODIxMTA5MzhfVjM)
 
 **二、SKILL.md：让 AI 会干活**
 
@@ -62,7 +62,7 @@ Skill 让 AI 不再是"你说一句它做一句"，而是能独立跑完一整�
 
 它知道怎么做，但不知道"以谁的方式做"。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yzg4NTAyZGNiMjcyZDIzNTUwNjVjODdjNGRiYjM2MTJfZGJlNWZhZTFlMjljYjc4YjgyZmQ0NzdkNzQ0NTVmNGNfSUQ6NzY0NTI2NjcwNzIwODIyODA0N18xNzgyMDk5MTgwOjE3ODIxMDI3ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGIzZjlmNmVkYWZjZGIxOWY3ODA1YzQxZTNjYjBlYWRfNzhiYzIzMDE2MjY2ZjE1MWIxZTkzNjRmOWM1ZDljYmZfSUQ6NzY0NTI2NjcwNzIwODIyODA0N18xNzgyMTA3MzM4OjE3ODIxMTA5MzhfVjM)
 
 **三、SOUL.md：让 AI "成为"某个人**
 
@@ -90,7 +90,7 @@ SoulSpec 已经是一个开放标准。OpenClaw 社区里有 162 个现成的 Ag
 
 是 AI 在"作为你"思考和说话。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGZlZGYyMmMwZDE3YmFlM2U0ZTljODJlMGVlYTVhYzFfZjFlMGFiNWI1ZmY5ODgyMmZkMDVkMDdhNGZkNzczMGZfSUQ6NzY0NTI2NjcwNDkzOTQ4NjQxOV8xNzgyMDk5MTgwOjE3ODIxMDI3ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmIyYjA3NmViMzUzZGExNGUwYzgxNTI0ZWE0OWJiNmFfZGEyY2M3ZjZmMDdkMWIwYWQwYWRjNjgzNTMwNmZhZTNfSUQ6NzY0NTI2NjcwNDkzOTQ4NjQxOV8xNzgyMTA3MzM4OjE3ODIxMTA5MzhfVjM)
 
 **四、为什么这件事现在发生了**
 
@@ -112,7 +112,7 @@ OpenClaw 两个月从零到 12.5 万 GitHub star。它证明了一件事：用 M
 
 而现在，我们塞进去的不再是规则和流程，是人格本身。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzE4NGQwMjc2ODNlNmVlZTZlMmNlMWNmOGJmYTMyYWNfZTE5NWNjYTY0NDFhZmY3ZTVhMmMzN2RlOTg0NmNiMWRfSUQ6NzY0NTI2NjcwNzIwODIxMTY2M18xNzgyMDk5MTgwOjE3ODIxMDI3ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjkzYTc5YTY5NDkyZmY3NWM4YWY5MmY1ZWYwMzUzYjFfZmJiNzNhZjY3YTJkNGUyNmQxZThmZmQxZTBhMDZlN2JfSUQ6NzY0NTI2NjcwNzIwODIxMTY2M18xNzgyMTA3MzM4OjE3ODIxMTA5MzhfVjM)
 
 **五、这意味着什么**
 
@@ -147,3 +147,7 @@ OpenClaw 两个月从零到 12.5 万 GitHub star。它证明了一件事：用 M
 下一步是什么？
 
 也许是 AI 自己写自己的 SOUL.md。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/QDn4w2wo4iYrc5km3h6cgva0nUh> ｜ 归档：2026-06-22

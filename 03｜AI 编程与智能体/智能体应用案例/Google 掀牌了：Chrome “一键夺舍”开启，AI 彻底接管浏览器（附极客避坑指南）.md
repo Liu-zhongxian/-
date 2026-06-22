@@ -1,6 +1,6 @@
 # Google 掀牌了：Chrome “一键夺舍”开启，AI 彻底接管浏览器（附极客避坑指南）
 
-![图片以科技感十足的背景为底，左侧文字“Google掀牌了：Chrome一键夺舍开启”突出主题，下方说明“底层控制权已接管（Root Control Taken）Web系统生态颠覆（Web Ecosystem Overthrow）”。右侧是一个机械臂，机械臂上环绕着蓝色光圈，光圈内有“Google Chrome”字样。图片与上文提到的“让AI操作浏览器是个极其痛苦的过程”相呼应，暗示Chrome官方通过新功能让AI操作浏览器变得简单，体现了底层控制权的接管和对Web系统生态的颠覆。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWU3NWFkYmVmMDZhZGUxOTExMmRkYWE4NTA5MzlmZDFfNWViYjlmNmVkZWIxMmU3NTYxOGJmNGJlM2M4YWVjNmNfSUQ6NzY0NTcxMjkzNDU4MDE5NDQ4NF8xNzgyMDk5MDg0OjE3ODIxMDI2ODRfVjM)
+![图片以科技感十足的背景为底，左侧文字“Google掀牌了：Chrome一键夺舍开启”突出主题，下方说明“底层控制权已接管（Root Control Taken）Web系统生态颠覆（Web Ecosystem Overthrow）”。右侧是一个机械臂，机械臂上环绕着蓝色光圈，光圈内有“Google Chrome”字样。图片与上文提到的“让AI操作浏览器是个极其痛苦的过程”相呼应，暗示Chrome官方通过新功能让AI操作浏览器变得简单，体现了底层控制权的接管和对Web系统生态的颠覆。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzNjMjU0ZTgzNjk1ZmUyYjI3OTVmNDc2ZGVlN2QxNjdfOGQ5MmMwY2Y2Mzg4ZTZmNTYzMWFlYThmNzNmODk2MWZfSUQ6NzY0NTcxMjkzNDU4MDE5NDQ4NF8xNzgyMTA3MjU2OjE3ODIxMTA4NTZfVjM)
 
 > 📖 **导读** 今天起，赶紧检查下你的 Chrome 浏览器，它可能要被“合法接管”了。 别紧张，这不是什么病毒入侵，而是 Google 悄悄给 AI 专门开的一个官方“后门”。 简单来说，以前的 AI 想帮你在网上订机票、抓数据，还得靠你写一堆复杂的启动脚本，跟防贼一样绕过各种验证。现在？**Chrome 146 官方版本**直接在界面里留了个“一键夺舍”的开关，完美支持当下最火的 **MCP (Model Context Protocol)**，把方向盘完完全全交给了你的私人贾维斯。这篇实操教程，将手把手教你如何开启这个“神仙开关”，让你的浏览器彻底进化为自动驾驶模式。
 
@@ -27,7 +27,7 @@ chrome://inspect/#remote-debugging
 
 (注：这个页面通常是极客开发者用来调试网页的，但现在它成了 AI Agent 接管浏览器的官方合法通道。)
 
-![图片展示的是Chrome浏览器的设置界面。左侧菜单栏中“About Chrome”选项被蓝色框线突出显示。右侧“About Chrome”区域显示Chrome已更新至版本146.0.7668.0（正式版），并有“Get help with Chrome”“Report an issue”“Privacy policy”等选项。该图片与上文“第一步：开启上帝视角，进入隐藏设置”相关，用于指导用户在Chrome浏览器中找到“About Chrome”选项，以确保浏览器已更新至最新版，为后续开启“一键夺舍”开关做准备。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTY4MDM0ZjBkZjNkYWY1YTRjMzdkZTZlOTZiYTZkN2JfNzE2OTgxYWFjM2JiN2QzMDE5ZTQxYmZkODJkNjJhOWZfSUQ6NzY0NTcxMjk1MDg3NDkzNDQ4NV8xNzgyMDk5MDg0OjE3ODIxMDI2ODRfVjM)
+![图片展示的是Chrome浏览器的设置界面。左侧菜单栏中“About Chrome”选项被蓝色框线突出显示。右侧“About Chrome”区域显示Chrome已更新至版本146.0.7668.0（正式版），并有“Get help with Chrome”“Report an issue”“Privacy policy”等选项。该图片与上文“第一步：开启上帝视角，进入隐藏设置”相关，用于指导用户在Chrome浏览器中找到“About Chrome”选项，以确保浏览器已更新至最新版，为后续开启“一键夺舍”开关做准备。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2Y5ZDE3YTQ3YWNjMjUwMzBhNTE1MWUwODRjYjI4ODNfMTNiMDU1NGE5MDExNzdlM2I3MTRjYWQzNzllOTI3MDlfSUQ6NzY0NTcxMjk1MDg3NDkzNDQ4NV8xNzgyMTA3MjU2OjE3ODIxMTA4NTZfVjM)
 
 **第二步：勾选“一键夺舍”开关**
 
@@ -35,7 +35,7 @@ chrome://inspect/#remote-debugging
 
 **果断打勾！** 开启这个选项后，你的浏览器就正式进入了被接管的**等待状态**。 (页面上也有官方明确的全量免责提示：开启此设置后，外部应用将有权请求该浏览器的完全控制权，包括任意读取保存的数据、Cookie、网站数据，以及随心所欲地导航到任何 URL。)
 
-![图片展示了Chrome浏览器的Remote debugging页面。页面左侧有Devices、Pages等选项，右侧“Remote debugging”部分，选中了“Allow remote debugging for this browser instance”选项，下方提示开启此设置后外部应用可请求完全控制浏览器，包括读取数据等。页面底部显示“Server running at:127.0.0.1:9222”，与上下文介绍的Chrome开启MCP控制权操作中，打勾后页面多出的内网监听地址对应，是开启控制权后的关键信息展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWFhMjg1NjMyOGQzMTU1YTQ2MDkzY2JlOTZkOGQwMmFfNmUxNGIwZGZlNmZjOTE2ZmM1NGY2ODg4ZjQ2ZTI5ZjdfSUQ6NzY0NTcxMjk2NTM4Mjk4Mjg0NV8xNzgyMDk5MDg0OjE3ODIxMDI2ODRfVjM)
+![图片展示了Chrome浏览器的Remote debugging页面。页面左侧有Devices、Pages等选项，右侧“Remote debugging”部分，选中了“Allow remote debugging for this browser instance”选项，下方提示开启此设置后外部应用可请求完全控制浏览器，包括读取数据等。页面底部显示“Server running at:127.0.0.1:9222”，与上下文介绍的Chrome开启MCP控制权操作中，打勾后页面多出的内网监听地址对应，是开启控制权后的关键信息展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGViMDIyNjBmODU0NGY1YmY4MGVkYjA4M2FmNjkxYTNfNTU4NmQ3YTVkOGQ1NTk3Y2I1MTQ3NDNlYzc3ZWQ4NmZfSUQ6NzY0NTcxMjk2NTM4Mjk4Mjg0NV8xNzgyMTA3MjU2OjE3ODIxMTA4NTZfVjM)
 
 **第三步：连接你的 AI Agent**
 
@@ -71,18 +71,22 @@ npx skills add https://github.com/hanyu0001/chrome-cdp-skill -g --all --copy
 
 安装并连接成功后，你的 Agent 就彻底解锁了“上帝视角”。不管是微信网页版、内网 OA 系统还是复杂的股票看板，它都能直接继承你的已登录 Cookie 状态代为操作。
 
-![图片展示的是在命令行中使用`npx skills add`命令安装Chrome CDP技能的界面。命令行显示安装源为`https://github.com/hanyu0081/chrome-cdp-skill.git`，并提示安装1个技能，安装至42个代理。安装完成后，界面底部以红色框突出显示“Installation complete”，表明安装完成。该图片与上文介绍Chrome“一键夺舍”开启操作中，Windows用户安装并连接Agent后解锁“上帝视角”，能代为操作微信网页版等内容相呼应，展示了安装技能的步骤和结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGM5ZjY1ZjkxNzBlM2UzOGM0NmYzYmEzZWMxMGY2NjVfODc0MzJlMzM4MTFiMzNjZGUxMzg0ZWQ0MzJmYjhiY2FfSUQ6NzY0NTcxMjk3OTk3MDgzNzY5MF8xNzgyMDk5MDg0OjE3ODIxMDI2ODRfVjM)
+![图片展示的是在命令行中使用`npx skills add`命令安装Chrome CDP技能的界面。命令行显示安装源为`https://github.com/hanyu0081/chrome-cdp-skill.git`，并提示安装1个技能，安装至42个代理。安装完成后，界面底部以红色框突出显示“Installation complete”，表明安装完成。该图片与上文介绍Chrome“一键夺舍”开启操作中，Windows用户安装并连接Agent后解锁“上帝视角”，能代为操作微信网页版等内容相呼应，展示了安装技能的步骤和结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTA5ZWUwY2JiOThmMTVmYjU0MmY0NzcyYTVmMDhjNzJfZjA4OGJiOWQyYzFiNTliMjk4MTcxNzFjYWQ4Y2Q5NWNfSUQ6NzY0NTcxMjk3OTk3MDgzNzY5MF8xNzgyMTA3MjU2OjE3ODIxMTA4NTZfVjM)
 
 你只需在聊天框里下达自然语言指令体验其魔力，例如：
 
 > “帮我打开 Gemini，画一张金刚大战哥斯拉的图”
 
-![图片展示了Chrome浏览器中使用Chrome DevTools（Chrome开发者工具）进行操作的界面。画面中突出显示了“帮我用chrome功能打开Gemini，画一幅金刚大战哥斯拉的图”这一指令。下方代码区域呈现了相关操作步骤，如列出Chrome调试标签、打开Gemini网页、获取页面无障碍树快照、点击创建工具等。该图片与文档中介绍Chrome“一键夺舍”开启，AI接管浏览器功能的操作指导上下文相关，展示了实际操作过程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTRlNTFhYzJhNDE5MDc4MjgzNjEyNzMxNTFmNmJjMTNfNGRiMTkxOTQxNzhhNzAxZjU3NTc0ODMwYWZlMThkOGVfSUQ6NzY0NTcxMjk5Mzk1NjMwMjAwM18xNzgyMDk5MDg0OjE3ODIxMDI2ODRfVjM)
+![图片展示了Chrome浏览器中使用Chrome DevTools（Chrome开发者工具）进行操作的界面。画面中突出显示了“帮我用chrome功能打开Gemini，画一幅金刚大战哥斯拉的图”这一指令。下方代码区域呈现了相关操作步骤，如列出Chrome调试标签、打开Gemini网页、获取页面无障碍树快照、点击创建工具等。该图片与文档中介绍Chrome“一键夺舍”开启，AI接管浏览器功能的操作指导上下文相关，展示了实际操作过程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTNkMzlkY2IyNTIzY2FiM2Q2NmNjYTM2OWFiZjE4YzZfMzg5MTYwZWVlMTUxYTRjYzhhNGU3OTNiMTdhOWIxYTdfSUQ6NzY0NTcxMjk5Mzk1NjMwMjAwM18xNzgyMTA3MjU2OjE3ODIxMTA4NTZfVjM)
 
-![图片展示了Chrome浏览器中使用Gemini AI进行搜索的界面及操作结果。左侧是搜索页面，输入“one more thing”，右侧显示搜索结果，包含“one more thing”的图片等内容。下方代码区域展示了与Gemini相关的代码，如“Gemini”“Gemini Image”等。底部红色框内有Gemini相关操作说明，如“Gemini控制台打开后”“Gemini Image”“Gemini Image下载按钮”等，与上下文介绍的Chrome浏览器AI控制权开启操作相关，直观呈现了操作效果及代码信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmQwZWEzYzYwZmVjYjU0ZmFmNTRkODc2NjMzYzA1MzRfNmE4MDJiMWUyNTE1ZThmYTg0MWM0NTE2OGIzMGY5ODBfSUQ6NzY0NTcxMzAwMzM3OTM0NjYzNl8xNzgyMDk5MDg0OjE3ODIxMDI2ODRfVjM)
+![图片展示了Chrome浏览器中使用Gemini AI进行搜索的界面及操作结果。左侧是搜索页面，输入“one more thing”，右侧显示搜索结果，包含“one more thing”的图片等内容。下方代码区域展示了与Gemini相关的代码，如“Gemini”“Gemini Image”等。底部红色框内有Gemini相关操作说明，如“Gemini控制台打开后”“Gemini Image”“Gemini Image下载按钮”等，与上下文介绍的Chrome浏览器AI控制权开启操作相关，直观呈现了操作效果及代码信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDNlYjk0MDhjNGYwZDliZWUzMTNmZGJmNmM4NTFiOWVfNTRjYTZhMmE5YWRkNTE2NmRkM2EwZmVjOGQxN2Q1Y2ZfSUQ6NzY0NTcxMzAwMzM3OTM0NjYzNl8xNzgyMTA3MjU2OjE3ODIxMTA4NTZfVjM)
 
 ## 时代真的变了
 
 无论你是被无穷无尽的表单折磨的打工人，还是追求极致效率的极客玩家，这项更新都意味着：浏览器不再只是一个供人“观看”的工具，它正式成为了你可以随时向 AI 下发指令的**强大执行器**。不用再自己手动冲浪的爽感，一旦体验过，就再也回不去了。
 
 > 💡 **互动时间**： **如果你的浏览器已经变成了全自动驾驶模式，你第一反应想让它帮你去代干什么脏活累活？** 👇 **欢迎在评论区大开脑洞！也别忘了把这个硬核技巧转发给身边每天还在手动复制粘贴数据的朋友们！**
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/DTxtw3Dc6iBH7hkawg2cHKE5nPf> ｜ 归档：2026-06-22

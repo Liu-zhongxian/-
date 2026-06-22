@@ -2,7 +2,7 @@
 
 ​
 
-![图片展示了Mac终端工具Ghostty的相关信息。左侧是Ghostty的图标及文字，强调其为Mac新机必装工具，目前对AI终端最友好。右侧列出Ghostty的默认快捷键示例，包括Cmd + t新建标签页、Cmd + n新建窗口、Cmd + f模糊查找（可结合AI）、Cmd + k AI命令运行（示例）、Cmd + Shift + p命令面板、Cmd + Option + 方向键调整分割窗口、Cmd + 1 - 9切换标签页等。该图片与文档中介绍Mac使用指南系列文章中关于Ghostty配置的内容相关，直观呈现了Ghostty的部分功能与快捷键。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDdjYThmZTliYzVkMDFmZjQ2ODQwZTg0OGVkODFiOWNfZGYxNTdjMzE4NGM3NWI2OTcwZGQ0ZTk3ZmJhM2ZkOTBfSUQ6NzY0NjMwNDEwMTc5ODIwMjMxMV8xNzgyMDk5MTcxOjE3ODIxMDI3NzFfVjM)
+![图片展示了Mac终端工具Ghostty的相关信息。左侧是Ghostty的图标及文字，强调其为Mac新机必装工具，目前对AI终端最友好。右侧列出Ghostty的默认快捷键示例，包括Cmd + t新建标签页、Cmd + n新建窗口、Cmd + f模糊查找（可结合AI）、Cmd + k AI命令运行（示例）、Cmd + Shift + p命令面板、Cmd + Option + 方向键调整分割窗口、Cmd + 1 - 9切换标签页等。该图片与文档中介绍Mac使用指南系列文章中关于Ghostty配置的内容相关，直观呈现了Ghostty的部分功能与快捷键。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmZjY2YzMzBmMzgwNmUzMWE0Y2I1OTFjOTYxNGVmOWRfNGNiZjE1NWVjOWZmZWU5MGZhNGNlYzEyNGUzMDY3YzZfSUQ6NzY0NjMwNDEwMTc5ODIwMjMxMV8xNzgyMTA3MzMyOjE3ODIxMTA5MzJfVjM)
 
 这是这个系列第三篇文章，我会把自己最近从零开始梳理，整理 Mac 使用过程中的经验与步骤记录下来，作为留存与分享。如果拿到一款新的Mac，我最先安装的终端工具就是Ghostty。
 
@@ -21,15 +21,15 @@
 
 当然了你也可以使用其他的AI 客户端工具进行安装，都是没问题的
 
-![图片展示的是Codex App中安装Ghostty后的界面。界面中说明Ghostty已安装，版本为1.3.1，应用在Ghostty.app。还提到本次Homebrew安装的是桌面App，本机默认没有把ghostty命令放进PATH，但可执行文件在ghostty，可直接从“应用程序”里打开。界面右上角有“直接帮我安装ghostty”按钮，下方有“已处理3m 33s”提示，底部有“要求后续变更”选项卡及“+”按钮等。该图片与上文介绍在Codex app中安装Ghostty的内容相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODdkNGZkOTAyYmY0ODRiYjQzOGFjOWUxZTUzZTY4MTBfNTI4YTEyYWNmN2YxZDYzOTFjMTgzYmZkZGRiMzE3NjhfSUQ6NzY0NjMwNDEyNjU3ODI4MTQzM18xNzgyMDk5MTcxOjE3ODIxMDI3NzFfVjM)
+![图片展示的是Codex App中安装Ghostty后的界面。界面中说明Ghostty已安装，版本为1.3.1，应用在Ghostty.app。还提到本次Homebrew安装的是桌面App，本机默认没有把ghostty命令放进PATH，但可执行文件在ghostty，可直接从“应用程序”里打开。界面右上角有“直接帮我安装ghostty”按钮，下方有“已处理3m 33s”提示，底部有“要求后续变更”选项卡及“+”按钮等。该图片与上文介绍在Codex app中安装Ghostty的内容相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjNhNjU0ZGQxYWUxYWNmMDAwMzY5YzBlYzhiYWZlYTRfNWY3NmIzYWY3YzAxNmJjNTdmNTRjMWNhZmQwMWFkNGJfSUQ6NzY0NjMwNDEyNjU3ODI4MTQzM18xNzgyMTA3MzMyOjE3ODIxMTA5MzJfVjM)
 
 安装完毕，它是一个单独的APP应用，找到它，如果无法打开
 
-![图片展示的是Mac系统中安装Ghostty终端管理器后，若无法打开时弹出的警告窗口。窗口上方有Ghostty的图标，下方文字提示“未打开‘Ghostty’，Apple无法验证‘Ghostty’是否包含可能危害Mac安全或泄漏隐私的恶意软件。”并有“完成”和“移到废纸篓”两个按钮。该图片与上下文紧密相关，上下文提到安装完毕后若无法打开，需点击右上角“❓”->“隐私与安全”->“安全性”->“仍要打开”来解决此问题，此图直观呈现了无法打开时的提示窗口。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDEzZWExMTUwOTEzZjJkY2NkN2YzNWRkN2ZmMjBmMWFfM2U0NTA4OGVkODY3NDM5MmIxYjIyZjM3MGQwMTc2OTNfSUQ6NzY0NjMwNDE0ODg2NjU5OTg3OV8xNzgyMDk5MTcxOjE3ODIxMDI3NzFfVjM)
+![图片展示的是Mac系统中安装Ghostty终端管理器后，若无法打开时弹出的警告窗口。窗口上方有Ghostty的图标，下方文字提示“未打开‘Ghostty’，Apple无法验证‘Ghostty’是否包含可能危害Mac安全或泄漏隐私的恶意软件。”并有“完成”和“移到废纸篓”两个按钮。该图片与上下文紧密相关，上下文提到安装完毕后若无法打开，需点击右上角“❓”->“隐私与安全”->“安全性”->“仍要打开”来解决此问题，此图直观呈现了无法打开时的提示窗口。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGJlNmEyYmRjN2Q2YTUxNDU5MjhjNTUzZDZkYzFlZjNfZjE1Njc0N2Q0YmZkM2I0YTQ1NGU0ZmE5OTk0MDBkNGRfSUQ6NzY0NjMwNDE0ODg2NjU5OTg3OV8xNzgyMTA3MzMyOjE3ODIxMTA5MzJfVjM)
 
 点击右上角❓-> 点击隐私与安全->安全性->点击仍要打开就可以了。
 
-![图片展示了Mac系统中“安全性”设置界面。左侧为系统偏好设置菜单，选中“安全性与隐私”。右侧“安全性”部分显示“已阻止‘Ghostty’以保护Mac”，下方有“文件保险箱”“配件”“锁定模式”“后台安全改进”等选项，其中“仍要打开”按钮被红色框突出显示。该图片与上文“如果无法打开Ghostty，点击右上角❓->点击隐私与安全->安全性->点击仍要打开”内容对应，直观呈现了操作步骤中需点击的“仍要打开”按钮位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWRmNGUyMmNmNGU2ZjI3OWQzYTcyYTNlMGUyZDY1ZjhfMGI2MTEzZDI1NmNmOTZlYzE0YzEzZDZmMjYzNTU1ZWVfSUQ6NzY0NjMwNDE2ODE2OTM5MzExNF8xNzgyMDk5MTcxOjE3ODIxMDI3NzFfVjM)
+![图片展示了Mac系统中“安全性”设置界面。左侧为系统偏好设置菜单，选中“安全性与隐私”。右侧“安全性”部分显示“已阻止‘Ghostty’以保护Mac”，下方有“文件保险箱”“配件”“锁定模式”“后台安全改进”等选项，其中“仍要打开”按钮被红色框突出显示。该图片与上文“如果无法打开Ghostty，点击右上角❓->点击隐私与安全->安全性->点击仍要打开”内容对应，直观呈现了操作步骤中需点击的“仍要打开”按钮位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTEwOTViOTJjMzlkOGQwYjMwYmYyMjBkMjFmYzdlMTZfMTVhOTJlZTU1YWJlOGRhMzMyYTMyNDNlMGYxYjg2ZmJfSUQ6NzY0NjMwNDE2ODE2OTM5MzExNF8xNzgyMTA3MzMyOjE3ODIxMTA5MzJfVjM)
 
 如果你担心AI执行有问题。同样可以再终端下执行如下命令,如果你还没安装Homebrew,请查看我上面系列文章的第一篇。
 
@@ -57,15 +57,15 @@ brew install --cask ghostty
 
 上面安装完了，可以直接到App中查看点击使用，也可以进行设置命令行中开启如下图
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWUwMmFiODIyNGVhNWEyYzgwNjQ5ZTE0MWUxZjU2MzVfNzI3YWU3YTVlOTdmOTUxMjhlMTY1NmE3ODhjOTZjMjdfSUQ6NzY0NjMwNDE5NTE0NjU2NjU5NF8xNzgyMDk5MTcxOjE3ODIxMDI3NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjhkMmU2MTFiNGQyODZiYTQ1NWY2NTBkNmFhMWJmZWJfMWJmMTBmOGJiM2FhZmY3YzdjNmMxNjdhODM1MWQ4ZWFfSUQ6NzY0NjMwNDE5NTE0NjU2NjU5NF8xNzgyMTA3MzMyOjE3ODIxMTA5MzJfVjM)
 
 设置别名完毕，再让他生成一份“适合写代码”的Ghostty初始化配置。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGNkNTMxOGEzODI4YmE3YzQxYzZiNDY1YTE4ZmIyNjNfMjI2NmI2YWIwNzAzYzgzYmIyNTI4MjA3YzRmNDVmYjBfSUQ6NzY0NjMwNDIxOTA4NzIyNzg2OF8xNzgyMDk5MTcxOjE3ODIxMDI3NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGJkMTg4Nzg4ZDdhOTRlNWY2NDI5N2RlYzNmM2U2MjRfYWQ1ZjA0NjlkNTQ2YmY3Y2ZlNWFiY2ZiZWI2NmQ5YTBfSUQ6NzY0NjMwNDIxOTA4NzIyNzg2OF8xNzgyMTA3MzMyOjE3ODIxMTA5MzJfVjM)
 
 我暂时就这么用用看，可以双Tab，然后 Command + 1, Command +2 轻松切换Tab。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmVlZDJkNGZlMGRmZGM4NDZlMzRmNWUwNWY5NGRhZDNfMDMwZjlhNWI0YzUyNjE2Yjk4MTc1ZTQ1ODEyZWZlYjlfSUQ6NzY0NjMwNDIzNjc4NzY2NTg1MF8xNzgyMDk5MTcxOjE3ODIxMDI3NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjcwNjM0ZmYyNGM5MzhiMTY1YmJjMzMxOTY5M2QxN2RfYmQ4ZGQzYzcwNjcyZTMxNDZmNDJjMzc1YzkzNjgwYTZfSUQ6NzY0NjMwNDIzNjc4NzY2NTg1MF8xNzgyMTA3MzMyOjE3ODIxMTA5MzJfVjM)
 
 也可以一个Tab 左右两个命令行窗口： Command + D
 
@@ -285,6 +285,10 @@ brew install --cask font-maple-mono-nf-cn
 
 奉上一份Ghostty快捷键有时候可以多查查。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmYwZjExM2IwODc0M2FjODA5ODA5NWNkNGFkN2ZlZGZfMjE2ZTQ0YjAxM2EzODQ0NGRkNDhkMTQ4NDA5YzMxMDJfSUQ6NzY0NjMwNDI1ODM3NTk3NzkzMl8xNzgyMDk5MTcxOjE3ODIxMDI3NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDNiOWU2ZWI4MWRkODlmMzBkZTg3ZmY5ZWM3OTA2MTlfOWI5ZmRlNTZhZDBhMzZmMjQ0MTM5OGM1MTM2NzYzNDVfSUQ6NzY0NjMwNDI1ODM3NTk3NzkzMl8xNzgyMTA3MzMyOjE3ODIxMTA5MzJfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzliZjllYTJlZTFhNDQ1ZTVhN2RmY2RlMTQwMjZhMzlfOTllYTNiODI5MmRmNjllZTQ2N2Q3MWE4M2Y0OGI1ZDFfSUQ6NzY0NjMwNDI3Mzc4MTYyMzc3Ml8xNzgyMDk5MTcxOjE3ODIxMDI3NzFfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWYzYThkNWNjNWZkYjMzOWJjZDI4MmNiMzc1M2EwOGZfMWQzZjEzMTRjZTZjNWQxODg4ZTFkZWNkNTFlNDc3YjRfSUQ6NzY0NjMwNDI3Mzc4MTYyMzc3Ml8xNzgyMTA3MzMyOjE3ODIxMTA5MzJfVjM)
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Bxb2wD7NJiZ6GqkMtzOcluCunvg> ｜ 归档：2026-06-22

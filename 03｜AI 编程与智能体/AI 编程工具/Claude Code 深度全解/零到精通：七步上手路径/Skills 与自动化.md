@@ -506,3 +506,7 @@ Claude 会：
 ---
 
 **完成模块 05？** → 进入 模块 06：Hooks 与事件
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/GfnnwNIKWijnTfkO0ZJcdZEvnWh> ｜ 归档：2026-06-22

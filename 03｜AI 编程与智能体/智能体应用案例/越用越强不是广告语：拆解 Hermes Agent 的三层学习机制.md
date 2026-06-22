@@ -1,6 +1,6 @@
 # 越用越强不是广告语：拆解 Hermes Agent 的三层学习机制
 
-![图片展示了Hermes Agent的三层学习机制拆。上方是Atropos自训练环路，中间是技能自提炼（技能层），下方是记忆层持久化（记忆层）。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTc1ZTlmYTViYmY2YjhmNDc2Njg5ZjhiNTIzMjU5ZmFfZGQ2YTFmMGJlMzkyMjM4MDRjZjE5ZmU2MjJkN2QyYjRfSUQ6NzY0NTI0MjIzMzI2MDUxMDM4OF8xNzgyMDk5MDc4OjE3ODIxMDI2NzhfVjM)
+![图片展示了Hermes Agent的三层学习机制拆。上方是Atropos自训练环路，中间是技能自提炼（技能层），下方是记忆层持久化（记忆层）。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGE0Y2NkNmJhOWY3ZmVkZTY1NDMzZjUzOTEyYjIzYThfOGFjZmE3MTgzY2E3OWMzZWRkZmZlZjI5M2U2MzljN2VfSUQ6NzY0NTI0MjIzMzI2MDUxMDM4OF8xNzgyMTA3MjUyOjE3ODIxMTA4NTJfVjM)
 
 ## 用 AI agent 有一段时间了，有个问题一直没解决：每次开新会话，它对我的项目和习惯还是一无所知。上下文配置文件里写了不少，但写进去的是静态的——它不会自己学，也不会根据我真实的操作习惯去调整。跑得熟不熟，完全取决于我自己有没有空去维护那份文件。Hermes Agent 是 Nous Research 今年二月发布的开源代理框架（MIT 协议），主打的就是解决这个问题——让 agent 从使用中自己学，不靠你手动补。这篇主要拆它三层学习机制怎么运转，以及和 OpenClaw 的根本差在哪里。安装部分只带过一下，够跑通就行。
 
@@ -12,7 +12,7 @@
 
 先把架构铺平，不然后面的机制很容易混在一起。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTlhMzg0YjliOWM4ZWE2Y2IxMTdmM2Q5Y2YzOTU3NWVfNzVjNGY1MTZjZDkyOWZiMjI4MzY0ZjJjNjBlOTYwZmFfSUQ6NzY0NTI0MjI0MDI2MjMyNzQ4N18xNzgyMDk5MDc4OjE3ODIxMDI2NzhfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODE3YjIzZjU5YzA3MDhlY2NhMTdkOTJmNTdkMmM2OThfYzcyNGUxNjZhOTBlMTJiZjA5MzkyYzJiYzJjNmRhNmJfSUQ6NzY0NTI0MjI0MDI2MjMyNzQ4N18xNzgyMTA3MjUyOjE3ODIxMTA4NTJfVjM)
 
 ### 记忆层
 
@@ -31,7 +31,7 @@
 
 ReAct 循环：观察（读终端输出或文件内容）→ 推理（对照目标分析当前状态）→ 行动（执行命令或调用工具）。驱动这个循环的是 Hermes-3 模型（基于 Llama 3.1），Nous Research 自家的 Atropos 做了专项微调，重点针对工具调用精度和多步规划——跑长任务不容易迷路。Atropos 不只是训练底层模型用的——框架里还内置了 RL 训练管道。agent 跑任务时产生的工具调用轨迹可以直接导出，拿去当微调数据。换句话说，你用它干活就是在给模型喂数据。记忆在迭代，技能在迭代，连模型本身都可以跟着你的使用习惯收敛。这才是"越用越强"真正指的东西。三层同时运转：agent 执行任务时记忆层在喂上下文，执行完之后技能层在判断要不要把这次的解法提炼成一个可复用文件，执行轨迹则在后台积累成潜在的训练数据。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTI2MDEyNDJmMDYxZjI1MTExNjllYjA5Zjk4NjJlNjRfMzkzM2U3ZGY1NzM0NzFkOTVlZWFiYWUwMjAxOWMzMTJfSUQ6NzY0NTI0MjIxMzkxMjM5OTAyN18xNzgyMDk5MDc4OjE3ODIxMDI2NzhfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmUxOWEyZTZjZWM4ZDI5M2JmMWQyYmM2NGY2NGMxZjlfMDFiNDhmOGVhZjQzMTJhMGExZWY0MWY2OWI1Mzc3NTNfSUQ6NzY0NTI0MjIxMzkxMjM5OTAyN18xNzgyMTA3MjUyOjE3ODIxMTA4NTJfVjM)
 
 ---
 
@@ -39,7 +39,7 @@ ReAct 循环：观察（读终端输出或文件内容）→ 推理（对照目�
 
 OpenClaw 的 skill 是人工写的——你或者其他开发者写好工具调用指令，agent 照着执行，写死了就是写死了。Hermes 的 Skill Document 是 agent 自己提炼的。具体流程分四步：**触发条件**：任务完成后，agent 先评估这次解法是否"足够新颖且非平凡"。简单任务不触发技能提取，只有复杂工作流才进入下一步。**成功判断**：两类信号。显性信号是你主动告诉它"好"或者纠正了它；隐性信号是你直接采纳输出，一字没改——这也算确认。连续几次都没改，agent 就认为这条路走对了。**提炼内容**：从执行轨迹里抽取：执行步骤、关键决策点、常见失败模式、验证逻辑，打包成一个有名字的 Markdown 文件（存在 `~/.hermes/skills/` 下）。文件格式遵循 agentskills.io 开放标准，可以装别人沉淀好的技能，也可以把自己的共享出去。**就地更新**：下次遇到类似任务，它不从零开始，而是先搜技能库，找到对应 Skill Document 直接复用。如果这次跑出了更好的路径，它会就地更新原文件：让步骤描述更准确，把新发现的边界情况补进去，删掉已经过时的步骤。不是打补丁，不是另建一份，是原地演化。模板就是固定的填空格式，你改一个变量，其他全不动。Skill Document 不是这样——从真实执行轨迹里提炼出来的，带条件分支，带失败回路，更接近真正的程序逻辑。官方说这叫"program synthesis"，比模板走得深多了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjYxZTg3MGY4YTAwYjQ4MGUzNzY3MTM1MmZmNDExYTVfNTM3NTZiMjJjNjliMWYzMzNjZWU3NmRiOTZhMTQ1NWZfSUQ6NzY0NTI0MjIyMjM4NDA1NzUzOF8xNzgyMDk5MDc4OjE3ODIxMDI2NzhfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWQxMDY1NTJlMzdiYmQwYzIyMDNmMWNiMDNiNWQ1MzNfZDVjOTVjZTVmNWVhZTUxNDZjMTkwMjM0N2FmOGI0ODNfSUQ6NzY0NTI0MjIyMjM4NDA1NzUzOF8xNzgyMTA3MjUyOjE3ODIxMTA4NTJfVjM)
 
 > 风险提示：自动生成的技能可能对产生它的那个特定上下文有过拟合——在别的上下文里调用时，很难在失败之前发现问题。而且行为建模比传统 RAG 更难检查和调试：如果模型学偏了或者积累了噪声，找到根本原因需要更多排查。这是文档里明确列出的已知风险，不是小概率情况。
 
@@ -49,7 +49,7 @@ OpenClaw 的 skill 是人工写的——你或者其他开发者写好工具调�
 
 两个框架赌的方向完全不同，跑下来感受差很多。OpenClaw 用**中央网关**管所有的会话、路由、工具执行，流程清晰，行为范围精确可控——你已经想好要干什么，它就是一个可靠的执行者。Hermes 反过来，把**agent 执行循环**本身当引擎，网关和工具运行时都围着这个循环转，行为更难预测，但对边界没想清楚的任务反而更能适应。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzNiNDRmMmZmY2NkOTlkNmM0ODYxNDMwMjYxZTM1MThfZmQxMTYxZmU1MTk5YzE1MmUyMjA3ZmQ1MDAyZWNmYjFfSUQ6NzY0NTI0MjIyOTMzODE0ODA2MF8xNzgyMDk5MDc4OjE3ODIxMDI2NzhfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzhiODQxZDI5MWEyODYxYjdlZTNhMGM4NDM5MTFlNDBfMjk2OWE5ZjJhYjdkNWE4YWQ5OWVlMThlNjQ0NjNiNzRfSUQ6NzY0NTI0MjIyOTMzODE0ODA2MF8xNzgyMTA3MjUyOjE3ODIxMTA4NTJfVjM)
 
 |  |  |  |
 |-|-|-|
@@ -84,3 +84,7 @@ hermes setup
 - [AI Skill 到底是什么？搞懂这个，AI 才算真的用上了](https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b) — Skill 概念基础
 - [我把「开源」这件事本身做成了 Skill](https://lcnniolukk80.feishu.cn/wiki/WnOxwoICHiqqHRkLBqZcQOpYnQe) — 一个 Skill 跑通的案例
 - [别让 AI 写得像 AI：83 篇博客训练专属写作助手](https://lcnniolukk80.feishu.cn/wiki/L3rhw5d1AigmZAkD2HPcA4EFnic) — 训练专属 Skill 的写作场景
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/MY8CwTTPOi2LrZkDtrPc8rE3nsh> ｜ 归档：2026-06-22

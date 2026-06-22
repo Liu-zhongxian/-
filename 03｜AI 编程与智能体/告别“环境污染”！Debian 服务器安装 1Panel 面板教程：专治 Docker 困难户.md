@@ -6,7 +6,7 @@
 
 **1Panel** 就是那个完美的替代方案。它主打“全容器化”管理，最关键的是，它**自带了 Docker 镜像加速和全套适配**，完美适合国内体质，不需要你再去改什么 `daemon.json` 配置文件，开箱即用。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2Q2ZTg2MWIzMzY5NGJlOTg3ZTdmYWI2ODY2MTQwNmZfMmQ4YmU4MjMyZWVmMzZjNmIzYTM2NDczYjE1ODg4YmRfSUQ6NzY0ODI3MzY1MzY1Nzg0OTA1MF8xNzgyMDk5MTAzOjE3ODIxMDI3MDNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODI1NDAxMTdkZGFhMWE4ODY2ZjBiNjNkNGY4ZWQ4ZmFfNDRmN2Y2NTI5Nzc2Mjc4NTAxZjI3Y2VhZGIxN2M0YWNfSUQ6NzY0ODI3MzY1MzY1Nzg0OTA1MF8xNzgyMTA3Mjc1OjE3ODIxMTA4NzVfVjM)
 
 ## 一、 宝塔和1Panel的区别是什么？
 
@@ -59,7 +59,7 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 
 等待大概 2-3 分钟，看到满屏的 Success，并输出了面板地址、账号和密码，就算大功告成了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjhiNGUwYWUyOWU3YmUyMTI2NmU2YTQ5NThiODhkZThfMzg0YTc0ZWJhOGQxNjVlNGVkMDMyNjU4NWE0NWE4ZjhfSUQ6NzY0ODI3MzY5MDc1NDI3MjQ2NV8xNzgyMDk5MTA0OjE3ODIxMDI3MDRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGViMWRjZjYyOTkxZmUwYTQ3NjIzYmVlMDIyOGZmNzVfMDNjMmY2ZTA3ZDM1NzZlNmIzN2IwNjdlZmM0YWI3MTBfSUQ6NzY0ODI3MzY5MDc1NDI3MjQ2NV8xNzgyMTA3Mjc1OjE3ODIxMTA4NzVfVjM)
 
 ## 四、 放行防火墙与初次体验
 
@@ -67,7 +67,7 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 
 在浏览器输入 `http://IP:端口/安全入口`，登录进去。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDYwMTZhZDE0OTBmNzJlNzM3ZDRkYTY1MTQ1MzdmZGRfZmYwMTZiY2FiZDkwYWRjMDE3MjgwMzk1NDk1MjYyZmFfSUQ6NzY0ODI3MzcyOTA4Mzk4NTExMF8xNzgyMDk5MTA0OjE3ODIxMDI3MDRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjEwODVmYmM1MzBkOWU0ZTZjMzY3MGJhMjRiMTE1MmRfNzU1MmNmNTkxMjBlYzVlZjFhYWFmYmVjNTk5YTFjNTFfSUQ6NzY0ODI3MzcyOTA4Mzk4NTExMF8xNzgyMTA3Mjc1OjE3ODIxMTA4NzVfVjM)
 
 > **第一眼的感觉：** 其实感觉蛮干净的，但是我更喜欢以前的版本，因为更简洁只保留相对的核心功能，但是现在因为越做越大慢慢的界面也多出了很多冗余，不过说到底也还是一款不错的面板
 
@@ -85,9 +85,9 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 - 你会发现，它可以选择版本，而且**秒装**。因为它只需要拉取一个 Docker 镜像，不需要像宝塔那样编译半小时。
 - 一定要勾选 **“端口对外暴露”**（80 和 443），否则外网访问不了你的网站。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmVjYjY0OTUwZjAyMWI5Nzg4NmY1MTQyNjg5NjFkMTBfNWI4MjgwNDdmZjcyNmMxYWQ4MzY4N2Q5MDNiMTAyYWZfSUQ6NzY0ODI3Mzc1OTg0MTA0NTc1NF8xNzgyMDk5MTA0OjE3ODIxMDI3MDRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWY5N2Y3MDQ1ZDgzOGFmYmI4ZTgyM2QyY2Y1Y2QwMGNfNmU5MmFjMWJmZTViY2NhMzU5MzUyZDhmNThkOWVhY2ZfSUQ6NzY0ODI3Mzc1OTg0MTA0NTc1NF8xNzgyMTA3Mjc1OjE3ODIxMTA4NzVfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTFlMzljYTI4ODQ0MzY1YzVhODM4M2NhYTA2ZTExNDlfOWViNmU4YTljYjJkZDVkZTg1Y2UwNDJhM2UzYTQ4M2ZfSUQ6NzY0ODI3Mzc5NTM0OTk3NDI1Nl8xNzgyMDk5MTAzOjE3ODIxMDI3MDNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTIzMGY3MzI2NTViNThjNGYyOTYyMTBjZTZmM2VlZDdfZDg3N2I0ODAxYjI4OGM0ZTY2MTM1MTI0NjZhMzljN2JfSUQ6NzY0ODI3Mzc5NTM0OTk3NDI1Nl8xNzgyMTA3Mjc1OjE3ODIxMTA4NzVfVjM)
 
 ### 2. 安装 MySQL
 
@@ -97,9 +97,9 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 
 > 这个内部网络的设置对小白很友好，不需要配置网络分离和其他的设置，端口默认也不暴露在外非常安全。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmQyYTg4YjMxZDJhNDRhZmM4ZWI4NzcwMWU5ODI0ZTRfOWM1MzU2NGYwNzI3YzUxNmY3OWNiNzIxZjJhNDY0OGNfSUQ6NzY0ODI3MzgyNDgyNzY1NzQ1NF8xNzgyMDk5MTA0OjE3ODIxMDI3MDRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzQ1MzYwYWNjN2E2YjMxMmVkZTZiM2I4NzBlZGQzZjRfMDRjYjYyZGM5MGNkOTQ2MzlhZjg0MmZlOWVjZmJjM2VfSUQ6NzY0ODI3MzgyNDgyNzY1NzQ1NF8xNzgyMTA3Mjc1OjE3ODIxMTA4NzVfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTU1ZTBkNjlmMzc0NTMzMmFlNWMwNmQyZTc0NzI3MWRfN2RiM2RiZjA3YTc4OWFhZGRmNDE5ZGYxM2VlODYzNTRfSUQ6NzY0ODI3Mzg1NjQ0ODQ2NjEzNV8xNzgyMDk5MTA0OjE3ODIxMDI3MDRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzlmMTBmMmJkMDgyOTY0OTMzYjgwMGE3YjEzNDdhM2ZfYjdmZmZmOWM0OWNiY2U3NDI1MTkwYjRhNGYwYjQ2MTJfSUQ6NzY0ODI3Mzg1NjQ0ODQ2NjEzNV8xNzgyMTA3Mjc1OjE3ODIxMTA4NzVfVjM)
 
 ### 3. 建个网站试试
 
@@ -107,9 +107,9 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 - **运行环境**：选择“反向代理”（这是 1Panel 的逻辑，或者选择“运行环境”配合 PHP 容器）。
 - 如果是部署静态网页或简单的 Docker 应用（比如 Halo 博客、Alist 网盘），1Panel 的逻辑是：**应用商店一键部署应用 -> 网站功能做反向代理域名**。流程非常顺滑。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWMyNTdlMzcxMjQxZjkzY2RkNmE1NjExZmY4Y2E1ZjdfZDEwYzhjODQxMzhjMzk3NjA1MmRhNTdjMGVkOTg1YTZfSUQ6NzY0ODI3Mzg4ODY4MTcwODc4NV8xNzgyMDk5MTAzOjE3ODIxMDI3MDNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzY4NWM5NzczYzVmZjQ0Y2M2ZGU1MDRmZTEyOGExYTBfM2JhOTBiZGM2MGVhYzM5OTAwMjM3MTQzYjcxNzE5YWVfSUQ6NzY0ODI3Mzg4ODY4MTcwODc4NV8xNzgyMTA3Mjc1OjE3ODIxMTA4NzVfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDhmODMxOGM5NmZkNTVjOGZiN2UxNGE1ZmRmYTI0NDZfMzk5NDYxY2IxNWUyNWY0MWZiNWEzMjFjOTcxNWQxODhfSUQ6NzY0ODI3MzkxODIwMTE3MTE0OV8xNzgyMDk5MTA0OjE3ODIxMDI3MDRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTA3ZmJkMzgzMjhlMzY2OWZiNWY2ZTE1YTBlMTFkYzVfZTk1MmIyZGY2OTMwZjE0N2JlYTkxY2FjNGU5NDI2YjFfSUQ6NzY0ODI3MzkxODIwMTE3MTE0OV8xNzgyMTA3Mjc1OjE3ODIxMTA4NzVfVjM)
 
 ## 六、 总结：宝塔 vs 1Panel，怎么选？
 
@@ -121,3 +121,7 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 尤其是对于**国内服务器用户**，1Panel 自带的 Docker 优化能帮你省下大把找镜像源的时间。服务器干干净净，看着就舒心！
 
 这就是今天的教程，如果有遇到 Docker 拉取失败或者端口不通的问题，欢迎在评论区留言交流！
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/PVFtwB9SeiQQGFk0bSFcnIwanKb> ｜ 归档：2026-06-22

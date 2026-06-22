@@ -1,6 +1,6 @@
 # 告别复制粘贴：浏览器一键剪藏到 Obsidian
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzVmNTBlYWQ1ODAwMmU3Zjg2ZjEwZDI3OThmMWQzZjFfMzIxYzIwMzlhMWVlNDBhNTJiMmUzMjU2NzUzYzFiYjZfSUQ6NzY0NTI2NjE4OTUzNDk0MDM4NF8xNzgyMDk5MTQwOjE3ODIxMDI3NDBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTIwY2YzYWU2ZGE5YWY5NjVmMWRlMmUyMTc3N2Y3OWFfOTI3M2Q2NzFjMGQ5NTJiZGNmNTU2Njc5MjRlMjdiZTdfSUQ6NzY0NTI2NjE4OTUzNDk0MDM4NF8xNzgyMTA3MzA3OjE3ODIxMTA5MDdfVjM)
 
 前几篇教程教大家装好了 Obsidian，接上了 AI，笔记终于有了个家。
 
@@ -24,23 +24,23 @@
 
 Chrome 用户打开 [chromewebstore.google.com](https://chromewebstore.google.com/)，搜 "Obsidian Web Clipper"，认准 obsidian.md 官方那个，点安装。Edge / Firefox / Safari 也都有，去各自的扩展商店搜就行。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmM0YWUwOGI2MWUwNzk1YjczZDM2YzE5NDE1ZTgwMjhfOTEyNWJkZTRiMGM4MjNhZmY5MDZkY2YzMTAwNGQzODdfSUQ6NzY0NTI2NjE4OTU4OTU0ODI1MV8xNzgyMDk5MTQwOjE3ODIxMDI3NDBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDc5Yjc0MzNkYWViNTg4MDFlNjQ3ODU4YTYxMjY3YzNfNjg0ZWE1MWJhNDhkYTdlMWNmMWMyMjRkYmU2OGJlMmRfSUQ6NzY0NTI2NjE4OTU4OTU0ODI1MV8xNzgyMTA3MzA3OjE3ODIxMTA5MDdfVjM)
 
 装完记得把它钉到工具栏，方便随时用：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTZmOTQxZmM1N2E1MDRlYjc2NjY2Y2ViZGFlZWI2MjZfZWViMDM0OTYyZjc0NjMxMzZhZWU5YjJiNjMxYTc4YjFfSUQ6NzY0NTI2NjE4OTg0MTEyNDU2N18xNzgyMDk5MTQwOjE3ODIxMDI3NDBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWRjMDgzZDA1MGZjN2M5ZmEwOWRkNDVjOTk2NDgzM2RfNmE5NzY0Y2FhZmM1YjUyNzJhOGI5ZDhlZDY4YjhlMTBfSUQ6NzY0NTI2NjE4OTg0MTEyNDU2N18xNzgyMTA3MzA3OjE3ODIxMTA5MDdfVjM)
 
 𝟮. 配一下
 
 点工具栏上的 Obsidian 图标，第一次打开会提示需要配置。点右上角齿轮 ⚙️ 进设置：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDcxZTZlNmE0MTkwMWZhN2IwMGViNDNmM2M4NjY2YTlfYmUwMGZlYmU5NDk0YjQ3YTNjMWQ4MmY3MTgyZDRlNjRfSUQ6NzY0NTI2NjE5MjM5OTMzODY5Nl8xNzgyMDk5MTQwOjE3ODIxMDI3NDBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OThkYzI2NGM3YjExNDM3YjlkODQ2ZTgwZWQ2NjgwNzVfZjA0NmY3NTk4ZTYxNmQyOWMzZTg3OGJmZWY5NzgxZDNfSUQ6NzY0NTI2NjE5MjM5OTMzODY5Nl8xNzgyMTA3MzA3OjE3ODIxMTA5MDdfVjM)
 
 进去之后三件事一次搞定（跟着截图编号来）：
 
 ❶ 语言切中文 ❷ 绑定你的 Obsidian 库名，输入后回车（如果是跟着我之前教程的朋友设置的库的话库名是：OrbitOS-Second-Brain ） ✅ 跟着系列一路走过来的朋友不用担心落下什么 — 后面每篇我都会带上前情回顾，忘了也没关系，我帮你记着。 ❸ 点「新建模板」
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTE3YmQyNDdiZDVlMTY5NDU0MzhjMGNiNDU4ZjM4NTlfYjVhNGQ1NjAyZTgxMGFkOWRiZTZmOWEzZmY5OWFkMGVfSUQ6NzY0NTI2NjE4OTUzNDkyNDAwMF8xNzgyMDk5MTQwOjE3ODIxMDI3NDBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmY0ZDAxMmZjYmM5NzhiNjg1NThlODY4NTQzZTEwZTlfMjVmZTZhODlmODY3MjU1MzhlNGY5MzQ3ZTM1OTgyNTdfSUQ6NzY0NTI2NjE4OTUzNDkyNDAwMF8xNzgyMTA3MzA3OjE3ODIxMTA5MDdfVjM)
 
 𝟯. 配一个收件箱模板
 
@@ -50,7 +50,7 @@ Chrome 用户打开 [chromewebstore.google.com](https://chromewebstore.google.co
 
 ❶ 模板名称：OrbitOS 收件箱 ❷ 笔记位置：00\\\_收件箱（剪藏的内容会自动存到这个文件夹） ❸ 保管库：选你刚绑定的 ❹-❽ 添加 5 个属性：type → inbox、status → pending、source → web-clipper、url → {{url}}、created → {{date}}
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDJhNGYxYTQ0ZjY5M2FiMDIwNTg5N2MyNTVlN2VhYTRfMWM0YTZhNjg1YWEwNTExNGQ0MmZiNjM2YTdkYmRhNGFfSUQ6NzY0NTI2NjE5MjI0MTcyNDYyMF8xNzgyMDk5MTQwOjE3ODIxMDI3NDBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDIwZTVkZDBlNjc1ZmU5OTdhNTU4ZTI3MDFmNjE2ODFfNmZlNGVlMWU3NjBjZDY3NjAxNmMyZWNiYmFiNjc3NTZfSUQ6NzY0NTI2NjE5MjI0MTcyNDYyMF8xNzgyMTA3MzA3OjE3ODIxMTA5MDdfVjM)
 
 这些属性会自动出现在笔记顶部，后面筛选、归档全靠它们。
 
@@ -62,11 +62,11 @@ Chrome 用户打开 [chromewebstore.google.com](https://chromewebstore.google.co
 
 选「OrbitOS 收件箱」模板，右边能预览标题、属性和正文，没问题就点「添加到 Obsidian」：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGM2MTAwNjUzZDY1NmI3MjI5Yjg0Yzk1MWJiNzM0NTJfNGEyMjYxNDBjNzFjOWE3NzU2MDQ4ZjI1OWUwOGFlMzVfSUQ6NzY0NTI2NjE4OTgwMzU1NjAxOF8xNzgyMDk5MTQwOjE3ODIxMDI3NDBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjI1MWYwMjRiMTY1OGI3MTk0YjIyODJmZTZhZjAwMmVfMzJmNmQ5MzQ0NmUwOTQyNzdmNzc0NWYwNzIzZWIyNjJfSUQ6NzY0NTI2NjE4OTgwMzU1NjAxOF8xNzgyMTA3MzA3OjE3ODIxMTA5MDdfVjM)
 
 切回 Obsidian 看一眼 — 收件箱里多了一篇笔记。标题、原文链接、正文全都有，属性也自动带上了：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yzc2MDA1NzM5ODIyMzU5MWQ4YmRmNGViODc3ZjViNTFfZGI5ZmYzYjNmNmE3ZDNmNDlmZmVmNTZhMGZlNzIyNzhfSUQ6NzY0NTI2NjE5MTYxNTAzNjYxMl8xNzgyMDk5MTQwOjE3ODIxMDI3NDBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2U4NzJiNjdmYzlhZjA4OTQ0ZWYzODY3ZmM0ZWNiNzJfZjZiN2NiYmMwMzQyM2UzZWE5Njc2MTJmMjJiZTI4ZTBfSUQ6NzY0NTI2NjE5MTYxNTAzNjYxMl8xNzgyMTA3MzA3OjE3ODIxMTA5MDdfVjM)
 
 以后看到好文章，点一下就存好了。复制粘贴、手动建笔记、加标签这些事全省了。
 
@@ -83,3 +83,7 @@ Chrome 用户打开 [chromewebstore.google.com](https://chromewebstore.google.co
 ① 装了个浏览器插件，一键剪藏 ② 配了个模板，剪藏的内容自动进收件箱、带好标签
 
 以后看到好内容，点一下就存进知识库了。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Dg3hwJLmti0Ukck3rFMcAljMnsn> ｜ 归档：2026-06-22

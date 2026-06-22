@@ -404,3 +404,7 @@ jobs:
 - 「安全加固」 — MCP 和 webhook 安全
 - [官方 action 文档](https://github.com/anthropics/claude-code-action) — 解决方案指南、迁移、云提供商
 - [社区工作流蓝图](https://github.com/alirezarezvani/claude-code-github-workflow) — 8 个工作流 + 4 个自主智能体，适合进阶团队
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Tdsxwnze1iEfyUkQ8tec0QyNnWf> ｜ 归档：2026-06-22

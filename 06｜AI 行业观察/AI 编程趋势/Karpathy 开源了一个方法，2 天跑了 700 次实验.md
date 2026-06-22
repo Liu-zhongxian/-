@@ -1,6 +1,6 @@
 # Karpathy 开源了一个方法，2 天跑了 700 次实验
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzFhNzE1NjYxYjNiNGMzMGQwMDEyMzZmMmFkZjIzZTJfZmRjZWYxMGJiMjgyM2ZiZWQ2OGY2YmEzYTJjYzA0Y2FfSUQ6NzY0NTI2NTY4MTEyNjM0NTkyN18xNzgyMDk5MTc5OjE3ODIxMDI3NzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTdlOTI2ODU0NDJjZmNmMjU1ZTUxODc3YzUyMjc0ZGJfZmE3YmVjY2RmMTI3OWViNDI4NTM3YjliMzlkMmYyZDFfSUQ6NzY0NTI2NTY4MTEyNjM0NTkyN18xNzgyMTA3MzM3OjE3ODIxMTA5MzdfVjM)
 
 Karpathy 开源了一个方法，让 AI agent 自己做实验。
 
@@ -10,7 +10,7 @@ Karpathy 开源了一个方法，让 AI agent 自己做实验。
 
 这个方法叫 autoresearch。不是"自动搜资料"。今天用漫画讲清楚它到底在干什么。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTM0NjViMWMzYTdkNTA1NDVjOWM4YzNlNDFhODUyNGFfOGJjMTY3MzczZjM5MjY0Nzk1ODQ4MTYwMzc4NDllNzVfSUQ6NzY0NTI2NTY4MTU3NTEwMzY4NF8xNzgyMDk5MTc5OjE3ODIxMDI3NzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGQyZmQyMGVlNjgwYWIzZDM3NDA5MzFiNTFmZWRkZTJfMmI1MTI4NDkyNWQzYmVhYmJhMjY3NmY5YTVkMTRmNjJfSUQ6NzY0NTI2NTY4MTU3NTEwMzY4NF8xNzgyMTA3MzM3OjE3ODIxMTA5MzdfVjM)
 
 ## 一句话说清楚
 
@@ -20,7 +20,7 @@ autoresearch = **自动化实验循环**。
 
 改一点 → 测一轮 → 看指标 → 好就留，差就撤。然后再来。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzgxODQ0YTk1MjM2MDY0OWQyY2ZkMWQ2NWM4N2VkZTNfYmZkZjhjOTk0YmQ5NGYwYTAwYTlmYTIwMmE5MjRkOWFfSUQ6NzY0NTI2NTY3OTIzNTAyNjEyMV8xNzgyMDk5MTc5OjE3ODIxMDI3NzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MThjNjc2ZjhkN2FjMWZiZjVjMjE2YjQ5MzE4ZTdmOGVfODMxY2Y2NzQwMjE0ODFhZGUyZjAzMzAyOTMyN2M4MDdfSUQ6NzY0NTI2NTY3OTIzNTAyNjEyMV8xNzgyMTA3MzM3OjE3ODIxMTA5MzdfVjM)
 
 ## 从哪来的
 
@@ -36,7 +36,7 @@ Andrej Karpathy，OpenAI 联合创始人，今年 3 月开源了这个项目。
 
 Shopify CEO 拿同样的模式去优化 Liquid 模板引擎：93 次自动 commit，渲染快了 53%，内存省了 61%。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzJiZGMxNWEzM2JlYWZkMWJlZGY0ZjQ3NjRlNjhlOWRfMmVjOWM0OWIzMzMwZDMyNzkyMjVhM2Y4MWRmNjUwZTZfSUQ6NzY0NTI2NTY3OTg1NTg5NzgxOV8xNzgyMDk5MTc5OjE3ODIxMDI3NzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTdiYTgzOWQ1MWU0NzgxMGViYWNhZWYxM2E2MjA3MjdfNTk4ZGVhOWU2Yzg4ZmE4NjMzMDE5ZDcxNDZhODJiNGNfSUQ6NzY0NTI2NTY3OTg1NTg5NzgxOV8xNzgyMTA3MzM3OjE3ODIxMTA5MzdfVjM)
 
 ## 搬到 Claude Skills 上
 
@@ -46,7 +46,7 @@ Shopify CEO 拿同样的模式去优化 Liquid 模板引擎：93 次自动 commi
 
 不改模型代码，改的是技能提示词。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmVlNmM2MjFlNzQ1ZTEwMGE3YzkxN2Q1ZTllMDM2NDlfNDdiZDEyZDQxZjdiMzY1MmFiNjdkYzAxN2Q1Mjg3ZTFfSUQ6NzY0NTI2NTY3ODg0NDkzOTQ3OF8xNzgyMDk5MTc5OjE3ODIxMDI3NzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWRiMjBmMTY2ZGM3Njc2ZjkzMzk2ZjRjNzA0OTMwZDZfODdiZGI5YTEyZDBiOTA1NDhlM2ZiNTg3MGI3MjY2MWFfSUQ6NzY0NTI2NTY3ODg0NDkzOTQ3OF8xNzgyMTA3MzM3OjE3ODIxMTA5MzdfVjM)
 
 loop 一样：
 
@@ -54,7 +54,7 @@ loop 一样：
 
 Ole Lehmann 的落地页文案 Skill：56% → 92%。4 轮改动，全程自动。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWQ1YWEwYjZlN2VjZDg1MTcyYTcxMDgwYjc4YzQ5ODFfODMwMTNkM2MyMGJmMWRhODEzN2E5YWU5MjQxZmFjZjdfSUQ6NzY0NTI2NTY4MTE0MzEyMzE2OF8xNzgyMDk5MTc5OjE3ODIxMDI3NzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDk5NzJiYTE4ZGNmODkyOWY0NmIzNzhkZmVhNTc3NjBfZGMxNzg1MmEwMmEyNjY1YmNhOGE4OWY3MTU2NWExNTBfSUQ6NzY0NTI2NTY4MTE0MzEyMzE2OF8xNzgyMTA3MzM3OjE3ODIxMTA5MzdfVjM)
 
 ## 核心是 eval
 
@@ -62,7 +62,7 @@ Ole Lehmann 的落地页文案 Skill：56% → 92%。4 轮改动，全程自动�
 
 是你怎么定义"好"。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDZhY2M2MGZiZjk1MGI0NjU4Mjk4ZmY2YmM3NTA3MmFfZWY0MTAzMjNlYWUwMTliZDNhMmE0MDVhMDUzYjU4ODhfSUQ6NzY0NTI2NTY4MDM0MjEyNTc4NF8xNzgyMDk5MTc5OjE3ODIxMDI3NzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWE2YWEyZDhiZmJkMWQxYWE5ODM5YWNiMTY1OGM0NGJfNjkxZDBkNGJjYTU5YWE0ZGI2NGE2NzdiNmM5OGQwOGRfSUQ6NzY0NTI2NTY4MDM0MjEyNTc4NF8xNzgyMTA3MzM3OjE3ODIxMTA5MzdfVjM)
 
 autoresearch 要求 binary eval——每项只有 yes 或 no：
 
@@ -74,16 +74,20 @@ autoresearch 要求 binary eval——每项只有 yes 或 no：
 
 ## 边界在哪
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzIxMmFjMTc2ZDIwN2FjM2EyYTNlNzVlNjVhNzFlMWVfZTNiN2NmODM4MDc3MWVlYzJmODI0NzViZWJlZGQ1NjlfSUQ6NzY0NTI2NTY4MjUwMzY4MzI1MF8xNzgyMDk5MTc5OjE3ODIxMDI3NzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDJkMjg4YzE2ZTQ4YjEyMTI3MzRkZGIxM2E0M2M2ZjVfMDdlZDUxMjQyMDUxMmEzMWI0MGVjNzA2Yjk3NjljZDZfSUQ6NzY0NTI2NTY4MjUwMzY4MzI1MF8xNzgyMTA3MzM3OjE3ODIxMTA5MzdfVjM)
 
 • eval 写歪了 → agent 会迎合 checklist，不是真质量 • 测试样本太少 → 过拟合，换个输入就崩 • 纯主观创意任务 → 没有稳定的 binary eval，别硬上
 
 ## 所以它到底改变了什么
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTQwMmJlMjI5ZjM0MzljYjI2MGNjYzllNTkyMDM1MDNfNjhlOGRhMDI1YzI0Y2M3NzhkOTVhZDkyMmMwZTM1MWFfSUQ6NzY0NTI2NTY3OTg1NTkxNDIwM18xNzgyMDk5MTc5OjE3ODIxMDI3NzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWUyOWI3NTc0YzM2Mzg0NjQ3N2M5ZmE5MTQ1M2JjZmVfMzBmZWM3OTA2OTNlODc0NDBiYTE4YWZhYjhhNTEyNjlfSUQ6NzY0NTI2NTY3OTg1NTkxNDIwM18xNzgyMTA3MzM3OjE3ODIxMTA5MzdfVjM)
 
 不是 AI 变聪明了。
 
 是调 prompt 这件事，从拍脑袋变成了做实验。
 
 **一次性 Prompt，只会越来越旧。可迭代资产，才会越用越强。**
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/O5rqw9LcwiuucDk0APwcrpj7nLe> ｜ 归档：2026-06-22

@@ -1926,3 +1926,7 @@ SKILL.md 在第一步读取参考文件：
 ---
 
 *返回 「主指南」 | 「README」*
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/X6iXwqTstif65GkyYg4cK9ztnsf> ｜ 归档：2026-06-22

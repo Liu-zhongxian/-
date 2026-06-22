@@ -126,3 +126,7 @@ flowchart TB
 - [01.3｜新手避坑清单](https://lcnniolukk80.feishu.cn/wiki/Aq7FweDT3iRXt5kOjvhcCqdTnCg) — 回到本章总览
 - [01.1｜AI 基础概念](https://lcnniolukk80.feishu.cn/wiki/ZDXGwkB7NiaPr6kbDPicgLFHnif) — 概念基础
 - [AI 幻觉：5 个减幻招式](https://lcnniolukk80.feishu.cn/wiki/E914wrridiL2TOk2ScgcKwdcnDd) — 误区 3 / 7 的根因和救法
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/C75pwxXkmiYmljkryA4c0Y8vntc> ｜ 归档：2026-06-22

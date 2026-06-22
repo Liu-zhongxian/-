@@ -1,6 +1,6 @@
 # 0 元打通 Claude + Codex + OpenCode：一个免费模型，6 个入口，20 分钟搞定
 
-![图片展示了一款AI编程工具的宣传内容。上方文字为“0元打通Claude+Codex+OpenCode，一个免费模型，6个入口，20分钟搞定”，强调其免费、多入口、快速搞定的特点。画面右侧有一个人站在数字“2”前，周围环绕着代码符号和数字。下方列出6个入口，分别是Claude命令行、桌面端，Codex CLI命令行、桌面端，OpenCode命令行、桌面端。底部有“20分钟快速搞定”“0费用免费畅用”“6个入口全部验证通过”等标识。该图片与文档中介绍接入多个AI编程工具的方案内容相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGRlMDVmNDUzNjY3MDEyNTVhNWVlY2M2ODg4Zjc3ZThfOGRmMGQyYzY2MDIwODZiOWJiMDg0YjViYzFlYWI1ZmZfSUQ6NzY0NTcxMTQ5MjM4NTQ0MzAyMF8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了一款AI编程工具的宣传内容。上方文字为“0元打通Claude+Codex+OpenCode，一个免费模型，6个入口，20分钟搞定”，强调其免费、多入口、快速搞定的特点。画面右侧有一个人站在数字“2”前，周围环绕着代码符号和数字。下方列出6个入口，分别是Claude命令行、桌面端，Codex CLI命令行、桌面端，OpenCode命令行、桌面端。底部有“20分钟快速搞定”“0费用免费畅用”“6个入口全部验证通过”等标识。该图片与文档中介绍接入多个AI编程工具的方案内容相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTY5MGIwMDQ4MzI3ZjJmNTJmZmQwYjhmNWEwZWQ5YWZfZGQ1MDIyZmJkYzlhYmE1YmRmNTU3MzZkNjYxZjA4NGFfSUQ6NzY0NTcxMTQ5MjM4NTQ0MzAyMF8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 20 分钟，0 费用，6 个 AI 编程工具全部接入同一个免费模型。
 
@@ -36,7 +36,7 @@ https://openrouter.ai/api/v1
 
 ```
 
-![图片展示的是inclusionAI: Ring - 2.6 - 1T (free)的介绍页面。页面上方有“Chat”和“Compare”按钮。下方介绍该模型为1T参数的超大规模语言模型，适用于需要强大能力与操作效率的现实世界代理工作流，优化了编码代理、工具使用及长时任务执行，且在多个基准测试中表现出色。还提到其动态分配推理预算，适合高级编码代理、复杂推理管道及执行质量、延迟和成本效率至关重要的大规模自主系统。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjdkOWE5ZDg2ZmQzNmU2NmM2ZTg0NmI1ZTZmOWU3Y2RfNjRiODk1MTQyNjc5YjVmODY5ZjUxNDM2OWM4YTA3MDJfSUQ6NzY0NTcxMTUwNDkzMDY3MTgzNV8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示的是inclusionAI: Ring - 2.6 - 1T (free)的介绍页面。页面上方有“Chat”和“Compare”按钮。下方介绍该模型为1T参数的超大规模语言模型，适用于需要强大能力与操作效率的现实世界代理工作流，优化了编码代理、工具使用及长时任务执行，且在多个基准测试中表现出色。还提到其动态分配推理预算，适合高级编码代理、复杂推理管道及执行质量、延迟和成本效率至关重要的大规模自主系统。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTM4Y2IyNzVkNDQxMjMzOTE4ZDIyNTA1OTNiNjgxY2NfZDAwMzc3MGMwMjcwMTNkYmU2M2VkOWNlMGM3YjczZjJfSUQ6NzY0NTcxMTUwNDkzMDY3MTgzNV8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 ## 二、准备 OpenRouter Key
 
@@ -49,13 +49,13 @@ https://openrouter.ai/keys
 
 创建后复制保存，后面主要填到 CC Switch 里；Claude 桌面端这种特殊入口，会通过本地路由间接使用。
 
-![图片展示的是OpenRouter的API Keys页面。左侧导航栏中“API Keys”选项被红色框突出显示。页面上方有“Create and manage your API keys”提示。下方表格列出了已有的两个API Key，包括Key名称、Guardrails、Expire、Last Used、Usage、Limit等信息，如cc和claude的Key，均无Guardrails，Expire为Never，Last Used分别为Never和1小时前，Usage均为$0.000，Limit均为unlimited。右上角有“New Key”按钮。该图与上文“先打开OpenRouter的API Key页面，新建一个Key”的内容相关，展示了新建Key的页面位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTdjNjkwNWJiNTI1YTkyMjU1NGU4YmQ2ZDAxZjZlNDBfYzllMDgxMTU4ODBjYTdjNmM5NjRiM2VjYzQ1ODU5OGZfSUQ6NzY0NTcxMTUyMDUyMDg2NzAzMF8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示的是OpenRouter的API Keys页面。左侧导航栏中“API Keys”选项被红色框突出显示。页面上方有“Create and manage your API keys”提示。下方表格列出了已有的两个API Key，包括Key名称、Guardrails、Expire、Last Used、Usage、Limit等信息，如cc和claude的Key，均无Guardrails，Expire为Never，Last Used分别为Never和1小时前，Usage均为$0.000，Limit均为unlimited。右上角有“New Key”按钮。该图与上文“先打开OpenRouter的API Key页面，新建一个Key”的内容相关，展示了新建Key的页面位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmRmN2RmODJhNDBmOTJmYmY1N2Y4NzBjMjEyYTc5YjhfM2M3NTQ0YzQ2ZTU5M2Y2NjMyZmJmYzAyOTJlMjc0MDlfSUQ6NzY0NTcxMTUyMDUyMDg2NzAzMF8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 ## 三、安装并打开 CC Switch
 
 下载安装 CC Switch，打开后先看一下首页里有哪些入口。
 
-![图片展示的是CC Switch的GitHub页面。页面上方显示仓库名称为“cc - switch”，右上角有“Fork”和“Star”按钮，当前有4.2k个fork和84.6k个star。页面中部是仓库的文件列表，下方有“Releases”区域，其中“CC Switch v2.14.1”被红色框突出显示。该图片与文档中“安装并打开CC Switch”部分相关，用于说明下载安装CC Switch后，打开后需查看首页里有哪些入口，以及CC Switch的版本信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTAxN2EwYTk5NjJmMjEyZGQ3NzRjMjcwYWFiNzk1YzBfZjc5ODhjODNiOGY1MDZmMjJhMjE1MTJmMWMyZDllYThfSUQ6NzY0NTcxMTUzMzg3MTQxODU5Ml8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示的是CC Switch的GitHub页面。页面上方显示仓库名称为“cc - switch”，右上角有“Fork”和“Star”按钮，当前有4.2k个fork和84.6k个star。页面中部是仓库的文件列表，下方有“Releases”区域，其中“CC Switch v2.14.1”被红色框突出显示。该图片与文档中“安装并打开CC Switch”部分相关，用于说明下载安装CC Switch后，打开后需查看首页里有哪些入口，以及CC Switch的版本信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzAyZjczMTdjNjE0YzcxMTliN2RiZTJhNDVjNmVlMDJfMTBmN2RmODhmN2FmNjc4YmZiOTRkOTRiMzYwZDUzZDVfSUQ6NzY0NTcxMTUzMzg3MTQxODU5Ml8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 这里有一个容易误会的地方：**不要把 CC Switch 当成只配置一次、所有入口都自动通用的地方。**
 
@@ -81,15 +81,15 @@ OpenCode 这边最顺，命令行和桌面端都已经验证通过。
 
 在 CC Switch 里切到 OpenCode，按第三节的基础配置填好 OpenRouter 信息，然后保存启用。
 
-![图片展示了CC Switch界面，其中“OpenCode”标签被红色框突出显示。界面下方有多个模型选项，包括“Antigravity Local”“Codex proxy”“Imported 2026-04-24 11:13”等，以及“OpenRouter”选项，其下方有网址。右上角有一个红色加号。该图片与文档中介绍OpenCode接入的内容相关，对应文档中提到的在CC Switch里切到OpenCode，按基础配置填好OpenRouter信息后保存启用的操作步骤。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDZmNTBlMmE2OTNjNTEzODQ5YzFiZTRiZjg0Y2VkOTRfZGVmMzc5NzEzNDVhMzJlNTkwOWU4ZDQzNjZiOTkzNjVfSUQ6NzY0NTcxMTU1MDg1Mzk5MTYwNF8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了CC Switch界面，其中“OpenCode”标签被红色框突出显示。界面下方有多个模型选项，包括“Antigravity Local”“Codex proxy”“Imported 2026-04-24 11:13”等，以及“OpenRouter”选项，其下方有网址。右上角有一个红色加号。该图片与文档中介绍OpenCode接入的内容相关，对应文档中提到的在CC Switch里切到OpenCode，按基础配置填好OpenRouter信息后保存启用的操作步骤。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTdiNjU2ZGNkODAzN2JhN2MyZWY2YTJmYTEzZjc5M2FfMTFmMjA0YTI3OTczMjU4MmNlZGJhMjU1MzZkYTJlYTlfSUQ6NzY0NTcxMTU1MDg1Mzk5MTYwNF8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
-![图片展示了OpenCode接入时在CC Switch里配置的基础信息界面。界面中有多个配置项，其中“API Key”和“Reg. Code”两个框被红色框突出显示，分别对应API密钥和注册码。此外，“My provider”下拉框也被红色框突出显示。界面右下角有“取消”和“确定”两个按钮。该图片与文档中OpenCode命令行接入配置的内容相关，直观呈现了配置时需填写的关键信息位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDI2ZTMyOTA5MWY2MmY2NTIxY2UwMzg0ZTQ0N2I5YzFfNDM3ODYxZWFiYTg5NjgyM2YyNzIwNjNjZDdlYTUwNDhfSUQ6NzY0NTcxMTU1OTQ4NTk4Mzk2NV8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了OpenCode接入时在CC Switch里配置的基础信息界面。界面中有多个配置项，其中“API Key”和“Reg. Code”两个框被红色框突出显示，分别对应API密钥和注册码。此外，“My provider”下拉框也被红色框突出显示。界面右下角有“取消”和“确定”两个按钮。该图片与文档中OpenCode命令行接入配置的内容相关，直观呈现了配置时需填写的关键信息位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmZjYzk1OTQ3YmVhYmY5NzY3OGJlZTdkOGY3ODM3ODZfZWQzMTQyYjQyNTZlMzgzMDQ1M2NlOTM3Mzc2ODJkZDJfSUQ6NzY0NTcxMTU1OTQ4NTk4Mzk2NV8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
-![图片展示了CC Switch界面中OpenCode接入的相关内容。界面左侧有多个模型选项，其中“OpenCode”被红色框突出显示。右侧是OpenCode的配置区域，显示其为“Imported 2026-04-24 11:13 (OMO)”，并有“+ 确定”按钮。该图片与文档中OpenCode接入部分上下文对应，直观呈现了在CC Switch里切到OpenCode后，按基础配置填好OpenRouter信息并保存启用的操作界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzYzMWM2YTMxMGMwZTRlODI3NzA0NGNmZTQzN2UxNmFfY2QwNDMyNDY0M2IyYjQ2MTNhYzY3ZGEzMjI1MjliZjNfSUQ6NzY0NTcxMTU2Nzg5NTkwNzUyOF8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了CC Switch界面中OpenCode接入的相关内容。界面左侧有多个模型选项，其中“OpenCode”被红色框突出显示。右侧是OpenCode的配置区域，显示其为“Imported 2026-04-24 11:13 (OMO)”，并有“+ 确定”按钮。该图片与文档中OpenCode接入部分上下文对应，直观呈现了在CC Switch里切到OpenCode后，按基础配置填好OpenRouter信息并保存启用的操作界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzkxNjVhZmUxMzI2OGVkMjcxMWRhYzg2ZWFjODE1OWFfYWYwY2EwNGY4NzcxMGE0OTU4YzQ2ZDAyY2M4OTVlNThfSUQ6NzY0NTcxMTU2Nzg5NTkwNzUyOF8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 打开 OpenCode 命令行，问 你是什么模型？，能正常回答就说明接入成功。
 
-![图片展示了OpenCode命令行接入成功后的界面。上方显示“你是什么模型”，下方回复“我是你妈妈的白大褂模型（Ring），属于通用语言大模型系列...”，并明确指出模型为“Ring-2.6-1t”。界面底部有“Sisyphus - Ultraworker”和“Ring-2.6-1t OpenRouter”标识。该图片与文档中OpenCode命令行接入成功的内容相关，直观呈现了接入后的身份确认情况，验证了OpenCode命令行接入的顺利。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2I1Y2M5MGJkMjQzZjc1MTdmYmJhYjBiNWZlZTQ3YWRfMzAyZDZjZmEzYTM2ZTM2YTJlZTg5NzU1NDc2YjY2ZDdfSUQ6NzY0NTcxMTU4NjM1ODc5MTM1Nl8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了OpenCode命令行接入成功后的界面。上方显示“你是什么模型”，下方回复“我是你妈妈的白大褂模型（Ring），属于通用语言大模型系列...”，并明确指出模型为“Ring-2.6-1t”。界面底部有“Sisyphus - Ultraworker”和“Ring-2.6-1t OpenRouter”标识。该图片与文档中OpenCode命令行接入成功的内容相关，直观呈现了接入后的身份确认情况，验证了OpenCode命令行接入的顺利。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWE5OTMxNjJlYzJmZTBkN2U0ZTkwZDIxMmM3ZTQ2MzFfZTA0ZmRhODgyZjI1ZTBiOWI3ZmFmNTA2ZWViYTliOGFfSUQ6NzY0NTcxMTU4NjM1ODc5MTM1Nl8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 ## OpenCode 桌面端
 
@@ -99,11 +99,11 @@ OpenCode 桌面端也能用，但这里有个细节：
 
 正确做法是先在 CC Switch 的 OpenCode 页面里把 OpenRouter 配好（包括手动填写模型名 inclusionai/ring-2.6-1t:free），然后回到 OpenCode 桌面端选择对应模型。
 
-![图片展示了OpenCode桌面端中模型选择界面。搜索框内显示“OpenRouter”，下方列出多个模型选项，其中“Ring-2.6-1t”被红色框突出显示，并有红色勾选标志。该图片与文档中介绍OpenCode桌面端使用方法的内容相关，用于说明在OpenCode桌面端选择对应模型的操作步骤，即先在CC Switch的OpenCode页面配好OpenRouter，然后回到桌面端选择对应模型，此图直观呈现了选择模型时的界面及操作要点。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmNkNzkxMDc1ODI4YTc3NTdhZTM4OWY2N2VkNWRjOTZfYTE5N2Q0MjJmYjE1YTljN2VkNDViNjRmOGNkZjNmZWVfSUQ6NzY0NTcxMTYwMTAxNzk4MjE0MV8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了OpenCode桌面端中模型选择界面。搜索框内显示“OpenRouter”，下方列出多个模型选项，其中“Ring-2.6-1t”被红色框突出显示，并有红色勾选标志。该图片与文档中介绍OpenCode桌面端使用方法的内容相关，用于说明在OpenCode桌面端选择对应模型的操作步骤，即先在CC Switch的OpenCode页面配好OpenRouter，然后回到桌面端选择对应模型，此图直观呈现了选择模型时的界面及操作要点。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjY1ZTllNjUyNWEyZTExMzM3OTEwYmUzNDY1NjhkZmNfNTY5ZGFhNGVjZmY0NzIyM2FhY2FmNTJmN2MzYTEyZThfSUQ6NzY0NTcxMTYwMTAxNzk4MjE0MV8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 问 你是什么模型？，能正常回答就说明 OpenCode 桌面端也通过。
 
-![图片展示了Claude Code命令行界面。界面中显示“你好！我是百灵大模型（Ling），由柏松编程开发，是一个通用语言大模型”，并有“请问我用的什么模型？”的提示。下方“Build”选项处显示“Ring-2.6-1t”。该图片与文档中“打开Claude Code命令行，问你是什么模型？”的内容对应，直观呈现了在Claude Code命令行中询问模型信息的操作界面及显示结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmE1MGI4MmVjMDNkMTJlYzBjYjczMDg3MTE0MGVmMzRfNjEwMDFlNmU0Y2Y4MzU0MDBlNjBjOTYyODQ1M2I1MTlfSUQ6NzY0NTcxMTYxMzAzODk4ODQ3OV8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了Claude Code命令行界面。界面中显示“你好！我是百灵大模型（Ling），由柏松编程开发，是一个通用语言大模型”，并有“请问我用的什么模型？”的提示。下方“Build”选项处显示“Ring-2.6-1t”。该图片与文档中“打开Claude Code命令行，问你是什么模型？”的内容对应，直观呈现了在Claude Code命令行中询问模型信息的操作界面及显示结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjlhMTQ4NmFmYjc1OTRiZWQ1MjA5YmJkOGQ5MzQ5MzNfNDEyNjkyMTZmNWE2N2UxYTg5ZGY4MDM4ZDJmNDFjOTRfSUQ6NzY0NTcxMTYxMzAzODk4ODQ3OV8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 ## 五、Claude 接入
 
@@ -113,15 +113,15 @@ Claude 分命令行和桌面端，两边方式不一样。
 
 Claude Code 命令行比较简单，在 CC Switch 的 Claude Code 页面里按基础配置填好 OpenRouter 信息即可。
 
-![图片展示的是CC Switch平台的Claude页面。页面顶部有“Claude”标识，下方有多个模型选项，如Claude Official、default等。其中“OpenRouter”选项被红色框线突出显示。页面中部有“添加”按钮，可添加新模型。页面底部还有XueDingToken、Nvidia、DeepSeek等其他模型选项。该图片与文档中“Claude Code命令行”部分内容相关，直观呈现了在CC Switch平台添加Claude模型的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDFlNWMzMWQwMzQxZmZkNjU3MGNhYTE1NjJmODMzZjlfY2RkMmViYzMyNDU0YzE1ODk3NzM5ZDIyMTJkODY1YWVfSUQ6NzY0NTcxMTYzMDM5ODk4MzM3OV8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示的是CC Switch平台的Claude页面。页面顶部有“Claude”标识，下方有多个模型选项，如Claude Official、default等。其中“OpenRouter”选项被红色框线突出显示。页面中部有“添加”按钮，可添加新模型。页面底部还有XueDingToken、Nvidia、DeepSeek等其他模型选项。该图片与文档中“Claude Code命令行”部分内容相关，直观呈现了在CC Switch平台添加Claude模型的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDdjMmM2YzliZDhiZDBlNzNlNjlmYjgxODk5OWQ2MGRfY2UzNDE4MDQyM2YzODM2YTJhYTVhM2VjYzE1ZjRiZGVfSUQ6NzY0NTcxMTYzMDM5ODk4MzM3OV8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
-![图片展示了CC Switch的编辑供应商页面，用于接入Claude Code命令行。页面中突出显示了API Key和主模型、Sonnet预训练模型、Inclusions预训练模型等关键信息。API Key部分以红色框标注，下方有“API Key”字样。主模型、Sonnet预训练模型、Inclusions预训练模型部分也用红色框突出显示。该图片与文档中接入Claude Code命令行的内容相关，直观呈现了接入时所需填写的关键信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmZmODIyOTkxYjA4MjQ2MTA1MzAxMGM4NWYxMjQ4M2RfNTAxMTYwY2NjZmI5Y2Q2MDQxODc4YzMzZWQyM2I0ZDJfSUQ6NzY0NTcxMTY0MDk1MDkwMTk4MV8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了CC Switch的编辑供应商页面，用于接入Claude Code命令行。页面中突出显示了API Key和主模型、Sonnet预训练模型、Inclusions预训练模型等关键信息。API Key部分以红色框标注，下方有“API Key”字样。主模型、Sonnet预训练模型、Inclusions预训练模型部分也用红色框突出显示。该图片与文档中接入Claude Code命令行的内容相关，直观呈现了接入时所需填写的关键信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDc4ZGY4ZDk0NWUzMzZlZmE3MGMxMmIyMzhlYjU0NTZfMGVkZGExZTgwNTAxYWRkMDIwYjkzZTA1MzdiNzMzOThfSUQ6NzY0NTcxMTY0MDk1MDkwMTk4MV8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
-![图片展示的是CC Switch的Claude Code页面。页面上方有多个导航标签，其中“Claude Code”被红框突出显示。页面主体部分列出了多个模型，包括Claude Official、default、XunDingToken、Nvidia、DeepSeek、OpenRouter等，每个模型名称后有其对应网址。其中，OpenRouter模型被红框圈出，其网址为https://openrouter.ai，右侧有“+添加”按钮。该图片与文档中介绍Claude Code命令行配置内容相关，直观呈现了页面中模型配置的界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzU4MDBmZTIwNmQ2YTAwNWRjMjNjZTMwMzgzYWZiM2VfNzY4YmY4YmJkYjkxNjJkMzY0YzY3NTVhOWVmODI0M2JfSUQ6NzY0NTcxMTY1MDQ1NjIyNzAwNV8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示的是CC Switch的Claude Code页面。页面上方有多个导航标签，其中“Claude Code”被红框突出显示。页面主体部分列出了多个模型，包括Claude Official、default、XunDingToken、Nvidia、DeepSeek、OpenRouter等，每个模型名称后有其对应网址。其中，OpenRouter模型被红框圈出，其网址为https://openrouter.ai，右侧有“+添加”按钮。该图片与文档中介绍Claude Code命令行配置内容相关，直观呈现了页面中模型配置的界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDdlYmUyZjJjOTZlOTRhNzhjNGIwNmFmODI1NTJlOWRfZDhmZTUyMDRhN2M3NzFlMmQ4MjkyZmUxYmNhYTE4NTJfSUQ6NzY0NTcxMTY1MDQ1NjIyNzAwNV8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 打开 Claude Code 命令行，问 你是什么模型？，能正常回答就说明通过。
 
-![图片展示了Claude Code命令行界面，显示了Claude Code V2.1.132版本信息及API Usage Billing状态。下方对话框中，用户询问“你是什么模型？”，系统回复其为百灵大模型（Ling），由蚂蚁集团开发，是通用语言大模型，还介绍了Ling、深度推理模型（Ring）及任意多模态模型（Ming）的特点。该图片与文档中Claude Code命令行接入部分相关，用于验证命令行接入是否成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDY1NTBlZWQ4YWFiYjU0NTUwNDdmMmRkNjc0NTUzMDhfNTNlMzE3NzgyNjM0MWZkM2M5ZWJkMzZkZDBiYWZjODNfSUQ6NzY0NTcxMTY2NDE3MTY2NjY0MV8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了Claude Code命令行界面，显示了Claude Code V2.1.132版本信息及API Usage Billing状态。下方对话框中，用户询问“你是什么模型？”，系统回复其为百灵大模型（Ling），由蚂蚁集团开发，是通用语言大模型，还介绍了Ling、深度推理模型（Ring）及任意多模态模型（Ming）的特点。该图片与文档中Claude Code命令行接入部分相关，用于验证命令行接入是否成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTAzZGNlNmU3YzBjZGNlZTI4OTNmZWI0ODdmOWU4OTJfMWY3MzM3NmJhM2RkZjFhMjYzOTVjYjJjYmE1NzVlYThfSUQ6NzY0NTcxMTY2NDE3MTY2NjY0MV8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 ## Claude 桌面端
 
@@ -142,7 +142,7 @@ http://127.0.0.1:15721
 
 端口以你自己的 CC Switch 显示为准，不一定每个人都一样。
 
-![图片展示了CC Switch的设置界面。画面中“路由总开关”和“本地路由”开关被红色框突出显示，均处于开启状态。本地路由部分，Claude开关被红色框标出，其对应地址为“http://172.16.4.1:19755”。该图片与文档中“先回到CC Switch，确认OpenRouter和Ring免费模型已经配置好，然后开启本地路由/本地代理”内容相关，直观呈现了开启本地路由的操作位置及对应地址。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTEwYzFkZWJiZjM3MzFhYjAwNWE3ODMwMjM3ZmE4MWRfNTA3OWQyYmZhNjA0MjE3OGM4NDBjOTViZDJhZmQ4OWNfSUQ6NzY0NTcxMTY3OTQzNDY1Njk3N18xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了CC Switch的设置界面。画面中“路由总开关”和“本地路由”开关被红色框突出显示，均处于开启状态。本地路由部分，Claude开关被红色框标出，其对应地址为“http://172.16.4.1:19755”。该图片与文档中“先回到CC Switch，确认OpenRouter和Ring免费模型已经配置好，然后开启本地路由/本地代理”内容相关，直观呈现了开启本地路由的操作位置及对应地址。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2M2YzQyY2QyZDBmOGU0OWMyY2Q3OTFjMjFmMzFlMGZfOWE0ZGQ0ZTFhMmU1NDY2ZGYzNjNlMDc0Y2M4YzUzMzZfSUQ6NzY0NTcxMTY3OTQzNDY1Njk3N18xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 然后打开 Claude 桌面端，进入开发者配置入口：
 
@@ -176,13 +176,13 @@ claude-opus-4.7
 
 如果这里直接填 inclusionai/ring-2.6-1t:free，Claude 桌面端可能识别不了，导致配置看起来对，但实际跑不通。
 
-![图片展示了Claude桌面端的Connection配置界面。关键部分有：Gateway选择为Anthropic - compatible；Gateway base URL为http://127.0.0.1:5721；Gateway API key和Gateway auth scheme分别为“bearer”和“bearer”；Model list中选中claude - opus - 4.7，其Model ID为claude - opus - 4.7。该图片与文档中介绍Claude桌面端配置内容相关，直观呈现了配置时的参数设置情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWQxZWQzMWM3ZjNkNjA5OWI2ZWI1YzFkZmZiNDExMWZfMDc1NmRlYWQzYmRiOWNlNTc3ODUwNTg4MmRhZGM5YzZfSUQ6NzY0NTcxMTY5MjQ0OTY4MDU5M18xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了Claude桌面端的Connection配置界面。关键部分有：Gateway选择为Anthropic - compatible；Gateway base URL为http://127.0.0.1:5721；Gateway API key和Gateway auth scheme分别为“bearer”和“bearer”；Model list中选中claude - opus - 4.7，其Model ID为claude - opus - 4.7。该图片与文档中介绍Claude桌面端配置内容相关，直观呈现了配置时的参数设置情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmIzODhjYzg1ODE3MTkyZDI4MTk3N2RmZmZkNTE3ZTNfYTRmMmVhYzU3ZmE0MzZlNTg0NWYxYzdiMDE3N2M4ZmFfSUQ6NzY0NTcxMTY5MjQ0OTY4MDU5M18xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 配置好之后，重启 Claude 桌面端，问 你是什么模型？，能正常回答，并且 CC Switch 里能看到请求记录，就说明 Claude 桌面端通过。
 
-![图片展示了Claude桌面端界面，左侧为功能菜单栏，其中“Code”选项被红色框突出显示。右侧显示“你是什么模型”对话框，内容为“我是百灵大模型（Ling），由蚂蚁集团研发，是通用语言大模型，擅长提供通用场景下的智能交互服务，隶属于蚂蚁集团的AGI技术体系”。底部“Opus 4”也被红色框标出。该图片与文档中介绍Claude桌面端配置及使用的内容相关，展示了配置好后，重启Claude桌面端，问其模型信息时的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTA1NjNjNGJmZTJkOGU3MGUzNjhhMGZjYmVkYmI5YmVfN2FhMGZjZGUxNzZjZTFmOWU4ZTNmMjhhNjNiOGU4ZmRfSUQ6NzY0NTcxMTcwNzcwMDIzNTQ4NV8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了Claude桌面端界面，左侧为功能菜单栏，其中“Code”选项被红色框突出显示。右侧显示“你是什么模型”对话框，内容为“我是百灵大模型（Ling），由蚂蚁集团研发，是通用语言大模型，擅长提供通用场景下的智能交互服务，隶属于蚂蚁集团的AGI技术体系”。底部“Opus 4”也被红色框标出。该图片与文档中介绍Claude桌面端配置及使用的内容相关，展示了配置好后，重启Claude桌面端，问其模型信息时的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzUxNzUwOGM5NWI2YzQ5M2Y1MGNlZmJkOTE2MWFkYzBfODJiZmM4ZTE0MmQ5OGIwMWYxYWY2NGRiMDYxZWI4NmNfSUQ6NzY0NTcxMTcwNzcwMDIzNTQ4NV8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
-![图片展示的是OpenRouter平台的请求记录界面。记录中显示了多个请求，时间均为09:05:26，请求方均为OpenRouter，请求内容为“claude - halu - 4 - 5 - 20231001 - inclusion / ring - 2.6 - 1t”，请求次数均为1，金额均为$0.0000，响应时间为1.7s - 7.7s不等，响应大小均为200字节，状态均为“procy”。其中，有两条记录被红色框突出显示，表明这些是重点关注的请求记录。该图片与文档中介绍Claude桌面端配置好后，重启后查看请求记录的内容相关，用于展示请求记录界面及重点关注记录。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2RkZmE5MDBkYTA2YWFhMjMyOWNjODYxZWVmMjQxMjJfYmUzYzg2YTBkOTEyNDUyMDJmMjlkYWNlODcyNGIxM2VfSUQ6NzY0NTcxMTcyMDAwNjE1OTU0Nl8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示的是OpenRouter平台的请求记录界面。记录中显示了多个请求，时间均为09:05:26，请求方均为OpenRouter，请求内容为“claude - halu - 4 - 5 - 20231001 - inclusion / ring - 2.6 - 1t”，请求次数均为1，金额均为$0.0000，响应时间为1.7s - 7.7s不等，响应大小均为200字节，状态均为“procy”。其中，有两条记录被红色框突出显示，表明这些是重点关注的请求记录。该图片与文档中介绍Claude桌面端配置好后，重启后查看请求记录的内容相关，用于展示请求记录界面及重点关注记录。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmFkYTkwMzI0NjUwZjRmZjA3OGIzYmJkYWYwYTZhODdfY2NjMTAzMTcxNWY5YzRhZDhhYzdjOGY5ZGJlNjE5ZWZfSUQ6NzY0NTcxMTcyMDAwNjE1OTU0Nl8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 ## 六、Codex 接入
 
@@ -192,21 +192,21 @@ Codex 这边也分命令行和桌面端。
 
 在 CC Switch 的 Codex 页面里按基础配置填好 OpenRouter 信息，保存并启用。
 
-![图片展示了CC Switch的界面，上方有Claude、Codex、Gemini等模型标识。Codex标识被红色框突出显示。下方有“default”和“OpenRouter”两个选项，其中“OpenRouter”后有蓝色的“+”号。该图片与文档中“在CC Switch的Codex页面里按基础配置填好OpenRouter信息，保存并启用”的内容相关，直观呈现了在CC Switch中配置OpenRouter的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzQxMWY5NTNlMjk4Mjc5ZWFiM2MxNjUzMmRkOWUxNzFfZDAzYmFjN2RlYjIwM2EzYTRkMTdhNDBmOTAyOTU0MmZfSUQ6NzY0NTcxMTczMjUyNjE1NzAwMF8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了CC Switch的界面，上方有Claude、Codex、Gemini等模型标识。Codex标识被红色框突出显示。下方有“default”和“OpenRouter”两个选项，其中“OpenRouter”后有蓝色的“+”号。该图片与文档中“在CC Switch的Codex页面里按基础配置填好OpenRouter信息，保存并启用”的内容相关，直观呈现了在CC Switch中配置OpenRouter的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTZkZWZmNWZkMzQ2MzAzNTFmMTM5ZTEyOTBiNTcxOGFfMWJjZGI1MWM0YjAwMjI1ZDAxOTkzNzU0ZmQ2ZDc3ZWJfSUQ6NzY0NTcxMTczMjUyNjE1NzAwMF8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
-![图片展示的是CC Switch平台添加新供应商界面，用于接入Codex模型。界面中“添加新供应商”标题下有多个供应商选项，其中“OpenRouter”被红色框突出显示。下方有供应商名称、备注、API Key、API 请求地址等输入框，API Key处有红色框标注。右侧“模型列表”区域显示了多个模型名称，如“inclusions/ing-2.6-1other”等，其中“inclusions/ing-2.6-1other”被红色框突出显示。该图片与上下文介绍的在CC Switch的Codex页面里按基础配置填好OpenRouter信息，保存并启用的内容相关。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTZmYTgwN2IyZDczZmYzZTUxMjVhZTc3NDdhYjAyMWRfNDkxZTJiZTNiN2RmYWZiYzI0MWZiYmJjYTM2MTFjZDJfSUQ6NzY0NTcxMTc0MzA3MDYzNzI2OF8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示的是CC Switch平台添加新供应商界面，用于接入Codex模型。界面中“添加新供应商”标题下有多个供应商选项，其中“OpenRouter”被红色框突出显示。下方有供应商名称、备注、API Key、API 请求地址等输入框，API Key处有红色框标注。右侧“模型列表”区域显示了多个模型名称，如“inclusions/ing-2.6-1other”等，其中“inclusions/ing-2.6-1other”被红色框突出显示。该图片与上下文介绍的在CC Switch的Codex页面里按基础配置填好OpenRouter信息，保存并启用的内容相关。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzAwZjZmNDQ1N2MzODc5YTA1YzU3NTRkNmNlZDYxZTBfMzhjYjBkOTMwMzM2MDVlMWJkZjAyMzQwNTZlYjllNDhfSUQ6NzY0NTcxMTc0MzA3MDYzNzI2OF8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 在 Codex 页面里，把 Codex 切换到刚才配置好的 OpenRouter 供应商。
 
-![图片展示了CC Switch的界面，其中OpenRouter供应商已配置好。界面中有多个模型标签，如Claude、Codex、Gemini等。在OpenRouter供应商配置区域，显示其官网地址为https://openrouter.ai，右侧有“启用”按钮被红色框突出显示。该图片与文档中“在CC Switch的Codex页面里按基础配置填好OpenRouter信息，保存并启用”的内容对应，直观呈现了配置后的状态，帮助用户确认配置是否成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2Q4ODU5YjgyOGNlZGI5YzBkYWZmZThiNzkwNzU5MDNfMjlmZjc0YmM3OGRmYTcxOTI1MGI3ZjRkMjI1MjVmODVfSUQ6NzY0NTcxMTc1ODY2OTE1NTUzOV8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了CC Switch的界面，其中OpenRouter供应商已配置好。界面中有多个模型标签，如Claude、Codex、Gemini等。在OpenRouter供应商配置区域，显示其官网地址为https://openrouter.ai，右侧有“启用”按钮被红色框突出显示。该图片与文档中“在CC Switch的Codex页面里按基础配置填好OpenRouter信息，保存并启用”的内容对应，直观呈现了配置后的状态，帮助用户确认配置是否成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzU0YzU3ZmI5MjkzYTdiODVkMTE0NTYzY2M4ODM5NGJfOWRmZDVkZjk0YWE3NzY1NjQ2NDZlMDA3YmQxOTY5OWRfSUQ6NzY0NTcxMTc1ODY2OTE1NTUzOV8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 打开 Codex CLI，如果配置成功，命令行里可以看到这个模型，也可以切换到对应模型正常使用。
 
-![图片展示的是Codex CLI命令行界面。界面上方显示“claude code”窗口标题，下方提示有更新可用，版本从0.128.0升至0.130.0。关键信息是模型信息，显示为“inclusionai/ring-2.6-lt:free medium”，并有“/model to change”提示。界面底部还有一条提示信息，介绍GPT-5.5模型可用，可访问链接了解更多信息。该图片与文档中介绍Codex CLI配置成功后，命令行能看到模型并能正常使用的内容相关，直观呈现了配置成功后的CLI界面状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjQ4YTMzYzkzY2M4NTBmYWQ0YmMxNGIyMWQzMWEwNDlfODZkMjVhOTM2MmNjYzBlN2E1YjZkMjJhNTAyNTZkM2FfSUQ6NzY0NTcxMTc3MTAxNDY2MzM4N18xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示的是Codex CLI命令行界面。界面上方显示“claude code”窗口标题，下方提示有更新可用，版本从0.128.0升至0.130.0。关键信息是模型信息，显示为“inclusionai/ring-2.6-lt:free medium”，并有“/model to change”提示。界面底部还有一条提示信息，介绍GPT-5.5模型可用，可访问链接了解更多信息。该图片与文档中介绍Codex CLI配置成功后，命令行能看到模型并能正常使用的内容相关，直观呈现了配置成功后的CLI界面状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGU5MWE1ODEwOTFjMmU2YTJhYWM5OTFmODU5M2UyMGZfMzFkN2E2ZWQwNDE3NmUzODljMTVhMDE0MzBiMjcwOGNfSUQ6NzY0NTcxMTc3MTAxNDY2MzM4N18xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 问 你是什么模型？，能正常回答就说明 Codex CLI 通过。
 
-![图片展示了尝试运行的跨平台PowerShell界面，显示OpenAI Codex模型信息，模型为inclusionai/ring-2.6-1t:free high，目录为D:\\codex。下方提示GPT-5.5在Codex中可用，是其最强的代理编码模型。还出现“Model metadata for 'inclusionai/ring-2.6-1t:free' not found”等错误信息。底部有模型家族介绍及开放生态与开源理念说明。该图片与文档中验证Codex CLI通过的上下文相关，用于展示模型运行情况及遇到的错误提示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGY3NDA0NTg2MDk4ZTY2YmY4ODVkMWY0NzhiMmY4NDhfZmE3ZmJjMGQ1MTkxZDRkZTc2YjkzYmZhYmJiYzQwNThfSUQ6NzY0NTcxMTc4OTAwNjUyMzYxMl8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了尝试运行的跨平台PowerShell界面，显示OpenAI Codex模型信息，模型为inclusionai/ring-2.6-1t:free high，目录为D:\\codex。下方提示GPT-5.5在Codex中可用，是其最强的代理编码模型。还出现“Model metadata for 'inclusionai/ring-2.6-1t:free' not found”等错误信息。底部有模型家族介绍及开放生态与开源理念说明。该图片与文档中验证Codex CLI通过的上下文相关，用于展示模型运行情况及遇到的错误提示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDA1ODliMTQyYjNhM2U3NWM3NGM1MDE1ODkxYTg2YjNfYTE5Mzk3OWY5MGY1OWU3ZGE5ODY5ZTYzNGJkN2NjZDBfSUQ6NzY0NTcxMTc4OTAwNjUyMzYxMl8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 ## Codex 桌面端
 
@@ -218,7 +218,7 @@ Codex 桌面端也能用，但显示上不如命令行清楚。同样在 CC Swit
 
 另外补一句：目前 CC Switch 对 Codex 的兼容性还不是特别完善，我这边发现的问题是历史会话可能无法正常加载。如果你只是新开会话测试和使用，影响不大；如果很依赖历史会话，建议先注意一下这个限制。
 
-![图片展示了OpenRouter平台中Ling模型的介绍界面。界面顶部显示“你是什么模型”，下方介绍Ling为通用语言大模型，擅长高效语言理解和生成任务，其模型家族包括Ring和Ming。Ring专为深度推理与复杂问题设计，Ming支持图像、音频等多模态能力。底部有“自动审查”和“自定义”两个选项，其中“自定义”选项被红色框突出显示。该图片与文档中验证Codex接入时供应商能看到OpenRouter但模型不显示的情况相关，展示了Ling模型的介绍界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWM1ZGE2NWU2NzdkNzQ4MDFhNGRkZjY2OWQ0ZDRjNjNfZDczZDBjYjdmNzE3ZDUyMWQ4NjU2MWMxYTMxM2MxYmJfSUQ6NzY0NTcxMTgwNDExODYzMzY4Nl8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
+![图片展示了OpenRouter平台中Ling模型的介绍界面。界面顶部显示“你是什么模型”，下方介绍Ling为通用语言大模型，擅长高效语言理解和生成任务，其模型家族包括Ring和Ming。Ring专为深度推理与复杂问题设计，Ming支持图像、音频等多模态能力。底部有“自动审查”和“自定义”两个选项，其中“自定义”选项被红色框突出显示。该图片与文档中验证Codex接入时供应商能看到OpenRouter但模型不显示的情况相关，展示了Ling模型的介绍界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWY5NDFmYWY2NjNjNWZlNDY1MjczMTQ3MTRhNTQyOTlfNDE5YjgyMzQwZjNiY2JmZTg0NjUzMDE4OWM5ODZiODVfSUQ6NzY0NTcxMTgwNDExODYzMzY4Nl8xNzgyMTA2OTk1OjE3ODIxMTA1OTVfVjM)
 
 ## 七、验证结果
 
@@ -248,3 +248,7 @@ Codex 桌面端也能用，但显示上不如命令行清楚。同样在 CC Swit
 免费模型的窗口期不会一直在，趁现在还能用，先把管道搭起来。等哪天 OpenRouter 上线了更强的免费模型，你只需要回来换个名字就行。
 
 **更多 AI 干货同步更新公众号：雨哥聊AI，关注我**[@xiangxiang103](https://x.com/@xiangxiang103)**带你玩转 AI 时代！**
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/JWLCw5L2TiHrjSkLTeScWEVxneh> ｜ 归档：2026-06-22

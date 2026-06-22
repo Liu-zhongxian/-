@@ -82,3 +82,7 @@ flowchart TB
 - [01.1｜AI 基础概念](https://lcnniolukk80.feishu.cn/wiki/ZDXGwkB7NiaPr6kbDPicgLFHnif) — 回到本章总览
 - [Token 和上下文窗口](https://lcnniolukk80.feishu.cn/wiki/HfzSwaeWZiWmyjkWyGZc8ezVn5g) — 信息丢失也会触发幻觉
 - [高强度实测 6 大 AI 模型](https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb) — 各模型幻觉表现差异
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/E914wrridiL2TOk2ScgcKwdcnDd> ｜ 归档：2026-06-22

@@ -452,3 +452,7 @@ echo $?  # 0 = 找到，1 = 未找到
 ---
 
 **完成模块 06？** → 进入 模块 07：高级模式
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/MQh9wFdZ5i2BtekBQkocSL5rnUh> ｜ 归档：2026-06-22

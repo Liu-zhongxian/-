@@ -98,3 +98,7 @@ flowchart LR
 - [01.1｜AI 基础概念](https://lcnniolukk80.feishu.cn/wiki/ZDXGwkB7NiaPr6kbDPicgLFHnif) — 回到本章总览
 - [AI Skill 到底是什么？](https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b) — Skill 是另一种工具封装方式
 - [Claude Code 安装教程](https://lcnniolukk80.feishu.cn/wiki/VPeewqTA6iMP7jkQvYJcvurbnTf) — MCP server 在 Claude Code 里实战
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/DAiywh26Ri5J4tkGwUDcFm7KnVc> ｜ 归档：2026-06-22

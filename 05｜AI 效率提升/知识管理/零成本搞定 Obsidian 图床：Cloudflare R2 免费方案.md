@@ -1,6 +1,6 @@
 # 零成本搞定 Obsidian 图床：Cloudflare R2 免费方案
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWY0ZGNlYTYzOGMxMWRkZTBkM2YzMDA0MTc2ZmY0YjJfYTU5NzFjOTAwNTBhNTAwZWMwYjZjNDhkMDA4YjRiNTVfSUQ6NzY0NTI2NjM4MzQ3MDc0MjcyNF8xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjY2ZWU1YzAyYTE0ZTY5YjA4NjBiZDJmM2E2N2Y3YmRfZGExYTkwNGM3MDg4MGY5ZTgxN2FmZmFiZmJiYWU1YzNfSUQ6NzY0NTI2NjM4MzQ3MDc0MjcyNF8xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 上次那篇图床教程发出去之后，评论区好多人问：
 
@@ -38,7 +38,7 @@ R2 是它家的对象存储，跟腾讯云 COS、阿里云 OSS 一个东西，�
 
 第一次进来会让你绑定支付方式。Visa / MasterCard 信用卡或者 PayPal 都行。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDdiZDE3ZDQ4NjgyOTU5ODRkZjkwNmE5MzljMTU1ODJfZmQ5OWUzZGE4NGFlY2IwN2Q1OTczZGJlMGM0ZTRmNWNfSUQ6NzY0NTI2NjM4MjAwMjg4Mzc4NF8xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWVhOGY1OTY0MGZjM2ZjOGExOGIyZjQyODgyODYyZmRfZmViMGIxZWUyMzVhNWI2ZDNmYTA1Y2VjZWMzZGM0N2FfSUQ6NzY0NTI2NjM4MjAwMjg4Mzc4NF8xNzgyMTA3MzExOjE3ODIxMTA5MTFfVjM)
 
 ⚠️ 绑卡不会扣钱，只是验证身份。免费额度内用不花钱。
 
@@ -48,15 +48,15 @@ R2 是它家的对象存储，跟腾讯云 COS、阿里云 OSS 一个东西，�
 
 点「创建存储桶」，两个东西要填： ❶ 名称：随便起，比如 obsidian-img ❷ 位置：选「自动」就行，Cloudflare 会自动分配离你最近的区域
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2EzYzk0NThkYmEzMTg1OTcxZWZjYmNjZGEwNTE3ZGRfNTI1MTRjOGU1MzIzNWU1YWRhN2FhZDE5ODY3NDliNGZfSUQ6NzY0NTI2NjM4MTU3NTE0NjY4N18xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzlmNTExYWQzNGJlNjRiNDRlMDVlYjA2NmMzZGNmNjRfNmMwNDNlNjkzNGI3MGM4OTljMTM3NmQxZThhYWJkM2VfSUQ6NzY0NTI2NjM4MTU3NTE0NjY4N18xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 ⚠️ 存储类型选「标准」，只有标准类型才享受免费额度。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmZiZjliMDBhYjFmMjE1MmJiMTcwYThiOThmMzE5NTNfODdhOTM5NDhkMzY0OTlkNTM2MDY1YWRiZjA1ZjhiZWFfSUQ6NzY0NTI2NjM4MjkzMzkyMDk4MV8xNzgyMDk5MTQ2OjE3ODIxMDI3NDZfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGE2YjI2N2RjNTcyOWFjNTAyMjdlMzc3YzMwYjg5NjFfY2Y5NTI4N2YwYzNhOThiNGQ2MTU5ODRkNjVlYWYxZTJfSUQ6NzY0NTI2NjM4MjkzMzkyMDk4MV8xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 点创建，搞定。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWUwOGM2NDJjYjcxMzZiYmU4YmVlMzY0NTk4NDgzMWNfNDk1YjZmYWY3ODU0ODY4MTdmZGQ4OGI3OGZjZDhiOWJfSUQ6NzY0NTI2NjM4MTgzMTgzNDgxN18xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWM1ZmYwMzBiYjQyZDE4ODE3ZjY1NWY2ZGNiMzg3MTBfMjI3MDVkMTg4OGYyMzM5ZGI2YmMxZDRjOWJlZTllMzdfSUQ6NzY0NTI2NjM4MTgzMTgzNDgxN18xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 ## 𝗦𝘁𝗲𝗽 𝟰: 开启公开访问
 
@@ -64,7 +64,7 @@ R2 是它家的对象存储，跟腾讯云 COS、阿里云 OSS 一个东西，�
 
 进入存储桶 → 设置 → 找到「公共开发 URL」，点击「启用」。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTBmN2M1ZWM5YzdkYTdmYmVhYzhlMDkxMTExYTNmNWVfYmRhNjdhNWVlMmE2MjQwMmQyNTRiZWI2ZGFkMWIwYmFfSUQ6NzY0NTI2NjM4MTk4MzUxNzg5N18xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODQ5ZGU0MTFmNGU0NWFmZDQxYTliYzNjMTBhNTNmMzJfZjg4MzRhMTgwOWExNTU2MjU3MmEzODg3NThkZjU4MzJfSUQ6NzY0NTI2NjM4MTk4MzUxNzg5N18xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 开启后你会得到一个类似这样的域名： [https://pub-xxxxx.r2.dev](https://pub-xxxxx.r2.dev/)
 
@@ -72,7 +72,7 @@ R2 是它家的对象存储，跟腾讯云 COS、阿里云 OSS 一个东西，�
 
 ⚠️ 注意：[R2.dev](https://r2.dev/) 域名发 X、发博客没问题，但**发公众号可能被拦截**（公众号对非腾讯系域名不太友好）。如果你主要发公众号，建议用腾讯云 COS 方案。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjQ2ZThlYTA4N2MwNzM4MmZkMWU4YmNhYjIxZjc1NGVfYjNhNTJmMmY0ZWExNDZmYzg0MDA4YzUzOTA5ZDc3YjFfSUQ6NzY0NTI2NjM4MDcyMzkzMjM2M18xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzY5MzkzMzQzNWY5MTFmOGFmM2QxZWE0NTZjMmYwZWFfMzdiYWFiYjVkMDllNjJhNDk5MTdjNzdiOTFhMGQyZGNfSUQ6NzY0NTI2NjM4MDcyMzkzMjM2M18xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 接下来拿 API 令牌。这一步相当于上次腾讯云教程里拿密钥那一步
 
@@ -80,15 +80,15 @@ R2 是它家的对象存储，跟腾讯云 COS、阿里云 OSS 一个东西，�
 
 回到 R2 首页（不是存储桶里面），找到右下角「API Tokens」旁边的「Manage」，点进去，选「创建 Account API 令牌」。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWQ2NGNjNTJlODgwNWE0MzEzMjZiMjgzNTJlZTJkZjRfYTRlYWJiYTYxNzY3NTZjMGFjN2E3NDQ5OTU2OGVjMmRfSUQ6NzY0NTI2NjM4MDk5MjMwMjI5MF8xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTJiZjNmODRiNWE1NmY4ZDhkMmEwOTM4YTE0ODA3MDRfNGE2ZWIwMzM5NGEwMDMzZTRiM2UwNGZjMjlkMjE3YTNfSUQ6NzY0NTI2NjM4MDk5MjMwMjI5MF8xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 四个东西要填：
 
 ❶ 令牌名称：随便填，比如 R2ObsidianToken ❷ 权限：选「对象读和写」 ❸ 指定存储桶：选你刚才创建的那个桶（比如 obsidian-img） ❹ TTL（有效期）：选「永久」就行
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTI2YTEyNjE1OWNlYTJkZTI0YWQ5Mjc4NTFmNDlkNDZfZWVjNmZhMWFlM2JkOGNjMDNmMDE0ZWZlOTQ2NjJlMmNfSUQ6NzY0NTI2NjM4MDQ1NTMxNjY2MF8xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTQ0Mzk1ODNmMTA1OGJjNDA2OWRiN2U4ZjNiNGFhYzJfYmI0OTYzMGVkZDdhYjA4YTMzZDliOWJjOWQyZTg2MGVfSUQ6NzY0NTI2NjM4MDQ1NTMxNjY2MF8xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzdmMDc0YWFjODM2ZjE5OGFlY2VlNDkyYjBkMmU0ZmJfZTE1OTVhZWU0N2JmMTY3MGU4ODJlMmQ5N2NmNWE1YWZfSUQ6NzY0NTI2NjM3OTkxODYyNjAwM18xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmIzNmUzMThmOTdlZGIzZjczYmMwN2Q0NDM1M2I4MDBfZjllMGQ5OWZiMjNjODk1ZTRhOTViN2MyZGNhZWUzZDNfSUQ6NzY0NTI2NjM3OTkxODYyNjAwM18xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 点「创建 API 令牌」，会给你三个东西：
 
@@ -96,7 +96,7 @@ R2 是它家的对象存储，跟腾讯云 COS、阿里云 OSS 一个东西，�
 
 ⚠️ 这三个信息只显示这一次！务必复制保存好。建议直接截图或存到备忘录。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Njk5YTNlY2I3NzEyOTE3NzA5YWZkZmE0NzNmM2EwODBfNmViOWFmMjg1MTczZmNlOThmMmRkYWY5NTA1NjM5ZjZfSUQ6NzY0NTI2NjM4MjkxMDM3NzE4MF8xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjVhMGYyNzU1M2Q0NjIwMTdiZmE2ZTc2NWI4YzQxNGJfOTg5N2RhMDgyNjgwYmJiY2MyYzFlMjMzMTM2NWE4MjZfSUQ6NzY0NTI2NjM4MjkxMDM3NzE4MF8xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 点完成。到这里 Cloudflare R2 搞定了。三个东西记好：访问密钥 ID、机密访问密钥、终结点。
 
@@ -114,13 +114,13 @@ Mac 用户也可以终端敲一行： brew install piclist --cask
 
 为什么选 Amazon S3？因为 R2 兼容 S3 协议，PicList 通过 S3 配置就能直连 R2。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2YyNGU3NTcxODZiZDg0NmQ4NDkwM2ZhMmExMjkyZmVfNzE1YjY2ZWUwNWNlNjY5Nzc0ODk1MmE1OGIzMGMwODlfSUQ6NzY0NTI2NjM4MzQ3MDY5MzU3Ml8xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTVhN2QyNDc2YWQyZDk5ODFkMzkzMzIzYjFlZDg1ZWNfYjczODE5MWJjMTRiNTA4YjIzYjRiOTFkZmE2MzM0YTNfSUQ6NzY0NTI2NjM4MzQ3MDY5MzU3Ml8xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 新建一个配置，填这 6 个字段：
 
 ❶ 配置名：随便填，比如 obsidian-cloudflare-r2 ❷ Access Key ID：填刚才拿到的「访问密钥 ID」 ❸ Secret Access Key：填刚才拿到的「机密访问密钥」 ❹ Bucket：填你的存储桶名称，比如 obsidian-img ❺ 自定义节点（Endpoint）：直接粘贴创建令牌时给的「终结点」地址 ❻ 自定义域名：填上面 Step 4 里记住的那个「公共开发 URL」域名，比如 [https://pub-xxxxx.r2.dev](https://pub-xxxxx.r2.dev/)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yjc0N2E3NmM3NmEwMzBlMzk5MjQ5NmZhZTlkNmQxZWNfMTVkNzk5NmMzY2QyNzAxZjNkN2YxN2Q1OTgxMzhiNGJfSUQ6NzY0NTI2NjM3OTkzNTMwNDkyMF8xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWFjYWQ1NzJkNWVhYTQwMDRiZGI3MDZhOTcxMTkwNTRfOGYzN2U2MWM0MGM5NjYwMTcyN2E4YmIxOTJkYmJiNThfSUQ6NzY0NTI2NjM3OTkzNTMwNDkyMF8xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 其他字段全部留空，不用管。
 
@@ -132,7 +132,7 @@ Mac 用户也可以终端敲一行： brew install piclist --cask
 
 复制链接到浏览器打开，图片能显示就说明通了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDg4NWU4ZDMzNTI4M2Y3MWQzMWQzNzA0OTk1MTA4NTFfN2M1YzYyMzY0ZWQyYWVhM2E1NjU4MWUyOGVhNmU3MzJfSUQ6NzY0NTI2NjM4MzQ3MDcwOTk1Nl8xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWNhNWIzZGM1MTJjZmZiZTVhNjNkYThhNDhiODQ3MzlfMDA2NGMzYzY4NjI1MTQ4ZWFlM2M4OTk5MjE0YjI3MjVfSUQ6NzY0NTI2NjM4MzQ3MDcwOTk1Nl8xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 ## 𝟯. 装 Obsidian 插件
 
@@ -148,7 +148,7 @@ Mac 用户也可以终端敲一行： brew install piclist --cask
 
 !\\\[\\\]([https://pub-xxxxx.r2.dev/xxx.png](https://pub-xxxxx.r2.dev/xxx.png))
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDk5ZDRiMDJjNGRmYWE0N2U0YzFmZDE3Yzc5MTVhZWFfMWQ4NzgxN2QzNTRiMjQzYzBjOTllNjEwN2M5NDA3ZmRfSUQ6NzY0NTI2NjM4MDI0NTY5OTgwNF8xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Njc2ZDQ4ZmJlZmYxM2ZlNDY3ODRhNTI0OTA5MGVlYjBfYjEzYjVlMWEwNWI5ZDY1NWNhMTYxYzZlMjUyZjU1OTRfSUQ6NzY0NTI2NjM4MDI0NTY5OTgwNF8xNzgyMTA3MzEyOjE3ODIxMTA5MTJfVjM)
 
 以后你写的每篇文章，图片都自动在云端了。永久免费，流量也免费。
 
@@ -161,3 +161,7 @@ Mac 用户也可以终端敲一行： brew install piclist --cask
 💡 几个小贴士：
 
 • PicList 必须开着才能自动上传，建议设成开机启动 • R2 免费额度：10 GB 存储（总量上限） + 零流量费，永久有效。个人图床绰绰有余 • [R2.dev](https://r2.dev/) 域名部分地区可能偏慢。有自己域名的话，可以在存储桶设置的「自定义域」里绑一个，比如 [img.yourdomain.com](https://img.yourdomain.com/)，访问更快更稳 • 已经用腾讯云 COS 的不用换 — 两个方案各有优势：腾讯云发公众号最省心，R2 胜在永久免费 • 同时有腾讯云和 R2 的话，PicList 支持多图床切换，在托盘图标右键就能切
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/BCMSwuliwi9JJzk8HPCcgFK5nvd> ｜ 归档：2026-06-22

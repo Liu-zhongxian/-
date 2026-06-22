@@ -1,6 +1,6 @@
 # GPT Image 2 上线：我伪造了 1987 年一个中国人的一天
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzIxMWM0ZDljZGI4OGI5ODc1NjhhN2ZjMmIzMjcwNTVfOGU2OTcyNzM5ZDM3ZDlkMmY2NzA4NjhiMGM3OTVkMjVfSUQ6NzY0NTI2NTU2NDY0MTg0MDMxNF8xNzgyMDk5MTE5OjE3ODIxMDI3MTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGMwNTNkNWZkN2RhYjc0ODMwNzE1NzUzZDVkZGFiYWRfYjZhZjExODI4OTY3ODUzZjAyMTljMTQxYmM0NjNkNDdfSUQ6NzY0NTI2NTU2NDY0MTg0MDMxNF8xNzgyMTA3Mjg5OjE3ODIxMTA4ODlfVjM)
 
 1987 年 10 月 15 日，星期四。河北涿县。
 
@@ -10,7 +10,7 @@
 
 这是他床头。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTZmZjc3MjY1YjQ4Zjk4YjY2ZjRjYzFlMGU2ZmJmMDNfM2NjYjViOTg1OTY4Zjk0OWQxMTY4MDdjNzdlNjUzYmVfSUQ6NzY0NTI2NTU2MTkyODY5OTA5NF8xNzgyMDk5MTE5OjE3ODIxMDI3MTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGQyYTEyNTM2NzI3ZmRkZTlhNmUxN2U1ZTc2YmI4NjdfMTAzMWExYzY1OTQ1YmFlYzE4NWZmYmZjYWY0NTdmYzZfSUQ6NzY0NTI2NTU2MTkyODY5OTA5NF8xNzgyMTA3Mjg5OjE3ODIxMTA4ODlfVjM)
 
 1987 年 10 月 15 日，星期四，农历八月廿三。
 
@@ -18,7 +18,7 @@
 
 六点五十，他在厨房吃早饭。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDFjNGUwZTM5NWUzMjlmYTU5NWRiYTk2NzZmZTQzYjVfZmY3ZTNkZjgzMTJkYmNmY2I5NWZhMzRjZjk2YmE1OWFfSUQ6NzY0NTI2NTU2MTcwMjE5MDI5MV8xNzgyMDk5MTE5OjE3ODIxMDI3MTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTI5MjI4MGJkODJhMTNlMDU5NmFjMzY3MDBhZDQ5M2NfM2I4YjM1M2EwZTIyZDZhZjRmYjY1NGMyMmQ2NTVmOGFfSUQ6NzY0NTI2NTU2MTcwMjE5MDI5MV8xNzgyMTA3Mjg5OjE3ODIxMTA4ODlfVjM)
 
 蜂窝煤炉上煮着小米粥。桌上摆着两个馒头、一碟咸菜、一碟花生米。搪瓷缸上印着"为人民服务"，里面泡着浓茶。
 
@@ -26,7 +26,7 @@
 
 七点半，他到了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGFkODg2OTg3Yzc4YjdmMzYyN2EwZTkxZTA5YzJiMDNfNGNkZTJhNGJlYTYzYmFhMWI3MWQ1OTJkNjg0YjJjYjRfSUQ6NzY0NTI2NTU2MTMxMjMzMjk3OV8xNzgyMDk5MTIwOjE3ODIxMDI3MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTIyOGQ1MGJjYjc1NzM4OWJjN2IyMGQzMmZjOTllYTNfNjFjN2FhNmMxNGUxMGFhMzhiY2E4MTg4ZDE1MjljZWFfSUQ6NzY0NTI2NTU2MTMxMjMzMjk3OV8xNzgyMTA3Mjg5OjE3ODIxMTA4ODlfVjM)
 
 涿县城关供销合作社。他推开两扇木门，街上还没什么人。门口停着他那辆永久牌二八大杠。
 
@@ -34,7 +34,7 @@
 
 上午九点，上班。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGM4NDcwZmRiNjhmM2FhYTcwYjc3OGNlZWQ1MGY5YjBfNmFkZDJlMzJmMWMyNDMzNjczODc0NmUwNTc3ODBmMzBfSUQ6NzY0NTI2NTU2NTI5NjIwMDg5MF8xNzgyMDk5MTE5OjE3ODIxMDI3MTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjAyNjk1NzI4NDViNzNiNWY1M2FlZDFiZWQyYTVkYmVfY2NmZTkwNGRiZjhmNTU1M2NkYWFmNzQ4YjRiNDFiZDZfSUQ6NzY0NTI2NTU2NTI5NjIwMDg5MF8xNzgyMTA3Mjg5OjE3ODIxMTA4ODlfVjM)
 
 玻璃柜台后面，他在给人称红糖。价目牌挂在墙上：
 
@@ -44,7 +44,7 @@
 
 中午十二点十分，他在后屋吃饭。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGViNDQyYmE1YTUyOWJlMTAyM2ZiZWQ5NmUwNWI2NmVfYzM2NzgxZjA1NGFmOTFmMTlhMmU4Yjk5OWI1NmY4MThfSUQ6NzY0NTI2NTU2MTY2MDI4MDAyM18xNzgyMDk5MTE5OjE3ODIxMDI3MTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2VkMDljYWVlMTExMDQ3YWZiMmJkY2I2N2I4MjBiNjdfZDVlMWU4MGIxZTAxNTk2ODUyNjc1YWUyODZkZGUyZjBfSUQ6NzY0NTI2NTU2MTY2MDI4MDAyM18xNzgyMTA3Mjg5OjE3ODIxMTA4ODlfVjM)
 
 铝饭盒打开，米饭配炒白菜。桌上摊着一份《河北日报》，日期是 1987 年 10 月 15 日。收音机天线竖着。
 
@@ -52,7 +52,7 @@
 
 下午四点半。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmMyOTcwZWMyMmE5N2MyMTI4ZmY0N2I1NGRhZDdjYmRfNjQzNmZlNmZmM2M3Njk2OGE4YzZmZmZiNDdkMGM4MWRfSUQ6NzY0NTI2NTU2NDA1NDgxNzk3MV8xNzgyMDk5MTE5OjE3ODIxMDI3MTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzExNzc1NjhmMWMxM2ZjMjMxZGExZWU1MzNlNWNmMjFfMDI5YmJjOTZiY2ZiMTZlMmIzMTQ4NTQ1YTgzYWRmZjdfSUQ6NzY0NTI2NTU2NDA1NDgxNzk3MV8xNzgyMTA3Mjg5OjE3ODIxMTA4ODlfVjM)
 
 涿县供销合作社，销售凭证，No.003847。
 
@@ -64,7 +64,7 @@
 
 傍晚六点，下班了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmQ4NTQ3ZWQ5MTE2NzBlYjM0ODExYTliNTM3ZWYxOGFfOTM4YWUwMmM3YTYyYjI4YTY0YzAzYTQzMDEwMWM1ZjdfSUQ6NzY0NTI2NTU2MzU1MTY0ODk1OF8xNzgyMDk5MTIwOjE3ODIxMDI3MjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NThiZjRhZDU0MmM3NmFhMGE0MTUwZjdlYzdhZDU2MGRfNTNlZDIzYzU3YjA4ZmIxZDEzYmUzMDNkNmYwYjU4ZTlfSUQ6NzY0NTI2NTU2MzU1MTY0ODk1OF8xNzgyMTA3Mjg5OjE3ODIxMTA4ODlfVjM)
 
 他骑着那辆永久牌穿过幸福巷，后座绑着两颗白菜。夕阳把灰砖墙染成金色。胡同尽头那棵老槐树叶子快掉光了。
 
@@ -72,7 +72,7 @@
 
 晚上八点。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODRjZjJiZDc1ODRmMGU4MjRjZGU1NDNjNTUxMTQ3YzdfMTA2YzFkODA4ZDU1MTEwMzhhZWIzODg3M2M3NjRjZmJfSUQ6NzY0NTI2NTU2NDk0ODA5MDA2MV8xNzgyMDk5MTE5OjE3ODIxMDI3MTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDc2NTdkNmJlNjRmOTI0YjAxZjdiM2VhZjQwNzBjMWRfNDQ0N2MxNDA5OWNhMTkwMWJlZTcwYjk3OTM5ZDZmYzlfSUQ6NzY0NTI2NTU2NDk0ODA5MDA2MV8xNzgyMTA3Mjg5OjE3ODIxMTA4ODlfVjM)
 
 幸福巷 12 号。四合院里，四五家人围着一台 14 寸黑白电视看新闻联播。小板凳、马扎、藤椅。有人端着搪瓷缸喝茶，有人嗑瓜子。一个小女孩趴在她爸腿上。
 
@@ -128,3 +128,7 @@
 > 一张 1987 年秋天夜晚的照片，中国北方小县城一个四合院的院子里。院子中央摆着一台 14 寸黑白电视机（放在一张方凳上），电视屏幕亮着，画面上隐约是新闻联播的播音员（不需要太清晰，有个人形就行）。电视前的空地上，坐着四五家人——有的坐小板凳，有的坐马扎，有的搬了把藤椅。一个中年男人（侧坐，穿灰蓝色中山装）端着搪瓷缸喝茶，旁边一个小女孩趴在他腿上。一个老太太在旁边纳鞋底。有人嗑着瓜子。院子角落里停着那辆深绿色自行车。头顶一只裸露的白炽灯泡（挂在拉出来的电线上）照亮了整个院子，光线暖黄偏橙，人脸上有灯泡的暖光。院门半开着，门框旁的墙上钉着蓝底白字门牌"幸福巷 12 号"。夜空很暗，能看到一两颗星。秋天微凉，有人披着外套。柯达 Gold 200 质感，暖黄，颗粒粗，暗部偏品红，像谁家来串门时随手拍的一张。4:3 横版。
 
 本文所有照片由 OpenAI GPT Image 2 生成。刘建国、王秀兰、刘小月均为虚构人物，涿县城关供销合作社为虚构机构。文中所有细节不代表任何真实存在的人物、机构或历史事件。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/YhANwZYLJiMsm4k9axxcKeh4nyb> ｜ 归档：2026-06-22

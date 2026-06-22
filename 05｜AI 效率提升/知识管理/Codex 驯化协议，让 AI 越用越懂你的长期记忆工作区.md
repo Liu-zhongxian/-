@@ -6,4 +6,8 @@
 
 适合用 Codex / Cursor 做开发、做内容、做提效，又觉得"AI 没记性、越用越不顺手"的人。打开协议，复制安装指令词发给 AI，再把个人信息填上即可开始。
 
-<figure view-type="Preview"><source href="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTI3Yjk3ODIwOTRmOTRkZTg1YTRkOTcwZWVmYTg2YmFfNTViZWQ4NTVjZTFmZjM4NGQ3ZTZmNGE5NjRhZDJkY2RfSUQ6NzY1MjM3Mzk0MDcwMjMxNzgwMV8xNzgyMDk5MTU4OjE3ODIxMDI3NThfVjM" mime="text/markdown" token="LLnnbF8yqobKIDxrBaVcKBsinih"/></figure>
+<figure view-type="Preview"><source href="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjRmYWNiY2ZkZmZiZWY4ZWMyNGI1MDkyNzliNTE3MDNfNGFmYTc0ZmU4Mjg5MmU2YjdhZDJiOWVkNTY2YTdiZTVfSUQ6NzY1MjM3Mzk0MDcwMjMxNzgwMV8xNzgyMTA3MzIxOjE3ODIxMTA5MjFfVjM" mime="text/markdown" token="LLnnbF8yqobKIDxrBaVcKBsinih"/></figure>
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/PITMwX2fiieqNIk3Y8ocsqZFnFf> ｜ 归档：2026-06-22

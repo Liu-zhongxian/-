@@ -97,3 +97,7 @@ flowchart TB
 - [01.1｜AI 基础概念](https://lcnniolukk80.feishu.cn/wiki/ZDXGwkB7NiaPr6kbDPicgLFHnif) — 回到本章总览
 - [Hermes Agent 三层学习](https://lcnniolukk80.feishu.cn/wiki/MY8CwTTPOi2LrZkDtrPc8rE3nsh) — Agent 进阶架构
 - [AI Skill 到底是什么？](https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b) — Agent 里的 Skill 触发机制
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/OPs0wdSqHiozxHkJxFjcnv8Un8e> ｜ 归档：2026-06-22

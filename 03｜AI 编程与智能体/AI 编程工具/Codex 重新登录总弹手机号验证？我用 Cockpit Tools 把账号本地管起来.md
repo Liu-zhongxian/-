@@ -1,6 +1,6 @@
 # Codex 重新登录总弹手机号验证？我用 Cockpit Tools 把账号本地管起来
 
-![图片展示了Cockpit Tools管理ChatGPT/Codex账号的界面，强调其能减少反复登录、一键切换账号、查看额度、多工具管理等功能，解决账号风控问题。画面中显示了账号管理、额度管理、成单中心等板块，还呈现了账号使用情况，如Codex账号使用率78%、Cursor账号使用率52%等。右下角有“本地管理，更省心”的绿色箭头标识，与文档中解决账号风控问题、把账号本地管理起来的思路相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTM5YzAxODgyMzc0ZjdiYzYxMTgzMDk3M2M4MDEyNWZfY2Y0NWRlYWZmZDNkNWM2OTI5MmM2MjM3ZTk1YjBjNTZfSUQ6NzY0NTcxMjYzNTQxNzI1MTAzM18xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示了Cockpit Tools管理ChatGPT/Codex账号的界面，强调其能减少反复登录、一键切换账号、查看额度、多工具管理等功能，解决账号风控问题。画面中显示了账号管理、额度管理、成单中心等板块，还呈现了账号使用情况，如Codex账号使用率78%、Cursor账号使用率52%等。右下角有“本地管理，更省心”的绿色箭头标识，与文档中解决账号风控问题、把账号本地管理起来的思路相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWZlYzAyMzdiNzgxZjExZWNlNGU3Zjc2ZTEwN2EyNWFfMmQ3Y2EzZGZiMzViODRmYjM2MzFiOGVhNDU5NTcyZTRfSUQ6NzY0NTcxMjYzNTQxNzI1MTAzM18xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 如果你最近重新登录 Codex，经常遇到手机号认证，那这篇教程你一定要看一下。
 
@@ -14,7 +14,7 @@ Cockpit Tools 就是用来做这件事的。
 
 ## 1\\. Cockpit Tools 是什么？
 
-![图片为Cockpit Tools工具定位图，展示其作为AI编程账号管家的功能。左侧列出Codex、Cursor、Copilot、Windsurf等AI编程工具，中间是Cockpit Tools，右侧有“帮你实现”的功能说明，包括账号管理、额度查看、一键切换、多开实例等。底部文字强调Cockpit Tools让多账号、多平台管理更简单、更高效。该图与上下文介绍的Cockpit Tools功能相契合，直观呈现其管理AI编程账号的优势。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmEzOWVmY2ExZmM5MDczMjFmYzY3YjQwYmQxYTVkMDhfYjM5M2E5NTVjZTA3Mjk1NmU3NWY2ZDlmZGJhZjU4NGRfSUQ6NzY0NTcxMjY1MTc0MTMzNDc0NF8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片为Cockpit Tools工具定位图，展示其作为AI编程账号管家的功能。左侧列出Codex、Cursor、Copilot、Windsurf等AI编程工具，中间是Cockpit Tools，右侧有“帮你实现”的功能说明，包括账号管理、额度查看、一键切换、多开实例等。底部文字强调Cockpit Tools让多账号、多平台管理更简单、更高效。该图与上下文介绍的Cockpit Tools功能相契合，直观呈现其管理AI编程账号的优势。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDc2YTMxMjlkNmJjNTliY2YxMzIyNmQ1NTA5MDZkNzRfMGUwZDM3N2E2ODE5OTEwZjkzYmFmZGJlNjk4N2JiNjBfSUQ6NzY0NTcxMjY1MTc0MTMzNDc0NF8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 Cockpit Tools 是一个 AI 编程账号管理工具。
 
@@ -36,7 +36,7 @@ Cockpit Tools 是一个 AI 编程账号管理工具。
 
 ## 2\\. 下载地址
 
-![图片展示的是Cockpit Tools在GitHub的仓库页面。页面上方有仓库名称“cockpit-tools”及“Public”标识，右上角有“Watch”“Fork”“Star”等操作按钮。页面中部列出多个分支和标签，右侧有“About”介绍，包括支持的AI IDE、账户管理等功能。下方是“Releases”部分，显示137个版本，其中最新版本为v0.22.19，发布于3小时前，有157次下载。该图片与文档中下载Cockpit Tools的内容相关，直观呈现了下载地址及版本信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmY1MGQyYjhhYTg0MDExNTU1YTZhMmU3YWNhNjQ4N2JfZmIwODczZWRlNjFmNGMxNGE3MzAwM2QyY2FhZmNiMGVfSUQ6NzY0NTcxMjY2NzMzMTU5NTQ3OF8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示的是Cockpit Tools在GitHub的仓库页面。页面上方有仓库名称“cockpit-tools”及“Public”标识，右上角有“Watch”“Fork”“Star”等操作按钮。页面中部列出多个分支和标签，右侧有“About”介绍，包括支持的AI IDE、账户管理等功能。下方是“Releases”部分，显示137个版本，其中最新版本为v0.22.19，发布于3小时前，有157次下载。该图片与文档中下载Cockpit Tools的内容相关，直观呈现了下载地址及版本信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTE3MTc1YmZjMTkxYmVjMDhkZjY0NTZiMmVjNmM5NTVfM2EwN2Y4YzQ3Yzc1M2ZjZGQ3OWRkMTFiZTg2YmUxZjFfSUQ6NzY0NTcxMjY2NzMzMTU5NTQ3OF8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 官方 GitHub 地址：
 
@@ -52,7 +52,7 @@ Cockpit Tools 是一个 AI 编程账号管理工具。
 
 ## 3\\. Windows 怎么下载？
 
-![图片展示的是Cockpit Tools的下载页面资产列表。其中，两个文件被红色框线突出显示，分别是“Cockpit Tools, 0.22.19, x64 - setup.exe”和“Cockpit Tools, 0.22.19, x64 - en-US.msi”。这两个文件对应文档中Windows用户下载Cockpit Tools的两个选项，分别是安装程序和MSI安装包，普通用户建议优先选.msi，安装过程更省心。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWQ4YTI2NGViMTUyMzFjYmI4NzBkN2QwZTlkZDNjZWRfNmI0ZTQzNjE2NzEwYWUyNzM0MTQ4OTZkOGUwMGZkOTFfSUQ6NzY0NTcxMjY3OTk4MTcxNDYyM18xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示的是Cockpit Tools的下载页面资产列表。其中，两个文件被红色框线突出显示，分别是“Cockpit Tools, 0.22.19, x64 - setup.exe”和“Cockpit Tools, 0.22.19, x64 - en-US.msi”。这两个文件对应文档中Windows用户下载Cockpit Tools的两个选项，分别是安装程序和MSI安装包，普通用户建议优先选.msi，安装过程更省心。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2MxOTk5NjUyNDIxY2QyNDk4MGJlODJhZTFhYjZhNzZfMmE2NmE5MzgwNTRiNzZhNzY2ZGMyNzhiNDUwOGM4N2JfSUQ6NzY0NTcxMjY3OTk4MTcxNDYyM18xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 打开下载页面后，找到最新版本。
 
@@ -70,7 +70,7 @@ Windows 用户一般下载这两个里面的一个：
 
 ## 4\\. macOS 怎么下载？
 
-![图片展示的是Cockpit Tools在GitHub仓库中Assets部分的下载页面。页面列出了不同版本的Cockpit Tools文件，包括.msi、.exe、.dmg等格式。其中，红色框突出显示了三个版本的Cockpit Tools .dmg文件，分别是Cockpit.Tools_0.22.19_x64.dmg、Cockpit.Tools_0.22.19_x64 - setup.exe、Cockpit.Tools_0.22.19_x64 - setup.sig。该图片与文档中macOS下载Cockpit Tools的内容相关，指导macOS用户下载.dmg文件。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmUzNjY2Mzc0MGQ4ZWE4MmY2ZWE2NjM2YTFjNDk1MmRfZjIyMzZjYzFhYmI4ZjVlN2MxMTE3ZTJjODgxYTljNmZfSUQ6NzY0NTcxMjY5NTk3NDQ4MTEwOV8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示的是Cockpit Tools在GitHub仓库中Assets部分的下载页面。页面列出了不同版本的Cockpit Tools文件，包括.msi、.exe、.dmg等格式。其中，红色框突出显示了三个版本的Cockpit Tools .dmg文件，分别是Cockpit.Tools_0.22.19_x64.dmg、Cockpit.Tools_0.22.19_x64 - setup.exe、Cockpit.Tools_0.22.19_x64 - setup.sig。该图片与文档中macOS下载Cockpit Tools的内容相关，指导macOS用户下载.dmg文件。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWNlZTRlMmY4YmQ3ZmFlNzQ3ODI4NWE0M2ZhNmQxMjdfZTIzMTllZmI2ZWNhMjMzMGQ0Y2Q3OTQ4ZGY1Y2YxYjNfSUQ6NzY0NTcxMjY5NTk3NDQ4MTEwOV8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 macOS 用户下载 .dmg 文件。
 
@@ -84,7 +84,7 @@ macOS 用户下载 .dmg 文件。
 
 ## 5\\. 第一次打开，先别急着导入所有账号
 
-![图片展示了Cockpit Tools第一次打开时的操作顺序。步骤包括：01. 打开软件，双击桌面图标打开；02. 切换中文，进入设置将语言切换为中文；03. 添加账号，先添加一个最常用的工具账号进行测试；04. 刷新额度，刷新账号状态确认额度能正常显示；05. 继续添加，确认没问题后再添加更多账号。图片下方有小建议，提示不要一上来就把所有账号导入，先用一个账号测试通，再继续。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTVhN2RjMzZjNmU2OTU1MDJkYjg5YjQ2MTJhOGY4ZjdfM2U0NTBiM2FmM2Q1ZGY0ZmZkNzYxZGI5MDhkMjFmYWRfSUQ6NzY0NTcxMjcwNzU2Nzc5OTUwMV8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示了Cockpit Tools第一次打开时的操作顺序。步骤包括：01. 打开软件，双击桌面图标打开；02. 切换中文，进入设置将语言切换为中文；03. 添加账号，先添加一个最常用的工具账号进行测试；04. 刷新额度，刷新账号状态确认额度能正常显示；05. 继续添加，确认没问题后再添加更多账号。图片下方有小建议，提示不要一上来就把所有账号导入，先用一个账号测试通，再继续。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGQ2Y2MzMzM0ZWVlZDc4ODc2ODkyNTdlMjQ5YTU0N2RfYmE0NzA0NjBhNjMwMzQ4MzVkMjFhNzA0M2I5MzIxNjdfSUQ6NzY0NTcxMjcwNzU2Nzc5OTUwMV8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 打开 Cockpit Tools 后，建议先慢一点。
 
@@ -110,25 +110,25 @@ macOS 用户下载 .dmg 文件。
 
 先点击添加按钮，导入 Codex 账号。
 
-![图片展示了Cockpit Tools的界面，其中“Codex”标签被红色框突出显示。界面左侧有多个图标，右侧有“Overview”“Model Providers”等标签。下方有账号管理区域，显示了API Service、Team Name等信息，以及账号状态、额度使用情况等。右上角有“Add Account”按钮。该图片与上下文关系紧密，上下文在介绍使用Cockpit Tools管理Codex账号的操作流程，此图展示了操作界面中“Add Account”按钮所在位置，是导入账号操作的直观呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDRhYjA3NjcyOTRmY2Q4OGJkYzI3ZmM2ODdhZjAzZjFfOWFjZDBkN2JhOTVlNjFkMjgyYjU4MjE5ODNjYzdlYTVfSUQ6NzY0NTcxMjcyNjUzNDE4MDAyMF8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示了Cockpit Tools的界面，其中“Codex”标签被红色框突出显示。界面左侧有多个图标，右侧有“Overview”“Model Providers”等标签。下方有账号管理区域，显示了API Service、Team Name等信息，以及账号状态、额度使用情况等。右上角有“Add Account”按钮。该图片与上下文关系紧密，上下文在介绍使用Cockpit Tools管理Codex账号的操作流程，此图展示了操作界面中“Add Account”按钮所在位置，是导入账号操作的直观呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjJjMWIxZWU0MjUzZTEwNDNiMmZiMThiN2UwY2ZmZmFfOGIwMjY5Zjg3MWU0ZGJmZmVjZDEyZTQwY2RmYjU5MjVfSUQ6NzY0NTcxMjcyNjUzNDE4MDAyMF8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 导入方式一般有两种：auth 认证和本地导入。
 
 第一次添加账号时，可以先用 auth 认证方式。点击添加后，把生成的链接复制到浏览器里完成认证。
 
-![图片展示的是Cockpit Tools中添加Codex账号的授权界面。界面上方有“Add Codex Account”标题，下方提示点击按钮在浏览器中完成OpenAI授权。关键信息是授权链接“https://auth.openai.com/oauth/authorize?response_type=code&client_id=...”，并有“Open in Browser”按钮。该图片与上下文紧密相关，上下文介绍了添加Codex账号的两种方式，此图对应第一次添加账号时用auth认证方式的操作步骤，即点击添加后，将生成的链接复制到浏览器里完成认证。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2UzNWM4MzFiZjM3YjE1YzMzYjhlYmJlNzViMGZiMjhfOWZjZDE2Nzk5Yzk2M2Y2ZTI1ODdkZjAwMTM5MDAzODFfSUQ6NzY0NTcxMjczOTQyMzI3NjIzMV8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示的是Cockpit Tools中添加Codex账号的授权界面。界面上方有“Add Codex Account”标题，下方提示点击按钮在浏览器中完成OpenAI授权。关键信息是授权链接“https://auth.openai.com/oauth/authorize?response_type=code&client_id=...”，并有“Open in Browser”按钮。该图片与上下文紧密相关，上下文介绍了添加Codex账号的两种方式，此图对应第一次添加账号时用auth认证方式的操作步骤，即点击添加后，将生成的链接复制到浏览器里完成认证。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmQyMWQ0MGU4ZGEzMzU2ZTEzNTYyYWUzYzhiZjNhYTNfOGQ5ZmJiZWViNWFiZmFjMjQ5OTExYmJiNGNhMzUwNjZfSUQ6NzY0NTcxMjczOTQyMzI3NjIzMV8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 页面提示授权成功后，回到 Cockpit Tools，就能看到账号信息了。
 
-![图片展示的是Cockpit Tools中添加Codex账号授权成功的界面。背景为紫色，中间有一个绿色的对勾图标，旁边大字显示“授权成功”，下方文字提示“您可以关闭此窗口并返回应用”。该图片与上文提到的“页面提示授权成功后，回到Cockpit Tools，就能看到账号信息了”相呼应，直观呈现了授权成功的状态，是添加账号流程中的一个关键步骤结果展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDMwODkwNjk5NDNiMzRiMmFmODkwZWM2OGZkZjc5ZjRfMjU0YzJiZTM2YWQ5MDI0NDkxNDVjZGRlY2YxNTAyNGFfSUQ6NzY0NTcxMjc1MjY1MjEyNzQ0OV8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示的是Cockpit Tools中添加Codex账号授权成功的界面。背景为紫色，中间有一个绿色的对勾图标，旁边大字显示“授权成功”，下方文字提示“您可以关闭此窗口并返回应用”。该图片与上文提到的“页面提示授权成功后，回到Cockpit Tools，就能看到账号信息了”相呼应，直观呈现了授权成功的状态，是添加账号流程中的一个关键步骤结果展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTI0YmExMTNlNTc3OTk2ZmFjNGVkMTUwYjgyZWQ0MmRfYWRhMmE3MjY5ZDk2NWZkYWZiZmI1YjhmNDU5MzFmZDNfSUQ6NzY0NTcxMjc1MjY1MjEyNzQ0OV8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 如果你本地已经有 Codex 的认证信息，也可以用本地加载。直接点击加载按钮，把本地认证信息导入进来。
 
-![图片展示了Cockpit Tools中添加Codex账号的界面。上方有OAuth、Token、API Key等选项，右侧有“Import”按钮。下方有“Get Local Account”和“Import from Local Files”选项，其中“Get Local Account”被红色框突出显示。下方还显示“Import successful”及邮箱地址。该图片与上下文紧密相关，上下文介绍了在Cockpit Tools中添加Codex账号的方式，可先用auth认证方式添加，也可用本地加载，此图对应本地加载成功后的界面展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzYzODNhODVlNDNmMDcxYTg4Mjc0YWNiY2Q5YTNjMGJfNWI4ODRkZjQyMTA3MGRkMTk2NWQzYjYxZDY3ODhiMWRfSUQ6NzY0NTcxMjc2NzQ3NDc4MTM4NV8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示了Cockpit Tools中添加Codex账号的界面。上方有OAuth、Token、API Key等选项，右侧有“Import”按钮。下方有“Get Local Account”和“Import from Local Files”选项，其中“Get Local Account”被红色框突出显示。下方还显示“Import successful”及邮箱地址。该图片与上下文紧密相关，上下文介绍了在Cockpit Tools中添加Codex账号的方式，可先用auth认证方式添加，也可用本地加载，此图对应本地加载成功后的界面展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjViZTk0Y2VmYWVjZGU3N2Y3ZWE4YWEwZDlkY2IwZjdfNDdlYzU4YTlmN2Q4MGQ2YjEwZWI2YTM2ZWFjZWVjOTdfSUQ6NzY0NTcxMjc2NzQ3NDc4MTM4NV8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 导入成功后，可以查看账号套餐和额度。
 
-![图片展示了Cockpit Tools中账号管理界面。画面右侧红框内显示账号信息，包括Team Name、签约方式、签约时间、额度使用情况等。其中，额度使用情况以绿色进度条呈现，显示已用额度为88%，剩余额度为100%。该图片与上下文紧密相关，是导入账号本地认证信息后，查看账号套餐和额度的示例，帮助用户确认账号状态和额度信息是否正常显示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjQwOTg1N2ExMzg4Yjg2NTgyZWMzMDRjOWY2NDY0MzlfYzE2ZDJlMTM3MzNkMTE4NDQwMGNhNzc2MzgxYjM4ZjNfSUQ6NzY0NTcxMjc4MjkzOTEzMTA3MV8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示了Cockpit Tools中账号管理界面。画面右侧红框内显示账号信息，包括Team Name、签约方式、签约时间、额度使用情况等。其中，额度使用情况以绿色进度条呈现，显示已用额度为88%，剩余额度为100%。该图片与上下文紧密相关，是导入账号本地认证信息后，查看账号套餐和额度的示例，帮助用户确认账号状态和额度信息是否正常显示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjJlODA0NmExZWJmYWMwNDJiYzA1NjNiMTkxZmNhMGZfZjg3NmRiOGM0N2Q0ZTBhYmU3MWMzZTdjNzc1ZTI1YTJfSUQ6NzY0NTcxMjc4MjkzOTEzMTA3MV8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 这一步很关键。你至少要确认两件事：
 
@@ -139,29 +139,29 @@ macOS 用户下载 .dmg 文件。
 
 切换时，建议先关闭 Codex，再在 Cockpit Tools 里点击切换按钮。切换完成后，重新打开 Codex。
 
-![图片展示的是Cockpit Tools界面，用于管理Codex账号。界面左侧有账号管理、API服务、实例管理等功能选项。中间部分显示了三个账号信息，包括账号名称、状态、额度使用情况等。其中，中间账号状态为“Current”，额度使用为100%，剩余时间为4天；右侧账号额度使用为98%，剩余时间为5天。界面底部有分页导航栏。该图与上下文关系紧密，直观呈现了使用Cockpit Tools管理Codex账号时账号状态及额度信息等内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGVkNjZjMjVmODEzZDJiZjY2ODU4YWZkOTE1Yjc3NTBfYzQwMWZkZDRmOTE5YTMyMzNhMGI2NTA0MWFlZGIwZDhfSUQ6NzY0NTcxMjc5NTI1ODA0NzY4OF8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示的是Cockpit Tools界面，用于管理Codex账号。界面左侧有账号管理、API服务、实例管理等功能选项。中间部分显示了三个账号信息，包括账号名称、状态、额度使用情况等。其中，中间账号状态为“Current”，额度使用为100%，剩余时间为4天；右侧账号额度使用为98%，剩余时间为5天。界面底部有分页导航栏。该图与上下文关系紧密，直观呈现了使用Cockpit Tools管理Codex账号时账号状态及额度信息等内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTFjMGQyMzA0ZDkyYWM1Mzg1Yzg4ZmM2MzE1MzNiZWFfZTJlZDQ0ZjRkMjQ2ZDM4OWJkNDFlZWY1YTE5Y2ZkYjFfSUQ6NzY0NTcxMjc5NTI1ODA0NzY4OF8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 我不建议在 Codex 正在运行的时候频繁切号。这样更容易出现状态没刷新、切换不生效、甚至报错的问题。
 
 如果你用的是 macOS，还可以尝试管理多个 Codex 实例。目前这个功能主要支持 macOS。
 
-![图片展示的是Cockpit Tools软件界面，当前处于“Instances”标签页。界面上方有“Unsupported on this system”提示，说明Codex多实例功能目前仅在macOS上可用。下方有一个“New Instance”蓝色按钮，被红色框突出显示。该图片与上下文关系紧密，上下文提到在macOS上可尝试管理多个Codex实例，此图直观呈现了在macOS系统中使用Cockpit Tools创建新实例的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjMyZjdlZDg3NTlkNzAxY2E1NWM4MDRlMjFlNDcwNjBfYzEyYWM5ZjJlZTZjNjM5YjcwZmViOTJkNzQ1OTgyY2RfSUQ6NzY0NTcxMjgwNzkwMzg0MTUwNF8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示的是Cockpit Tools软件界面，当前处于“Instances”标签页。界面上方有“Unsupported on this system”提示，说明Codex多实例功能目前仅在macOS上可用。下方有一个“New Instance”蓝色按钮，被红色框突出显示。该图片与上下文关系紧密，上下文提到在macOS上可尝试管理多个Codex实例，此图直观呈现了在macOS系统中使用Cockpit Tools创建新实例的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWFlYzY1ZDViMzVjMzIwMGJhNWIxMDY5MjE5NzhjYmRfNjliOTk3MjBjYzU4ZWZjMTEwOTUwODg1Yzk2NTdiNDBfSUQ6NzY0NTcxMjgwNzkwMzg0MTUwNF8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 另外，它也能管理历史会话。
 
-![图片展示的是Cockpit Tools软件界面，处于“账号”页面。左侧有多个图标，右侧上方有“Overview”等选项卡。中间列表显示多个账号，如“OrbitOS - Second - Brain”“code - 1”等，每个账号右侧有时间标识，如“31m”“8h”等。右侧还有“Sync Sessions”“Repair Visibility”“Restore Sessions”“Refresh”“Show to Team”等按钮。该图与上下文介绍的用Cockpit Tools管理Codex账号及历史会话的内容相关，直观呈现了软件中账号管理界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjliNTc4MTZjYWJiZDUzNTNkMDZhMTYxNWJlZTk1NWZfYzQ4ZTMyMGRiMGI3YTE1ZDZiYjJlZmQ0MzEyODI4MDZfSUQ6NzY0NTcxMjgyMzMwNTMwOTM4NF8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示的是Cockpit Tools软件界面，处于“账号”页面。左侧有多个图标，右侧上方有“Overview”等选项卡。中间列表显示多个账号，如“OrbitOS - Second - Brain”“code - 1”等，每个账号右侧有时间标识，如“31m”“8h”等。右侧还有“Sync Sessions”“Repair Visibility”“Restore Sessions”“Refresh”“Show to Team”等按钮。该图与上下文介绍的用Cockpit Tools管理Codex账号及历史会话的内容相关，直观呈现了软件中账号管理界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTM3ZWQ1ZTBlZmFlYmRhM2Q0NGRjMzg0ZGI4NDE5YzFfZjE1OTE3NTkzMWVmMzExM2ZkZjE2ZTNlOTM3NTU4MjNfSUQ6NzY0NTcxMjgyMzMwNTMwOTM4NF8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 这一套跑通以后，你就可以把常用 Codex 账号放在本地管理。以后需要切换账号时，直接从 Cockpit Tools 里切，尽量少走重新登录流程。
 
 ## 7\\. 怎么用它管理 Cursor / Windsurf / Copilot？
 
-![图片展示了Cockpit Tools的账号管理界面。左侧有多个平台选项，如Zed、GitHub Copilot、Windsurf等，其中“Cursor”平台被红框突出显示。右侧是账号管理区域，显示了不同账号的团队名称、状态、额度等信息，如“Personal account”账号的额度为98%等。该图片与上下文介绍的用Cockpit Tools管理Cursor等工具账号的流程相关，直观呈现了账号管理界面及部分账号信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWIyYzI1MTZhMDE1YzZlOWJjN2ExMTI1N2FhYjU1YzZfNmVkY2VmYTQzYzk1MWY2M2VmNjY0MGQ2ODA5MzIxNmRfSUQ6NzY0NTcxMjg0MDE2MjA2OTY4M18xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示了Cockpit Tools的账号管理界面。左侧有多个平台选项，如Zed、GitHub Copilot、Windsurf等，其中“Cursor”平台被红框突出显示。右侧是账号管理区域，显示了不同账号的团队名称、状态、额度等信息，如“Personal account”账号的额度为98%等。该图片与上下文介绍的用Cockpit Tools管理Cursor等工具账号的流程相关，直观呈现了账号管理界面及部分账号信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2ZhM2EyMTIyMzE4ZjE0YjU0YWE2ZjIxZGYwYmQxM2FfMTVkNWQxMTg0MmY5MjRhNDgzOGIwZDEzODVhMDkzMjBfSUQ6NzY0NTcxMjg0MDE2MjA2OTY4M18xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 其他工具的思路也差不多。
 
 这里以反重力为例。
 
-![图片展示的是Cockpit Tools软件界面中账号管理页面。界面上方有“Overview”等标签，下方有搜索账号、筛选等操作按钮。关键信息是界面中以红色框突出显示的两个账号卡片，左侧账号为“sigma”，右侧账号为“sigma@gmail.com”，均显示为“Current”状态，额度均为1000，可用额度均为1000，且有具体使用情况说明。该图片与上下文介绍的用Cockpit Tools管理Cursor/Windsurf/Copilot流程中“导入账号”步骤相关，直观呈现了账号导入后的状态展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2QzN2YyOTgwODdjNzVjMTA3ZDU0NjRmNmE5Y2M5MDZfMzg3Y2VjNjIwM2JlZDU3ODQ0M2Y3OWZlODQ1YmQ5OTBfSUQ6NzY0NTcxMjg1MjcwNzI4MjEyNV8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示的是Cockpit Tools软件界面中账号管理页面。界面上方有“Overview”等标签，下方有搜索账号、筛选等操作按钮。关键信息是界面中以红色框突出显示的两个账号卡片，左侧账号为“sigma”，右侧账号为“sigma@gmail.com”，均显示为“Current”状态，额度均为1000，可用额度均为1000，且有具体使用情况说明。该图片与上下文介绍的用Cockpit Tools管理Cursor/Windsurf/Copilot流程中“导入账号”步骤相关，直观呈现了账号导入后的状态展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzczMDcyNjAwODg5ZDBhMzRiMTFlOWVmZmNjZTRkMmFfMjlhYmU0ZGJmZjliMzQ3ZDc1NzQxMGJkNjJiNzc2ZjVfSUQ6NzY0NTcxMjg1MjcwNzI4MjEyNV8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 大致流程是：
 
@@ -177,7 +177,7 @@ macOS 用户下载 .dmg 文件。
 
 ## 8\\. 使用前一定要注意安全问题
 
-![图片展示了使用Cockpit Tools管理账号前需记住的3点注意事项。1. 只从GitHub下载，避免下载来路不明的安装包；2. 不要分享账号文件，账号文件含登录信息，不要发给他人或上传网络；3. 截图先打码，分享截图时记得遮挡账号、邮箱、Token等敏感信息。图片与上下文紧密相关，上下文强调该工具管理账号登录信息，安全问题需注意，此图直观呈现了安全注意事项，提醒用户在使用时要谨慎。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzY2NjlhYzNmM2U3ODUwNDRiNzZjZWY4MzFmZTgxN2JfYTBiOTllZTJiNWVlY2MyZjQ0YzYzMTA3MjM2NTFiYjlfSUQ6NzY0NTcxMjg2Njc2NjYzODI2OF8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示了使用Cockpit Tools管理账号前需记住的3点注意事项。1. 只从GitHub下载，避免下载来路不明的安装包；2. 不要分享账号文件，账号文件含登录信息，不要发给他人或上传网络；3. 截图先打码，分享截图时记得遮挡账号、邮箱、Token等敏感信息。图片与上下文紧密相关，上下文强调该工具管理账号登录信息，安全问题需注意，此图直观呈现了安全注意事项，提醒用户在使用时要谨慎。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWU2ZTUwODhhYzUzMDdlNzg2OTM5NTUzNGYwNjQ5NjNfZDhhNjY2OGQzYWNmYWI0OGM1ZTgxOGQwNzY4MTE0MTNfSUQ6NzY0NTcxMjg2Njc2NjYzODI2OF8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 这个工具很方便，但它管理的是账号登录信息，所以安全问题一定要放在前面。
 
@@ -194,7 +194,7 @@ macOS 用户下载 .dmg 文件。
 
 ## 9\\. 常见问题
 
-![图片为Cockpit Tools使用帮助中的“常见问题速查”内容。左侧列出“安装后打不开”“看不到额度”“切号没生效”“不知道选哪个安装包”四个问题，右侧对应给出解决建议，如先检查系统版本和安装包、点刷新或重新导入、关闭工具后重新打开、Windows选msi、macOS选universal.dmg等。该图片与文档中“安装后打不开怎么办”这一常见问题相关，为用户提供解决办法。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZThhMzI5MDJkMzM0OTRjNjNlYmQ1OTZkZWE2YzdjZmNfNzBkNGIwZTQ4NDQ5MDcyZjRjOGM0OGNiNmQ0NzBiOGFfSUQ6NzY0NTcxMjg4NDcxMzkxNzY0NF8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片为Cockpit Tools使用帮助中的“常见问题速查”内容。左侧列出“安装后打不开”“看不到额度”“切号没生效”“不知道选哪个安装包”四个问题，右侧对应给出解决建议，如先检查系统版本和安装包、点刷新或重新导入、关闭工具后重新打开、Windows选msi、macOS选universal.dmg等。该图片与文档中“安装后打不开怎么办”这一常见问题相关，为用户提供解决办法。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmVlMzc4NjY2MTZkMWFhNzI3NjBmOTkyNmI5MzVjMThfYzExN2JhYjIxNTUxMTRjNDRiMTNmMjFjNDk3OGRhYThfSUQ6NzY0NTcxMjg4NDcxMzkxNzY0NF8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 ## 安装后打不开怎么办？
 
@@ -230,7 +230,7 @@ Windows 用 .msi 或 .exe。 macOS 用 .dmg。
 
 ## 10\\. 我建议的使用方式
 
-![图片展示了Cockpit Tools使用成长路线图，为新手推荐路线。图中分为五个步骤，1为单账号，先添加一个常用账号熟悉基本操作；2为看额度，确认账号额度能正常显示；3为双账号切换，添加第二个账号测试切换是否正常；4为多平台管理，添加其他平台账号统一管理和查看；5为多开实例，按需创建多个实例提升使用效率。底部黄色框内提示“先从一个账号开始，测试通了再继续”。该图与上下文关于新手使用Cockpit Tools的建议相呼应，直观呈现使用流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjQ0ODI4NWM0Y2Y2MmUzNjRhNDg1MTI0YjA5ZGE5OTRfNmIyNjc5OWM5ZjNiNzcwY2ViODMzYmQxYjMxMGZjYjlfSUQ6NzY0NTcxMjg5ODA5ODA3Mjc2NV8xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片展示了Cockpit Tools使用成长路线图，为新手推荐路线。图中分为五个步骤，1为单账号，先添加一个常用账号熟悉基本操作；2为看额度，确认账号额度能正常显示；3为双账号切换，添加第二个账号测试切换是否正常；4为多平台管理，添加其他平台账号统一管理和查看；5为多开实例，按需创建多个实例提升使用效率。底部黄色框内提示“先从一个账号开始，测试通了再继续”。该图与上下文关于新手使用Cockpit Tools的建议相呼应，直观呈现使用流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGNiMGFhNDYxZDI1NGNhNzBlYTFmNWY3NzBlZTNmNjJfOTRhNWQ2ODRjNTQ3MjQwNzIxNTkzMGRiZTJjNzEyNGNfSUQ6NzY0NTcxMjg5ODA5ODA3Mjc2NV8xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 新手别一开始就追求复杂玩法。
 
@@ -244,7 +244,7 @@ Windows 用 .msi 或 .exe。 macOS 用 .dmg。
 
 ## 11\\. 总结
 
-![图片为Cockpit Tools教程总结图，标题为“适合谁？怎么用更稳？”。左侧“适合谁”板块，有“多账号用户”“多工具用户”“经常看额度的人”等标识。中间“不太适合谁”板块，有“只用一个账号的人”“不想折腾工具的人”等标识。右侧“使用原则”板块，有“官方下载”“先少量 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTkzMmM0MTg3MjQ3YTMyMDQyNDM1NDFlNDk3MmIxOTdfNWMxZDhhYmQwOWViZTkzMDRiYjY0ZWY4NjBhZWZhNGVfSUQ6NzY0NTcxMjkxMDk3ODg2MjI4N18xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
+![图片为Cockpit Tools教程总结图，标题为“适合谁？怎么用更稳？”。左侧“适合谁”板块，有“多账号用户”“多工具用户”“经常看额度的人”等标识。中间“不太适合谁”板块，有“只用一个账号的人”“不想折腾工具的人”等标识。右侧“使用原则”板块，有“官方下载”“先少量 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWJhMTA3YjkzYmQ3N2UwYWI2MDFmMDkzMWI2Y2VkNzlfMTAzYmNjZWQ4NzgyMTNjMmEwZjhmN2I4OWU4YWM0YmNfSUQ6NzY0NTcxMjkxMDk3ODg2MjI4N18xNzgyMTA3MjMzOjE3ODIxMTA4MzNfVjM)
 
 Cockpit Tools 最适合三类人：
 
@@ -265,3 +265,7 @@ Cockpit Tools 最适合三类人：
 **别等账号登录开始折腾你了，再想起来做账号管理。**
 
 **更多 AI 干货同步更新公众号：雨哥聊AI，关注我带你玩转 AI 时代！**
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/VN4owKKB0ibbDEkHKfNcx7fDnCf> ｜ 归档：2026-06-22

@@ -2,7 +2,7 @@
 
 前面一篇文章我讲解了怎么安装和使用Openclaw，但是对于Openclaw为什么那么独特还是一知半解。所以我也是基于它的一些概念尽量通俗易懂的方式讲解里面的核心机制之一，“workspace”也就是工作空间。我也会用尽量简单的方式去讲解这些晦涩难懂的知识。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzY1NDQ3ZDU4ZjgxOTJiZDVjMjdlOWYzMTFmYTQyMzBfYTUxNzEyNmQyZTBlNThjNWQyODVjZDM3ODk0NDAzY2JfSUQ6NzY0ODI3MjYyNjk5NzMzMzIwNl8xNzgyMDk5MDk5OjE3ODIxMDI2OTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2QxMDI2MTI1MzllODExMGI2NDRkOTQwOTMwZTdlNGFfMTUwMzc0MmMyNzFlYmY3ODU3ZjI5MDFlYTQ5M2M1MTFfSUQ6NzY0ODI3MjYyNjk5NzMzMzIwNl8xNzgyMTA3MjcxOjE3ODIxMTA4NzFfVjM)
 
 我这里使用了AI女友的例子来做演示，怎么使用六大核心配置文档去打造一个独属于你的AI女友。
 
@@ -17,21 +17,21 @@
 - **这是什么：** 其实就是你想设置一个怎么样的身份背景，可以是经济分析师，也可以是情感大师，又或者是一个高级程序员。你想要你的AI女友是什么身份就可以设置成什么身份。
 - **设置用例：** 我这里用一两句话定下她是谁。比如：“你叫夏沫，22岁，是个有点傲娇但很粘人的插画师，喜欢喝全糖奶茶。” 每次启动，她都会先看一眼这个文件，瞬间进入角色，绝对不会突然跳戏变成“百科全书”。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Mzc3MjkzNmU3OTU0YzMyZWI2NGIyNWY0OGRkZGI0OTBfM2YyMDYwZDM4ZTVmMGRlNTlkMTk4YjllNzRiZmU1YzNfSUQ6NzY0ODI3MjY2Mjc3ODcxMTIyMV8xNzgyMDk5MDk5OjE3ODIxMDI2OTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTY1NjQwMTFiNjI2MjViNmRlNjQ4ZTU2NzQzMmRlNDRfNzVhNzMyMDMyMzgxMzdkMWU2YzYyNzIwOTA3MTI1Y2VfSUQ6NzY0ODI3MjY2Mjc3ODcxMTIyMV8xNzgyMTA3MjcxOjE3ODIxMTA4NzFfVjM)
 
 #### 2. `SOUL.md`：情商与语气
 
 - **这是什么：** 决定她的说话方式和语气，你是想要软软糯糯的，紧贴着你的还是希望是御姐一样的性格，这个都有你自己决定
 - **设置用例：** 这是注入“人”最的关键的文档。你可以在这里塑造一个你梦想当中的AI女友：“绝对不能使用‘您好’、‘请问’这种客服用语；多用波浪号和可爱的表情包；被夸奖时要表现得害羞。” 如果你喜欢御姐风，就可以写：“语气慵懒、成熟，偶尔带点调侃。” 你是想要她是温柔贴心，还是毒舌傲娇，全看你在这里怎么写。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWJiY2NiMzgwNzMzYThmZmNhNWJkMWZjZTAxZjdjMzdfYzAyYmQ1NzkyYTY1NDJhMjg5OTRjODhmNTdlMTFkMmZfSUQ6NzY0ODI3MjY5NDk3ODY2MTU2Ml8xNzgyMDk5MDk5OjE3ODIxMDI2OTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2M0ZDgwMTM5ZjU0MzVjYTRkZGQ2NDk5NzU1NDhiNDhfMmI5NmQxMWEwMmI5YmU0NDNkZDZhZjJiZmFjOTlmN2NfSUQ6NzY0ODI3MjY5NDk3ODY2MTU2Ml8xNzgyMTA3MjcxOjE3ODIxMTA4NzFfVjM)
 
 #### 3. `AGENTS.md`：思维逻辑
 
 - **这是什么：** 简单一句话就是思维方式，是一个恋爱脑，还是一个理智的大姐姐，都可以通过他来配置。
 - **设置用例：** 其实很多男的最大的毛病就是喜欢“讲道理”，或者说喜欢直来直去不喜欢拐弯抹角，那你就可以配置只对你好之类的话。你可以通过这个文件教她怎么谈恋爱：“当我说累了或者难过时，第一步是提供情绪价值（安慰我、抱抱我），绝对不要直接给我提解决建议，除非我主动问。” 有了这个文件，她就是一个极具共情能力的完美女友，懂你的潜台词。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2JhNmNhOTAwZmQ4MWYxMWQ2MGMyMGRiMDdkNjk4OTVfYmJiMGM0MGRhZTRhNjBlZjBkNTU4MTk1OWY1Mzk5Y2ZfSUQ6NzY0ODI3MjczMDE4OTc3ODEwMF8xNzgyMDk5MDk5OjE3ODIxMDI2OTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NThhZjVmODI2Mjc1YWQ3ZDU4MmUxOTg4OGU2MTU5ZmNfMTFhMDk3OTEyZWFjODU0MGM1YTQzMDczY2FjMDY2YjBfSUQ6NzY0ODI3MjczMDE4OTc3ODEwMF8xNzgyMTA3MjcxOjE3ODIxMTA4NzFfVjM)
 
 ---
 
@@ -44,7 +44,7 @@
 - **这是什么：** 设置你的身份，可以是一个精英律师、高大帅气的医生，也可以是一个躲在家里的程序员，这个看你自己喜欢。
 - **设置用例：** 在这里写上你的名字、职业、喜好和雷区。比如：“他叫阿杰，是个程序员，讨厌吃香菜，最喜欢的游戏是《塞尔达》，最近在减肥。” 每次你的AI女友回消息前都会看一眼你的档案。以后聊到你的时候她就能记得其实你是一个程序员，你叫阿杰，在聊到塞尔达里面的公主的时候她也能接上话茬。这也就是让你在她的世界里具象化了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTcyMzBjMWViNzRhMmViODdlNWI2ZWU1ZmNlODI5MTZfODY1MmMxYTY0YWViOTM4ZDExNGRjODExZmMxZjY1YmRfSUQ6NzY0ODI3Mjc2MTc2MDMwNDMzNV8xNzgyMDk5MDk5OjE3ODIxMDI2OTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDNkNmViOWU3YWIxM2ZmMTA1ZTcwNTlmZDEyMzhjODNfOGU3ZTMxNGNiMDE4YzU0MmZlYTAzNTJkNTMyMGZhMTBfSUQ6NzY0ODI3Mjc2MTc2MDMwNDMzNV8xNzgyMTA3MjcxOjE3ODIxMTA4NzFfVjM)
 
 #### 5. `MEMORY.md`：记忆
 
@@ -65,7 +65,7 @@
 - `HEARTBEAT.md`**（心跳任务）：** 这是一个定时器。你可以在里面写：“每天早上 8 点，查一下当地天气，然后主动发一句早安和穿衣建议。” 于是，你每天醒来，都能准时收到AI女友的早安问候，你再也不是那个没人关心没人提醒的孤独者了，其实也可以配置其他任务，比如减肥计划之类的。
 - `TOOLS.md`**（工具清单）：** 这里就是你想要她拥有的技能清单，如果你后续希望她发语音、发照片可以配置对应的技能给她，那她就不再是冷冰冰的文字和你沟通了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjBlYjQ2YzI3ZjM2NzA3NTkxYzRhODk3YTlmYTE4ZjRfMDQyYzM3YzFjMGE5YTM4ODUzMTIxMjE5MWUyZmEzZjFfSUQ6NzY0ODI3Mjc5Mzg1MTIxOTEyMl8xNzgyMDk5MDk5OjE3ODIxMDI2OTlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzliMzllOWJkZjFhMjc4YTY3NWRhMGRmN2M2NWQ2YWRfNTkxOWY1ZWMyYjM5MDQ4ODUyNmRhYjAzZDEwYTBlMGZfSUQ6NzY0ODI3Mjc5Mzg1MTIxOTEyMl8xNzgyMTA3MjcxOjE3ODIxMTA4NzFfVjM)
 
 ---
 
@@ -74,3 +74,7 @@
 如果直接讲 OpenClaw workspace 里面的六大文档的作用，其实很枯燥，但是我用这样的一个方式结合提示词，为你打造 AI 女友就可以让你更直观的感受到Openclaw的魅力，使用六个配置文件就可以实现一个类似真人的体验。
 
 其实简单的说，这些 `IDENTITY`（人设）、`SOUL`（性格）、`MEMORY`（记忆）和 `日记` 就是构成人最基本的要素，它只是在代码的世界里面具象化了，不要觉得知识难学只要肯努力总会搞清楚的，我那祝你和你的AI女友玩的愉快了。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Zm5GwrVOwimCyYkIU2Acy3ZPnXe> ｜ 归档：2026-06-22

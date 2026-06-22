@@ -284,3 +284,7 @@ FPS 显示 + 性能自适应（粒子数自动调节）
 当然不是一次就完美结果的，交互迭代了2，3次，就得到下面的页面效果
 
 <figure view-type="Preview"><source mime="video/mp4" origin-height="1080.000000" origin-width="1794.000000" token="DwskbLamXokZt5x3CxHcTs0AnPh"/></figure>
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/RkRGwEMVSi5jkgko7Ircm1dTnzh> ｜ 归档：2026-06-22

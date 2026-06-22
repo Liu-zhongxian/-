@@ -14,7 +14,7 @@
 
 [Obsidian官方下载地址](https://obsidian.md/download)
 
-![图片展示的是Obsidian的官网下载页面。页面背景为黑色，中央有一个紫色的岩石图标，下方有“Obsidian”字样。页面上方有“Download”“Pricing”“Sync”“Publish”“Enterprise”等导航选项，右上角有“Community”“Account”等按钮。页面底部有一个紫色的“Download for macOS”按钮，显示“Last updated March 23, 2025”。该图片与文档中“安装”部分的内容相关，直观呈现了Obsidian的下载入口。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjI2YjQyYmNjY2YyYWE5MGZjNTQzMDExM2Q3NDE1ZmVfODIzN2U5MzFmYzViOWY0N2I5OGViMGZkZDU5Y2FlZTJfSUQ6NzY0NDk4MTEwMzg5OTQ5NTYwOV8xNzgyMDk5MTM3OjE3ODIxMDI3MzdfVjM)
+![图片展示的是Obsidian的官网下载页面。页面背景为黑色，中央有一个紫色的岩石图标，下方有“Obsidian”字样。页面上方有“Download”“Pricing”“Sync”“Publish”“Enterprise”等导航选项，右上角有“Community”“Account”等按钮。页面底部有一个紫色的“Download for macOS”按钮，显示“Last updated March 23, 2025”。该图片与文档中“安装”部分的内容相关，直观呈现了Obsidian的下载入口。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmFhY2UyYzkwNzU4MDFjZDE4NGJhOWI4YTIxM2IzMGNfZDRhNmRiNzE5MjNmNmVkZjNmOTg4OWZhMDMzZjEyNzZfSUQ6NzY0NDk4MTEwMzg5OTQ5NTYwOV8xNzgyMTA3MzA0OjE3ODIxMTA5MDRfVjM)
 
 ## 主题：AnuPpuccin
 
@@ -26,7 +26,7 @@
 
 配置方式也很简单，点击左下角设置按钮，然后找到外观，主题设置就可以更换你自己想要的主题了。
 
-![图片展示了Obsidian的外观设置界面。左侧为设置菜单，选中“外观”。右侧是外观设置内容，包含基础颜色、主题色、主题等选项。其中“主题”部分被红色框突出显示，显示已安装主题为“AnuPpuccin”，并有“管理”按钮，下方还有“已安装主题”区域，提示已安装3个主题，以及“检查更新”按钮。该图片与上文介绍的AnuPpuccin主题配置方式相关，直观呈现了主题设置位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmQxM2E0MzcyZDAxOTgxNjlhZWIzODRiMGExYjBjNjRfNWU1NjUyYzM0ZDhlNzY1N2Q0YTI3NTRiNTJlMmUxYmJfSUQ6NzY0NDk4MTEzMzEwNDQ4MzUyNF8xNzgyMDk5MTM3OjE3ODIxMDI3MzdfVjM)
+![图片展示了Obsidian的外观设置界面。左侧为设置菜单，选中“外观”。右侧是外观设置内容，包含基础颜色、主题色、主题等选项。其中“主题”部分被红色框突出显示，显示已安装主题为“AnuPpuccin”，并有“管理”按钮，下方还有“已安装主题”区域，提示已安装3个主题，以及“检查更新”按钮。该图片与上文介绍的AnuPpuccin主题配置方式相关，直观呈现了主题设置位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZThlNjQ5YWUxNmM0MTYwNTM2MDNiZTg2MjEzOTlkMGZfMTQ3YmZlMTg5Nzc0Y2Y3MjI3YzQxZjA3MGRlNDk0MTBfSUQ6NzY0NDk4MTEzMzEwNDQ4MzUyNF8xNzgyMTA3MzA0OjE3ODIxMTA5MDRfVjM)
 
 ---
 
@@ -34,15 +34,15 @@
 
 安装的使用第三方插件是需要关闭安全模式，如果没有关闭是无法安装第三方插件。下面就是我使用很不错的第三方插件。
 
-![图片展示了Obsidian插件管理界面。界面中“社区插件市场”选项被紫色框突出显示，旁边有“浏览”按钮。下方“插件安装情况”显示已安装6个插件，右侧有“检查更新”按钮。最下方“自动检查插件更新”开关处于关闭状态。该图片与上下文紧密相关，上下文提到在Obsidian中安装插件时，需先点击“浏览”进入社区插件市场，再选择插件进行安装，此图直观呈现了“浏览”按钮所在位置，帮助用户了解插件管理操作流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzdkYzVjOGJhMjI5MDRjN2I0ZWYzYzgzZTQ3YmYzOGJfYmZmY2QyOWZhNDllMzE1N2VlM2ZjMDAxYTlhYmUwN2RfSUQ6NzY0NDk4MTE1ODMzMzE0MDE2MV8xNzgyMDk5MTM3OjE3ODIxMDI3MzdfVjM)
+![图片展示了Obsidian插件管理界面。界面中“社区插件市场”选项被紫色框突出显示，旁边有“浏览”按钮。下方“插件安装情况”显示已安装6个插件，右侧有“检查更新”按钮。最下方“自动检查插件更新”开关处于关闭状态。该图片与上下文紧密相关，上下文提到在Obsidian中安装插件时，需先点击“浏览”进入社区插件市场，再选择插件进行安装，此图直观呈现了“浏览”按钮所在位置，帮助用户了解插件管理操作流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDUwODk5MzU3YTU5NjFlOTYzM2I3YTE4NjIyMThiZGRfNGE1YjgzZjc5ZDhjYWM4ZmI0MzJmODhiZWM4MThlMWNfSUQ6NzY0NDk4MTE1ODMzMzE0MDE2MV8xNzgyMTA3MzA0OjE3ODIxMTA5MDRfVjM)
 
 ### Custom Attachment Location
 
 附件按笔记名自动归类到对应子文件夹。以前图片全扔在 vault 根目录，找起来一团乱；装了这个之后，每篇文章的截图自动进 `assets/文章名/`，整洁很多。
 
-![图片展示了Custom Attachment Location插件的Advanced设置界面。左侧显示“Markdown URL格式”，说明插入到Markdown中的URL格式，可查看可用令牌，留空使用默认格式。右侧输入框中显示格式为“assets/${noteFileName}/${generatedAttachmentFileName}”。该图片与上下文紧密相关，是对上文提到的“设置全部文件和图片位置需要设置”及“URL格式不习惯标准markdown文档格式，需设置”的具体操作展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODFhY2M5M2UwMGM5NDU5OGEyMGIwYTZmZWRhMTNiYzhfZjUyM2ZkZTZhNTMxOTY4OTA4NDQ1NTg5MzM0NTJkODVfSUQ6NzY0NDk4MTIwOTY2NzM3NDI3M18xNzgyMDk5MTM2OjE3ODIxMDI3MzZfVjM)
+![图片展示了Custom Attachment Location插件的Advanced设置界面。左侧显示“Markdown URL格式”，说明插入到Markdown中的URL格式，可查看可用令牌，留空使用默认格式。右侧输入框中显示格式为“assets/${noteFileName}/${generatedAttachmentFileName}”。该图片与上下文紧密相关，是对上文提到的“设置全部文件和图片位置需要设置”及“URL格式不习惯标准markdown文档格式，需设置”的具体操作展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzlhNWEzZjI2NzVlOWZiZmE2OTBkYzEwZGQ0OWFhNDlfZDM0MzVkZmFiOGRkYWM4ZWE3YWJjNmYzMGQ5NTM2YjFfSUQ6NzY0NDk4MTIwOTY2NzM3NDI3M18xNzgyMTA3MzA0OjE3ODIxMTA5MDRfVjM)
 
-![图片展示了Obsidian的外观设置界面。左侧为功能导航栏，选中“外观”。右侧设置区域中，基础颜色可跟随系统，主题色为紫色；主题部分显示已安装主题为AnuPpuccin，有“管理”按钮，还可点击“检查更新”。该图片与上下文紧密相关，上下文提到安装了“Custom Attachment Location”插件，此图展示了在Obsidian中进行外观设置的操作界面，是插件配置中外观设置的呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzY5ODFmZGMzMmRmZWQxZjUyOTYyY2Y5ODE0MjBlZTNfOTYxZDI3MjFmZTEyMTE5OTRhZGFkYWY4YWM2YjRhMjhfSUQ6NzY0NDk4MTE4ODQ4MTg2Mjg1OV8xNzgyMDk5MTM2OjE3ODIxMDI3MzZfVjM)
+![图片展示了Obsidian的外观设置界面。左侧为功能导航栏，选中“外观”。右侧设置区域中，基础颜色可跟随系统，主题色为紫色；主题部分显示已安装主题为AnuPpuccin，有“管理”按钮，还可点击“检查更新”。该图片与上下文紧密相关，上下文提到安装了“Custom Attachment Location”插件，此图展示了在Obsidian中进行外观设置的操作界面，是插件配置中外观设置的呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGNlMjc1N2ZkYWMxMWFiYmRiM2Y5OTcxMzU0ODczOTdfNGRlNzFmOGRlMjQ0NjM4ZGY0ZmU1ZWY0MTBmZDk2OGZfSUQ6NzY0NDk4MTE4ODQ4MTg2Mjg1OV8xNzgyMTA3MzA0OjE3ODIxMTA5MDRfVjM)
 
 > 这里需要简单设置一下安放图片的位置，设置全部文件和图片位置需要设置。URL其实也不习惯不是标准的markdown文档的格式，所以需要设置一下。
 
@@ -58,9 +58,9 @@
 
 自动定时备份到 GitHub。版本控制这件事我以前全靠手动，某次误删了半篇稿子才意识到有多危险。装上之后基本不用管，按设定的时间间隔自动 commit，在哪台机器上都能拉到最新版本。
 
-![图片展示了Git操作界面，左侧为.gitignore文件，右侧是对比窗口。左侧文件中列出了My-VPS/我的VPS/.obsidian/workspace.json和My-VPS/我的VPS/.obsidian/workspace-mobile.json两个文件。右侧对比窗口显示这两个文件被添加到仓库。该图片与文档中介绍Git自动定时备份到GitHub的内容相关，直观呈现了Git操作中文件添加到仓库的场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWVjMjA2OGRlMmY3NDY3YmZkYTJiYWM0NWIyMzFiZDFfMzJjN2QzNjA3NjI2OTc0ZWM5YjdmNzA3ZmY0ODJiMzlfSUQ6NzY0NDk4MTI2MDU4MTg2NjcwMF8xNzgyMDk5MTM3OjE3ODIxMDI3MzdfVjM)
+![图片展示了Git操作界面，左侧为.gitignore文件，右侧是对比窗口。左侧文件中列出了My-VPS/我的VPS/.obsidian/workspace.json和My-VPS/我的VPS/.obsidian/workspace-mobile.json两个文件。右侧对比窗口显示这两个文件被添加到仓库。该图片与文档中介绍Git自动定时备份到GitHub的内容相关，直观呈现了Git操作中文件添加到仓库的场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmUwODlkYzM3MzFiZmM5MzMwODY0YjE3NjI3OTM2YTNfYmFkZjg2ZDIxMDU1ZTgzMzU3YmFkYjAwMDIxMTU1ZmJfSUQ6NzY0NDk4MTI2MDU4MTg2NjcwMF8xNzgyMTA3MzA0OjE3ODIxMTA5MDRfVjM)
 
-![图片展示了Git插件的自动定时备份设置界面。界面中有“Split timers for automatic commit and sync”开关，用于启用一个间隔用于提交，另一个用于同步；“Auto commit-and-sync interval (minutes)”设置提交和同步间隔，当前为1分钟；“Auto commit-and-sync after stopping file edits”开关，开启后在停止文件编辑后每1分钟自动提交和同步，编辑文件时不会自动同步。这些设置与文档中介绍的自动定时备份到GitHub功能相关，可按需进行配置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjUyNmQzZTE5OGE3ZjU4M2E1OWQzOWYzYmIyODNiMTVfMjgyNjU1YzYzNzhhYWU2OWVlYmEyNWE5NWQ4MjAyYWFfSUQ6NzY0NDk4MTIzMzYxMjc3MDUyOF8xNzgyMDk5MTM3OjE3ODIxMDI3MzdfVjM)
+![图片展示了Git插件的自动定时备份设置界面。界面中有“Split timers for automatic commit and sync”开关，用于启用一个间隔用于提交，另一个用于同步；“Auto commit-and-sync interval (minutes)”设置提交和同步间隔，当前为1分钟；“Auto commit-and-sync after stopping file edits”开关，开启后在停止文件编辑后每1分钟自动提交和同步，编辑文件时不会自动同步。这些设置与文档中介绍的自动定时备份到GitHub功能相关，可按需进行配置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Zjc2ZDliNTQ4YjU1MzU5MWNjMmJjZDIzN2NhZTJiNmNfNDBlZTY3ZDgxZTZjNzRkYjk2YjMwZjQ4NjkyNDUzMzBfSUQ6NzY0NDk4MTIzMzYxMjc3MDUyOF8xNzgyMTA3MzA0OjE3ODIxMTA5MDRfVjM)
 
 > 这里有几个推荐设置，不是必须的编辑停止之后自动push，我这里设置了一分钟之后知道同步。还有就是设置两个json文件去掉，不需要同步到git因为经常修改容易冲突。
 
@@ -132,3 +132,7 @@
 - [Claudian 安装教程：把 Claude Code 接进 Obsidian](https://lcnniolukk80.feishu.cn/wiki/F17rwrrLHiYt0OkEnGucptI5nBf) — Obsidian 接入 AI
 - [别让 AI 写得像 AI：83 篇博客训练专属写作助手](https://lcnniolukk80.feishu.cn/wiki/L3rhw5d1AigmZAkD2HPcA4EFnic) — Obsidian 写作 + AI Skill 实践
 - [GitHub 狂揽 10.7k Star！这款飞书神器配合 AI Agent](https://lcnniolukk80.feishu.cn/wiki/S4Y0wf95qi0rW1k8ylAcVgAdnzb) — 飞书与 Obsidian 协同思路
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Jv5jwEFN0iKCZ6kmHp3czzVInpb> ｜ 归档：2026-06-22

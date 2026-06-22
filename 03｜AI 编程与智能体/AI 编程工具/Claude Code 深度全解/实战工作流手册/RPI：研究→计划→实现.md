@@ -782,3 +782,7 @@ mv .claude/features/payment-processing .claude/features/_archive/
 - 使用 Claude Code 进行 TDD — 与 TDD 结合实现测试关卡驱动
 - 任务管理工作流 — 跨会话管理多阶段任务
 - 模块 07：高级模式 — 多实例与计划模式概述
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/ArcuwI6akiAumLkNG1zctPnincd> ｜ 归档：2026-06-22

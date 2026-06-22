@@ -2,7 +2,7 @@
 
 ​
 
-![图片以白色背景和黑色放射状线条为设计元素，上方文字为“三分钟大白话 什么是SubAgent? Skill大火之后 你该来了解SubAgent了”。图片位于介绍SubAgent的文档开头部分，起到引出主题的作用，强调在Skill大火之后，读者应该了解SubAgent，为后续对SubAgent的介绍埋下伏笔。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGYyN2I5YTg3ZDQ0NTdlZDM4ZWZkMDRjMTA3MDY4ODFfMGNlODY2ODM2YzNlNDMzMTZhNmNlMzg5MjFjN2U3ZDlfSUQ6NzY0NjMwNDk3Njk2NDU1MzY5OF8xNzgyMDk5MDY4OjE3ODIxMDI2NjhfVjM)
+![图片以白色背景和黑色放射状线条为设计元素，上方文字为“三分钟大白话 什么是SubAgent? Skill大火之后 你该来了解SubAgent了”。图片位于介绍SubAgent的文档开头部分，起到引出主题的作用，强调在Skill大火之后，读者应该了解SubAgent，为后续对SubAgent的介绍埋下伏笔。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmU1ZTdmOTFiMGViOTExODhhNGY0Mzg3NzQyZTk1ZWFfODk1MTEwOWFkZWFkZjZkYmM0ZDZiY2QwY2VhODRlMTBfSUQ6NzY0NjMwNDk3Njk2NDU1MzY5OF8xNzgyMTA3MjQyOjE3ODIxMTA4NDJfVjM)
 
 最近 OpenClaw 火的一塌糊涂，连我老婆一个从来不关注AI的人都知道了小龙虾火的不得了啊。 那么我相信只要接触过 OpenClaw 一段时间的人，基本都会听过一个词：**Skill**。 而只要稍微深度玩过OpenClaw的人，肯定就对**Skill** 非常熟悉了。
 
@@ -341,3 +341,7 @@ SubAgent 解决的是“分工问题”
 **会做事很重要。** **会分工，才是真正开始走向高级玩法。**
 
 如果你能坚持看到这里，我是真的非常开心。 留个评论，让我看看有谁看完了。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/XltLwJegjiQAy5kaI2Mcx4bJnIc> ｜ 归档：2026-06-22

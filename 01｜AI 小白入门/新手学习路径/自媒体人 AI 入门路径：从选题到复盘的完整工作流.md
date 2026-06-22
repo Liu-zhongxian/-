@@ -690,3 +690,7 @@ AI 不是替你做账号的人。
 真正有效的 AI 用法，不是让它一键生成内容，而是让它参与整个创作流程。  
 
 当你把这套流程跑顺，做内容就不会每次都从零开始。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/OHE3wgxZNifyXGkIUMbcHs03nfb> ｜ 归档：2026-06-22

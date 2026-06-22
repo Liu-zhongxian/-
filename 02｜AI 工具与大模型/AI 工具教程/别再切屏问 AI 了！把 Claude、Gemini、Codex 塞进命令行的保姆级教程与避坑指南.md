@@ -190,3 +190,7 @@ Gemini在很多时候都是给我打下手的，我为什么会去安装Gemini C
 - [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](https://lcnniolukk80.feishu.cn/wiki/VPeewqTA6iMP7jkQvYJcvurbnTf) — Claude Code 单独装的详细版
 - [小白必看！Opencode 傻瓜式安装教程，把 DeepSeek 接上](https://lcnniolukk80.feishu.cn/wiki/MwHFwQw6uiosjDkqTNxcid7in5c) — 国产模型命令行选项
 - [高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它](https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb) — 三家命令行用哪个模型
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/XQXGwEHs4iC9i1kIKoycVCOlnkh> ｜ 归档：2026-06-22

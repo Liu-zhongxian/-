@@ -1,6 +1,6 @@
 # 嫌 Obsidian 官方同步太贵？这套零成本的 GitHub 同步方案赶紧收好
 
-![图片展示了Obsidian零成本GitHub同步方案，以Git稳定备份与历史版本控制为核心。画面左侧是本地笔记Vault，右侧是云端私有仓库，两者通过Free（免费）、Stable（稳定）、History（时光机）三个阶段的箭头连接。文字说明该方案可实现免费、稳定同步，还能保存笔记历史版本，且手把手教搭建。此图与文档中介绍的同步问题及寻找免费稳定同步替代方案的内容相呼应，直观呈现了解决方案。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjgxNzViOGQ1N2RiYzdhNzU0Nzk0MTU4OWQ4ZWJlYjZfMTNjZDllYTFiYzJjYmY1Y2Q5ZmU5Y2EyZmE2Y2MxNmRfSUQ6NzY0NTcxNDUwMDk4MDU5MTgxN18xNzgyMDk5MTU0OjE3ODIxMDI3NTRfVjM)
+![图片展示了Obsidian零成本GitHub同步方案，以Git稳定备份与历史版本控制为核心。画面左侧是本地笔记Vault，右侧是云端私有仓库，两者通过Free（免费）、Stable（稳定）、History（时光机）三个阶段的箭头连接。文字说明该方案可实现免费、稳定同步，还能保存笔记历史版本，且手把手教搭建。此图与文档中介绍的同步问题及寻找免费稳定同步替代方案的内容相呼应，直观呈现了解决方案。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjMzZTc3NzcyZGFmOTI1YzdjODUzNjM1MDA2NjhlODFfZWU5YmEwY2M3YjEyYWNmMmFhYzdlOWQxZjAxY2ZiMjJfSUQ6NzY0NTcxNDUwMDk4MDU5MTgxN18xNzgyMTA3MzE4OjE3ODIxMTA5MThfVjM)
 
 很多 Obsidian 用户最大的痛点，就是**同步问题**。
 
@@ -33,19 +33,19 @@
 
 1、登录 GitHub，点击右上角的 **+** 号，选择 **New repository**（新建仓库）。
 
-![图片展示了GitHub新建仓库的操作界面。在GitHub页面右上角点击“+”号后，弹出下拉菜单，其中“New repository”（新建仓库）选项被红色框线突出显示。该图片与文档中“在云端建个‘家’（创建仓库）”部分内容对应，直观呈现了在GitHub上申请保险箱，存放笔记时，点击“+”号后选择“New repository”这一步骤的操作界面，帮助用户清晰了解操作位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTJmNzc3NzI2M2ZkODJhMmQ3ZGU4YzA1NDkzMzA3ZTJfMGQ3NjM3ZTYzMTdiOGIyMDJmOWE5ODVhNzBiMTMyMDZfSUQ6NzY0NTcxNDUxMzAxNDIzMDIzMF8xNzgyMDk5MTU0OjE3ODIxMDI3NTRfVjM)
+![图片展示了GitHub新建仓库的操作界面。在GitHub页面右上角点击“+”号后，弹出下拉菜单，其中“New repository”（新建仓库）选项被红色框线突出显示。该图片与文档中“在云端建个‘家’（创建仓库）”部分内容对应，直观呈现了在GitHub上申请保险箱，存放笔记时，点击“+”号后选择“New repository”这一步骤的操作界面，帮助用户清晰了解操作位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWRjODBlZGY0ZDYzY2Y4Yjk3YmRlNWQ0YzM4MzI2NmNfNTNiYTY1YjA1NDI3YTE2NGYzYTU0YzE1Zjk4NTcyMTRfSUQ6NzY0NTcxNDUxMzAxNDIzMDIzMF8xNzgyMTA3MzE4OjE3ODIxMTA5MThfVjM)
 
 2、在创建页面中，进行如下配置：
 
 **Repository name (仓库名)**：随便起个名字，比如 My-Obsidian-Notes。 **Public / Private**：👉 **关键环节，务必选择 Private (私有)**！这样只有你自己能看得到笔记，全网不可见。 不要勾选底下的 “Add a README file” 等选项。
 
-![图片展示了GitHub创建仓库的界面。在“General”部分，仓库名称为“My - Obsidian - Notes”，且“Private”选项被红色框突出显示。在“Configuration”部分，“Choose visibility”下拉菜单也用红色框标出。界面底部有“Create repository”绿色按钮。该图片与文档中“第一步：准备工作”内容相关，对应关键环节，需选择Private仓库，且上下文强调不要勾选“Add a README file”等选项，此图直观呈现了操作界面及关键设置项。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTljMmUzMDM1NDIxZmU5ODg3NjgzMDFkMGEzMjJkMGFfYjZiYzY3YmRjODkxOTZkNjMxZjM4NWFkMDBlYzIxODNfSUQ6NzY0NTcxNDUzMDQ1ODE2MDM0M18xNzgyMDk5MTU0OjE3ODIxMDI3NTRfVjM)
+![图片展示了GitHub创建仓库的界面。在“General”部分，仓库名称为“My - Obsidian - Notes”，且“Private”选项被红色框突出显示。在“Configuration”部分，“Choose visibility”下拉菜单也用红色框标出。界面底部有“Create repository”绿色按钮。该图片与文档中“第一步：准备工作”内容相关，对应关键环节，需选择Private仓库，且上下文强调不要勾选“Add a README file”等选项，此图直观呈现了操作界面及关键设置项。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmZjZmU2YzM5MjVlZGIwMDQxZjM0MDg2MzA1ZmYwZmJfODQ2ZTg3M2I5MjhmMDM5ZjgyMThhNTA0N2ExN2Y1OWFfSUQ6NzY0NTcxNDUzMDQ1ODE2MDM0M18xNzgyMTA3MzE4OjE3ODIxMTA5MThfVjM)
 
 3、点击绿色的 **Create repository**。
 
 4、创建成功后，复制页面上出现的仓库 HTTP(S) 地址（形如 [https://github.com/](https://github.com/)你的用户名/你的仓库名.git）备用。
 
-![图片展示了在GitHub上创建仓库后的页面。页面上方显示仓库名称为“My-Obsidian-Notes”，状态为Private。下方有“Set up GitHub Copilot”和“Add collaborators to this repository”等选项。关键部分是页面中部的“Quick setup”区域，其中“HTTPS”处的仓库HTTP(S)地址（https://github.com/hanyu001/My-Obsidian-Notes.git）被红色框突出显示。该图片与上文“第一步：准备工作”中创建仓库并复制仓库地址的步骤紧密相关，直观呈现了仓库地址的获取位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2Q1NmNjOTdiMjIwODFlOTU2MjcwODU4NWNhOGExZGJfM2ZjNTUwODE2NmRjYWJhZDg1Yzk4MGYwZDc0ZjU5ZTZfSUQ6NzY0NTcxNDU0Mjc1MjA1ODU3NV8xNzgyMDk5MTU0OjE3ODIxMDI3NTRfVjM)
+![图片展示了在GitHub上创建仓库后的页面。页面上方显示仓库名称为“My-Obsidian-Notes”，状态为Private。下方有“Set up GitHub Copilot”和“Add collaborators to this repository”等选项。关键部分是页面中部的“Quick setup”区域，其中“HTTPS”处的仓库HTTP(S)地址（https://github.com/hanyu001/My-Obsidian-Notes.git）被红色框突出显示。该图片与上文“第一步：准备工作”中创建仓库并复制仓库地址的步骤紧密相关，直观呈现了仓库地址的获取位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTU4ODMyOThhNmRmYjg1NzYzYTY3MzRjZDg0NjNiNzZfZGU1NTc0ZmMxZGY2MTc0YjBkMDE2MDczOTg1ZWM3MGJfSUQ6NzY0NTcxNDU0Mjc1MjA1ODU3NV8xNzgyMTA3MzE4OjE3ODIxMTA5MThfVjM)
 
 ## 🌉 第三步：给本地笔记连上云端
 
@@ -73,7 +73,7 @@ git branch -M main
 
 这里不用提前去 GitHub 网站里找什么“授权页面”。授权通常是在你第一次上传时自动出现的：可能弹出浏览器让你登录 GitHub，也可能弹出一个 Git Credential Manager 的小窗口。按提示登录并授权即可。如果一直没有弹出授权窗口，也不用慌。授权提示通常会在后面第一次执行 git push，或者第一次用插件同步时出现。
 
-![图片展示了在Git Bash中进行GitHub同步操作的命令执行过程。首先执行`git init`初始化空Git仓库，接着输入远程仓库地址`https://github.com/hanyu0001/My-Obsidian-Notes.git`并添加远程仓库，最后执行`git branch -M main`将当前分支重命名为`main`。该图片与上文介绍的在本地笔记连上云端操作步骤相关，直观呈现了操作命令及执行结果，帮助用户理解如何在本地仓库与GitHub仓库之间建立连接。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWZmZmMyZmZmZTYyZmY1M2FhNmQzZjUwYTNlZTc3MTdfOTc4OGU0ZDNlMjg1YmU1MDEyOWEwZjVlNTk2ODRmNmJfSUQ6NzY0NTcxNDU1OTI3NzMwNTAzMl8xNzgyMDk5MTU0OjE3ODIxMDI3NTRfVjM)
+![图片展示了在Git Bash中进行GitHub同步操作的命令执行过程。首先执行`git init`初始化空Git仓库，接着输入远程仓库地址`https://github.com/hanyu0001/My-Obsidian-Notes.git`并添加远程仓库，最后执行`git branch -M main`将当前分支重命名为`main`。该图片与上文介绍的在本地笔记连上云端操作步骤相关，直观呈现了操作命令及执行结果，帮助用户理解如何在本地仓库与GitHub仓库之间建立连接。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Njc1YjY0MzIxMGZkZjA2ODQyZDdmZjEyOTE1NzQyNTVfOTViNDQ0NzkwODcwZjc1ODg2MDJhNTczODAyMGNiZmNfSUQ6NzY0NTcxNDU1OTI3NzMwNTAzMl8xNzgyMTA3MzE4OjE3ODIxMTA5MThfVjM)
 
 ## ⚙️ 第四步：在 Obsidian 中配置自动同步神器
 
@@ -83,7 +83,7 @@ git branch -M main
 
 2、关闭“安全模式”，点击 **浏览 (Browse)**，搜索并且安装 **Git** 插件。这个插件的页面名称通常显示为 Git，也就是大家常说的 Obsidian Git。
 
-![图片展示的是GitHub插件库界面，搜索栏中输入“Git”，显示了多个与Git相关的插件。其中，“Integrate Git version control with automatic backup and other advanced features”插件被红色框突出显示，作者为Vincent (Denis Olehov)，Q&A数量2,770,794，更新于4天前。该图片与上文介绍在Obsidian中配置自动同步神器的内容相关，用于说明在GitHub插件库中找到并选择Git插件的操作步骤。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGYxMTY1MjAwYTQxODE5NjBjYTNmYTNhYjA2MmYxZTlfYTM1NmE4MjgyYmFiZjU2NjkzZTRjNjMyYjQ2ZDI5YzVfSUQ6NzY0NTcxNDU3NDM3NjgxNTgxMF8xNzgyMDk5MTU0OjE3ODIxMDI3NTRfVjM)
+![图片展示的是GitHub插件库界面，搜索栏中输入“Git”，显示了多个与Git相关的插件。其中，“Integrate Git version control with automatic backup and other advanced features”插件被红色框突出显示，作者为Vincent (Denis Olehov)，Q&A数量2,770,794，更新于4天前。该图片与上文介绍在Obsidian中配置自动同步神器的内容相关，用于说明在GitHub插件库中找到并选择Git插件的操作步骤。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWUyMjliNDMzMmJkODBjNGYyOTk4OGY4NjZiYTQ3ZWNfN2QyOGUyOTFmODNjYzg0Yzc0ZjI3YWVkNGUyOGQ4Y2FfSUQ6NzY0NTcxNDU3NDM3NjgxNTgxMF8xNzgyMTA3MzE4OjE3ODIxMTA5MThfVjM)
 
 3、安装完成后，点击**启用**，然后进入它的**选项 (Options)** 设置界面。如果你在设置页顶部看到一句 **Git is not ready. When all settings are correct you can configure commit-sync, etc.**，说明插件还没有识别到当前笔记库里的 Git 仓库。先回到第三步，确认你已经在这个 Vault 文件夹里执行过 git init，并且已经添加了 GitHub 仓库地址。完成后重启 Obsidian，或者关闭设置页再重新打开。
 
@@ -91,9 +91,9 @@ git branch -M main
 
 **Auto commit-and-sync interval (minutes)**：比如填写 10，代表每 10 分钟自动检查一次，有变化就提交并同步。如果不希望太频繁，可以填 30 甚至 60。 **Pull on startup**：✅ **建议打开**。这意味着每次打开 Obsidian 时，先从 GitHub 拉取云端最新版，减少多端内容不一致的概率。 **Push on commit-and-sync**：✅ **建议打开**。这意味着执行同步时，提交完成后会自动推送到 GitHub。否则可能只是保存在本地，并没有真正上云。 **Pull on commit-and-sync**：✅ **建议打开**。这样每次同步时会先处理云端更新，再推送本地修改，更适合多台电脑使用。 **Commit message on auto commit-and-sync**：默认不动即可，也可以自定义为你喜欢的格式。（这是给自动备份记录命名的）。
 
-![图片展示了Obsidian中自动同步设置界面的“Automatic”部分。其中关键内容是“Auto commit-and-sync interval (minutes)”设置，即自动提交和同步间隔（分钟），默认为30分钟，可设置为0以禁用。该设置与上下文紧密相关，上下文提到在Obsidian中配置自动同步神器时，此设置用于控制自动提交和同步的频率，若执行同步时提交完成后希望自动推送到GitHub，需开启此功能，且更适合多台电脑使用。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjYxN2RlOTY2MTNlNzhkMjI4MDI5ZTU5Yjg0YjA4MTBfMWY4YzUzY2M3NTZkNjY4Y2RjZmYzOTFjZjJkMDgzMTZfSUQ6NzY0NTcxNDU4ODQwNDMzNzg1NF8xNzgyMDk5MTU0OjE3ODIxMDI3NTRfVjM)
+![图片展示了Obsidian中自动同步设置界面的“Automatic”部分。其中关键内容是“Auto commit-and-sync interval (minutes)”设置，即自动提交和同步间隔（分钟），默认为30分钟，可设置为0以禁用。该设置与上下文紧密相关，上下文提到在Obsidian中配置自动同步神器时，此设置用于控制自动提交和同步的频率，若执行同步时提交完成后希望自动推送到GitHub，需开启此功能，且更适合多台电脑使用。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2E0MDhmODIyODU5N2NkNWQwNGE3MGZjNzJjOTRhM2FfYjkwYTZlZmQ0MzJlNmMwYWY2NTMzMmFkMWExNTQxMDlfSUQ6NzY0NTcxNDU4ODQwNDMzNzg1NF8xNzgyMTA3MzE4OjE3ODIxMTA5MThfVjM)
 
-![图片展示了Obsidian中配置自动同步神器的设置界面。关键内容有：Pull on startup（启动时自动拉取提交）已开启；Push on commit-and-sync（在commit-and-sync时推送）已开启；Pull on commit-and-sync（在commit-and-sync时拉取）也已开启。这些设置与文档中“Pull on commit-and-sync”建议开启的内容相呼应，确保执行同步时，提交完成后会自动推送到GitHub，保持本地和远程仓库同步。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzQ2NzJhMWFmZWQ2OTY4ZTYzMjNhNmEwMzg3YThlYzRfMzhiOGE1MjVmZDMzZGY5YTNjYzM0YTBjYzI0MzE0YjJfSUQ6NzY0NTcxNDU5OTU3MjAzMjcyN18xNzgyMDk5MTU0OjE3ODIxMDI3NTRfVjM)
+![图片展示了Obsidian中配置自动同步神器的设置界面。关键内容有：Pull on startup（启动时自动拉取提交）已开启；Push on commit-and-sync（在commit-and-sync时推送）已开启；Pull on commit-and-sync（在commit-and-sync时拉取）也已开启。这些设置与文档中“Pull on commit-and-sync”建议开启的内容相呼应，确保执行同步时，提交完成后会自动推送到GitHub，保持本地和远程仓库同步。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjgzMDNkYmMzYWI2MWM4NGIxM2Q3ZjI2YjJmNmYxOWJfNzUzNTNlYmNkOWY1ZDI1OWFlNTM1OTcyZDkyNjU4OTNfSUQ6NzY0NTcxNDU5OTU3MjAzMjcyN18xNzgyMTA3MzE4OjE3ODIxMTA5MThfVjM)
 
 ## ✅ 第五步：先做一次成功验证
 
@@ -147,7 +147,7 @@ branch 'main' set up to track 'origin/main'.
 
 如果能在文件列表里看到 同步测试.md，说明第一次上传已经成功。
 
-![图片展示了GitHub仓库My - Obsidian - Notes的文件列表界面。其中，“同步测试.md”文件被红色框突出显示，表明其为关键内容。该图片与文档中“先做一次成功验证”部分相关，用于说明如果能在文件列表里看到“同步测试.md”，则说明第一次上传已成功，是验证插件同步是否成功的直观体现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjI2ZWEyMzBkYTNkYjM5MmE3NDFmN2RiMzE4NTA0ZDBfMTA0Nzc1MzRiYjEyOGNiY2Q5NmVjZDM4Y2Y1ZTZjNmZfSUQ6NzY0NTcxNDYxMjQ1Njg1MjY4N18xNzgyMDk5MTU0OjE3ODIxMDI3NTRfVjM)
+![图片展示了GitHub仓库My - Obsidian - Notes的文件列表界面。其中，“同步测试.md”文件被红色框突出显示，表明其为关键内容。该图片与文档中“先做一次成功验证”部分相关，用于说明如果能在文件列表里看到“同步测试.md”，则说明第一次上传已成功，是验证插件同步是否成功的直观体现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGUwNWYwNzlhYjljMDY5NWQ3MWFmMWMzODgyZjNiNGVfYjI3ODU5OTY1NTFmYjBhZTk2NzdiYWI4ZDdlNmQxNjlfSUQ6NzY0NTcxNDYxMjQ1Njg1MjY4N18xNzgyMTA3MzE4OjE3ODIxMTA5MThfVjM)
 
 **4\\. 再回到 Obsidian 测一次插件同步**
 
@@ -189,7 +189,7 @@ git push -u origin main
 
 **想更快速手动同步？** 你可以按下 Ctrl+P (Mac 则是 Cmd+P) 唤出命令面板，输入 Git: Commit-and-sync，敲回车即可直接手动给你的所有笔记内容“拍个照”并扔上云端。如果你的插件版本里显示的是 Git: Commit and push，选择它也可以。
 
-![图片展示了在Obsidian中进行Git同步后的界面。左侧显示“同步测试”文件夹，右侧是“同步测试”文件内容，包含标题“同步测试”及一段测试文字。右上角有“Committed 1 file”提示框，表明已成功提交1个文件。该图片与上文介绍的在Obsidian中手动同步操作及Git插件配置相关，直观呈现了同步成功后的状态，帮助用户了解同步效果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzMxYzJiNjNjZTViZmQ5Y2Q2MmJiMjNhZjM4YmMwODBfOGExOGM5MTJkZmZjODdmMWVmZThlMTc1ODE2M2U4ODhfSUQ6NzY0NTcxNDYyNjA4NDMyNjU5Nl8xNzgyMDk5MTU0OjE3ODIxMDI3NTRfVjM)
+![图片展示了在Obsidian中进行Git同步后的界面。左侧显示“同步测试”文件夹，右侧是“同步测试”文件内容，包含标题“同步测试”及一段测试文字。右上角有“Committed 1 file”提示框，表明已成功提交1个文件。该图片与上文介绍的在Obsidian中手动同步操作及Git插件配置相关，直观呈现了同步成功后的状态，帮助用户了解同步效果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmJkOWM3YzljZTcyZjc5NmY0OWZlYjgxZGRmNTcwNjNfYmQ1ZGYxODBmODc3NTlhMTFlMDJhYjZjYjk0NDdiMTFfSUQ6NzY0NTcxNDYyNjA4NDMyNjU5Nl8xNzgyMTA3MzE4OjE3ODIxMTA5MThfVjM)
 
 ## 🚫 补充提醒与避坑指
 
@@ -207,3 +207,7 @@ git push -u origin main
 如果你已经照着这篇跑通了电脑端同步，可以先收藏备用。后面如果你还想把 iPhone、iPad 或安卓手机也接进来，欢迎留言告诉我，我可以再单独写一篇移动端同步教程。
 
 **文章同步公众号：雨哥聊AI**
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/WbkKwwc7Mi3OSdkDaQOczP6Inpe> ｜ 归档：2026-06-22

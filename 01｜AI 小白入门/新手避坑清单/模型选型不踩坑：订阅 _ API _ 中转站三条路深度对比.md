@@ -69,3 +69,7 @@
 - [01.3｜新手避坑清单](https://lcnniolukk80.feishu.cn/wiki/Aq7FweDT3iRXt5kOjvhcCqdTnCg) — 回到本章总览
 - [Claude Code 在大陆怎么稳定用](https://lcnniolukk80.feishu.cn/wiki/DA9zwgqdUi87hWkonVBcMczxnbg) — 中转 / 替代实战
 - [高强度实测 6 大 AI 模型](https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb) — 选模型实战
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/VHktwwNS9iP62BkUt8HcJy8lnzo> ｜ 归档：2026-06-22

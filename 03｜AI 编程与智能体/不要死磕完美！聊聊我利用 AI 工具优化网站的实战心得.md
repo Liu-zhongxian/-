@@ -6,13 +6,13 @@
 
 通过谷歌的专业网站评估，发现影响最大的是一个JS文件，几百KB加上我本身服务器带宽不大，导致首页加载缓慢，既然锁定到了问题，那我就去根据内容截图给AI，去优化内容。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzU4NmRhMjkyODQyMzdjNWY2YTAwMWM3MmEyN2JiNmFfZGJkMDAyOGRkMDkxZmU1N2YyNTIxZjk5Y2NhYTY0NzRfSUQ6NzY0ODI3MzUwNjkyMDQwMjE3MF8xNzgyMDk5MTAzOjE3ODIxMDI3MDNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmQzNjBiNWFlMGY4YmEwZmNiN2VlMWVlNDE2ZjVhNTZfYjE5MWNhZjQ2M2Y2NTJjODZiZDc5ZWRiYzhjNGE3NjFfSUQ6NzY0ODI3MzUwNjkyMDQwMjE3MF8xNzgyMTA3MjczOjE3ODIxMTA4NzNfVjM)
 
 从这里可以看到首次加载的时间是很长的，导致用户体验不好，甚至达到了**6.5s**的成都。这是一般用户无法想象的，等待**6.5s**的时间网站才完整的加载出来。
 
 我就继续的往下分析相关的参数，从截图里可以明显看到，最大的问题出在静态资源的加载上。首当其冲的是一个体积非常大的 JavaScript 文件（尤其是那个一百多K的 tailwindcss 相关的 JS）。这是拖慢我网站加载速度的第一大因数，所以我决定第一个先优化它。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTU0NjA4ZmU3MjE3MDBjNDljMmI0YjgyYzg2M2Q4ZDNfODgwN2ViMWU0MmRlMzliNmY0YzM0NmY4N2IwZGY5MmRfSUQ6NzY0ODI3MzU0MjYwOTU1NDYxMl8xNzgyMDk5MTAzOjE3ODIxMDI3MDNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWI0N2Q0NjQ5NTU0MGU0OWEzNjg3YzQ2MGIxY2QxOWFfMTg1MDRmN2QzYzgxMDEyZGJjMjMxNTEwZDQyYjM1ZTBfSUQ6NzY0ODI3MzU0MjYwOTU1NDYxMl8xNzgyMTA3MjczOjE3ODIxMTA4NzNfVjM)
 
 我本身的服务器带宽其实并不大，如果访问人数多的情况下，这几百 KB 的文件会把我的带宽分出去，这样会把首页加载时间拖的更长了。
 
@@ -29,11 +29,11 @@
 
 重新部署后，我再次跑了一遍 Google PageSpeed Insights。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDZkZjYxYzIyOTc1YWM5YTgyYjU4NDE3MGUyNTFiNjhfZGRmYTQ5ZmQ3MWQyMzI2MzM3YWE1MDZjZDEyYTU5NjJfSUQ6NzY0ODI3MzU3ODU5MjQzOTUxMF8xNzgyMDk5MTAzOjE3ODIxMDI3MDNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDJlNTcyOGRhNTQ1NTkzNjBhMDM3ODI1ZDQwNzNmODZfNDUxNTc5YmUzZGNlNGE4YTVkYzAzMDZmMThkNDhhMzBfSUQ6NzY0ODI3MzU3ODU5MjQzOTUxMF8xNzgyMTA3MjczOjE3ODIxMTA4NzNfVjM)
 
 *(图片说明：优化后分数直接飙到了 91 的绿区，核心指标 FCP 和 LCP 直接缩短了一半的时间！)*
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTBmOTE5ZjdjMmNiZGQ2YzhiY2RjYzdiNTg0ZWM5OTBfNmZkNGIzYWYzZjQzODAwMjI4YTMyYjA4ZmY5ZGUwYjdfSUQ6NzY0ODI3MzYwOTQxMjMzMjcyMl8xNzgyMDk5MTAzOjE3ODIxMDI3MDNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmZiNzNiOTI1OTczNWE1NDEwNGI0NWU4OGZmOTdkN2JfZGNmZDFhYmQ1YTAyZDkwZmQxNGQ2MGYxYWVjZDg2ZDNfSUQ6NzY0ODI3MzYwOTQxMjMzMjcyMl8xNzgyMTA3MjczOjE3ODIxMTA4NzNfVjM)
 
 然后我又去看了相关的资源请求加载列表，原本那个拖慢速度的 Tailwind JS 文件不见了，显示的是我修改之后体积小得多的 CSS 文件。传输总大小也从差不多 400 KiB 降到了不到 300 KiB，不可为提升不大。
 
@@ -51,3 +51,7 @@
 2. AI已经这么普及了，很多时候我们需要高效的利用AI去完成相关的任务，我最想分享的点也就是我自己使用AI的过程，因为很多人在实际使用过程中AI的介入还是不够多。或者很多人还在抗拒AI的使用，这是我不能接受的好东西我们就要及时利用起来。
 
 不说了，还是那句话，继续优化，体验至上！🔥
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/TVmawNuY1iadHZkYZl7cqUcenlc> ｜ 归档：2026-06-22

@@ -609,3 +609,7 @@ Claude Code 无头模式（`claude -p`）和 SWE-agent 给你受控的自主性�
 - **编程计费（Hermes、Codex CLI、第三方框架）**：《Claude Code：从入门到大师》：计费分类
 - **智能体框架工程（理论框架）**：「core/agent-harness.md」
 - **编程智能体对比矩阵**（23 款工具，11 项标准）：[coding-agents-matrix.dev](https://coding-agents-matrix.dev)
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Slh5wuMijitdlmkr9tEcOEkOnC2> ｜ 归档：2026-06-22

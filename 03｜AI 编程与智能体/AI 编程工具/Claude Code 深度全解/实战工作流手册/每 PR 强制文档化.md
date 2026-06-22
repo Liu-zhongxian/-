@@ -209,3 +209,7 @@ TypeScript 脚本（add、validate、assemble、audit）是 Méthode Aristote �
 - 钩子示例：examples/hooks/bash/smart-suggest.sh
 - 钩子文档：「UserPromptSubmit 钩子」（搜索「UserPromptSubmit」）
 - 片段验证器和组装器脚本：在 Méthode Aristote 仓库中提供
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/AWgiwfl6SigPDwk5qUkceDmRnVb> ｜ 归档：2026-06-22

@@ -1,6 +1,7 @@
 param(
   [string]$SpaceId = "7644091204958866380",
   [string]$SpaceName = "AI Spark AI Wiki",
+  [string]$WikiBaseUrl = "https://lcnniolukk80.feishu.cn/wiki",
   [string]$RootReadmeTitle = "",
   [switch]$DryRun,
   [int]$MaxDocuments = 0
@@ -254,7 +255,9 @@ function Convert-LarkMarkdown {
   param(
     [string]$Markdown,
     [string]$Title,
-    [string]$TargetFile
+    [string]$TargetFile,
+    [string]$NodeToken,
+    [string]$ArchiveDate
   )
 
   $content = $Markdown -replace '(?s)<title>.*?</title>\s*', ''
@@ -299,10 +302,18 @@ function Convert-LarkMarkdown {
     $previousContent = $content
     $content = [System.Text.RegularExpressions.Regex]::Replace($content, "^\s*#\s+.*?[ \t]*(\r?\n|$)", "", 1).Trim()
   } while ($content -ne $previousContent)
-  if ([string]::IsNullOrWhiteSpace($content)) {
-    return "# $Title`r`n"
+  $footer = ""
+  if (-not [string]::IsNullOrWhiteSpace($NodeToken)) {
+    $sourceUrl = "$($WikiBaseUrl.TrimEnd('/'))/$NodeToken"
+    $sourcePrefix = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("5p2l5rqQ77ya6aOe5LmmIMK3IA=="))
+    $originalPrefix = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("IO+9nCDljp/mlofvvIjmnIDmlrDniYjvvInvvJo8"))
+    $archivePrefix = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("PiDvvZwg5b2S5qGj77ya"))
+    $footer = "`r`n`r`n---`r`n`r`n> $sourcePrefix$SpaceName$originalPrefix$sourceUrl$archivePrefix$ArchiveDate"
   }
-  return "# $Title`r`n`r`n$content`r`n"
+  if ([string]::IsNullOrWhiteSpace($content)) {
+    return "# $Title$footer`r`n"
+  }
+  return "# $Title`r`n`r`n$content$footer`r`n"
 }
 
 function Get-WikiNodes {
@@ -350,7 +361,7 @@ function Sync-Node {
     )
 
     $raw = [string]$doc.data.document.content
-    $normalized = Convert-LarkMarkdown -Markdown $raw -Title $Node.title -TargetFile $targetFile
+    $normalized = Convert-LarkMarkdown -Markdown $raw -Title $Node.title -TargetFile $targetFile -NodeToken $Node.node_token -ArchiveDate $script:ArchiveDate
     [System.IO.File]::WriteAllText($targetFile, $normalized, [System.Text.UTF8Encoding]::new($false))
     $script:SyncedDocuments++
 
@@ -414,6 +425,7 @@ New-Item -ItemType Directory -Force -Path $stagingRoot | Out-Null
 $script:SyncedDocuments = 0
 $script:MediaDownloadAvailable = $true
 $script:MediaDownloadWarningShown = $false
+$script:ArchiveDate = (Get-Date).ToString("yyyy-MM-dd")
 $manifest = New-Object System.Collections.Generic.List[object]
 
 Write-Output "Listing root nodes from $SpaceName ($SpaceId)..."

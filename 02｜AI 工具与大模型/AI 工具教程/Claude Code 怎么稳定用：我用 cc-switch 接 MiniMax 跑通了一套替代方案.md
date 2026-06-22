@@ -2,7 +2,7 @@
 
 我想使用了那么多的CLI，不管是GPT的Codex还是谷歌的Gemini的CLI，最后回过头来发现还是A社的Claude Code 是我用过最顺手的 CLI AI 编程工具了，主要还是Claude的硬实力。
 
-![图片中](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzA5ZDU3NmEyMmQxYTIyZmJkMzA5NzY4M2Q5NDZmN2ZfM2IyMWE2YjI5OGM1NTUzOTYzYzkwNTk2ODFkMWEyYmVfSUQ6NzY0NDk2NDAxNzExMDM3MTUwOF8xNzgyMDk4OTMwOjE3ODIxMDI1MzBfVjM)
+![图片中](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjI0M2JjNTdiOTViOTU4MWE1YzUwMjE3Yzg2OTYyZjJfMTg2MzIyYTJmYmI3NGFmMGJkNTQ2ZThhZWZiZDc1MTlfSUQ6NzY0NDk2NDAxNzExMDM3MTUwOF8xNzgyMTA2OTg5OjE3ODIxMTA1ODlfVjM)
 
 但是对于很多兄弟们来说，稳定使用Claude已经是一种奢望了，在加上4月4号A社还发布了，Pro、Max等套餐的额度不在用于第三方的使用，里面点名了最近很多的OpenClaw。
 
@@ -10,7 +10,7 @@
 
 想来想去就选了一个折中的方案，我直接换思路：不再死磕 Claude 官方，也不再把希望全压在第三方代接服务上，而是保留 Claude Code 的使用方式，底层接口换成兼容 Anthropic 协议的国产模型。这篇我就讲一讲我是怎么使用的：`cc-switch + MiniMax`。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGQ2Yjg2OWIxNDUyMDYyNGM3OTEzNTZjZDIwNjc3ZTRfOWE2ZDE3MDEyYjA3MjA3ZmU4ODg1MjVjMjk3YTIyNDJfSUQ6NzY0NTE2NzcyMDg5NTY2MzI5NF8xNzgyMDk4OTMwOjE3ODIxMDI1MzBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmYzY2U5NzFjYTYwM2U5N2QwOGExNDIyYzE0M2IzYWJfZDE1N2YwNzYwMzE3N2JjMTlhNGJhYTJjZmFjZmZiZjRfSUQ6NzY0NTE2NzcyMDg5NTY2MzI5NF8xNzgyMTA2OTg5OjE3ODIxMTA1ODlfVjM)
 
 ---
 
@@ -36,7 +36,7 @@
 
 > 其实我也考虑过GLM，但是需要抢而且很多人说响应慢，我就没选择。直接买了官方Token Plan套餐 98/月，反正试试水。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2JlMDc5YTE1OWIxNGVjNjU3NDcyODM4OWMxM2VkYjVfZjdjNmMxY2Q3Y2FiNDM2MjE2ZjA2YjY0MDc2MzEwNmJfSUQ6NzY0NTE2Nzc1NzU2ODI4MTgyMF8xNzgyMDk4OTMwOjE3ODIxMDI1MzBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODI5YjU5NDlmMThmZTExYTk2ODhlYTc5MGY1ZTQ5MWZfNWFlNTcwNGE4NWIxZGE4MjM5MTc5Yzg1MzI2ZWFjOWNfSUQ6NzY0NTE2Nzc1NzU2ODI4MTgyMF8xNzgyMTA2OTg5OjE3ODIxMTA1ODlfVjM)
 
 ---
 
@@ -89,7 +89,7 @@ brew install --cask cc-switch
 - API 格式：`Anthropic Messages`
 - 模型：`MiniMax-M2.7`
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTVhNWEyMWUyZDE2NGRlNzc1YjQ4OTZlMzliZThhODBfZjk2NDIyNDkxNTI4MGI4MGY0N2U3MDZmNDY2ZjMwNmVfSUQ6NzY0NTE2Nzc4OTQ1MTMzMjgxMV8xNzgyMDk4OTMwOjE3ODIxMDI1MzBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2RlNTAyYjE4ODQ2N2JiYWNkODNkNjYyNGFmNmRhZTVfZGNiMDA5M2M2YjI3MzE0ZTYxZjZhZTRiY2U3YWEyOGNfSUQ6NzY0NTE2Nzc4OTQ1MTMzMjgxMV8xNzgyMTA2OTg5OjE3ODIxMTA1ODlfVjM)
 
 1. 如果你不是走官方账号登录，而是直接改 provider 路线，建议把 `~/.claude.json` 里的 onboarding 状态补掉：{  
 "hasCompletedOnboarding": true  
@@ -98,7 +98,7 @@ brew install --cask cc-switch
 
 如果一切正常，你会看到 Claude Code 正常起来，然后上面显示的模型是MiniMax而不是官方的Claude模型。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjI2YTA1ZGViMGFiNWIzOGE2MTBmMTUyYjZhNjBjNmZfZDJhZjhlZDI2MTQwOTIxNzQ5MjdlNTY2NmZkN2VlZDJfSUQ6NzY0NTE2NzgxNzMyNjg0MTA1M18xNzgyMDk4OTMwOjE3ODIxMDI1MzBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTZlMTJhZDY5N2YxM2Q2Yjk2YTY2OTNkZWExNjI1ODBfZmMwMjUwYTJmNjVmN2U1OWUyYThlZmMxMGRkN2QxNzdfSUQ6NzY0NTE2NzgxNzMyNjg0MTA1M18xNzgyMTA2OTg5OjE3ODIxMTA1ODlfVjM)
 
 > 风险提示：这一步最容易翻车的不是 Key 本身，而是旧配置残留和对接的官方地址，因为有国际和国内两个站点。有的时候看到了界面里看着已经切到 MiniMax，实际请求还在打旧地址，可以退出控制台然后重新进入或者使用`logout` 退出然后重新登入。
 
@@ -123,3 +123,7 @@ brew install --cask cc-switch
 - [Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通](https://lcnniolukk80.feishu.cn/wiki/VPeewqTA6iMP7jkQvYJcvurbnTf) — 没装的先看这篇
 - [小白必看！Opencode 傻瓜式安装教程，把 DeepSeek 接上](https://lcnniolukk80.feishu.cn/wiki/MwHFwQw6uiosjDkqTNxcid7in5c) — 另一条国产模型替代路
 - [高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它](https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb) — MiniMax / DeepSeek 在六家里的真实位置
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/DA9zwgqdUi87hWkonVBcMczxnbg> ｜ 归档：2026-06-22

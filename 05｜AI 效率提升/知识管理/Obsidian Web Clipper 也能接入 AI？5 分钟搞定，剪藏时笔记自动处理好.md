@@ -1,6 +1,6 @@
 # Obsidian Web Clipper 也能接入 AI？5 分钟搞定，剪藏时笔记自动处理好
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2NiZDhjZGYxZmFlNjZmYjllODNlMzQ1NGZhZDJlZjFfYjAzY2JiOTIwYTRiM2ZkMTBjM2EyZTA0MDFmYjY1YzJfSUQ6NzY0NTI2NTgwNjUxMDczODY0OF8xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDI4ZjZkMTZiMzk5ZmE2ZTFkYjBjMGNmNGY5MDY2NDlfNGJmODNkZmFjYTJkMDVmYmY2Y2UxZTBiM2NkZWYxNzNfSUQ6NzY0NTI2NTgwNjUxMDczODY0OF8xNzgyMTA3MzA4OjE3ODIxMTA5MDhfVjM)
 
 能。而且只要加一行配置，以后每次剪藏，AI 自动帮你生成摘要等信息。
 
@@ -32,7 +32,7 @@
 
 「自动运行」先别开。配置没跑通之前开了它，每次打开剪藏面板都会自动请求 AI，Key 填错或者模型没配对就会反复报错，白耗额度。等下面全部验证通过再回来开就行。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjFhN2ZlOTBmYjRhY2FhMmUzNmFlOGI1YWUwOTJlNWNfNjk0MDVkM2U2NTIyYmQyNDE5OTU5MDBmNDlmOGIzNjhfSUQ6NzY0NTI2NTgwNDAyNDA1NzAxN18xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDAyOTIyNjE1N2QyN2JiMjQ4M2U5MDdlMGMxYTg0MDZfNThkMGRiYzE4NmE0YjRkMmQ0NTFlNmJlMzk3NmY2ODVfSUQ6NzY0NTI2NTgwNDAyNDA1NzAxN18xNzgyMTA3MzA4OjE3ODIxMTA5MDhfVjM)
 
 **拿到 API Key**
 
@@ -40,7 +40,7 @@
 
 没有的话，现在注册一个：访问 [openrouter.ai](https://openrouter.ai/) → 注册 → 进入 [openrouter.ai/keys](https://openrouter.ai/keys) → 点「Create Key」→ 复制。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGU0OWNhNWZmOGNjMjdjNWNhYjg4MDk3MWRjZjNkNTRfZGUwMmVhZTc1ZDZiZTU2NTQwNGI1ZmNlMTc4MTM1OGNfSUQ6NzY0NTI2NTgwNzY4OTE3NDIxMF8xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTA0YTI5ZWE1ZDY4NWYzNWI2YjNhMjZiZjEyNDY4YzJfZmE1Njg1Nzg2NGNjYTgyMTdhOTYyNGZiNWQ0NWQwNTdfSUQ6NzY0NTI2NTgwNzY4OTE3NDIxMF8xNzgyMTA3MzA4OjE3ODIxMTA5MDhfVjM)
 
 ⚠️ Key 只显示一次，复制好存安全的地方。
 
@@ -52,7 +52,7 @@
 - **Base URL**：[https://openrouter.ai/api/v1/chat/completions](https://openrouter.ai/api/v1/chat/completions)
 - **API Key**：粘贴刚才复制的 Key
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2YxNDY1ZjBiYzg2NWM5OTYyMzcyYzFkM2IwMDU3YmRfZjExMmFiNDcwMmI5MjEyNjc5YjdkMGFhN2RkYTAxZWNfSUQ6NzY0NTI2NTgwNTk5MDgyNTE0Nl8xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjBmYjdlNTdmN2YxNjU4MDU2YTVkNTkzMGYyMmQxNjZfOWUyNmUyYTFkYTFmNWE0MDUxNzNhNTIxNDMxYTVlYWZfSUQ6NzY0NTI2NTgwNTk5MDgyNTE0Nl8xNzgyMTA3MzA4OjE3ODIxMTA5MDhfVjM)
 
 **添加 Ring 模型**
 
@@ -62,11 +62,11 @@
 - **模型 ID**：去 OpenRouter 的 Models 页面搜 ring，找到 inclusionAI 出品的，复制模型 ID（下面第一个图）
 - **提供商**：选刚才添加的 OpenRouter
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzM5ODU0Njg1NjhiZGNkOGMxMjFlMjVjYmMzN2QxY2VfODI5NDVjOTlmYjAxZDYzMzc3NTEzNmM2MDBkNDUxMjNfSUQ6NzY0NTI2NTgwNjU2OTUwODAzMF8xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmM1NGY0ODNhODdjMTViZjdkNDVmMWQ0N2JhNGZiMzZfMzNjMzg2NGZjNmRjYjYzZjY3OTNhNTkxODQxZjhkNTFfSUQ6NzY0NTI2NTgwNjU2OTUwODAzMF8xNzgyMTA3MzA5OjE3ODIxMTA5MDlfVjM)
 
 填完保存。搞定，解释器配好了。下一步才是重点，改模板。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yzg3YWQ2ZWI1ZTQ2MGZjNzVhMzRiMmI3ZTZlOGYyOWFfYzE4ZGY4Mjg2NjEwZmQyNTllNzJkYjQyN2U2YTU1ODhfSUQ6NzY0NTI2NTgwNDcyMDE4MDQyN18xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGI4MzYyY2MwNDdjMTBmOTI4YzBlNjEyM2I5MmFkYzdfODBiMzhhNGY5YjA3OWIwNjFlNjEyNDI0NTk2OGJkODFfSUQ6NzY0NTI2NTgwNDcyMDE4MDQyN18xNzgyMTA3MzA4OjE3ODIxMTA5MDhfVjM)
 
 ## 2️⃣ 改造你的剪藏模板
 
@@ -89,21 +89,21 @@
 
 其他属性（type、status、url、created）都不用动。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmMxZmFjNDEyMzc4YTg3ZDYyZTJkZjZhMzIxNmYzZDNfZmQ4ZjA0NGU3ZGIyMzQ4ZjliM2E0MmFhNzI3NjAwYmVfSUQ6NzY0NTI2NTgwMzYyOTY2MTM4OF8xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2JhMWQ5ODRmN2YxYzM0MjZmOTFlMmExOTFmYjY0MWZfZjdiNWE3NTk0ODMyOWI2YjIzOTkwODlhOTBlNGE2MzFfSUQ6NzY0NTI2NTgwMzYyOTY2MTM4OF8xNzgyMTA3MzA4OjE3ODIxMTA5MDhfVjM)
 
 保存模板。然后随便打开一篇文章，点浏览器右上角的 Web Clipper 图标：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjM1ODU2YjY1MmZkZjllYjZiOTg5NzljZmFmODc2ZDRfYTA1NzdlMzgxODg5YTAxMjQwODEwM2Y5NGMxNTM1M2NfSUQ6NzY0NTI2NTgwNTIwNjQwODM5OV8xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWY3MDc4OTk2ZjYxY2I5YzZlNTAxZTczNmYxMzljOWJfYzMwOTNhMWMxZTYzZTNiYmExNjgxYjJlNWIyMGYzOTlfSUQ6NzY0NTI2NTgwNTIwNjQwODM5OV8xNzgyMTA3MzA4OjE3ODIxMTA5MDhfVjM)
 
 你会看到 summary 那行还是原始的指令。点一下面板上的「解释」按钮，Ring 开始处理。
 
 几秒之后，摘要自动填好了：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzdhM2I3NTY3NzE5MmQ0Y2JkOGU4NGY5MmRjYmYwODhfMzU5YTQwZWQzZWEwOWQ4NTY5M2FkNjUwOGQ2NGZiZjNfSUQ6NzY0NTI2NTgwNzQxMjMzMzc3N18xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmI5YjI5N2U3NDA4ODU4YTQzNGQwMWFjZDk4MmEyODhfZWY3NDNjYzM3MDEzZDcyMTcyOTJmMTc2NDkzMzJlZWZfSUQ6NzY0NTI2NTgwNzQxMjMzMzc3N18xNzgyMTA3MzA4OjE3ODIxMTA5MDhfVjM)
 
 确认没问题，点「添加到 Obsidian」保存。打开 vault 看一眼，笔记的 frontmatter 里已经多了一行 AI 生成的摘要：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDlmYjE5MGI0NmVmNjgzMmE5YWM0OWZjM2FlMGJjOTNfNGQyMDI5NTkzZDhlMzIxMzUxY2Q3MTk2MDU0MTEzNTRfSUQ6NzY0NTI2NTgwNDU3MzI0ODcyMV8xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2IyZjIzOWYxNjkzNTY2ZDJhMzBkNjg4NGQ0Yjk3MmZfNjUzMzNkOGRlZWQwMzkxYzBkMWQ5ODA0YmYyZjJiOGJfSUQ6NzY0NTI2NTgwNDU3MzI0ODcyMV8xNzgyMTA3MzA4OjE3ODIxMTA5MDhfVjM)
 
 就这么简单。一行配置，每次剪藏自动生成摘要。
 
@@ -111,7 +111,7 @@
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjlkMDlhOWY3ZGQ5ODdiN2RkYjY2MjcwNGQ3YmEyYjJfNzU4NjFkOWRkZTRiMjJjMGQxMDNmOTMwOTM3ZDY1ODhfSUQ6NzY0NTI2NTgwNTIxNDcxNTA5N18xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmViYjk4ZWIwM2Y3NGNmZDViZjVkNTQwN2EyM2ZjMGFfNTA2OGU5NjMxNDUxZmU5YWRhNzVmODBiYjFmNWQ2ZGVfSUQ6NzY0NTI2NTgwNTIxNDcxNTA5N18xNzgyMTA3MzA4OjE3ODIxMTA5MDhfVjM)
 
 💡 验证没问题了，现在可以回到解释器设置把「**自动运行**」打开。以后打开 Web Clipper 就自动跑 AI，不用每次手动点「解释」了。
 
@@ -139,3 +139,7 @@
 上一篇教你装好了 Web Clipper，这一篇让它学会了「边存边想」。
 
 剪藏负责收，AI 负责理。这一步交给 AI，省的是你每次「剪了不看」的时间。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/REjCwjx8Kiae2hkWPMOcbMCRn7b> ｜ 归档：2026-06-22

@@ -2,7 +2,7 @@
 
 ​
 
-![图片以白色背景和黑色放射状线条为设计元素，上方文字为“三分钟大白话 什么是AI Agent? 它凭什么能自己解决问题?”，其中“自己解决问题”部分以蓝色字体突出显示。该图片位于介绍AI Agent“Agent（智能体）”的文档开头部分，起到引出主题的作用，通过图片内容，可直观了解文章将围绕AI Agent及其解决问题能力展开讲解。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmMzYjcxNjczOGI1NmIzYjMxODQxYjQzNDMxYTZjMTlfYzcyZmNjZDBhNGExZDliZDhjMDc2MTQ0YjQwNWYxNDFfSUQ6NzY0NjMwNDk0Mzc5MTcyMTQzOF8xNzgyMDk5MDY3OjE3ODIxMDI2NjdfVjM)
+![图片以白色背景和黑色放射状线条为设计元素，上方文字为“三分钟大白话 什么是AI Agent? 它凭什么能自己解决问题?”，其中“自己解决问题”部分以蓝色字体突出显示。该图片位于介绍AI Agent“Agent（智能体）”的文档开头部分，起到引出主题的作用，通过图片内容，可直观了解文章将围绕AI Agent及其解决问题能力展开讲解。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzZjYWYyNTA0ODIzODQwNGNjZTgwYjQwNWQ1ZTI0NmJfOWI0ZTFiOTJmY2E5OGVkOTJhY2Y5NWEyZjA0NmIwMTFfSUQ6NzY0NjMwNDk0Mzc5MTcyMTQzOF8xNzgyMTA3MjQxOjE3ODIxMTA4NDFfVjM)
 
 在 AI 的世界里，“Agent（智能体）”这两年几乎成了高频词。 但有意思的是——很多人其实每天都在用 Agent，却没意识到自己在用。
 
@@ -182,3 +182,7 @@ AI Agent 是一个**能够在循环中自主完成任务的智能系统**，它�
 好了，你现在搞明白什么是AI Agent了吗？
 
 如果有不理解的地方，欢迎留言，一起讨论。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Z4o7wlGcii6B02kzPrTcooGTnsb> ｜ 归档：2026-06-22

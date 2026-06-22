@@ -68,7 +68,7 @@ Karma 是 Reddit 的“信用积分”，对于 AI 赛道，它代表了你在�
 
 #### **社区挖掘SOP（标准操作流程）**
 
-![图片image_id处的图片是一张流程图，展示了社区挖掘SOP。从关键词搜索开始，经Reddit搜索框、切换Communities标签，再到Google: site:reddit.com AI tools，筛选1万 - 50万成员，加入并观察7天，记录热门帖类型，最后制定首帖计划。该图与文档中“社区挖掘SOP”内容对应，直观呈现了从搜索到制定计划的完整流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjM3NTRiN2U0MGIwMTk4ZjY5Y2Y1YTkzODQ3YzVmZWFfNjM4YmU1MzUxYzBjNzdkNzBlOWRjZjlhMjc1ZDE3OTZfSUQ6NzY0NTI0Mjc5MDY1NDAzNzIxMV8xNzgyMDk5MTE0OjE3ODIxMDI3MTRfVjM)
+![图片image_id处的图片是一张流程图，展示了社区挖掘SOP。从关键词搜索开始，经Reddit搜索框、切换Communities标签，再到Google: site:reddit.com AI tools，筛选1万 - 50万成员，加入并观察7天，记录热门帖类型，最后制定首帖计划。该图与文档中“社区挖掘SOP”内容对应，直观呈现了从搜索到制定计划的完整流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTBjYjMxNjQ2OGFiNGExNDU3OGIzZmZlZDlhMGI0Y2FfYmY3MDdlYTYwMTBjM2Y5NTZmNGYzYTU1OWI0NDk2MjNfSUQ6NzY0NTI0Mjc5MDY1NDAzNzIxMV8xNzgyMTA3Mjg0OjE3ODIxMTA4ODRfVjM)
 
 ### 1.3 Reddiquette：AI运营的礼仪圣经
 
@@ -94,7 +94,7 @@ Karma 是 Reddit 的“信用积分”，对于 AI 赛道，它代表了你在�
 - 价值：高成就账号的AI资讯帖，点击率+50%。
 - 玩法：参与AMA（Ask Me Anything），如“AMA: Built an AI news aggregator”。
 
-![图片是一张表格，展示了Reddit平台的徽章及其获取条件、AI玩法和信任加成。表格包含徽章、获取条件、AI玩法、信任加 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTAyNzk1Nzk1YmY1ZWI0MGMwMmZhODY3ZjdjNjE1NTJfNTEyNWYxZmMxZTQwYTM0OTA4NDg4OTM1MjgzOTAyMTlfSUQ6NzY0NTI0Mjc5OTk0MTM1Njc1NF8xNzgyMDk5MTE0OjE3ODIxMDI3MTRfVjM)
+![图片是一张表格，展示了Reddit平台的徽章及其获取条件、AI玩法和信任加成。表格包含徽章、获取条件、AI玩法、信任加 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjViY2Q4NmQwZGY5MmY4Y2UxNGZmMzk1ZGY5MTE5MGJfMWJhZGEyYTU4NmMzOGU4ZmEwZmZhNDM4Zjk1NGQ5ZWZfSUQ6NzY0NTI0Mjc5OTk0MTM1Njc1NF8xNzgyMTA3Mjg0OjE3ODIxMTA4ODRfVjM)
 
 ---
 
@@ -230,3 +230,7 @@ Reddit 监管极其严格，对于 AI 推广的“自动化”倾向尤其敏感
 <sheet sheet-id="HaK89o" token="EN1WsiUBWh4nWqtiCI8c9BoHnEe"></sheet>
 
 <sheet sheet-id="adVaed" token="EN1WsiUBWh4nWqtiCI8c9BoHnEe"></sheet>
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/LqcCwHleliKPdgk0aCEc40BJnxf> ｜ 归档：2026-06-22

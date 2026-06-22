@@ -1,6 +1,6 @@
 # Claudian × opencode 全网首发：用国产模型给 Obsidian 接上一条免费 AI 通道
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWJlMDNmMzI3ZjVhMDQ5YjZmZTFhNzM3ZjhmMmExZTFfMDkzMDJiZGQ5ZWNiNjFhOGRmZjc2OWVlZmM3MzgxYWZfSUQ6NzY0NTI2NTMyNzk3NDI3MjE4Nl8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=YmYwMWEzOWU3NDlkN2Q3NjVjNDU4MTdlYjUwYTFlN2RfOWYxMzA3MWNlNmVjZmQwYzM3Njg1ZjVmNGUwYjg4YzJfSUQ6NzY0NTI2NTMyNzk3NDI3MjE4Nl8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 这是 「Obsidian + AI」 系列第三篇，依旧图文保姆级教程，手把手教学。 上一篇《Claudian 双模型完整配置教程》打通了 Claude Code + Codex 双通道。
 
@@ -50,7 +50,7 @@ Claude 又封号了？订阅、账号、中转站，**没一个真正稳的**。
 
 弹窗里**只需要填 Name 一个字段**（随便起，比如 **Obsidian Use Key**，方便以后认），下面的 **Credit limit** / **Reset limit every** / **Expiration** 全部留默认即可。点「**Create**」 → **完整复制生成的 Key**。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzU5ZmU0MzEyOGM4OGExZWYwNDNhNDA1ZmE1OGQwZTFfZGE0ZjcyMmFlYjQwZmRiNzVhNjU4YTVmOGE1NTdiYTdfSUQ6NzY0NTI2NTMyNzk3NDI4ODU3MF8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=YjVmMTAwNmYzNjJmMTZlNjVkZmVhMzYzZmZjOWExYTlfNDIzMDZiODNiZDM3M2Q5MDZiOTA4NjRmZDk1ZGUwZjVfSUQ6NzY0NTI2NTMyNzk3NDI4ODU3MF8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 > ⚠️ API Key 只显示一次，务必保存好。丢了得重新生成。
 
@@ -62,7 +62,7 @@ Claude 又封号了？订阅、账号、中转站，**没一个真正稳的**。
 
 > 💡 OpenRouter 上有不少免费模型，Ling-2.6-1T 是其中表现不错的一个。就算免费期结束，按当前公开价格看也属于很便宜的一档。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjE3MWJhNGQ1MTJmOTRiMWFhODVlNzYxMzdkNTJkNGRfMTZlZDMzMzlmYjZjYTc0MTExMDk0ZDkxZjYzZjk1NjJfSUQ6NzY0NTI2NTMyOTU1NTM5MzczNl8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=ZmRkYWYwY2JmZTg5NDY2ZDllNjAyY2IzMTc4NWZlZmNfZjg4ZTViMWU0NWI0NzNiMjI4ZjljOWY0OWM4OTM4NGRfSUQ6NzY0NTI2NTMyOTU1NTM5MzczNl8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 Key + 模型 ID 都拿到，进第二节开装 opencode CLI。
 
@@ -92,7 +92,7 @@ opencode 是一个开源的命令行 AI 编程工具
 
 跑完看到光标重新回到 **\$** 提示符，就是装好了。
 
-![图片展示了在终端中安装opencode - ai的命令及结果。命令为“npm install - g opencode - ai”，执行后显示“added 2 packages in 18s”。该图片对应文档中“装opencode CLI”部分，是Step 2首次启动初始化步骤的操作示例，说明在终端跑此命令后，opencode会生成配置目录，为后续CC Switch写配置做准备，且这一步不用登录、不用配模型。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjYyZmVhYjQwZjNjOTJkNjJlZjAzODkwZjBlYjVlYzRfMjJjZmI3NTk4OTdmMmQxOWNkM2I4OWFiMjUzZmU4N2NfSUQ6NzY0NTI2NTMyODgxNzI5NDU0Nl8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![图片展示了在终端中安装opencode - ai的命令及结果。命令为“npm install - g opencode - ai”，执行后显示“added 2 packages in 18s”。该图片对应文档中“装opencode CLI”部分，是Step 2首次启动初始化步骤的操作示例，说明在终端跑此命令后，opencode会生成配置目录，为后续CC Switch写配置做准备，且这一步不用登录、不用配模型。](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=MmZlNmZkNGEwOTZiMzdlY2Y5YjBmNmMyOGIzMmI1M2ZfYzQwMWFlNWNlY2U4OTRlZTE5MDJhNjU2ZWNiZThmNmFfSUQ6NzY0NTI2NTMyODgxNzI5NDU0Nl8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 **𝗦𝘁𝗲𝗽 𝟮：首次启动初始化**
 
@@ -104,7 +104,7 @@ opencode 是一个 TUI（终端图形界面）工具，**第一次必须跑一�
 
 会弹出一个全屏的终端 UI 界面，顶部显示 opencode 的 logo。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjliMmUwOGJmOWRiYzljODQ3Mjg2YWFmZDI1YTc3MjRfMTUyMGIyZjM3NTA4YWUwMTZkODk1NWZiYjY3MTNmMTdfSUQ6NzY0NTI2NTMyODE0MjEyNjI2NV8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=NWQ4MWMxYzZlY2VlNTEwMWVkOWNjMmRhOWYyZWQ1NzhfZjRkNmYzNTU0ZDdkMWY3MTY5YTRmMjczYjRiMmE2MjhfSUQ6NzY0NTI2NTMyODE0MjEyNjI2NV8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 这一步**不用登录、不用配模型**，只是为了让它生成 **\~/.config/opencode/** 这个目录。**直接 Ctrl+C 退出**就行。
 
@@ -122,7 +122,7 @@ opencode 是一个 TUI（终端图形界面）工具，**第一次必须跑一�
 
 > ⚠️ **没输出？** 关掉终端窗口重开一个再敲（PATH 没刷新）。Linux 上 **where** 找不到改用 **which opencode**。win用户建议通过AI获取自己的opencode路径
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmFmMjZiMTQ3YzA5MjRiNmZkMzE3MDM4ZjJjZWIzYmVfMGU4NGQ5MjgyN2JmNjJmOWE0ZDFiMWE0MGY0M2Y5MDdfSUQ6NzY0NTI2NTMyODQxODg1MjAzNl8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=MzRlNGExZjhjNWZlZTBiYjMwZmNhZmU3ZDEyZDllMWNfMDYzYzRjNzg3ZTYwODY5MGQ2ZWU3MGVmNjY0Y2JjYTVfSUQ6NzY0NTI2NTMyODQxODg1MjAzNl8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 ## 三、CC Switch 里配 opencode 通道
 
@@ -134,7 +134,7 @@ opencode 是一个 TUI（终端图形界面）工具，**第一次必须跑一�
 
 **点「OpenCode 供应商」**。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzgzMWMzOTQ1NWQwYjJmMzFkM2NlNTkwNjc0OGQ2ZTRfZjI3NDlkOTBmZjVlMzI1MzA5Mjk3NTMzNzZkNmRkNmRfSUQ6NzY0NTI2NTMyOTczNTYzNDEzN18xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=ODFhM2U2ZDliNTJhNTNjZGU5OGNlZmE5NTdkZjExYjVfZWYxYTBhYWVjNDM1NTU4ZjlkMGVlMjNhNWJiMWU2NjVfSUQ6NzY0NTI2NTMyOTczNTYzNDEzN18xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 > 💡 **看不到 OpenCode tab？** CC Switch 版本太旧。去 [CC Switch Releases](https://github.com/farion1231/cc-switch/releases) 下最新版覆盖装一下。
 
@@ -148,7 +148,7 @@ OpenCode tab 下点「**添加新供应商**」按钮。
 
 进入表单后，**只需要动这 4 个地方**：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGQwMjE5MGVjZmI2MmJkMGVhMjg0YTM3YzlhZjM1M2VfMGQ4YTIwNjhlNTIzMWU3NDUxOTc3ZmYzYmMzZWU5ZThfSUQ6NzY0NTI2NTMyNzY1MTY3MTI0M18xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=N2E1MDk2MTEzMjY3NzdhNzgzMWY5NmEzYjI3OWU1ZTRfZGJjNmNlNDJkZDBiZjJlOWI5ODY0OTRhZmVmNjlkZWNfSUQ6NzY0NTI2NTMyNzY1MTY3MTI0M18xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 ❶ **「供应商标识」字段**：随便起个名字，比如 **ling-2.6-1t**。这只是本地标识，方便以后在卡片列表里认，不影响调用。
 
@@ -180,15 +180,15 @@ OpenCode tab 下点「**添加新供应商**」按钮。
 
 进入 opencode TUI 主界面后，**在底部输入框里输入 /models 命令**：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTljMjE3MjhhZDhjMGE2NjYxNjIxMTY5MzA5YjE0MGVfOTZjOGE2Mjk3MWNiYzlhYTk2MWY4ZjIyYzQ4MzBlMzRfSUQ6NzY0NTI2NTMyNzMyNDI2OTc4OV8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=MzdmMWE1MDg3NDVkMjcyYmE4OGVmZDIxY2Y0NTQwNjdfYjhkYzljYjdjZTdiYzZjZTExMDU0YWM4MWFlZGIwZjZfSUQ6NzY0NTI2NTMyNzMyNDI2OTc4OV8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 回车之后会弹出模型选择列表，**最上面 Recent 区域第一个就是刚配的 ling-2.6-1t OpenRouter**：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjEzYWNjMmYxMjQ5MTcwNjdlYzkwZDEzODYyMWNhMTlfY2Y2ZDM5YTE4NDYwMzE4YzE5YTU0YjEwNDJjOGM2MjJfSUQ6NzY0NTI2NTMyNzQ1OTMwNjY4NF8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=NjY1MDIzZjIyNGFiMDllMTM1ZTAxZGIyYjhhYjIyMzNfNzBhYmMxZGNhNTRmMjJiYWQzYzk0NzU1MGViMjAyYmRfSUQ6NzY0NTI2NTMyNzQ1OTMwNjY4NF8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 回车选中它。回到对话框，**发一句「你好，你是什么模型」**：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODQ3ZDA0NDk4MmExYjgyNzZiYzg1OGQ3YjIzZGYyZDhfN2M4MTJhMTk3ZTM5NDk5ZTlmZTYyN2YyYTkxZDU0ODdfSUQ6NzY0NTI2NTMyODQxODg2ODQyMF8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=M2QzNTEzNGJhMmI0ZjUxZGI4MTc5NzM1ZWY0Mzc3MjdfYjExNGY0NjYwOGIwZWI4MzE3MzgxY2FlMDNjNmRlZDNfSUQ6NzY0NTI2NTMyODQxODg2ODQyMF8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 只要正常回答就证明 **opencode CLI 通道打通**了。
 
@@ -204,7 +204,7 @@ CC Switch 那边搞定，opencode CLI 自己已经能跑了。但还要把它接
 
 进入 Claudian 设置后，**留意顶部 tab**：「通用」「Claude」「Codex」「**Opencode**」。**切到「Opencode」tab**。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmQ1ZWI2N2QxY2FlYTM2Y2Q2YmRmNzA0ODI0N2Q3MWFfMTAxNDIwZTM5OTZhYWRhOGNlMTg4NjEwYzA4YjYwYjZfSUQ6NzY0NTI2NTMyODgxNzI3ODE2Ml8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=YjMyYzA3Y2NjMzAzZDdlN2M2ZTA0MjI2ZTcyZTY1YjdfODI4MDcxNjkyNmRhNzNkYjFmODNiNTQ0NzNkYjk0ODhfSUQ6NzY0NTI2NTMyODgxNzI3ODE2Ml8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 > ⚠️ **没看到 Opencode tab？** Claudian 版本太旧。回第一节末尾按提示更新一下。
 
@@ -212,7 +212,7 @@ CC Switch 那边搞定，opencode CLI 自己已经能跑了。但还要把它接
 
 进入 Opencode tab 后，**只需要按截图里 ❷❸❹ 顺序操作**：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTc0ZWU1OWU2NDU1MzM0N2E4ODg0MzZjMmJlY2I1NjlfYTMxNzM4ZWQ5ODBhYzUxNTBkN2M0ZDkxYjc0NjZjMGZfSUQ6NzY0NTI2NTMyOTU2Mzc5ODcwN18xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=ODVlODczNGY0MzUwODQ1ZjJlMTBkMDhhYjUxM2NkNjJfNTQ1MzlhMzc2MTUzZTA0M2EzOGZjMmY2OTdiZjAzMDNfSUQ6NzY0NTI2NTMyOTU2Mzc5ODcwN18xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 ❷ **点开「Enable OpenCode」开关**：默认是关的，打开后 opencode 才会被注册成 provider。
 
@@ -230,7 +230,7 @@ CC Switch 那边搞定，opencode CLI 自己已经能跑了。但还要把它接
 
 下拉菜单里现在应该出现**第三组 OPENCODE**：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTliNzhkOTkxODYxZGVhNGIwYjcwMDcxYjFmZTYyNjRfNmZiMzFjZTA4NWQ5OWU1MDQyMmM0NDZkMzE0MzZjYjVfSUQ6NzY0NTI2NTMyNjMwMTE4NzI1OF8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=YWZkMjU1NTY5NmE4YWVhYTNlMjY4ZDJjYWNhOWU0NzZfN2JjMmU1YTI4OGU3MTJmNjE5ZjU0Y2JkOGNmOTBlMzhfSUQ6NzY0NTI2NTMyNjMwMTE4NzI1OF8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 > ⚠️ **下拉里只有 CLAUDE / CODEX 两组，没出现 OPENCODE？检查 Step 2 ❷ 那个开关是不是打开了 检查 Step 2 ❸ CLI Path 是不是粘对了 关闭 Obsidian 之后重新启动 在 Claudian 中新建一个对话框**（旧对话框不会刷新模型列表）
 
@@ -242,7 +242,7 @@ CC Switch 那边搞定，opencode CLI 自己已经能跑了。但还要把它接
 
 **这次你会发现，模型列表里多了一长串可选项**：OpenCode Zen 默认那一串，加上**最下面 OPENROUTER 那一行 ling-2.6-1t**：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTU2ODg4NTNiODA3ZjhkYjY3OTI3NTg5ZjBhNGE5YjdfMTRmOGRmNGY5NjU3NjAxNzgzNWQwZjZmOWFkMTVhZTRfSUQ6NzY0NTI2NTMyNzE3MzIwOTI5N18xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=MjQyNzQ1OGNiOGZiNWRhMGE2ZTgzNWM4OTRjODU0MDVfMTc4NDNiMzkxNTY4OTUzNDMxM2U1YmJlYzExZDU3ZmRfSUQ6NzY0NTI2NTMyNzE3MzIwOTI5N18xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 这是因为我们刚才在第三节 Step 5 跑 opencode CLI 拉过 **/models** 列表，Claudian 现在能从 opencode 进程里读到这些模型了。
 
@@ -252,11 +252,11 @@ CC Switch 那边搞定，opencode CLI 自己已经能跑了。但还要把它接
 
 再次打开 Claudian 主面板，**左下角下拉点开**：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTIyM2ZjZmJkZTkwZmVlNGI4YmM5Y2I4YWRlZTgxZTlfZmM2N2QzMjZmMjU5ZTczNjI1MTgzYjIyODdhNWZlZmZfSUQ6NzY0NTI2NTMyOTU1Mjg4Njk2M18xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=YjZjNThmODIxNDk5MTUxN2JkNmZhOWE1YjNkMTc0NDFfOTMxMjZkYjhiNzJiY2JmNDEzYjAzNGU1NjI4NmM2NTZfSUQ6NzY0NTI2NTMyOTU1Mjg4Njk2M18xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 OPENCODE 组下面现在应该出现 **OpenRouter/ling-2.6-1t**。**点它切过去**，发一句「**你好，你是什么模型**」：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTU2Yjk5MzcwMTdlMTRlZGVlOGI1MTVhMzhlYTEwOWNfNTU1OTliNTFlZjFjYzE3ZTI3ZjUwNWIyMzliMDhkNzNfSUQ6NzY0NTI2NTMyOTcxMDU1MDIxMF8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=MGYwYTBiYTA2MWU5NzVkYjIwNGRkZTI4MGFjMjIxOGFfMzhmMTQ1YjNjMGNlODMyZGUyZWIwMDkyNmI0YWU1MDdfSUQ6NzY0NTI2NTMyOTcxMDU1MDIxMF8xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 只要回答里包含 **inclusionai/ling-2.6-1t:free**，**Claudian × opencode 通道全线打通，三模型架构完成**。
 
@@ -264,7 +264,7 @@ OPENCODE 组下面现在应该出现 **OpenRouter/ling-2.6-1t**。**点它切过
 
 到这一步，**Claudian 对话框左下角的模型选择器**点一下，下拉菜单里会出现**三组模型**：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2M3MjIxYzVmNWYwZTRlMGFjMWRlNGJkNGExNGIyMmNfZjA3NjlmY2E0NzAwMTdiY2JjOWVkOTIyOTgyNjdiY2VfSUQ6NzY0NTI2NTMyODQ1NjYwMDc5M18xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
+![](https://api3-eeft-drive.feishu.cn/space/api/box/stream/download/authcode/?code=NDc3MzY4ZmFmMzMwOTQ3ZDg3NjAwNTU1MmE3MDAxZWVfNWM4MzY5M2EyYmQzNjBlMzY4OGZjOTk2MTNhYTdjZTZfSUQ6NzY0NTI2NTMyODQ1NjYwMDc5M18xNzgyMTA3MjMwOjE3ODIxMTA4MzBfVjM)
 
 • **CLAUDE 组**：Opus / Sonnet / Haiku，你已订阅的官方 Claude 或者中转站，写作、思考、复杂推理 • **CODEX 组**：GPT-5.5 / GPT-5.4 Mini，ChatGPT 账号，通用编程、对话 • **OPENCODE 组**：opencode（底下跑 Ling 免费模型），日常杂活、备份通道、不烧美元
 
@@ -281,3 +281,7 @@ OPENCODE 组下面现在应该出现 **OpenRouter/ling-2.6-1t**。**点它切过
 到这一步，你的 Obsidian 已经同时挂上了 **Claude / Codex / opencode 三条 AI 通道**，目前 Claudian 支持的所有通道都挂齐了。
 
 每条通道挂自己最适合的模型，已订阅的不浪费，不烧钱的随便用。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/WECkwsrDmiDYHoktwFSc3aDhnib> ｜ 归档：2026-06-22

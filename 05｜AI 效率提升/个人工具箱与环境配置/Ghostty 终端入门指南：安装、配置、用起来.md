@@ -1,6 +1,6 @@
 # Ghostty 终端入门指南：安装、配置、用起来
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGE1NGE2NGJhMjllZmRkNDFiM2RmMjI5ZWUyMWQ2MTJfYjFjNmM2OTRjMzA5N2ZkNzQ4NWY5NTk4NDFiZWU5MWRfSUQ6NzY0NTI2NTQ4NDYzNTcwNDUwMF8xNzgyMDk5MTYwOjE3ODIxMDI3NjBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzcyYzQ3MzE0YjI2MTk5MGZiZTU4MDFhZTkzNmFkMGZfMmFmNWM1N2YzODgyZjYyMDI3MzYxYWE4ZjE1MDlkYTZfSUQ6NzY0NTI2NTQ4NDYzNTcwNDUwMF8xNzgyMTA3MzIzOjE3ODIxMTA5MjNfVjM)
 
 ## Ghostty 是什么
 
@@ -354,3 +354,7 @@ brew install --cask font-maple-mono-nf-cn
 ## 写在最后
 
 到这里你的 Ghostty 应该已经跑起来了——主题跟着系统走、分屏随手开、Quick Terminal 一键呼出。比起 iTerm2，你大概能明显感觉到渲染更跟手，滚动更丝滑。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/IZ4ywklcdi08qbk4qNCc9f17nsf> ｜ 归档：2026-06-22

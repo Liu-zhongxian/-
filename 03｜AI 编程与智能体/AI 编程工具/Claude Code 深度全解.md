@@ -37,3 +37,7 @@
 - **实战工作流手册** — 26 个场景化工作流
 - **生态与工具链全景** — MCP、第三方工具、AI 生态系统
 - **企业级安全与治理** — 沙箱、数据隐私、合规治理
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/DyimwjVg8ijXj0k8iLXcEoHZnDf> ｜ 归档：2026-06-22

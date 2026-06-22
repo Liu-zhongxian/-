@@ -1,6 +1,6 @@
 # 新 Mac 到手先装什么？我的 17 个必装清单
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDY5ZjRmN2IyMTM0ODA3NDM1NjdlYWFlOWQ1ZDZkNmRfM2NkYzFhOWRjZjA2YzBmM2NkMmM2ZTZmM2MxMzdjYzBfSUQ6NzY0NTI2NjYxODAwMzY4ODYzM18xNzgyMDk5MTYzOjE3ODIxMDI3NjNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWM4M2Q3MTY3N2ZjZGNhMzI2MDIxMGI4NmUzMGY3ODZfMTViYTNkZTE0NThlZmVkYTIyYWU5MzIzNDhjYjcxYzJfSUQ6NzY0NTI2NjYxODAwMzY4ODYzM18xNzgyMTA3MzI1OjE3ODIxMTA5MjVfVjM)
 
 后台好多人问我 Mac 上都装了什么软件，一直没来得及整理。这篇就是那份清单。
 
@@ -35,7 +35,7 @@ brew install --cask ibar
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTQxYmZjYjU3NzNiZWExNWQ1ODVjMzM1OWNhNTMyODRfZjcyNmEyN2U0NDU5MjUwZmQxMGViODY5NjVlYWY4OGJfSUQ6NzY0NTI2NjYxOTEzNTk4NjkwOV8xNzgyMDk5MTYzOjE3ODIxMDI3NjNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDUwNmE3NjIzNWM3Yjk1M2UwNGUwZDlkM2Q3ZDNhYmZfNGE5NjM5NmU2NmMwNjc5NDViOGJmZWQ0ZmZhNTQ1YmZfSUQ6NzY0NTI2NjYxOTEzNTk4NjkwOV8xNzgyMTA3MzI1OjE3ODIxMTA5MjVfVjM)
 
 GIF
 
@@ -43,7 +43,7 @@ GIF
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTllOGEyNTU2MDkxYjMyN2RhN2ZmMzRjOGZhYTk5NmJfMTQzMzY1ZWI1OWUyYmU2MmIwM2E2OGQ3ODc2NzU4ZTFfSUQ6NzY0NTI2NjYxNzU3NTkxODc5NV8xNzgyMDk5MTYzOjE3ODIxMDI3NjNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDU1NGIyNGEwNDA2YzYyNjRhZjlmYTdmMDVkMTU4MDlfMWQ3ODYzNzczZjU0ODdlMTBiYTAzN2UxOWI4MGQ5OGVfSUQ6NzY0NTI2NjYxNzU3NTkxODc5NV8xNzgyMTA3MzI1OjE3ODIxMTA5MjVfVjM)
 
 GIF
 
@@ -155,3 +155,7 @@ brew install --cask arc raycast keka iina ghostty obsidian visual-studio-code ea
 ```
 
 一条命令，9 个软件，搞定。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/RDGVwTFYEiZzLUk8W44cAPyonne> ｜ 归档：2026-06-22

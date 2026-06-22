@@ -212,3 +212,7 @@ children: [
 维护单一真相来源。当你更新 OG 图片中的数据时，在同一次提交中更新所有地方（落地页徽章、README 等）。
 
 对于有多个落地页的项目，创建一个斜杠命令 `/update-stats-image-landings`，遍历每个仓库并提示你验证每个数据点。这能防止各站点之间的漂移。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/UwxYwYL8xiN8aekYJYXcuPG4nmh> ｜ 归档：2026-06-22

@@ -103,3 +103,7 @@ flowchart LR
 
 - [01.2｜新手学习路径](https://lcnniolukk80.feishu.cn/wiki/SUGqwyesei8DOAkvbxQcfHT5n4c) — 回总览
 - [01.3｜新手避坑清单](https://lcnniolukk80.feishu.cn/wiki/Aq7FweDT3iRXt5kOjvhcCqdTnCg) — 卡住时的具体避坑
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/WJ31wL3LDixHbYktv86cjDdunyb> ｜ 归档：2026-06-22

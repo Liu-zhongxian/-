@@ -1,6 +1,6 @@
 # 10分钟拆解148条视频,用 NotebookLM "榨干"油管博主的插件实战
 
-![图片展示了NotebookLM批量拆解油管博主视频的流程。左侧显示博主内容体系研究、宏观流动性分析等，中间有Chrome浏览器图标，右侧是YouTube视频播放界面。中间箭头指向右侧的AI驱动知识库，标注“批量导入逐字稿”“发送至NotebookLM”。右侧知识库中有对话框，显示AI总结内容。底部文字为“实战派保姆级教程”。该图直观呈现了批量导入逐字稿、发送至AI驱动知识库、AI深度分析等操作步骤，与上文介绍的批量拆解油管博主视频的流程相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTg1YTU1ODEzMWI2YWNmMGUwZjU4ZWE2NWQ1NGQxZGNfZGQ1MDdmNWE4NmZiYmJjNTAyZmEwOTI3MTNmOTZlMTBfSUQ6NzY0NTcxMTgyNDM2MDUwODYzNV8xNzgyMDk5MTQ4OjE3ODIxMDI3NDhfVjM)
+![图片展示了NotebookLM批量拆解油管博主视频的流程。左侧显示博主内容体系研究、宏观流动性分析等，中间有Chrome浏览器图标，右侧是YouTube视频播放界面。中间箭头指向右侧的AI驱动知识库，标注“批量导入逐字稿”“发送至NotebookLM”。右侧知识库中有对话框，显示AI总结内容。底部文字为“实战派保姆级教程”。该图直观呈现了批量导入逐字稿、发送至AI驱动知识库、AI深度分析等操作步骤，与上文介绍的批量拆解油管博主视频的流程相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2ZiY2U3MDhhYzE4M2I2ZGJiODZlMDFlZmYyMDYyZGVfMWY1MDUyNDFlYzY0YzIyMzA1MGFhNmI4M2RlMzA4NTJfSUQ6NzY0NTcxMTgyNDM2MDUwODYzNV8xNzgyMTA3MzEzOjE3ODIxMTA5MTNfVjM)
 
 \*\*你有没有过这种卑微的时刻：\*\*看到一个油管博主的内容体系牛逼到令人窒息，你琢磨着想把他所有视频的核心观点系统性地拆解个底朝天——然后发现人家 300 多条视频，你要一条一条点进去抄笔记，光是想想就已经放弃了。
 
@@ -8,7 +8,7 @@
 
 这就是今天要介绍的"YouTube to NotebookLM"系列插件。
 
-![图片展示的是NotebookLM的界面，用于根据内容生成音频概览和视频概览。界面中有一个搜索框，提示“在网络中搜索新来源”，并有“Web”和“Fast Research”两个下拉选项。下方有“或拖放文件”区域，可上传PDF、图片、文档、音频、笔签等文件，还有“上传文件”“网站”“云端硬盘”“复制的文字”四个按钮。界面右下角显示“148/300”，可能代表已处理或上传的文件数量。该图片与上文介绍的NotebookLM功能相呼应，直观呈现其操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzM2ZGU3NjIyZGViYjkxNDBlODQ4MjI4OWQ2ODk2NWVfNDA1MDRjNTNjNjQzYzQyYTBlY2ZkOTUyNDYzNzBjNTNfSUQ6NzY0NTcxMTgzNzI1MzcxNzE4NV8xNzgyMDk5MTQ4OjE3ODIxMDI3NDhfVjM)
+![图片展示的是NotebookLM的界面，用于根据内容生成音频概览和视频概览。界面中有一个搜索框，提示“在网络中搜索新来源”，并有“Web”和“Fast Research”两个下拉选项。下方有“或拖放文件”区域，可上传PDF、图片、文档、音频、笔签等文件，还有“上传文件”“网站”“云端硬盘”“复制的文字”四个按钮。界面右下角显示“148/300”，可能代表已处理或上传的文件数量。该图片与上文介绍的NotebookLM功能相呼应，直观呈现其操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzJkMjUzZGVlZTQ4MWM0ODI3ZjQwMDRjMTY4Yjc5ZGVfNmY2NGZjODM3NDY2MzM5MGFjYTFkYTg4ZTMzMjA1NjBfSUQ6NzY0NTcxMTgzNzI1MzcxNzE4NV8xNzgyMTA3MzEzOjE3ODIxMTA5MTNfVjM)
 
 ## 它到底解决了什么痛点？
 
@@ -51,7 +51,7 @@
 3. 点击 **添加到 Chrome** → 弹窗中确认添加
 4. 安装完成后，建议将插件图标**固定到工具栏**（点击拼图图标 → 找到插件 → 点固定）
 
-![图片展示了“YouTube to NotebookLM”插件在Chrome网上应用店的页面。页面上方有搜索栏，中间突出显示插件名称及评分、用户数等信息，右上角有“Add to Chrome”按钮。下方有两张图片，一张是YouTube视频一键转NotebookLM，显示视频播放画面；另一张是YouTube频道一键转NotebookLM，展示Huberman Lab的视频列表。该图片与上文安装插件步骤相关，直观呈现了插件在应用商店的展示情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjliMGQwMzdiOWRhNDExZDlmNGMzYjUyNjdkYTcxZThfNWFkZGJjMDE2ZmI2ODg2YjkwNjExODlhZDZkZGU1OWRfSUQ6NzY0NTcxMTg1MjYxNzQ2OTE0Ml8xNzgyMDk5MTQ4OjE3ODIxMDI3NDhfVjM)
+![图片展示了“YouTube to NotebookLM”插件在Chrome网上应用店的页面。页面上方有搜索栏，中间突出显示插件名称及评分、用户数等信息，右上角有“Add to Chrome”按钮。下方有两张图片，一张是YouTube视频一键转NotebookLM，显示视频播放画面；另一张是YouTube频道一键转NotebookLM，展示Huberman Lab的视频列表。该图片与上文安装插件步骤相关，直观呈现了插件在应用商店的展示情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjExYmFmNzFmMmY0YmM0YmNhZDc1ZjgxNGU2ODJmYzJfZWRlYWU2Y2NkMTlmYjdkMGViYjc1ODUwOWQ4MzU5ODdfSUQ6NzY0NTcxMTg1MjYxNzQ2OTE0Ml8xNzgyMTA3MzEzOjE3ODIxMTA5MTNfVjM)
 
 **第二步：导入单个视频（试水）**
 
@@ -59,15 +59,15 @@
 
 2.你会在视频下方/右侧看到一个新增的 **NotebookLM 按钮**
 
-![图片展示的是YouTube视频界面，视频标题为“写文章”，下方有“还能帮你去造工具”及“我can help you build tools.”字样。画面右下角有“45 NotebookLM”标识。该图片对应文档中“第二步：导入单个视频（试水）”的内容，即在打开任意YouTube视频页面后，会在视频下方/右侧看到新增的“NotebookLM按钮”，点击该按钮可选择新建笔记本或加入已有笔记本，插件会自动抓取视频逐字稿并送入NotebookLM。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTc3YTdmMGEzY2UyNzBhM2ZiMjNjZDIzYmM1NDdlMWJfY2I4NmY2ZmRkZGIyZTQ1YzRhYmExNTE3NWI1ZmI2OGRfSUQ6NzY0NTcxMTg2NzEzODE4MjM1N18xNzgyMDk5MTQ4OjE3ODIxMDI3NDhfVjM)
+![图片展示的是YouTube视频界面，视频标题为“写文章”，下方有“还能帮你去造工具”及“我can help you build tools.”字样。画面右下角有“45 NotebookLM”标识。该图片对应文档中“第二步：导入单个视频（试水）”的内容，即在打开任意YouTube视频页面后，会在视频下方/右侧看到新增的“NotebookLM按钮”，点击该按钮可选择新建笔记本或加入已有笔记本，插件会自动抓取视频逐字稿并送入NotebookLM。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjRmNTU4NmU2YzhhMzk3MzBjYzNjZWFkNTYyMzBkMDZfZGNmZDU1OTZhOThjOGMzN2FmODc0ODI5OGQ5M2ZjN2FfSUQ6NzY0NTcxMTg2NzEzODE4MjM1N18xNzgyMTA3MzEzOjE3ODIxMTA5MTNfVjM)
 
 3.点击它 → 选择新建笔记本或加入已有笔记本
 
-![图片展示了YouTube视频页面及浏览器界面。页面显示“实测安装cloudce code”等内容，右下角有“Create NotebookLM”按钮。浏览器中打开的文件夹窗口显示“cloudce code”文件夹，其中包含“cloudce code”和“cloudce code - 1”两个文件夹。该图片对应文档中“第二步：导入单个视频（试水）”的操作步骤，直观呈现了在YouTube视频页面下点击“NotebookLM按钮”后的浏览器界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmZhM2ZlZTEwYjFiZTI2ZGFmNmE2YWI0MTU2MjM4NGRfNzUzOWI0NjhhOTJjNjFlMTQ1Y2MyOTk5NDZhZGVmNmVfSUQ6NzY0NTcxMTg4Mjg5MTkyMjY0M18xNzgyMDk5MTQ4OjE3ODIxMDI3NDhfVjM)
+![图片展示了YouTube视频页面及浏览器界面。页面显示“实测安装cloudce code”等内容，右下角有“Create NotebookLM”按钮。浏览器中打开的文件夹窗口显示“cloudce code”文件夹，其中包含“cloudce code”和“cloudce code - 1”两个文件夹。该图片对应文档中“第二步：导入单个视频（试水）”的操作步骤，直观呈现了在YouTube视频页面下点击“NotebookLM按钮”后的浏览器界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGM1NTUxZjk5Y2VjOGM1OTAxNmVlOTY4Mjk0Mjk5YjdfNTMwZGM5MWE1NjBmZTlkOTk5NGE2NGQxZmYwNjE2NmJfSUQ6NzY0NTcxMTg4Mjg5MTkyMjY0M18xNzgyMTA3MzEzOjE3ODIxMTA5MTNfVjM)
 
 4.插件会自动抓取该视频的逐字稿并送入 NotebookLM
 
-![图片展示了Claude Code国内使用技巧相关内容。左侧是搜索框，显示“Claude code国内使用技巧：零基础入门安装教程绕过登录接入DeepSeek大模型实现模型自由”。右侧是搜索结果，第一条是关于Claude Code接入DeepSeek大模型的详细安装步骤分享，下方有“阅读”按钮。该图片与文档中介绍Claude Code国内使用技巧的内容相关，直观呈现了搜索结果界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTliNDE1YzA0ZGFmNGE5NmU3ZGU4NzM0ZjU1NzE4MGNfOTczMWYzNGMxYzMxMjIxMTlmM2Y4NDVjZTRhNThhYThfSUQ6NzY0NTcxMTg5NjQyMjk0Mzk2MV8xNzgyMDk5MTQ4OjE3ODIxMDI3NDhfVjM)
+![图片展示了Claude Code国内使用技巧相关内容。左侧是搜索框，显示“Claude code国内使用技巧：零基础入门安装教程绕过登录接入DeepSeek大模型实现模型自由”。右侧是搜索结果，第一条是关于Claude Code接入DeepSeek大模型的详细安装步骤分享，下方有“阅读”按钮。该图片与文档中介绍Claude Code国内使用技巧的内容相关，直观呈现了搜索结果界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGZlMjkzZjliNTUxY2E5NjA4YzNkYTgwMmZmNjc1ZDRfOWY4YWQxZWE5NjVmMTJhZTllMjg0MGE1YzM4NGE3ZWVfSUQ6NzY0NTcxMTg5NjQyMjk0Mzk2MV8xNzgyMTA3MzEzOjE3ODIxMTA5MTNfVjM)
 
 **第三步：批量导入频道/播放列表（真正的大杀器）**
 
@@ -75,19 +75,19 @@
 
 2.点击插件在页面上注入的 **导入按钮**
 
-![图片展示了掌舵者AI实验室的YouTube频道主页。页面上方有搜索栏，右上角有“AI NotebookLM”按钮。页面中部有“视频”标签，右侧有“Create New Notebook”和“Choose Notebook”选项。下方是多个视频缩略图，如“7分钟搞懂AI名词”“个人微信可以养龙虾了”等，每个视频下方有播放次数、点赞数等信息。该图片对应文档中“第三步：批量导入频道/播放列表（真正的大杀器）”的步骤，展示了进入频道主页后点击插件注入的导入按钮的场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTc2ZjhmZjAzNjZkNzljNzU1YTg0NGU5NWFkNTEzN2JfMWY4ZTM4Y2JlY2U0MDk0NjU3ZTg0ZGUyNDJmMGNjMTFfSUQ6NzY0NTcxMTkxMjY1MDQ2MDM0MF8xNzgyMDk5MTQ4OjE3ODIxMDI3NDhfVjM)
+![图片展示了掌舵者AI实验室的YouTube频道主页。页面上方有搜索栏，右上角有“AI NotebookLM”按钮。页面中部有“视频”标签，右侧有“Create New Notebook”和“Choose Notebook”选项。下方是多个视频缩略图，如“7分钟搞懂AI名词”“个人微信可以养龙虾了”等，每个视频下方有播放次数、点赞数等信息。该图片对应文档中“第三步：批量导入频道/播放列表（真正的大杀器）”的步骤，展示了进入频道主页后点击插件注入的导入按钮的场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzdmODFhNDhlNGY2YzExNWJlYzNlYTk3ZWMxZjljOTBfZjQyMzY4YmE2ZGE4ZjgwOWY0YTRiNmQzNGFmNmI4NWVfSUQ6NzY0NTcxMTkxMjY1MDQ2MDM0MF8xNzgyMTA3MzEzOjE3ODIxMTA5MTNfVjM)
 
 3.选择目标笔记本，等待自动批量抓取和导入
 
 4.完成后，打开 NotebookLM 即可看到所有来源已就绪
 
-![图片展示的是掌舵者AI实验室的界面，聊天区输入了“OpenClaw是什么”。下方来源区域显示了148条网络中搜索到的来源，其中大部分来源被勾选。这些来源包括OpenClaw的介绍、使用教程、相关讨论等内容，如“OpenClaw - 基于GPT-4的AI写作工具”“OpenClaw - 基于GPT-4的AI写作工具”等。该图片与文档中“对知识库开炮”步骤相关，展示了在NotebookLM中输入问题后，系统搜索到的网络来源情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDM2MGNmM2U5YjA0YWQwODE2ODUzOWQ0MDVmYzA5NDBfMjU2YzQ0Zjg3Yzg4NjA1YmQ2ODFjZWMyMTVmODgyY2JfSUQ6NzY0NTcxMTkyNzA2MjA3MjUwNl8xNzgyMDk5MTQ4OjE3ODIxMDI3NDhfVjM)
+![图片展示的是掌舵者AI实验室的界面，聊天区输入了“OpenClaw是什么”。下方来源区域显示了148条网络中搜索到的来源，其中大部分来源被勾选。这些来源包括OpenClaw的介绍、使用教程、相关讨论等内容，如“OpenClaw - 基于GPT-4的AI写作工具”“OpenClaw - 基于GPT-4的AI写作工具”等。该图片与文档中“对知识库开炮”步骤相关，展示了在NotebookLM中输入问题后，系统搜索到的网络来源情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Mzc1NWM5YTg3NDMyMmVlMTI3OWQwMzM3ZGRhMjg0YWRfODcyNWY0YWQzMjZiMjU0NTIxMjM0MTRhM2IyNDgwM2NfSUQ6NzY0NTcxMTkyNzA2MjA3MjUwNl8xNzgyMTA3MzEzOjE3ODIxMTA5MTNfVjM)
 
 **第四步：对知识库开炮**
 
 打开你的 NotebookLM 笔记本，在聊天区输入任何你想知道的问题。NotebookLM 会基于你导入的所有逐字稿，给出带引用的精准回答。
 
-![图片展示了掌握AI实验室中对油管博主内容的分析界面。左侧为来源列表，可选择不同来源。右侧是对话框，输入“总结这个博主的内容方法论”，下方列出总结方法论的4条内容，包括AI是辅助器而非替代品、掌握多个主题的复盘是一个重要技能、任务驱动型和知识型是两种工作方法、从一个工作开始构建系统化工作习惯等。该图与文档中“对知识库开炮”部分对应，展示了使用NotebookLM对知识库进行分析的示例。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGFmMzdhMDA5OTJjOTgwMWIzODRlNzM3ODM2NjRhNGNfNzQxM2Y1YjY2YzBkMTBjOTQ0OWJjODEwNDgyMjFlYzhfSUQ6NzY0NTcxMTk0MDM1NTUyNTg0MV8xNzgyMDk5MTQ4OjE3ODIxMDI3NDhfVjM)
+![图片展示了掌握AI实验室中对油管博主内容的分析界面。左侧为来源列表，可选择不同来源。右侧是对话框，输入“总结这个博主的内容方法论”，下方列出总结方法论的4条内容，包括AI是辅助器而非替代品、掌握多个主题的复盘是一个重要技能、任务驱动型和知识型是两种工作方法、从一个工作开始构建系统化工作习惯等。该图与文档中“对知识库开炮”部分对应，展示了使用NotebookLM对知识库进行分析的示例。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGUyM2ZkN2U0MWRiZDE0NTBmODI0N2VlM2Q5YTk0NTBfMTMzN2RiZDBiOGUwZGFjZjhhZDY3OTgxYjI2NDc5NmRfSUQ6NzY0NTcxMTk0MDM1NTUyNTg0MV8xNzgyMTA3MzEzOjE3ODIxMTA5MTNfVjM)
 
 ## 一些体验上的注意事项
 
@@ -105,3 +105,7 @@ YouTube to NotebookLM 这类插件的本质，就是在你和海量视频信息�
 如果你是做内容创作的，用它来拆对标账号；如果你在研究某个领域的前沿动态，用它来横扫头部博主；如果你只是纯粹想学习，用它来加速消化课程——它都是一把好用的效率武器。
 
 > 💡 \*\*互动时间：\*\*你平时研究油管博主有什么绝活？有没有更好用的 YouTube × AI 联动玩法？评论区见！
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Pi2mwOtlTiTiAgkx4NscGrJZnMf> ｜ 归档：2026-06-22

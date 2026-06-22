@@ -1,6 +1,6 @@
 # 用 Claude Code 在飞书搭任务系统，14 个字段砍到 11 个才真正用起来
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yjk1NWRlNjcyZTk5YTEyZDBiMWQxM2ZjMjc4YWZlN2FfYmRhOWM4NDgwMzcyZjlhMGE5OTU2YzdjYTJlN2JiMjBfSUQ6NzY0NTI2NjY2NjA3MDgwNTcwM18xNzgyMDk5MDgzOjE3ODIxMDI2ODNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjQ4OWI1ZDk5ZTE3MjAzNmJmYTdmMzNiZmY3ZDViNTRfN2I2OWQyODlmN2IyZmQxMDNjNDM3M2Q0MTY1OGRlNmRfSUQ6NzY0NTI2NjY2NjA3MDgwNTcwM18xNzgyMTA3MjU1OjE3ODIxMTA4NTVfVjM)
 
 用 Claude Code 在飞书搭了个任务管理系统。
 
@@ -16,7 +16,7 @@
 
 上周我跟 Claude Code 说了句"帮我在飞书建个任务管理表"。两分钟，表出来了。字段、自动化、看板、仪表盘，全配好了。我没打开过飞书后台，没点过一次界面。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGYwYmM2OWFjNjc2NjM2MzViOGZlODY4YTcxZTkxY2VfNGNlZDkwMzJmMjc5MDJhYmY3Mzg3YzBmZDVkYTE2MjhfSUQ6NzY0NTI2NjY2ODIxMzcwMTg0Nl8xNzgyMDk5MDgzOjE3ODIxMDI2ODNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTk2NmU3OGFjZTFlNjkyOTlhOGMwMTkzNjc5ODEzNTBfZThhMmIyM2I4MDMzZGYyYjM4Yjg4OTM0YThlMTA2MjVfSUQ6NzY0NTI2NjY2ODIxMzcwMTg0Nl8xNzgyMTA3MjU1OjE3ODIxMTA4NTVfVjM)
 
 用了一周，录了 30 多条任务。这是我用过所有任务工具里坚持最久的一次。
 
@@ -63,7 +63,7 @@
 
 录入摩擦从 14 个字段降到 1 个。这才是能坚持用下去的原因。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDcyYjE5Yjc0Mjg2M2ZjZmYwZTI4ZTJlNzY0N2MzM2ZfNTQ4NGQ2MzU3NzdhMTFjZDZmYjgyMDg2MjNhZjU2NjdfSUQ6NzY0NTI2NjY2OTQyMTQ2NDc2OV8xNzgyMDk5MDgzOjE3ODIxMDI2ODNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTFlN2Q2OGE0NTM2OGExNWE1NGQ0MjI0YzliMDkzYWRfZDBlNzJiM2QzZTIyOTUxY2YzZGI2ZTg1MGE0MjY3MzdfSUQ6NzY0NTI2NjY2OTQyMTQ2NDc2OV8xNzgyMTA3MjU1OjE3ODIxMTA4NTVfVjM)
 
 还有两个公式字段自动算，不用你管。逾期时长：过了截止时间自动开始计算差几天。是否逾期：超期了直接标红。看板上红的就是该赶紧处理的，一眼能看到。
 
@@ -104,7 +104,7 @@
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmQ2ZTI2NGZjZTAzOWFmZjgzMTZkMjdlMjEwYTk3Y2JfODg4ZGQxNzA3OGY1MWQ0NmZjMmZkY2FkM2QxNDE4M2RfSUQ6NzY0NTI2NjY2NjYzMjk4OTg5NV8xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWZlNzJhNmRkNTBiMGM5MGYwYjVlZDc3Y2ZiMDkwZTFfMTg3OTMzY2MyYzYyMjdmNTdlMmUzNTgxNWI4NjM3NDBfSUQ6NzY0NTI2NjY2NjYzMjk4OTg5NV8xNzgyMTA3MjU1OjE3ODIxMTA4NTVfVjM)
 
 GIF
 
@@ -119,7 +119,7 @@ GIF
 
 仪表盘是给自己看的。干了多少活、积了多少没干的、哪个分类最多，数字不会骗人。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzMxNDZmYzY5ZTZiOTI3OTVmZWMzOTNkYjMzNmYyNDlfMzdlZjdkNzQ5OTU0NWEzZTViYTRmODJmNGVhNTMyMWRfSUQ6NzY0NTI2NjY2NTI5OTE1MjA5MV8xNzgyMDk5MDgzOjE3ODIxMDI2ODNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTQ1YTQ3ZTNkM2ViNWY4YWFhNGIwZDVkNzc1Y2RhOTdfOGFlMmRjZGU1Y2Q0OTgzNTc3MjNmZTExNmQ2YjFjNzRfSUQ6NzY0NTI2NjY2NTI5OTE1MjA5MV8xNzgyMTA3MjU2OjE3ODIxMTA4NTZfVjM)
 
 ## 懒人模板
 
@@ -137,3 +137,7 @@ GIF
 回头看，真正让我坚持用下去的不是看板多好看，也不是自动化多酷，是录入变得足够轻。最低限度填个标题就行，念头不会丢。
 
 之前那些工具为什么没用住？大概率不是工具的问题，是系统设计得太"完美"了，完美到你懒得打开。先把录入这件事搞舒服了，其他的慢慢加。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/SLYawKB8Ei3cGlknOcBc7Of3n0d> ｜ 归档：2026-06-22

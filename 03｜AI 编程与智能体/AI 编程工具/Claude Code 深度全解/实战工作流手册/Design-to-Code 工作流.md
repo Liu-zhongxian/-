@@ -898,3 +898,7 @@ Claude 输出：
 - Figma MCP 部分 — 主指南 Figma MCP 章节
 - 「examples/claude-md/product-designer.md」 — 产品设计师 CLAUDE.md 模板
 - 「../cheatsheet.md」 — 快速参考
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/GnnPwVIaRiyFeyknIincL7ehnze> ｜ 归档：2026-06-22

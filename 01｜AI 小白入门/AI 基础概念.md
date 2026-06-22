@@ -159,3 +159,7 @@ flowchart TB
 - [AI Skill 到底是什么？搞懂这个，AI 才算真的用上了](https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b) — Skill 概念深入
 - [高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它](https://lcnniolukk80.feishu.cn/wiki/J0PawoCwsirGI4kbbSfcu6c0ncb) — 模型对比实战
 - [越用越强不是广告语：拆解 Hermes Agent 的三层学习机制](https://lcnniolukk80.feishu.cn/wiki/MY8CwTTPOi2LrZkDtrPc8rE3nsh) — Agent 进阶
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/ZDXGwkB7NiaPr6kbDPicgLFHnif> ｜ 归档：2026-06-22

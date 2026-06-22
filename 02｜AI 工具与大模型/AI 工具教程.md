@@ -33,3 +33,7 @@ Claude 官方的命令行编程助手。这篇覆盖三个系统从 0 到能跑 
 - Node.js 18+ 是硬要求；Windows 用户先选好终端（WSL / Git Bash 二选一，别混用）
 - 装完先 `claude --version` 验证，再进项目目录跑 `claude` 触发认证
 - macOS 装完记得开新 Terminal 窗口，不然原窗口找不到命令
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/KWlzwKCPIix1rbkd1GYc9FEwnLc> ｜ 归档：2026-06-22

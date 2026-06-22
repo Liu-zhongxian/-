@@ -44,3 +44,7 @@
 - 必须带 `GIT_LFS_SKIP_SMUDGE=1`，否则会卡在 240MB 的 Git LFS 测试基线
 - Node.js 22+ / FFmpeg / Chrome Headless Shell 三件套先用 `npx hyperframes doctor` 自检；16GB Mac 建议留 2GB 以上内存防 OOM
 - 同一份提示词喂两边，Codex APP 节奏更稳，Claude Code 在开头页面的视觉表达更出彩
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Gpg9wUYb7i0slMk8MICc4Zybnle> ｜ 归档：2026-06-22

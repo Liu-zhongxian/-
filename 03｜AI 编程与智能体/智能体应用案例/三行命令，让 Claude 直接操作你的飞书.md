@@ -1,6 +1,6 @@
 # 三行命令，让 Claude 直接操作你的飞书
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTllYjlmZWZlM2IwMjRjOGNlZTg2ZjI4MThkNWUzNDVfMDNlZTg2NDNlNmQ0ODYwYTE5YTNhMGZlNGZjN2ZkZTFfSUQ6NzY0NTI2NjQ4MDc4Mjc4OTg0MV8xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTcxYTZjOGUzYzExNzI5MmJiOGQwNzg0Mjk4NDQ1ZjhfNWU1MGYxNjE4OWFmOWFlMjViYTFjZjVjODlkZTZmZTRfSUQ6NzY0NTI2NjQ4MDc4Mjc4OTg0MV8xNzgyMTA3MjUzOjE3ODIxMTA4NTNfVjM)
 
 三行命令装好 lark-cli，你的 Claude Code 就能直接操作飞书。发消息、查日历、建文档、管任务，不用切窗口。
 
@@ -41,7 +41,7 @@ lark-cli --version
 
 看到版本号就行。我装的时候是 v1.0.9。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2E4NTY2ZmQ3NTlhY2MwYWY4MmEwN2ZjYTcyNzU3YTdfZjFkNjQxMGU3NjQ1OWNhZTI1MjM1MWQ2NjcxMWEyMWJfSUQ6NzY0NTI2NjQ3OTUyNDY2MjQ4NV8xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmExM2U2ZjRlMGUzYmUzMmQxNDFjOTJmZGI0YTI2OGVfMTAxOTgxM2U2OGI0NzIxNmNhYTdiNmVkNjBmYjA0YWFfSUQ6NzY0NTI2NjQ3OTUyNDY2MjQ4NV8xNzgyMTA3MjUzOjE3ODIxMTA4NTNfVjM)
 
 > Q：一定要全局安装（-g）吗？
 
@@ -60,19 +60,19 @@ lark-cli config init --new
 
 终端会弹出一个二维码和一个链接。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWFhODBjMTQ5MjBkNDE0YWNhMGRlYjI2ZGViOTNiNTdfY2RmOWI1NTQyZWExODhjZWZhMTI2ZmNjNTUzZjg5NzBfSUQ6NzY0NTI2NjQ4MDU2MDUwODA4OV8xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTk5MTMzMmNjMTgyY2ZmNTAwYTUxMzM5ZTQxZTFiZDZfNzI5NjA2Y2U3NWViZjE3NDk4NjgxNTk4YTI1MDY1YmJfSUQ6NzY0NTI2NjQ4MDU2MDUwODA4OV8xNzgyMTA3MjUzOjE3ODIxMTA4NTNfVjM)
 
 打开链接，进入飞书开放平台。页面很简单，选个头像，确认应用名称，点"创建"。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDZiZTI4NGM4MjA1MzhjNTUwNWMzY2I3NmEyNzg0MTVfMzQzOTRmMDljYjhkMDI5M2QzM2EyMWRiMDJjODM2ODlfSUQ6NzY0NTI2NjQ3ODcwMjUyOTc1M18xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDkzZTFhZTE4NDA1MjY0MzAzNDczZmRjMjcxMjU3YWVfODkzZmE3OTdjNTk0Njc3YjY3ZWZjYTU0YTQ0MTQ5MzhfSUQ6NzY0NTI2NjQ3ODcwMjUyOTc1M18xNzgyMTA3MjUzOjE3ODIxMTA4NTNfVjM)
 
 点完之后浏览器显示"创建成功"。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWM5YTk5ODIzM2RkZTBkYTM0NjQ0Y2FhNTc3MzFmMmVfNDFmZTgzNDk5Y2I4ZDNjZGNiZjc2NTVkYTI3OTA2NDRfSUQ6NzY0NTI2NjQ4MTA2Nzg4NzgzNl8xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmE2YWQzOGQ1MTRlNmRmMjI0OWMyM2MzMmQ3NzdkMzVfODg0YzBjMDJiNTMzZDQ0OTllYTdhNWQzZTJkZTEyMTNfSUQ6NzY0NTI2NjQ4MTA2Nzg4NzgzNl8xNzgyMTA3MjUzOjE3ODIxMTA4NTNfVjM)
 
 回到终端，已经自动检测到配置完成，App ID 也拿到了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjhhNDllNTA3ZDVlYjJkOWZmNThiN2JiZjRmZmFiMDdfYWE2NWY5YzE3MTY3OWJjYTYxMDA3NjNlYWRhNzUyNjlfSUQ6NzY0NTI2NjQ3NzA4ODAwMTI0NF8xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDkyNzQ5ODRjMDdkZWEwMmNjN2RhNDIxZTNiYTE0YzNfMGU4MTMxZWNiODlhYTc2Y2FhM2Y0NDhmMmJmZTQ3YzVfSUQ6NzY0NTI2NjQ3NzA4ODAwMTI0NF8xNzgyMTA3MjUzOjE3ODIxMTA4NTNfVjM)
 
 💡 应用的 App ID 和 Secret 会自动存到系统钥匙串里，不用你手动记。
 
@@ -87,17 +87,17 @@ lark-cli auth login --recommend
 
 终端会给你一个授权链接。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWYyMzg4OWEzYWRlMGZiMDM4OWJlMmFmNmIxNWE3MGFfOGE4Mjc5NTE0MzhjZDQ3Y2U3ODhlNjdmNmE0ZDYzZWRfSUQ6NzY0NTI2NjQ3OTE5MzMyODg0NV8xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDMxMmI0ZTMwOGMyYmEzNTIwNGFhNzE3MDQwYzRkZGZfZGRmZDllNzNjMzAwMDM0OGFiZGRmNGIwM2JmY2EzMzdfSUQ6NzY0NTI2NjQ3OTE5MzMyODg0NV8xNzgyMTA3MjUzOjE3ODIxMTA4NTNfVjM)
 
 在浏览器打开，飞书会列出这个应用要申请的权限。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWQxM2QyMDA3ZGNmNTY4NTQ1MzFkMzBiMDYwZTZlNWNfYmFlZDlmMjhiMWNlOWJmNDcxZjliZWJlMTFkNWM0MzBfSUQ6NzY0NTI2NjQ3ODI0MTQzNDgxM18xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjU2NTQ2ZDA4MzIwYzU0NDk1NzJjYTRmZDJhNGNhZGFfYmZmNDUzZTI4ZDQ0N2I0MGQwOTYzZWM2YTU3OTZiMTFfSUQ6NzY0NTI2NjQ3ODI0MTQzNDgxM18xNzgyMTA3MjUzOjE3ODIxMTA4NTNfVjM)
 
 点同意。
 
 授权完成后浏览器会提示成功。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Mzg3MjJjZTUxMzFkMGFmYTkzMzRmZTUxMDk5ODhmOWVfMDA0ZTBmOTY4NWFhYzYwZjM0NjI4NjFkNWU4MmQ4NDdfSUQ6NzY0NTI2NjQ3NzA5NjQ1NTM1NF8xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjMyZmE1MWY1YzMzOTIyODI2ZTczNzZhODZjOWVmZjFfZjBiNTMxNjhiZGE0ZGJmNjdmOTFmNmFkOWQ1NGE2NjhfSUQ6NzY0NTI2NjQ3NzA5NjQ1NTM1NF8xNzgyMTA3MjUzOjE3ODIxMTA4NTNfVjM)
 
 回到终端验证一下：
 
@@ -108,7 +108,7 @@ lark-cli auth status
 
 看到你的飞书用户名和权限列表，搞定。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Nzc1OWM3Y2NiMTk4N2ZjYTZlZjE5NTIxZDA0NTk2ZjBfNjU2NmVjNzhjODFkY2RkOTVmZTk5YTQ3MDQ2NTNjYjNfSUQ6NzY0NTI2NjQ3NzkzMTAyMzU2M18xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2Q5YzVhZGIwNGY2MThmZTkzYTM0NWYxOWJlMDFiNjdfZWYwYjE1ZmQzNDJhZTg1NTU0MWUzZGMyYjk4OThmOTRfSUQ6NzY0NTI2NjQ3NzkzMTAyMzU2M18xNzgyMTA3MjUzOjE3ODIxMTA4NTNfVjM)
 
 ## 试一下：一句话看今天的安排
 
@@ -128,7 +128,7 @@ Claude 会自动干这几件事：
 2. 调用 lark-cli task +get-my-tasks 拉未完成待办
 3. 把结果整理成一份今日摘要，过期的待办还会标出来
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDg5MTQzN2ViODZhZWE0YzZiNGNiYzNmM2RkZWYwZDlfYjE2OTNhOTMxNWVmZGE1ZmNmMjI5YTM0NTM5ZTAzNjBfSUQ6NzY0NTI2NjQ3NzMwMzUxNjM0MF8xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDI3MjMwZTk0NDM4ZGY2YzQzOGFjZDJmNDcxMWY5ZDRfYTExZDc5YWJjNTI1NGI5ZDFlZTVhNWNjNmIwMDM4ZWNfSUQ6NzY0NTI2NjQ3NzMwMzUxNjM0MF8xNzgyMTA3MjUzOjE3ODIxMTA4NTNfVjM)
 
 整个过程我没碰过飞书客户端，没打开日历，也没看待办列表。一句话，今天该干嘛一目了然。
 
@@ -147,3 +147,7 @@ Claude 会自动干这几件事：
 装完之后，你的 AI 编辑器就多了个飞书遥控器。不用切窗口，对话不中断。查日程、发消息、整理会议纪要这些琐事，直接在终端里顺手就做了。
 
 这个系列后续会持续更新，比如怎么串成自动化工作流、怎么用机器人帮你处理消息。感兴趣的话关注一下。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/QYkSwsVykiWALGkfLKNcNMDznod> ｜ 归档：2026-06-22

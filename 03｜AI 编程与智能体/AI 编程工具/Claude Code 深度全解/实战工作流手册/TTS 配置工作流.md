@@ -357,3 +357,7 @@ pipx uninstall piper-tts
 ---
 
 *工作流指南由 《Claude Code：从入门到大师》团队维护最后更新：2026-01-22 | Agent Vibes v3.0.0*
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/C8uBw4mYliJyWBkwEHlcplbSnyc> ｜ 归档：2026-06-22

@@ -207,3 +207,7 @@ Markdown 让你能稳定写内容，Obsidian 让你能稳定存内容。
 你会发现，这一步看起来最基础，反而最适合普通人建立自己的 AI 使用习惯。
 
 等你后面真的开始搭内容工作流、知识库工作流、写作工作流时，你会感谢自己今天先把这块打稳了。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/VSLOw04QIiyj7hkebRzcHqdsn3e> ｜ 归档：2026-06-22

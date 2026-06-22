@@ -1,6 +1,6 @@
 # Claude Code 切换服务商，成本能差 5 倍
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Mzk3OWU1ODE5ZTU1ZmE3ZDMxZTBjNGE2MzE5OTdiMjVfZWRkMjlhYWRlMTVhZTAzNmE5ZjRmY2ZkNGU2ODBkYmVfSUQ6NzY0NTI2NTA5MDExOTc0ODc4N18xNzgyMDk4OTczOjE3ODIxMDI1NzNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTU3OTk1ZjAxNWY1MTFjMzc0YjE2NTRkMTI2OWE3ZjhfNDk2NDBhMTBlMjMzN2QxZDlmNzI2NGIyMGQ3NmMzYTVfSUQ6NzY0NTI2NTA5MDExOTc0ODc4N18xNzgyMTA3MDEyOjE3ODIxMTA2MTJfVjM)
 
 用 Claude Code 切换服务商，成本能差 5 倍。
 
@@ -189,3 +189,7 @@ CC Switch 是个很实用的工具，可以快速切换可用的服务。但切�
 - 优先在支持缓存的服务商之间切换
 
 尤其建议大家在购买中转站的时候注意下缓存率，这个很影响大家的钱包。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/XI9zwn58til6a6ks7AuckfIqnmq> ｜ 归档：2026-06-22

@@ -2,7 +2,7 @@
 
 ​
 
-![图片展示了Kimi K2.5视频转代码的流程。原始视频素材经OpenCode下载、剪辑后，Kimi K2.5利用视觉能力生成干净专业代码，最终用于Remotion项目完美复刻二创。图片还对比了Gemini Pro/ChatGPT Plus（效果差）与Kimi K2.5（效果惊艳，近乎完美）的效果，底部提示“快来试试！GitHub & Demo分享中~”。该图与文档中Kimi K2.5通过视觉能力复现视频，为Remotion制作短视频提供示例的内容相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWYzMWRlZGZlYmVlMWQ3NmY0YjNlYzZhN2NmMjg3OTZfMTFmMWM4MzZlYjM5ODc5MWVhZDc4NzExNjc2ZGVhMWZfSUQ6NzY0NjMwNDMwNzg5NzM3MTYwOV8xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)
+![图片展示了Kimi K2.5视频转代码的流程。原始视频素材经OpenCode下载、剪辑后，Kimi K2.5利用视觉能力生成干净专业代码，最终用于Remotion项目完美复刻二创。图片还对比了Gemini Pro/ChatGPT Plus（效果差）与Kimi K2.5（效果惊艳，近乎完美）的效果，底部提示“快来试试！GitHub & Demo分享中~”。该图与文档中Kimi K2.5通过视觉能力复现视频，为Remotion制作短视频提供示例的内容相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGMzY2YxOWE0MDQ4ODJkNGNkMmZlM2M1MjkxNzQ4Y2ZfNTBhMmE4Yzg1ZTg4ODVhMDFjN2ExMDQ4ZjQxN2RmMTlfSUQ6NzY0NjMwNDMwNzg5NzM3MTYwOV8xNzgyMTA3Mjk0OjE3ODIxMTA4OTRfVjM)
 
 标题是我亲自实践后得出的结论，看看会有多少人来喷我，当然了我本身也没做过视频，有些场景可能确实很难复现出来，但是我短短几天的实践，它确实太强大了，至于放大的程度我相信会得到大家的验证。
 
@@ -28,35 +28,35 @@
 
 先打开OpenCode 客户端，直接在聊天对话窗口里面输入/model，或者使用下图中的快捷键。
 
-![图片展示了OpenCode客户端中输入模型选择界面。在聊天对话窗口输入/model后，弹出下拉菜单，显示“/model”字样，下方有“Build”和“GLM-4.7”选项，右侧有“Ctrl+”快捷键提示。该图片与文档中“先打开OpenCode客户端，直接在聊天对话窗口里面输入/model，或者使用下图中的快捷键”内容对应，直观呈现了输入模型选择的操作界面及样式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzUyY2Y2OGVjNGFhOWNmN2Y4NDBmNGIzYWZiZDM2YTlfOTlkNWMzZjkwNmE5YjliZmVlNDcwZDE0NTNhYjk5NWJfSUQ6NzY0NjMwNDMyODE5NzgxOTMyM18xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)
+![图片展示了OpenCode客户端中输入模型选择界面。在聊天对话窗口输入/model后，弹出下拉菜单，显示“/model”字样，下方有“Build”和“GLM-4.7”选项，右侧有“Ctrl+”快捷键提示。该图片与文档中“先打开OpenCode客户端，直接在聊天对话窗口里面输入/model，或者使用下图中的快捷键”内容对应，直观呈现了输入模型选择的操作界面及样式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmYzZTdjYjkxMWJjMmMxODJkODI5MmUwNGU5ZGYxMGZfNzc4NzhlOTJkODEwNDIzYjI1MTFjOTkxYTIyZDkyNzVfSUQ6NzY0NjMwNDMyODE5NzgxOTMyM18xNzgyMTA3Mjk0OjE3ODIxMTA4OTRfVjM)
 
 然后会弹出如下图所示的窗体
 
 在弹窗中点击连接提供商
 
-![图片展示了OpenCode客户端中选择模型的弹窗界面。界面左侧有“ 选择模型 、搜索模型、管理模型等选项，右侧是模型列表，包括OpenCode Zen、OpenAI、GPT - 5.1 Codex 、G addCriterion](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2E4YjcxODFhNmRhZjc3ZDM3ODllYjFhOTk2ZWI4NjJfNzkzNWZlZmMwODhlYWU3MjU1OWQyMWIzYmVjZjE2ZmZfSUQ6NzY0NjMwNDM0ODYyNDMyNTU4MV8xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)
+![图片展示了OpenCode客户端中选择模型的弹窗界面。界面左侧有“ 选择模型 、搜索模型、管理模型等选项，右侧是模型列表，包括OpenCode Zen、OpenAI、GPT - 5.1 Codex 、G addCriterion](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmQ4OTI2NDI0NzM0OWVmODg5ZjdmZDc2NWVjNDFjMzdfYjk3MTg0ZDMzMDIwYWNkNTJiOWYzNWM0MjNkMTRhZjFfSUQ6NzY0NjMwNDM0ODYyNDMyNTU4MV8xNzgyMTA3Mjk0OjE3ODIxMTA4OTRfVjM)
 
-![图片展示的是OpenCode客户端中连接提供商的弹窗界面。在搜索框内输入“kimi”后，下方出现“Kimi For Coding”选项。该图片与上文提到的在OpenCode客户端聊天对话窗口输入 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2M3ZTUyMDJhODA3N2E5OWM3ZTA3NWQ0Y2Y4MjVmYzdfNjJhMjYyZWQ5NmRiY2IyMjU3MTRlMjM5ZGQ5NjU0ZGJfSUQ6NzY0NjMwNDM2NDg0ODUzMjQyMl8xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)
+![图片展示的是OpenCode客户端中连接提供商的弹窗界面。在搜索框内输入“kimi”后，下方出现“Kimi For Coding”选项。该图片与上文提到的在OpenCode客户端聊天对话窗口输入 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmU3Yzk5YTJiYzMyMTI0ZjdhNDgyZmZmOTUwNDk3ZDZfY2EyNDI5M2E0NTM3ZWVkZDAzZjUwNWE1ZjRkZjQwYTVfSUQ6NzY0NjMwNDM2NDg0ODUzMjQyMl8xNzgyMTA3Mjk0OjE3ODIxMTA4OTRfVjM)
 
 输入kimi，然后就输入API密钥了。
 
-![图片展示的是OpenCode客户端连接Kimi For Coding的窗体界面。窗体上方显示“连接 Kimi For Coding”，下方提示输入Kimi For Coding API密钥以连接账户，并在OpenCode中使用Kimi For Coding模型。窗体中部有一个“API密钥”输入框，底部有一个“提交”按钮。该图片与文档中“先打开OpenCode客户端，直接在聊天对话窗口里面输入/model，或者使用下图中的快捷键”及“在弹窗中点击连接提供商，输入kimi，然后就输入API密钥了”等内容相关，是输入API密钥这一步骤的展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTc3MmUzNDJjNzY3YmI5NDQ1MmVmOTk0NWI4ZDQxNzJfYTFkMDFjMjVkYWIzOGJlYzM5MjI4MDgwNzk3MWNjOTNfSUQ6NzY0NjMwNDM4ODMwNjQ3MTg5OF8xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)
+![图片展示的是OpenCode客户端连接Kimi For Coding的窗体界面。窗体上方显示“连接 Kimi For Coding”，下方提示输入Kimi For Coding API密钥以连接账户，并在OpenCode中使用Kimi For Coding模型。窗体中部有一个“API密钥”输入框，底部有一个“提交”按钮。该图片与文档中“先打开OpenCode客户端，直接在聊天对话窗口里面输入/model，或者使用下图中的快捷键”及“在弹窗中点击连接提供商，输入kimi，然后就输入API密钥了”等内容相关，是输入API密钥这一步骤的展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2Q2ZjhhZWFmNDc3MDkxMjAzM2JmNTliYjU1ZTA5NjNfYjNlY2QyYWZmNzg1NTllMzlkMDZkNDFjZTRjYzhkYjNfSUQ6NzY0NjMwNDM4ODMwNjQ3MTg5OF8xNzgyMTA3Mjk0OjE3ODIxMTA4OTRfVjM)
 
 这个时候只需要去官网进行充钱申请就可以了。[https://www.kimi.com/](https://www.kimi.com/)
 
 我看他有个7天试用包五元钱。但是记得要去取消自动续费。
 
-![图片展示了Kimi Code可使用的套餐信息。有Andante、Moderato、Allegretto三个套餐，Andante每月49元，提供专属Kimi Code使用额度、旗舰模型抢先体验等；Moderato每月99元，每周更新使用额度，允许多种设备登录等；Allegretto每月199元，有充足每周额度、更高并发上限等。每个套餐下方有“当前订阅”“升级退差价”“订阅”按钮。该图与上下文关系紧密，直观呈现了Kimi Code的订阅套餐及价格，帮助用户了解使用条件。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjU0M2JiZWE5MDhlOWIyMzVjNzI3ZTdmYTIwZmYzZTdfOWUzMGE0NDA3MGRlMzZjYzViZTliYWU0NmYxYjdkNGZfSUQ6NzY0NjMwNDQwNTU1Nzg3MzYyNV8xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)
+![图片展示了Kimi Code可使用的套餐信息。有Andante、Moderato、Allegretto三个套餐，Andante每月49元，提供专属Kimi Code使用额度、旗舰模型抢先体验等；Moderato每月99元，每周更新使用额度，允许多种设备登录等；Allegretto每月199元，有充足每周额度、更高并发上限等。每个套餐下方有“当前订阅”“升级退差价”“订阅”按钮。该图与上下文关系紧密，直观呈现了Kimi Code的订阅套餐及价格，帮助用户了解使用条件。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjU2NTM5YmRmMzg5OWIyZjkzYmNlZDE2YjYxYTAzMWZfNTAzZjM5ZmNjNjBjZjViM2Q4ZmZjNDI5YzM0NzRkMTVfSUQ6NzY0NjMwNDQwNTU1Nzg3MzYyNV8xNzgyMTA3Mjk0OjE3ODIxMTA4OTRfVjM)
 
 再到控制台[https://www.kimi.com/code/console](https://www.kimi.com/code/console) 进行新增API Key就可以使用了。
 
 然后将API 密钥输入到OpenCode中，就会出现如下图所示的弹窗。
 
-![图片展示的是Kimi For Coding已连接的弹窗。弹窗背景为深色，中间有白色文字“Kimi For Coding已连接”，下方是“现在可以使用Kimi For Coding模型了”。左侧有一个带有对勾的图标，右侧有一个“X”图标。该图片与上下文紧密相关，上下文提到在OpenCode中输入API密钥后，会弹出此弹窗，表明Kimi For Coding已成功连接，图片直观呈现了连接成功的状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTQ1ZmM2ZTk4NGEyZWQ3NzJjNThmZTJmNTk2Nzg2NjVfNDlmODk2OTYwNWVhNjAxMDYwZmY3MTE0ODYyNmU4MGZfSUQ6NzY0NjMwNDQyNzcxODE1MTA5OF8xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)
+![图片展示的是Kimi For Coding已连接的弹窗。弹窗背景为深色，中间有白色文字“Kimi For Coding已连接”，下方是“现在可以使用Kimi For Coding模型了”。左侧有一个带有对勾的图标，右侧有一个“X”图标。该图片与上下文紧密相关，上下文提到在OpenCode中输入API密钥后，会弹出此弹窗，表明Kimi For Coding已成功连接，图片直观呈现了连接成功的状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDNlOTQyMGI5NWQxY2Q3YWRhNjE5NzExNTVhYmQzYjBfMWJiY2VjY2UxMzI2NzNlYTczODg2Mzk2MDViMzM1N2RfSUQ6NzY0NjMwNDQyNzcxODE1MTA5OF8xNzgyMTA3Mjk0OjE3ODIxMTA4OTRfVjM)
 
 再去看模型有没有了，好家伙完蛋了。还没跟着更新。没关系去官网看看。
 
-![图片展示了Kimi AI平台中模型选择界面。左侧为模型列表，包括OpenAI、Kimi For Coding、Kimi K2 Thinking、Zhipu AI Coding Plan、GLM-4.5-Flash、GLM-4.7等。右侧是当前选中的“Kimi For Coding K2 Thinking”模型信息，显示允许文本、推理，上下文限制为262,144。该图片与文档中介绍Kimi K2.5发布，让Remotion制作视频能力放大上下文相关，展示了在Kimi AI平台中选择模型的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjY0MTNmNTU4MDAzZDdjNWM3MDYzMjI4ODU2NGZmOGZfZmZmYWRkYzAwOTA1NzYxYTQ0OGVmNDA5MDgxMWU1NTRfSUQ6NzY0NjMwNDQ0NzQwODg1MTkzMF8xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)
+![图片展示了Kimi AI平台中模型选择界面。左侧为模型列表，包括OpenAI、Kimi For Coding、Kimi K2 Thinking、Zhipu AI Coding Plan、GLM-4.5-Flash、GLM-4.7等。右侧是当前选中的“Kimi For Coding K2 Thinking”模型信息，显示允许文本、推理，上下文限制为262,144。该图片与文档中介绍Kimi K2.5发布，让Remotion制作视频能力放大上下文相关，展示了在Kimi AI平台中选择模型的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTdkMzcxNjhiOWIwZTk3MjMxMzIyNzEzODIzMDFhZWNfMDYyMDQ0N2ViZGM0NzNkZDcyOGUwZThiMTI3MWExM2ZfSUQ6NzY0NjMwNDQ0NzQwODg1MTkzMF8xNzgyMTA3Mjk0OjE3ODIxMTA4OTRfVjM)
 
 官网靠谱可以有的，等OpenCode对接后再来直接尝试。
 
@@ -78,7 +78,7 @@ GIF
 
 我的提示词很简单
 
-![图片展示的是一个HTML页面代码，用于实现动画效果。代码中定义了一个点击事件监听器，当点击页面时，会移除SVG元素的动画效果，10秒后重新添加动画效果。页面底部有提示，表示在“ShoppingListScene.tsx”场景前面新增一个页面组件，参考上面代码，新增一个场景，帮其复刻一个文字“你好，前端哥社群！”。该图片与上下文紧密相关，是上下文提到的“复制上面的代码，加上你想要的效果给你的remotion项目，去复刻这个场景”操作示例。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmNmZjliZTU4NTM1MGQ2NDZmMmY4NzAzZDY1NmE2ZjRfY2Y1YTc1YzRjODUyZmRiNWQzZWM1ZGFhZDk2OTFjZWVfSUQ6NzY0NjMwNDQ2NjgxMDMwOTU4NV8xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)
+![图片展示的是一个HTML页面代码，用于实现动画效果。代码中定义了一个点击事件监听器，当点击页面时，会移除SVG元素的动画效果，10秒后重新添加动画效果。页面底部有提示，表示在“ShoppingListScene.tsx”场景前面新增一个页面组件，参考上面代码，新增一个场景，帮其复刻一个文字“你好，前端哥社群！”。该图片与上下文紧密相关，是上下文提到的“复制上面的代码，加上你想要的效果给你的remotion项目，去复刻这个场景”操作示例。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Zjc5MmY0ODllYzdjYmI2NjM4MWUxYjEyMDA4MWU2ZGFfYzkzMDRiNGU2MzE5MWY2YTBjZmE1MmY0MzZjM2Y4OGFfSUQ6NzY0NjMwNDQ2NjgxMDMwOTU4NV8xNzgyMTA3Mjk0OjE3ODIxMTA4OTRfVjM)
 
 回读才发现我的提示词写的漂了一点，但是没影响我的效果
 
@@ -86,7 +86,7 @@ GIF
 
 我用OpenCode下载了一个推特视频
 
-![图片展示的是OpenCode平台下载推特视频的界面。上方显示视频下载请求，链接为https://x.com/geekbb/status/2016114131364151557。下方提示视频下载完成，文件保存在downloads/twitter_video.mp4。接着有提示“完整路径给我一下”，下方回复完整路径为E:\\opencode\\downloads\\twitter_video.mp4。该图片与文档中“我用OpenCode下载了一个推特视频”及后续操作下载视频的上下文相关，展示了下载视频的具体操作结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDBlMDUzNGE1N2JiYmRkMDEyNDAwYjA5NTJkYTE4YTNfYmE4YWIwZjU0YmM2MzhkNTA1Mjg4YmQzZjgxODE3ZmFfSUQ6NzY0NjMwNDQ4ODU1NDkwODYyNV8xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)
+![图片展示的是OpenCode平台下载推特视频的界面。上方显示视频下载请求，链接为https://x.com/geekbb/status/2016114131364151557。下方提示视频下载完成，文件保存在downloads/twitter_video.mp4。接着有提示“完整路径给我一下”，下方回复完整路径为E:\\opencode\\downloads\\twitter_video.mp4。该图片与文档中“我用OpenCode下载了一个推特视频”及后续操作下载视频的上下文相关，展示了下载视频的具体操作结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2EwMGYxMjRmYzE4ZGI4NGEzNjc3NzEyMTA3NmM0ZGVfNmIzZWU2ZDA5MTZkYWRiMmFkNTJiZDFiZDE1MTkzNDdfSUQ6NzY0NjMwNDQ4ODU1NDkwODYyNV8xNzgyMTA3Mjk0OjE3ODIxMTA4OTRfVjM)
 
 这个是视频直接丢给Kimi,然后叫它给我使用网页复刻视频。
 
@@ -96,7 +96,7 @@ GIF
 
 同样的复制代码给我的remotion
 
-![图片展示的是一个HTML文件代码片段，包含`<html>`、`<head>`、`<body>`等标签，其中`<script>`标签内有`startAutoPlay()`函数代码，用于自动播放视频。代码最后有注释“FrontendCommunityScene.tsx”，提示在该场景之前再新增一个场景，新增一个单独的页面组件，组件实现的代码如上所示。该图片与上下文紧密相关，上下文提到在Kimi K2.5发布后，可使用代码复刻视频场景，此图片展示了代码实现方式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2U3NzAxODUyM2VmMTExNTc4ZDQ3NzcyZmI0NDI5YzZfMzQ0M2ZkNTE5ZDA2MzkxOGZjMzQ2NzYyN2M5ODczNzVfSUQ6NzY0NjMwNDUwNzU0MjUwNjQ2Nl8xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)
+![图片展示的是一个HTML文件代码片段，包含`<html>`、`<head>`、`<body>`等标签，其中`<script>`标签内有`startAutoPlay()`函数代码，用于自动播放视频。代码最后有注释“FrontendCommunityScene.tsx”，提示在该场景之前再新增一个场景，新增一个单独的页面组件，组件实现的代码如上所示。该图片与上下文紧密相关，上下文提到在Kimi K2.5发布后，可使用代码复刻视频场景，此图片展示了代码实现方式。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGFhY2Y0NjAwZDQ2MzZjMGVmZjg5NTc0ZGRiZGUxMTVfY2Y0MDdhODFkYTYxNzFjMzE1NzM1MzFiMjAxZWQ3NGNfSUQ6NzY0NjMwNDUwNzU0MjUwNjQ2Nl8xNzgyMTA3Mjk0OjE3ODIxMTA4OTRfVjM)
 
 ## 第三个短视频
 
@@ -109,3 +109,7 @@ GIF
 ## \\## 最后
 
 如果你跟我着我操作，是绝对可以复刻出你自己的视频的。如果你有问题也可以留言，我给你看看能不能解决你的问题，或者我直接把我的remotion的demo 发给你。不过我也可以留到在github上，看有没有必要吧。[https://github.com/aehyok/remotion](https://github.com/aehyok/remotion)
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/ZO7cwdXgRi6zhmkLrhQc3gV2nob> ｜ 归档：2026-06-22

@@ -339,3 +339,7 @@ cp output/dave/CLAUDE.md .claude/CLAUDE.md
 - profile-template.yaml — 配置文件模板
 - 「claude-skeleton.md」 — 骨架模板
 - sync-script.ts — 完整组装脚本
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/AyDzwUyEpi7e6ok4vkDccGfTn1g> ｜ 归档：2026-06-22

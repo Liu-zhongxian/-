@@ -1,6 +1,6 @@
 # 每天早上打开笔记，AI 已经把今天的待办写好了
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTQzZmExZjc5NTZiYjljYTc0MjgwMzU1NjU1ZTYxNjdfMzI5NDc0MjU4MzQ2NWU2YzMyNzc0NzE0YzhmYzE0NjVfSUQ6NzY0NTI2NjQyOTA3NTM3NzMzMV8xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGUxNzdjYjBkNzc3YWNlZTQ1ZTA2OTVkYWU0MTQ3MDZfMzhlYTQzOTZlOTU1OGUwYmJlMDdmNDdlMTM2MDQ0ODZfSUQ6NzY0NTI2NjQyOTA3NTM3NzMzMV8xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 依旧是一篇小白能看懂的文章，一步一步截图和录制 GIF，不要害怕，有我给你铺路！
 
@@ -28,13 +28,13 @@ OrbitOS 是一个开源的 AI 知识管理系统（[原链接](https://github.co
 
 先找到你上一篇建的那个仓库在哪。打开 Finder 看一下
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzBjOWU3Y2JmOTM4ZjI2N2I5MjJlNjFiNDA1OGQ4NDdfMTY3ZWNjODYwNzM2ZGU3NTgxMmM1MzY2OWI1NzExMTBfSUQ6NzY0NTI2NjQyNjIxNTQ4NDYxN18xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTgxMTEwNzUxYjM0NTAzMTI1YzNlZGFhODUyMzNlYjhfMDUwOWQ4MzEyNmJmODE0MGQ4YWI5NDc5YTRmODJkZjNfSUQ6NzY0NTI2NjQyNjIxNTQ4NDYxN18xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 然后打开终端，用 cd 命令进到这个仓库的同级目录下。不知道路径怎么办？最简单的方法：在终端敲 cd 加一个空格，然后把 Finder 里的文件夹直接拖进终端，回车就行。
 
 进去之后敲 ls 确认一下，能看到你的旧仓库就说明来对了：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGVlNWI0MDhmYTcxNThkYmM1YzdjMjQ0NTQ3ZjcxZmVfMmFiM2Y1ZWU5ZDhkOTE3YzdkY2YwYTBmMGZiMTdjNjdfSUQ6NzY0NTI2NjQyNjc5NDA4NTU2NF8xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTg1N2IzNWE0ZWQyNjk2MzE5Zjg3NjliOTVhNjI0ZDFfZWFlOGZjYzNkNGRhMTE0N2FlNmU4ODZmNmQyZjAyMzhfSUQ6NzY0NTI2NjQyNjc5NDA4NTU2NF8xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 Win 用户打开 PowerShell，用 cd 进到同样的目录就行。
 
@@ -47,11 +47,11 @@ npx degit MarsWang42/OrbitOS/CN OrbitOS-Second-Brain
 
 这个命令需要 Node.js。上一篇你装 Claude Code 时已经用过 npm，说明 Node.js 已经有了。如果提示找不到 npx，去查询装一下就行，很简单。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGVjMWZhMTNjMGQ2MjkwOTNiY2Y4OTkzOTVjZWUwOWFfN2FkY2NkMTcyMjY4YjUyMWMxZGJlY2Q5Njc3Y2U0M2VfSUQ6NzY0NTI2NjQyNTg1NDQ5NTkyM18xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDg4YTRmZTQzNmI5Y2ExNTVjOGU5ODVjZDMxYjg3NWJfZDlmNjc3ZDYwNjAxZGNiNDljZGFjMDZiMzRkYTRmZWVfSUQ6NzY0NTI2NjQyNTg1NDQ5NTkyM18xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 跑完你会得到一个叫 OrbitOS-Second-Brain 的文件夹，里面长这样：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWEzNGVhYjhlNjNlNDhhNDkxZGZjMGY3OTBiZDZlYzZfYTE4ZGEyYTE4MDk0MDYyYzFlNGVhMThmYzI0ZTBiYTVfSUQ6NzY0NTI2NjQyNjQ1MDIzNDU4OV8xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzYxMDExYzIyNmRjN2NlMDI4NzAzMmFkMjFlMjBiY2FfMjI0MjU1MzFjZjFlNTlkZTIzMGE2YzgxNWFiN2QxYWZfSUQ6NzY0NTI2NjQyNjQ1MDIzNDU4OV8xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 别慌，每个文件夹都有明确的用途：
 
@@ -81,13 +81,13 @@ OrbitOS-Second-Brain 是个新仓库，插件还没有，需要搬过来。
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OThjYzdlZDU5NDAyNzgzMGRjODRlMjc5NDEwNGYxYmFfM2ZlNmQ1MmQ1ZjFlMjI3MWJiYWIwYThlZjQxZTI2MDlfSUQ6NzY0NTI2NjQyOTIyNjMzOTUwN18xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDE5YTk4NjUzZjg0OTQ2N2RjZTU2NWE5OWE4MjY5NWJfM2M0NDMxYmU1N2FhZjk0M2NmYTZiNjZiYmJjMDU5NDZfSUQ6NzY0NTI2NjQyOTIyNjMzOTUwN18xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 GIF
 
 然后用 Obsidian 打开 OrbitOS-Second-Brain 这个仓库。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWNhOWFjZGJkZTlkMzJmNDZlYzRmYzNlZTMyMmFmODdfZmVlYjM4NTU3MGE5ZTJhZjNmMGJlOTVlNTI1MDgwZDdfSUQ6NzY0NTI2NjQyNzk2ODI3NzcyOF8xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTFjMjVmOTgyYzM3MjlhNmI2N2I3MzJkZWE1YTIwZjFfM2E3N2EzMGM3NWQxZjhhZWRhNGZhMTJkYjU3ZjlmYWFfSUQ6NzY0NTI2NjQyNzk2ODI3NzcyOF8xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 左边的文件列表、右边的 AI 面板，一切就绪。
 
@@ -97,7 +97,7 @@ GIF
 
 打开 AI 面板，输入：/start-my-day
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjhhMzk5NDVjMDRhYWFlMzkxOGQ5YTA3Y2RhMjhlMWNfNjQ4MDA4M2VlNjUxOTAwODAwZmFmN2IxMmM1NWVhMGNfSUQ6NzY0NTI2NjQyNzY1NTQ1ODAwNF8xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWE1MjMzMmY4YTE5Yjg4YjA0ODRkNjlhM2I3YzY0MmJfZTViMjVjZGZhMjZmN2U2ZmMxZmRiNWFiMjg5YTVlMjJfSUQ6NzY0NTI2NjQyNzY1NTQ1ODAwNF8xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 ⚠️ 如果碰到图上面那个 Error（Node was not found on PATH），说明新仓库没识别到 Node.js 路径。去 Claudian 设置里重新填一下「Claude CLI 路径」就好，具体参考上一篇的 𝗦𝘁𝗲𝗽 𝟱。搞定之后再输一次 /start-my-day 就行。
 
@@ -111,11 +111,11 @@ GIF
 
 • 生成一份完整的今日计划
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGQxMmI2YmIwOTlkYjhlZGQyNmVhMzAxMzI4YTdjYTFfODg1ZjQxMjBhNzdiNWQ2MWU4YWM1Y2VjODY0NmFmZTBfSUQ6NzY0NTI2NjQyNjA4OTM2MDU3MF8xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmYxZjNjMGU1MTFjNDk4NGU4MzVjYzc5ZTMyMTg4MjZfM2JlMzdjMDBkY2U4NjNiZTliZWIyN2IzMzg0Nzk2MWRfSUQ6NzY0NTI2NjQyNjA4OTM2MDU3MF8xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 你打开 10\\\_日记 文件夹，今天的日记已经写好了——待办事项、项目进展、AI 资讯摘要，全都有。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2NlNzI3YzY1ZjM1MDBkYTQyNjNhOTQwMzQxNjA5MzlfMjI5NGFjYTBiNWEzYmMxYmJjYTRmMjUzYzlhZGFmYjVfSUQ6NzY0NTI2NjQyNjgzMzUzODI1M18xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Nzc2Y2U3MTVjMzZkOWVmMzg4MWFjZjM2YjZmYjdiNThfM2E2OWY0NTA3NTg0MDJiODY2NTgxMjkyY2Q5MDFiZDlfSUQ6NzY0NTI2NjQyNjgzMzUzODI1M18xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 每天早上花 10 秒钟，省下 20 分钟整理的时间。
 
@@ -125,7 +125,7 @@ GIF
 
 在 AI 面板输入：/kickoff 写一篇关于 AI 编程工具对比的文章
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWU1YjhiZDY2Y2QwOWZkMWZiN2Q1ZDVjYmExZTdlOTNfZTg5MjMxNGEzZTkxMWNhNTk2YzA1YThmY2M4NjIxYjJfSUQ6NzY0NTI2NjQyODAzNTM1Mzc4OF8xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWIzOGY3YWMxMmFmMzVmMDQxMzUxYTNkYjBjOGUwY2ZfNTkyNTUxNDZiZDI2Y2I5ODA3ZTc0YjJjYjYwNDJmNDVfSUQ6NzY0NTI2NjQyODAzNTM1Mzc4OF8xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 AI 会帮你做这些：
 
@@ -135,11 +135,11 @@ AI 会帮你做这些：
 
 • 生成一份完整的项目笔记，放到 20\\\_项目 里
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjcyNmQ5YjQ2NWM4ZmMxZTBmN2U5MTgyMTE3OGVjNjFfZGI5NTcwNGYyNzhhZDk2MmE1YmY1OTBiNzdlYjNjMmNfSUQ6NzY0NTI2NjQyNzE3OTkxMjM4MF8xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDk5OGY2NTkwZGIwNThlODY5YjJiN2IwZDAxNjkxYmVfOGIxNzQxYWUzOWU1NjA3MGMwOGMzYTc4NmU5ODA1YzFfSUQ6NzY0NTI2NjQyNzE3OTkxMjM4MF8xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 你看一眼计划，觉得没问题就说「确认」，AI 就帮你把项目建好了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTRkNzI4N2YxNDk5NDdkMDk0YWQ4MGIzM2Y1ZDE5NWNfMjNlZGYxZTAyNDUzNjMyMTk5Yjg3MzRhNjIxOTMwNzFfSUQ6NzY0NTI2NjQyNjQ1MDI1MDk3M18xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzcxZmI3MjJmOTk4OTk2YWNmNGU4YTllNWUxYTZkYWZfY2NjZTBkNzU4NmFlN2NmZGY2ZmIxODYwNTg3ODk5M2RfSUQ6NzY0NTI2NjQyNjQ1MDI1MDk3M18xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 从一个模糊的想法到一份结构清晰的项目计划，30 秒。
 
@@ -149,7 +149,7 @@ AI 会帮你做这些：
 
 秘密在仓库根目录的一个文件：CLAUDE.md
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGE1ZjMwMzliMThhYWI4NTliMDM0ZTE3NThiZTVkNjJfYjFmYmExNWYzNGU0Y2IzZGE2OWZmM2YxYWVmMGE2NGJfSUQ6NzY0NTI2NjQyODEwNjY4OTcyN18xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzY4YTM3NzYwY2Y1Zjk2ZDNjMmYyNzJkZWYwOWY3NDRfYjUwMmYzZGY1MWZmMzU4NjM1MGY5Mjc1NWUwYzQ2NjFfSUQ6NzY0NTI2NjQyODEwNjY4OTcyN18xNzgyMTA3MzA2OjE3ODIxMTA5MDZfVjM)
 
 打开看一眼，里面分三大块：
 
@@ -178,3 +178,7 @@ AI 不是靠猜的，是靠这份文件理解你的整个知识体系。
 ③ 看懂了 CLAUDE.md，知道怎么「训练」你的 AI
 
 不过说实话，这还只是开箱即用。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/ZhwFwPHl1i06otk516qcpG8onUh> ｜ 归档：2026-06-22

@@ -1,6 +1,6 @@
 # Claude Desktop 配置第三方 API 保姆级教程
 
-![图片展示了Claude Desktop配置第三方API的保姆级教程，强调不消耗官方额度、支持Cowork/Projects/Artifacts等功能。画面左侧有四个图标，分别代表不消耗官方额度、支持Cowork/Projects/Artifacts、本地配置安全可控、快速接入简单高效。右侧是配置界面，显示使用第三方API配置成功，有“配置成功”标识及“第三方API调用生效”提示，还展示了API相关配置项。该图与文档中介绍Claude Desktop配置第三方API的内容相契合，直观呈现了配置步骤及成功状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmVkMjhiOWQ5M2Y5N2UwNmEzZmQ5NmI0ZmQwMmM2MWRfOTMzMjRkYzU3ZWM4ZmM5Njc4YzUyMmNiMTMxYTg4N2RfSUQ6NzY0NTcxMjI1ODgyMDczODI2NV8xNzgyMDk4OTU1OjE3ODIxMDI1NTVfVjM)
+![图片展示了Claude Desktop配置第三方API的保姆级教程，强调不消耗官方额度、支持Cowork/Projects/Artifacts等功能。画面左侧有四个图标，分别代表不消耗官方额度、支持Cowork/Projects/Artifacts、本地配置安全可控、快速接入简单高效。右侧是配置界面，显示使用第三方API配置成功，有“配置成功”标识及“第三方API调用生效”提示，还展示了API相关配置项。该图与文档中介绍Claude Desktop配置第三方API的内容相契合，直观呈现了配置步骤及成功状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDNjNTVjOTIyOTczM2ViNTM0ZTM2YTU2MWNkNmIzYzdfMGM5ZmFlY2UwYWFjYWYwOWI0MWQ5ZjQ0NWM0MDAzYjlfSUQ6NzY0NTcxMjI1ODgyMDczODI2NV8xNzgyMTA2OTk3OjE3ODIxMTA1OTdfVjM)
 
 这个功能可以把 Claude Desktop 变成你自己的第三方 API 桌面客户端。配置完成后，模型调用会走你填写的第三方 API，不再消耗 Claude 官方订阅额度；但会消耗第三方 API 的额度或余额。
 
@@ -22,7 +22,7 @@
 3. 在顶部菜单栏选择 **Help（帮助）** → **Troubleshooting（疑难解答）**。
 4. 在弹出的子菜单里点击 **Enable Developer Mode（启用开发者模式）**。
 
-![图片展示了Claude Desktop软件的菜单界面。左侧是主菜单栏，有File、Edit、View、Help等选项。右侧是Help菜单下的Troubleshooting子菜单，其中“Enable Developer Mode（启用开发者模式）”选项被红色框线突出显示。该图片与文档中“步骤1：打开Claude Desktop并启用开发者模式”内容相关，直观呈现了在Help菜单下找到并点击“Enable Developer Mode”以启用开发者模式的操作位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDgxYWJlMzA5Y2NjNGM1NmU5YjJhMzQ1MWI4MDllOGNfZTY2MGJlNDIwNDdhM2M5NTg0NDgxNDFhZDg2ZDkwZDRfSUQ6NzY0NTcxMjI3MTA2NjYxNDk2M18xNzgyMDk4OTU1OjE3ODIxMDI1NTVfVjM)
+![图片展示了Claude Desktop软件的菜单界面。左侧是主菜单栏，有File、Edit、View、Help等选项。右侧是Help菜单下的Troubleshooting子菜单，其中“Enable Developer Mode（启用开发者模式）”选项被红色框线突出显示。该图片与文档中“步骤1：打开Claude Desktop并启用开发者模式”内容相关，直观呈现了在Help菜单下找到并点击“Enable Developer Mode”以启用开发者模式的操作位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmY0MjYwYzAwOWYxMjM0N2ZkNWI1NmZkZGM0YmU3OGZfYzhkMDUwMzUyNDE2ZWEzNmZkMTlhMDM3OTc2MGQyMThfSUQ6NzY0NTcxMjI3MTA2NjYxNDk2M18xNzgyMTA2OTk3OjE3ODIxMTA1OTdfVjM)
 
 启用成功后，顶部菜单栏会多出一个 **Developer（开发者）** 菜单。
 
@@ -31,7 +31,7 @@
 1. 点击新出现的 **Developer** 菜单。
 2. 选择 **Configure Third-Party Inference…（配置第三方推理…）**。
 
-![图片展示了Claude Desktop软件的开发者菜单界面。在“Developer”下拉菜单中，“Configure Third-Party Inference...”选项被红色框线突出显示。该图片与文档中“步骤2：进入第三方API配置页面”内容相关，对应选择“Configure Third-Party Inference...”这一步骤，是后续填写Base URL和API Key等配置操作的前提，直观呈现了操作入口位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTI1ZDcxMTVkZTRjNDgwNmExMzNlNWU2MGY5ODM3MTBfMzg5NGJiYWNkMzdmNzBhMDI2NTkxYThlYzJkZmFjZWVfSUQ6NzY0NTcxMjI4ODU4NTk0NDI3OF8xNzgyMDk4OTU1OjE3ODIxMDI1NTVfVjM)
+![图片展示了Claude Desktop软件的开发者菜单界面。在“Developer”下拉菜单中，“Configure Third-Party Inference...”选项被红色框线突出显示。该图片与文档中“步骤2：进入第三方API配置页面”内容相关，对应选择“Configure Third-Party Inference...”这一步骤，是后续填写Base URL和API Key等配置操作的前提，直观呈现了操作入口位置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjkxZGRjZTZkYWRjOGQ2MzEzMDU4NzMwYzNmMmNjMjJfMGRlZmU4MzZmNjcyN2ZhMzRlZjkyNmVkNjJkMGQ3MGRfSUQ6NzY0NTcxMjI4ODU4NTk0NDI3OF8xNzgyMTA2OTk3OjE3ODIxMTA1OTdfVjM)
 
 ## 步骤 3：填写 Base URL 和 API Key（最关键一步）
 
@@ -46,7 +46,7 @@
 
 设置完后，点击右下角 **Apply locally（本地应用）**。
 
-![图片展示了Claude Desktop配置第三方API的“Gateway”页面。左侧导航栏有多个选项，当前选中“Connection”。右侧“Connection”区域中，“Gateway”选项被红色框突出显示，下方有Gateway base URL和Gateway API key两项，Gateway base URL处显示网址，Gateway API key处以星号遮挡。右下角有“Apply locally”按钮。该图片与文档中步骤2的内容相关，用于指导用户在配置第三方API时，选择Gateway连接方式并填写相应凭证后点击“Apply locally”以完成本地应用设置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTJjNDRkYmU3MWU5NDI5MTk1YWMyZWIzOWQyNmU0ZTdfMDkyN2U4NDg1ZGYzNzczODU4ZWU5NTE3NWM0ODhjZDdfSUQ6NzY0NTcxMjI5OTU0NTcwOTc4N18xNzgyMDk4OTU1OjE3ODIxMDI1NTVfVjM)
+![图片展示了Claude Desktop配置第三方API的“Gateway”页面。左侧导航栏有多个选项，当前选中“Connection”。右侧“Connection”区域中，“Gateway”选项被红色框突出显示，下方有Gateway base URL和Gateway API key两项，Gateway base URL处显示网址，Gateway API key处以星号遮挡。右下角有“Apply locally”按钮。该图片与文档中步骤2的内容相关，用于指导用户在配置第三方API时，选择Gateway连接方式并填写相应凭证后点击“Apply locally”以完成本地应用设置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmRiOGYyNTE1YzNhYTU5YThiZmRkYmYwMTFhYzUxYjlfNzk1OTU1NDUyMThiMmE2YTlmZGM1ZmM3YmJkOWRhNmRfSUQ6NzY0NTcxMjI5OTU0NTcwOTc4N18xNzgyMTA2OTk3OjE3ODIxMTA1OTdfVjM)
 
 ## 步骤 4：验证是否成功
 
@@ -55,9 +55,9 @@
 3. 输入一个简单问题测试。
 4. 如果模型能正常响应，或者界面中显示的是你第三方 API 提供的模型，就说明配置成功。
 
-![图片展示了Claude Desktop的界面，左侧为Code页面，有New session、Customize等选项，当前选中General coding session。右侧显示“你好！有什么我可以帮你的吗？”的对话框，下方有Type / for commands输入框。该图片对应文档中步骤2后的成功测试结果，说明在输入简单问题后，界面显示的是第三方API提供的模型，表明配置成功，模型调用走第三方API，不消耗Claude官方订阅额度，可使用相关功能，响应速度受API服务和网络影响。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODE4ZGE1NmFjZGFlYjFmN2E0NTlmOWU3ZmMyOWU0MzRfODI3MTY4Zjk2Y2E0Y2Q1ODk5NTlmMjNlNTY4NjhlZDhfSUQ6NzY0NTcxMjMxMzgxNDgzMDI3MF8xNzgyMDk4OTU1OjE3ODIxMDI1NTVfVjM)
+![图片展示了Claude Desktop的界面，左侧为Code页面，有New session、Customize等选项，当前选中General coding session。右侧显示“你好！有什么我可以帮你的吗？”的对话框，下方有Type / for commands输入框。该图片对应文档中步骤2后的成功测试结果，说明在输入简单问题后，界面显示的是第三方API提供的模型，表明配置成功，模型调用走第三方API，不消耗Claude官方订阅额度，可使用相关功能，响应速度受API服务和网络影响。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjNjMmI3Yzc5MTA1NGUyYjYwZGJjYTBhNmE5YjNkYTVfZTM2N2FjODkzMmRlODlkNDMwNjdhZTRhMjNjOWMzYTVfSUQ6NzY0NTcxMjMxMzgxNDgzMDI3MF8xNzgyMTA2OTk3OjE3ODIxMTA1OTdfVjM)
 
-![图片展示了Claude Desktop的Code页面，左侧栏选中“Code”选项，右侧显示“你好！有什么我可以帮你的吗？”的对话框。右侧列表中，以红色框突出显示了多个Claude模型选项，如“claude-2.0”“claude-2.1”等，还有“Haiku 4.5”“Instant 1”等模型。该图片与文档中“步骤2：进入第三方API配置页面”相关，用于说明在进入第三方API配置页面后，可看到的Claude模型选项，以供用户选择。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTM3MGM3ZjM5YmFjNjc4NWQwMzhkYTFiOTRjYzRhMjdfMTU3YzI4Y2QxNjc5NDgyNThlNWQzODU3ZmIyZGQwODNfSUQ6NzY0NTcxMjMyMzQ5OTQyOTA3MV8xNzgyMDk4OTU1OjE3ODIxMDI1NTVfVjM)
+![图片展示了Claude Desktop的Code页面，左侧栏选中“Code”选项，右侧显示“你好！有什么我可以帮你的吗？”的对话框。右侧列表中，以红色框突出显示了多个Claude模型选项，如“claude-2.0”“claude-2.1”等，还有“Haiku 4.5”“Instant 1”等模型。该图片与文档中“步骤2：进入第三方API配置页面”相关，用于说明在进入第三方API配置页面后，可看到的Claude模型选项，以供用户选择。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGI3NGQ2NzFmNTczMGQ0ODIwNjYzNzA3MWM3MjU4ODJfNmRiZDQ3YjE5Mjc2MzZhMDhlYzVlOWQ0NDhmYWQ3NDBfSUQ6NzY0NTcxMjMyMzQ5OTQyOTA3MV8xNzgyMTA2OTk3OjE3ODIxMTA1OTdfVjM)
 
 成功后你会看到：
 
@@ -116,3 +116,7 @@
 配置完成后，可以直接去试试 Cowork 或 Projects。桌面版体验确实很顺手。
 
 **更多 AI 干货同步更新公众号：雨哥聊AI，关注我带你玩转 AI 时代**
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/CbdJwiUAviWI7QkIhZRcBaJ4nHg> ｜ 归档：2026-06-22

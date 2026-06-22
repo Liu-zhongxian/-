@@ -73,3 +73,7 @@
 - [01.4｜普通人如何开始用 AI](https://lcnniolukk80.feishu.cn/wiki/Kh0pwB80oiZ5MXkCXYBcVcTDnmc) — 回总览
 - [30 天 AI 入门实战计划](https://lcnniolukk80.feishu.cn/wiki/UIcDwTDKDiPuGmk8vfXcQ1mKneA) — 接着往下走
 - [Prompt 怎么写才管用](https://lcnniolukk80.feishu.cn/wiki/IOWawSbaPi0hhNkSBlFcJR3fnYr) — Prompt 进阶
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/METEwENEHi9TjvkUqlEcXhdOnob> ｜ 归档：2026-06-22

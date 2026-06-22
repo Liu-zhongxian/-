@@ -1,6 +1,6 @@
 # 可能是全网最全的 Claudian 配置教程了Claude Code + Codex 双模型实战
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjBkNmM4ZGNlODAyZjgxNTZlYzU0ODI3MTEwMWYzZmJfYmIyYzk1NjAzMTM0ZTkzZTM1MmZlODBhMjY3ZGRmNDdfSUQ6NzY0NTI2NjM0NDI4MzIxMzAwMV8xNzgyMDk5MDUyOjE3ODIxMDI2NTJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTgyY2Q1ODkxZGIzYjk5ZDIwZjFmOGMzM2JmNDZhZTdfZGJmNGMxMWQ0MTdmZWU3YTNiYTA0MTBjMzgyNTkxNjBfSUQ6NzY0NTI2NjM0NDI4MzIxMzAwMV8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 **装完 Claudian 还在只跑 Claude Code?**
 
@@ -46,7 +46,7 @@ Node.js 是后面所有 npm install 命令的前提。**没装的话敲命令会
 
 各自能看到一行版本号(比如 v20.11.0、10.2.4),就是装好了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDg0YzgwM2VjMDJjNjdlNzhlZjY1ODE1MjE5YmZmMGNfZGVlYTk4NWQ0NmE0MTI1YzU3YTI1NzI4OGE4OTIyN2VfSUQ6NzY0NTI2NjM0MjkyODc0NzcxOV8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGZmZDI4NDc0OTZjZDEzNGJjNWNlYjg3YTBhMDNkZmVfZjgxYzZhYTMwYmFlYjlmOWM0ZGUwN2VmMTQ0NzM5MTdfSUQ6NzY0NTI2NjM0MjkyODc0NzcxOV8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 ⚠️ **跑命令报 command not found?** 99% 是没重启终端 / Windows 没重启电脑。重启一下再敲。
 
@@ -72,7 +72,7 @@ Claudian 还没上架 Obsidian 官方插件市场,得靠 **BRAT** 这个"中转�
 
 打开 Obsidian 设置 → 左侧菜单滑到底找到 **BRAT** 点进去 → 右侧滑到「**Beta plugin list**」区域 → 找到 **YishenTu/claudian** 那一行 → 点旁边的 **🔄** **刷新图标**(一个圆形箭头按钮),BRAT 会拉取最新版本覆盖装上。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDliNWExNGM3ZDBkNGVhMjdhMDU0NTZlMGZlNjliMTBfMDMwNjQ0Y2FkYWFiMjBjMDM1MzhlOTdlZTYzYTlmNTJfSUQ6NzY0NTI2NjM0NDIxMTkwOTgzMl8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzE2NmJiYmQ3YzcwYzcwYTQ1NGEzZTIwNDdhZmU2NmJfYjExMDAyNTk0YWIyOWM5ZTEzZGU2NzBhZGI3NTMyNjRfSUQ6NzY0NTI2NjM0NDIxMTkwOTgzMl8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 更新完**重启 Obsidian**,然后直接跳到第三节配 Claude Code,下面的全新安装流程不用看了。
 
@@ -94,7 +94,7 @@ Claudian 还没上架 Obsidian 官方插件市场,得靠 **BRAT** 这个"中转�
 
 关掉之后,紧跟着一栏「**社区插件市场**」就可用了,右边那个「**浏览**」按钮就是插件市场入口(截图里红框那个)。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGZmZDYwZDRiMTc5MTEzN2U4ZDRjMzFiMjBhNGRjYjJfNDFjYTYxYTMzMmE0MjQ0ZmQ4ZjUwMDE1MTMyOTNhZTdfSUQ6NzY0NTI2NjM0MTI4MDU4Mjg1Nl8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjU0ZTMxMzU1ZjMzOWVlZDQ5Y2I5YjdjZjYxOTFmMWFfOWY0Y2RlNzYxMzllYjNkMjE1M2M4ZGI0NWQzYTE2NWRfSUQ6NzY0NTI2NjM0MTI4MDU4Mjg1Nl8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 ## Step 3:装 BRAT
 
@@ -104,7 +104,7 @@ Claudian 还没上架 Obsidian 官方插件市场,得靠 **BRAT** 这个"中转�
 
 点进去 → 右侧详情页点「**安装**」→ 装完按钮会变成「**启用**」,再点一下。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWEyZWVlZjc3ZTcxN2M1NTgyOGE0MGFmZDUyNmRmNGJfZDdmNzE5OGRhMmI1MDdkZDZjMGIxODZhNDQ5ZjIwMTBfSUQ6NzY0NTI2NjM0MTM4OTU4NTYwOV8xNzgyMDk5MDUyOjE3ODIxMDI2NTJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWU0MGNlYzkyM2Y3ZDIzZjcyYTM1NGQzNmQwMGQzYTVfNTE3ZmY4YjBlN2MyZjc5YWNmOTU1MDBhZWFmZTBkYjBfSUQ6NzY0NTI2NjM0MTM4OTU4NTYwOV8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 ## Step 4:用 BRAT 添加 Claudian
 
@@ -112,13 +112,13 @@ Claudian 还没上架 Obsidian 官方插件市场,得靠 **BRAT** 这个"中转�
 
 > ⚠️ **BRAT 自己的设置页是英文 UI**,不像 Obsidian 主设置是中文。看到一屏英文不要慌,跟着下面四步走就行。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGY3ZjJjMjM0ODdkZTEyMzNlOTQxZTcwMzA3YTc2OGVfMTkxZGQ2ZWM2ODhjNGMxMDU2MjdhZDkxNGFlYjM1NzRfSUQ6NzY0NTI2NjM0MzEyMTcxODQ2Nl8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjczMTEyNzFkODFlYTNiZmQ4MzAxYmE0YjdjYmI0OTZfYTViMDlhMGFkNjNjNTIzOTRlYjUzZjJhZWVhZjM5OTFfSUQ6NzY0NTI2NjM0MzEyMTcxODQ2Nl8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 ❶ 左侧菜单底部找到 **BRAT** 点进去 ❷ 右侧滑到「**Beta plugin list**」区域,点紫色按钮「**Add beta plugin**」
 
 弹出来一个 Github repository for beta plugin 窗口,按 ❸❹ 走。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGFlZGNjZjY0M2IwMWJiMzBmY2Y0YTRlYmFlY2QzZGRfZDk2YmU2YjM4Nzk4MDkwYmQ4MmYxYTU5MTIxNGQ5ZGNfSUQ6NzY0NTI2NjM0MTc5ODgyNTE2M18xNzgyMDk5MDUyOjE3ODIxMDI2NTJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTcxYThiYTRmZTdhYWQ5M2YyNmIyMTQzYmU2MzJkNmJfZTUzNjUzZGRhNDFlNjkzMWU2ZGJmZjM0NGQ2OWUwMGRfSUQ6NzY0NTI2NjM0MTc5ODgyNTE2M18xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 ❸ 在 Repository 输入框里**完整粘贴**这个地址:
 
@@ -130,7 +130,7 @@ Claudian 还没上架 Obsidian 官方插件市场,得靠 **BRAT** 这个"中转�
 
 回到「**第三方插件**」页面(注意:是上面那个**总开关页面**,不是底下分类下的 BRAT),滑到「**已安装插件**」区域,能看到刚装好的 **Claudian**,右边开关亮着,就是装好并启用了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjBhZWNiNmJiYTIwODZjNmE3ZmZkYTRlMWRmMmI5NzdfMGM1ZmZkZjA1NDZkODU1MDQwYzc4NmY0ZTAwYjAyZWJfSUQ6NzY0NTI2NjM0MzI4MDg4OTAxMV8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTcwNDg5YThlNmY3YjU0MjM1OTM3M2I0NWRmOTM1OTlfNWU4YmYzMzBlZGE4YWQwOTZkMjFkZThhODUxNTBkYmFfSUQ6NzY0NTI2NjM0MzI4MDg4OTAxMV8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 > 顺便看一眼官方对 Claudian 的介绍: "Embeds Claude Code as an AI collaborator in your vault. Your vault becomes Claude's working directory, giving it full agentic capabilities: file read/write, search, bash commands, and multi-step workflows."翻译:**把 Claude Code 嵌进你的笔记仓库,vault 直接变成 Claude 的工作目录,它能读写文件、搜索、跑命令、执行多步骤工作流**。一句话:你的笔记自己会动了。
 
@@ -194,7 +194,7 @@ Claude Code 怎么"接到 AI 模型",根据你手里的资源分三条路。**�
 
 会输出一行路径:
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZThkNmVjZDFiM2M1YWEyODYxZTJjMDhiMmQ4ZThmZTJfYzliNjA2OWZhNjA5ZTUxN2M1NTJjNDdjYTAxN2UxZDRfSUQ6NzY0NTI2NjM0MjAzMjg4Njk2M18xNzgyMDk5MDUyOjE3ODIxMDI2NTJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODliNDA5NjBkZmI1NDM5MmY5YmM3YzFhZTA2ZjVjOTRfMjdlZjVlY2ZjNmU0OTgxNjZkZGE1YTFmZTdjZWI4MWVfSUQ6NzY0NTI2NjM0MjAzMjg4Njk2M18xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 你的输出会和我不一样(路径长得像不像没关系),**完整复制这一行**,待会要粘到 Claudian 设置里。
 
@@ -206,7 +206,7 @@ Claude Code 怎么"接到 AI 模型",根据你手里的资源分三条路。**�
 
 进入 Claudian 设置后,先把语言切成中文,然后**留意顶部有 3 个 tab**:「**通用**」「**Claude**」「**Codex**」。**先切到「Claude」tab**。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTk5NjgwNzc4ZWIxNzUzZjdiNGJjNjFlOGNhMTViOTNfZTQ1NDg4N2I0Y2NjNjExNjAyZDdmM2FjZTA3OTAxNzBfSUQ6NzY0NTI2NjM0MzMyMjg0ODQ0Ml8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmY4NDNiYWRjNjUyOGM3OThjZDVhOGU1MDc0MWY1NjlfMDViM2U2OGIxNmZhZmVkNWQ4NTFjZjI0NzY0NmY4OTNfSUQ6NzY0NTI2NjM0MzMyMjg0ODQ0Ml8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 **「设置」区域第一栏「Claude CLI 路径」**,把刚才 Step 3 复制的路径**完整粘进去**。
 
@@ -233,7 +233,7 @@ Claude Code 怎么"接到 AI 模型",根据你手里的资源分三条路。**�
 
 弹窗里**只需要填 Name 一个字段**(随便起,比如 Obsidian Use Key,方便以后认),下面的 Credit limit / Reset limit every / Expiration 全部留默认即可。点 「**Create**」 → **完整复制生成的 Key**。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDQyNmVjNzlhMWJjOWEzMWEzZTVhZWE4YTQ3MGRmMmJfZTk1MDBlZWMxNjIxZTJjZDQ3NmIyYTU1YjAwMjEzZTZfSUQ6NzY0NTI2NjM0NDI1Mzg2OTIzNV8xNzgyMDk5MDUyOjE3ODIxMDI2NTJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2Q5MGE4YzcyOWVjNGFlNzYwM2UzYzVlYTQwZTI5NzdfYTM3OWVmMmJiOWU1NTM1Y2M2OWIxNDI3OTE3MWRlOWJfSUQ6NzY0NTI2NjM0NDI1Mzg2OTIzNV8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 > ⚠️ API Key 只显示一次,务必保存好。丢了得重新生成。
 
@@ -245,7 +245,7 @@ Claude Code 怎么"接到 AI 模型",根据你手里的资源分三条路。**�
 
 > 💡 OpenRouter 上有不少免费模型,Ling-2.6-1T 是其中表现不错的一个。就算免费期结束,按当前公开价格看也属于很便宜的一档。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTRlOWYxNzdmZDJkMjQ0M2E2OWQ4MzlhMjYxMWZmZTZfMTQ3ZTYyNzdlNzgzMWRlYzBlMTI2MTkwZDhiYzc4OTlfSUQ6NzY0NTI2NjM0MjkyODczMTMzNV8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTBkNzQ4YTZlYzI3YzU4MGZlOTlmYzI3NTc0ZGUyMjhfMzdjN2FlOWI3ODgzYjU4ZDA2MTQ5MWJhM2U2YTFhM2JfSUQ6NzY0NTI2NjM0MjkyODczMTMzNV8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 **Step 3:装 CC Switch**
 
@@ -275,13 +275,13 @@ Claude Code 怎么"接到 AI 模型",根据你手里的资源分三条路。**�
 
 ❹ 点右下角蓝色「**添加**」按钮。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2Y2ZmM0MGY0MjZiNTI2MGEzODFkZjUzZjA0YTYxYzJfZmZiMjFlOGY2MzQ5MDJiZjNmMzgzZWQzYzczYmE4NzlfSUQ6NzY0NTI2NjM0MDc1NjI2MjA5NV8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzJiY2UxNGJlNTFlZTc1MWYxYzhlZjAxYWEyMDQ2ODdfNTlmODYzZjk0OGU2OTFiMTcyYjExZGUzZGFjMWY5ODNfSUQ6NzY0NTI2NjM0MDc1NjI2MjA5NV8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 **Step 5:启用 OpenRouter**
 
 回到 CC Switch 主界面,能看到刚加的 **OpenRouter** provider 卡片,右边有蓝色「**▶** **启用**」按钮,**点它**。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjE4MDJmZmM4N2U5MmVmODJlN2IyOThlMWM1ZDBhMjdfMTFhMzAzMThmMTFhZDQxNWIyODQ0MmM1ZWFkMDQ0OWNfSUQ6NzY0NTI2NjM0Mjk5NTg1NjYwOF8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGFlN2FkNmM4ZjFmY2JmZTU4ZmM2YTU3YTYzZDc0MWNfYWUwODEwN2VmM2E0YzFhZTM2ZTcwZjQ2NGNhYTcyZGVfSUQ6NzY0NTI2NjM0Mjk5NTg1NjYwOF8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 > 💡 **Claude Code 切换提供商后不需要重启**,直接生效。也可以从系统托盘右键直接切换。
 
@@ -291,7 +291,7 @@ Claude Code 怎么"接到 AI 模型",根据你手里的资源分三条路。**�
 
 只要 AI 回复就说明**白嫖通道打通**。此时你跑的就是 Ling-2.6-1T,**完全不产生费用**。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWVkYjM0Zjk4YzIwNTUzODE3NDVlM2NkMDk1Nzk1YzdfN2Y0OGQ3NmY4MDNiNzlhZDM3MWQ0NTE4MzY1MDM0NDNfSUQ6NzY0NTI2NjM0MjcwMjE1NzAwMV8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzU3OTY5MTcyZDgyZDhmZWI3YmVlNzg1YTI3MzUxNzFfOGI4OTZjMjk1MDAxNDUxYWU2MWMyMjk2NGQ1ODA5YjhfSUQ6NzY0NTI2NjM0MjcwMjE1NzAwMV8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 ## 四、通道二:配 Codex(本文核心增量)
 
@@ -327,7 +327,7 @@ Claude Code 怎么"接到 AI 模型",根据你手里的资源分三条路。**�
 
 输出一行路径:
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmM0YWIyMDI1MDYwZTRkODJmYTdhMzgyMjFmOWUxMWNfOGQwMDExOTRjZjMyOTI3NDlkZTc2MDc2OGRhMzBiMjlfSUQ6NzY0NTI2NjM0MTI4MDYxNTYyNF8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTRhNDYyNjhkZGExODFjMjAzYzVmMzZjODkyYzUwMWFfYTk2MDkzZjkzY2MxMzIzYjVlMGEwNDk1YWZkNjk2MjhfSUQ6NzY0NTI2NjM0MTI4MDYxNTYyNF8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 我这里是 /Users/rongshi/.local/bin/codex,和 Claude 一样,你看到的具体路径会和我不同,**完整复制下来**就行。
 
@@ -335,7 +335,7 @@ Claude Code 怎么"接到 AI 模型",根据你手里的资源分三条路。**�
 
 回到 Obsidian → Claudian 设置 → 顶部 tab **切到「Codex」**。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTM4Y2EwNGYzOTRhM2EzMmUyODQ3NjdlNjM5ZmRjOWNfMTVhMTg4MmYzNjgwODE2OGEwNGZkNTIyM2Y3ZTJmZjdfSUQ6NzY0NTI2NjM0MzkzMDk1NzAwMV8xNzgyMDk5MDUzOjE3ODIxMDI2NTNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmY5NGVjOGUxNmI3Y2I2ZTBhMzIxYjNlNzFjM2ZjYjJfN2I3YTEzNDY4NTlkYjNlZDFlOTNiZWQ4NmIzOWQyYThfSUQ6NzY0NTI2NjM0MzkzMDk1NzAwMV8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 这一步**有两个动作必须都做,少一个 Codex 都不会出现在切换菜单里**:
 
@@ -357,7 +357,7 @@ Claude Code 怎么"接到 AI 模型",根据你手里的资源分三条路。**�
 
 两条通道都配好之后,切换位置是 **Claudian 对话框左下角的模型选择器**。点一下弹出下拉菜单,里面**分两组**:
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGY4YWU3MjMxOTdlMzlhN2E5MWYwMGFmNjVkMzViM2NfMmFlYjk0OGY0MmEzODY2MGM4ZmMwMjkyOWQ0NDJlMmVfSUQ6NzY0NTI2NjM0MDc4NTg1MTU5MV8xNzgyMDk5MDUyOjE3ODIxMDI2NTJfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTlhZGRjODEwMmI2MTUwMWUxOTA0NWE3Y2Q3Yjc1ZTdfZjczOTQ0MzQ3M2NhMTk3MzEzNDlhOGVlMTZiZGNjMGRfSUQ6NzY0NTI2NjM0MDc4NTg1MTU5MV8xNzgyMTA3MjI5OjE3ODIxMTA4MjlfVjM)
 
 - **CLAUDE 组**:Opus / Sonnet / Haiku
 - **CODEX 组**:GPT-5.4 / GPT-5.4 Mini
@@ -369,3 +369,7 @@ Claude Code 怎么"接到 AI 模型",根据你手里的资源分三条路。**�
 到这一步,你的 Obsidian 已经同时挂上了 Claude 和 Codex 两条 AI 通道,按自己的需要切着用就行。
 
 **Codex 这部分,我搜了全网没看到一篇完整的,这是这篇我自己最在意的部分。** 收藏起来,以后想给同事或朋友安利双模型双开,把这一篇丢过去就行。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/HS0TwZXbAiezPPkUznScjJpfn7e> ｜ 归档：2026-06-22

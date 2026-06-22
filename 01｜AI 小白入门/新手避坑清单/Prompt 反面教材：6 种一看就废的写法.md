@@ -115,3 +115,7 @@ flowchart TB
 - [01.3｜新手避坑清单](https://lcnniolukk80.feishu.cn/wiki/Aq7FweDT3iRXt5kOjvhcCqdTnCg) — 回到本章总览
 - [Prompt 怎么写才管用](https://lcnniolukk80.feishu.cn/wiki/IOWawSbaPi0hhNkSBlFcJR3fnYr) — 正面教材
 - [Token 和上下文窗口](https://lcnniolukk80.feishu.cn/wiki/HfzSwaeWZiWmyjkWyGZc8ezVn5g) — 关键指令位置怎么影响 AI
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/YcRewuYGTiAutBkcCwhckBk6ntb> ｜ 归档：2026-06-22

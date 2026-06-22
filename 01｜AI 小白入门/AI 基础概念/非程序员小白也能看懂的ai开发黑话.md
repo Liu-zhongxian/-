@@ -147,3 +147,7 @@ NER 的作用，是从文本里识别人名、公司名、地名、时间等关�
 很多人学 AI，容易只盯着模型本身。
 
 但真正做应用的人会越来越明白：**决定一个 AI 产品能不能跑起来的，往往不是某个单点能力，而是整套技术链条是否完整。**
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/DNNWwYKuCictRjkz0I7cHmgsnSE> ｜ 归档：2026-06-22

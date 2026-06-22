@@ -213,3 +213,7 @@ LLM 不知道自己是一个 Agent，不知道有人在旁边守着帮它执行�
 Loop 代码就那十几行，谁都能写。真正的功夫，在于你喂给 LLM 的那串文字，组织得好不好。
 
 这就是上下文工程——Agent 工程师的核心能力。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/R34XwSEioi73IQkBosbcJ860nAg> ｜ 归档：2026-06-22

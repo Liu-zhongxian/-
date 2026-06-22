@@ -1,6 +1,6 @@
 # 我的Opencode终于用上了免费的Claude Opus 4.5（赶紧跟上）
 
-![图片展示了opencode接入Antigravity-Manager的示意图。左侧是opencode图标，中间是Antigravity-Manager（Local Proxy），右侧是Claude和Gemini模型图标。文字说明“本地代理使用Claude/Gemini模型，告别API付费烦恼”，并有“FREE ACCESS”被红色叉号覆盖。该图与文档中介绍opencode接入Antigravity-Manager配置步骤的内容相关，直观呈现了配置后模型使用情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTExNDcxZGNiOGE5ZmI4MjA1NTc5MDFhNTUzZWIxZWRfNDk4ZTdmNTRlMjhjNDBjMWRhMTYxYTAzOGY4NjY2MjBfSUQ6NzY0NTcxNTI3ODc1NTU5NzUwMl8xNzgyMDk4OTYxOjE3ODIxMDI1NjFfVjM)
+![图片展示了opencode接入Antigravity-Manager的示意图。左侧是opencode图标，中间是Antigravity-Manager（Local Proxy），右侧是Claude和Gemini模型图标。文字说明“本地代理使用Claude/Gemini模型，告别API付费烦恼”，并有“FREE ACCESS”被红色叉号覆盖。该图与文档中介绍opencode接入Antigravity-Manager配置步骤的内容相关，直观呈现了配置后模型使用情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWY4Zjc0MWNlZjJhOGYyZTk0ZTQ1YjBmZjNjOThkYThfMjEwZWI1MGRiNDcyZTRlNWU0MjBlN2UxZGU0YWQwMmVfSUQ6NzY0NTcxNTI3ODc1NTU5NzUwMl8xNzgyMTA3MDAyOjE3ODIxMTA2MDJfVjM)
 
 好多朋友一直想用**Claude Opus 4.5**，但是苦于没有好的ip无法订阅Anthropic产品，再就是Anthropic真是一家封号狂魔公司，动不动就把账号封了，也是醉了，算了，不吐槽他了，步入正题。
 
@@ -36,7 +36,7 @@ API 反代页面 → 启动服务
 
 \\- 局域网访问：按需
 
-![图片展示的是Antigr addCriterion()函数的代码示例。代码中定义了两个函数，分别是`addition`和`subtraction`。`addition`函数接受两个参数`a`和`b`，返回它们的和；`subtraction`函数同样接受两个参数`a`和`b`，返回它们的差。该](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzU5YTg1NThkZjU3OGU1YWZiOGIwMGNmOTgwMjMwM2NfNThiYzViZmJkNDNiMmYwMmJkM2VjOTBlNzhkMTY4NTRfSUQ6NzY0NTcxNTI5MzExNjk5MjcwMV8xNzgyMDk4OTYxOjE3ODIxMDI1NjFfVjM)
+![图片展示的是Antigr addCriterion()函数的代码示例。代码中定义了两个函数，分别是`addition`和`subtraction`。`addition`函数接受两个参数`a`和`b`，返回它们的和；`subtraction`函数同样接受两个参数`a`和`b`，返回它们的差。该](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2Y3YmNkOGQ2MmY3YzY2Yjc0ZWFlMTdiNjRhOTJhOGZfNjA5NWQ4ZmNkMDhhMWNmODJhZDU3ZTVkNzZlNDRkNGJfSUQ6NzY0NTcxNTI5MzExNjk5MjcwMV8xNzgyMTA3MDAyOjE3ODIxMTA2MDJfVjM)
 
 \\\*\\\*验证\\\*\\\*
 
@@ -44,7 +44,7 @@ API 反代页面 → 启动服务
 
 看到 JSON 模型列表 = 成功
 
-![图片展示的是浏览器访问http://127.0.0.1:8045/v1/models后的JSON模型列表页面。页面显示了多个模型信息，如claude-3-5-sonnet-20240620、claude-opus-4-5-thinking等，每个模型有创建时间、ID、所属对象、拥有者等字段。该图片与上文“验证”步骤相关，用于验证配置Antigravity- Manager后，浏览器访问该地址能看到JSON模型列表即为成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzgzZTg0YmViODk5MTYwOTY2YzA2NzQyYzM0NjYwZDVfMjE4NGFhNDBlZTM1ZDEzODRiYzc0NzYzNzcwYWFiOGNfSUQ6NzY0NTcxNTMwODM3MTY0MzU4M18xNzgyMDk4OTYxOjE3ODIxMDI1NjFfVjM)
+![图片展示的是浏览器访问http://127.0.0.1:8045/v1/models后的JSON模型列表页面。页面显示了多个模型信息，如claude-3-5-sonnet-20240620、claude-opus-4-5-thinking等，每个模型有创建时间、ID、所属对象、拥有者等字段。该图片与上文“验证”步骤相关，用于验证配置Antigravity- Manager后，浏览器访问该地址能看到JSON模型列表即为成功。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTBmYTFmMWJhNzZlOWU5MDBjZGZkMmNhMThiNDdmNzFfNzJkYjIwZDk1Y2NhNmZmZmU1YTk2MGZmMDVlNTNlM2FfSUQ6NzY0NTcxNTMwODM3MTY0MzU4M18xNzgyMTA3MDAyOjE3ODIxMTA2MDJfVjM)
 
 \\---
 
@@ -132,7 +132,7 @@ C:\\\Users\\\你的用户名\\\\.config\\\opencode\\\opencode.json
 
 4\\. 开聊！
 
-![图片展示的是opencode模型选择器界面。界面中“显示步骤”显示为3分钟27秒，下方有“回复”区域，提示“雨哥，我先读取一下”。模型选择器中，有“OpenCode Zen”“OpenAI”“GPT-5.2”“GPT-5.2 Codex”“Antigravity Local”等模型选项，其中“Claude Opus 4.5 Thinking”模型被红色框突出显示。该图片与上下文紧密相关，直观呈现了在opencode中选择Claude Opus 4.5 Thinking模型的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODIzNzIzNDU4OGRkZTM3ZWNkNWE1NWVjZDg5MjRkNDdfMTc4YzNmMjZmNjUyMTdhMTY1MmZkODgwM2M0YjZhM2NfSUQ6NzY0NTcxNTMyMDQ1OTcyNjAzOF8xNzgyMDk4OTYxOjE3ODIxMDI1NjFfVjM)
+![图片展示的是opencode模型选择器界面。界面中“显示步骤”显示为3分钟27秒，下方有“回复”区域，提示“雨哥，我先读取一下”。模型选择器中，有“OpenCode Zen”“OpenAI”“GPT-5.2”“GPT-5.2 Codex”“Antigravity Local”等模型选项，其中“Claude Opus 4.5 Thinking”模型被红色框突出显示。该图片与上下文紧密相关，直观呈现了在opencode中选择Claude Opus 4.5 Thinking模型的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmVhOTM0NWE1MGI1NmQ1MDQ5OTNkZjkwNzY1OGU5ZDBfMTRhODQ2NWMyYjRhMGJmNGU3NTQ5NmUwZWM3YWZmOTBfSUQ6NzY0NTcxNTMyMDQ1OTcyNjAzOF8xNzgyMTA3MDAyOjE3ODIxMTA2MDJfVjM)
 
 \\---
 
@@ -189,3 +189,7 @@ C:\\\Users\\\你的用户名\\\\.config\\\opencode\\\opencode.json
 2\\. opencode 配 provider
 
 3\\. 选对模型开聊
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/StamwxG9niYrVsk7hNic4XsQnTd> ｜ 归档：2026-06-22

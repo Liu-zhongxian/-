@@ -230,3 +230,7 @@ ASCII 版本
 - [MCP vs CLI 决策指南](https://www.feishu.cn/wiki/WKMtwZM9KinKVfknxqYcv16Pn9J)
 - [配置参考手册](https://www.feishu.cn/wiki/TRTbwpWXriSulUkD39Mcn5l0nzc)
 - [安全加固指南](https://www.feishu.cn/wiki/MYIvwuIiFisNKukK9RUcnxYMnEf)
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/YPr2wa0xQiL1azkW9rRcPySinx5> ｜ 归档：2026-06-22

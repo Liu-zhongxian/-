@@ -2,7 +2,7 @@
 
 ​
 
-![图片展示了Mac 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDU1NWZkYTZmNjlkZjc2NDczNWFlNDNhMWZlNDNlMjRfODhlNmFiOWQ5MTFmYzM4ZGNkY2IwYjI3Yzc3MmI4MDBfSUQ6NzY0NjMwNDU0MDExOTMwNTE1NF8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示了Mac 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTIzOTU1NDM0ZjI5OTU2MzcxY2FjN2RkOGJkZTgxZGZfYmU1ZDcyYjc1MDk4YmFmMGMwMTJlNThjNjRjMDA0NTRfSUQ6NzY0NjMwNDU0MDExOTMwNTE1NF8xNzgyMTA3MDA5OjE3ODIxMTA2MDlfVjM)
 
 这是这个系列的第五篇文章，我会把自己最近从零开始梳理，整理 Mac 使用过程中的经验与步骤记录下来，作为留存与分享。如果拿到一台新的Mac电脑，我觉得你有必要来试试这个神级的OpenCode，相同模型他很多情况下竟然比Claude Code还强？
 
@@ -19,7 +19,7 @@
 
 官网地址：[https://opencode.ai/download](https://opencode.ai/download)，下载对应的版本进行安装即可，window和mac都支持的，同时mac的话他竟然还支持老的intel芯片系列，非常不错，我的8G 256 mac 战机还能继续再战。并且里面有免费模型可以使用。
 
-![图片展示了mac下安装的OpenCode客户端界面。界面上方显示“New session”，并有“你好”按钮。中间有提示语“你好！很高兴为您服务，请问有什么可以帮您的吗？”。下方有一个输入框，提示“随便问点什么...”，并有“+”图标。底部显示“Build - <inclusionAI: Ring-2.6-1T (free)>”。该图片与文档中介绍mac下安装OpenCode客户端的内容相关，直观呈现了客户端的初始界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGE3ZTY2YmVjNDI1Mjc3ZWRhMjdhNGFjNmZkNzk2YmZfNGM1NWQwZDQwYjU3ZWMyNDU3MjM0NjJlNDdiYjZlYWVfSUQ6NzY0NjMwNDU2MTMwMDY1NTA3MF8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示了mac下安装的OpenCode客户端界面。界面上方显示“New session”，并有“你好”按钮。中间有提示语“你好！很高兴为您服务，请问有什么可以帮您的吗？”。下方有一个输入框，提示“随便问点什么...”，并有“+”图标。底部显示“Build - <inclusionAI: Ring-2.6-1T (free)>”。该图片与文档中介绍mac下安装OpenCode客户端的内容相关，直观呈现了客户端的初始界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjQwZmQ5ODY0ZGQ3OThhZjRmNGRlYTY1OTMyYThkYmRfOTkyN2NiM2VjYTFiYjQyZmIwYjU5NjdmNDNhZGQwMWNfSUQ6NzY0NjMwNDU2MTMwMDY1NTA3MF8xNzgyMTA3MDA4OjE3ODIxMTA2MDhfVjM)
 
 在电脑上安装好第一个AI 客户端之后，就可以践行AI First理念，能让AI来帮我们完成的，就坚决不动手了，除非AI搞不定了，那我们再上手干。
 
@@ -38,11 +38,11 @@
 
 上面文章开头我们已经下载了OpenCode客户端
 
-![图片展示的是OpenCode客户端的“New session”界面。界面上方显示“图片描述专家 自动生成图片描述](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjU4MzNlYTQwYjNiMDFkYzExYTYzNjNlNGM4MTk1ODZfZTc1OTFhM2Y0NDJiZDFhNGI0ZTA2MzFiNDEwNzg4N2RfSUQ6NzY0NjMwNDU4MTY4OTY5MTA3Ml8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示的是OpenCode客户端的“New session”界面。界面上方显示“图片描述专家 自动生成图片描述](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjI2MjQ2ZjY4MTk5MDA0YWM5YTI1OTAwMzNhZTA4NTNfODUwYmNkYzU2ZjBlMzA4ZWQ5NGMyYmE3ODg4NjdhYzlfSUQ6NzY0NjMwNDU4MTY4OTY5MTA3Ml8xNzgyMTA3MDA4OjE3ODIxMTA2MDhfVjM)
 
 按照上面箭头的位置进行点击选择模型，然后再点击连接提供商
 
-![图片展示的是OpenCode客户端配置免费模型的界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODNiZDk4YzY2NTBkZjU5YWYwZmNmMDBkYmNiODk4ODRfOTRlMjI1NmI3NTM2Mjc2ZTQ3ODY5Y2I5MjAyNzE4NDhfSUQ6NzY0NjMwNDYxMDY3OTk4MzA1M18xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示的是OpenCode客户端配置免费模型的界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTk4OGZkZWY5YjNjMGNiYmNhZWI4YTNhNWYzY2M4NjhfZjcxZDI1ZmY1ZDhhNjA1YzVmMjRjNzhkOTcwYjg0NjNfSUQ6NzY0NjMwNDYxMDY3OTk4MzA1M18xNzgyMTA3MDA5OjE3ODIxMTA2MDlfVjM)
 
 选择OpenRouter，这里为什么选择OpenRouter呢，因为最近蚂蚁百灵刚好开源了一个大模型inclusionai/ring-2.6-1t:free，而且免费到5月15日。
 
@@ -52,7 +52,7 @@
 
 继续操作，选择上图中的OpenRouter
 
-![图片展示的是OpenCode客户端中连接OpenRouter的界面。界面上方有“连接OpenRouter”提示，下方有“OpenRouter API 密钥”输入框，提示输入OpenRouter API密钥以连接账户，并在OpenCode中使用OpenRouter模型。界面底部有“Shell: Install Node.js via Homebrew”提示，以及“提交”按钮。该图片与文档中“给OpenCode客户端配置免费模型””部分相关，是按照文档指引进行操作时，需在OpenRouter平台申请API Keys前的界面展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDA5ZDNjNTBlNWI1MmQ2ZjIzZDU4ZDdkZDcwOWQ2YzVfMzU2YTNjMDgyMTQ3MWQwN2MzMDM1ZDBiNGUzMzI2ODhfSUQ6NzY0NjMwNDYyOTIxMzMwMTY5Nl8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示的是OpenCode客户端中连接OpenRouter的界面。界面上方有“连接OpenRouter”提示，下方有“OpenRouter API 密钥”输入框，提示输入OpenRouter API密钥以连接账户，并在OpenCode中使用OpenRouter模型。界面底部有“Shell: Install Node.js via Homebrew”提示，以及“提交”按钮。该图片与文档中“给OpenCode客户端配置免费模型””部分相关，是按照文档指引进行操作时，需在OpenRouter平台申请API Keys前的界面展示。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTNkODkyNzRhYWIyYTQ3ZTQzYjI1ZTdiOThjZjk0MWJfMWE4ODI4YTY2NDdhMTA4NTFiNTZjNzc1YWFjMmRiZGJfSUQ6NzY0NjMwNDYyOTIxMzMwMTY5Nl8xNzgyMTA3MDA5OjE3ODIxMTA2MDlfVjM)
 
 到这里就需要在OpenRouter平台申请API Keys。
 
@@ -94,15 +94,15 @@ API密钥设置好了，该怎么配置我们上面说的免费模型呢
 
 直接将上面的json内容拷贝给OpenCode客户端，帮我将上面的模型配置配置到opencode.json中进行使用（它可能找不到路径，你可以根据我下图所示的路径）
 
-![图片展示了在mac下安装OpenCode后，配置免费模型的操作步骤及结果。先是检查opencode配置目录是否存在，接着创建opencode.json配置文件，内容包含schema、provider、models等信息，如inclusionai/ring-2.6-1t:free模型的名称、cost、limit、modalities等参数。最后显示已创建配置文件并配置了openrouter模型，还提及Build - Minimax M2.5 Free耗时1m 29s。该图片与文档中配置免费模型的操作步骤 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjRjNzI4ODA5ZjdlYzYxYTMxMzYwYzQ2MjAyM2IzMWJfZWJmYmM4NTcxNTI1YThlNWFjZWZiN2IyMTE3N2ZkMjhfSUQ6NzY0NjMwNDY1MTgyODQxNTQ1NF8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示了在mac下安装OpenCode后，配置免费模型的操作步骤及结果。先是检查opencode配置目录是否存在，接着创建opencode.json配置文件，内容包含schema、provider、models等信息，如inclusionai/ring-2.6-1t:free模型的名称、cost、limit、modalities等参数。最后显示已创建配置文件并配置了openrouter模型，还提及Build - Minimax M2.5 Free耗时1m 29s。该图片与文档中配置免费模型的操作步骤 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmVhOWNlMDQ1Y2M3N2IzMzE1NDIyOGM2ZGM5OThjYTVfZjhlMWU5MmUwYTE2ZTMxZmJiMGUwZDVlMWE5MDZmMDNfSUQ6NzY0NjMwNDY1MTgyODQxNTQ1NF8xNzgyMTA3MDA5OjE3ODIxMTA2MDlfVjM)
 
 如上图所示代表暂时配置完毕，关掉OpenCode客户端进行重启
 
-![图片展示了OpenCode客户端界面，搜索框内输入“ring”，下方显示了“inclusionAI: Ring-2.6-1T (free)”等模型选项。该图片与文档中配置免费模型的内容相关，对应上文提到的将json内容拷贝给OpenCode客户端，配置inclusionai/ring-2.6-1t:free模型，重启客户端后可直接选择该模型并输入“你好”测试回消息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTA1NmQ4YWFmZjExODhlYTY1ZDZhODlkN2M4ZmI3NDZfYTYyMzZmYzY0Mzg0ZTc0YmZmMmI1NDUxMjA3YjFhMTRfSUQ6NzY0NjMwNDY3MDY4NDg3NTcxOV8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示了OpenCode客户端界面，搜索框内输入“ring”，下方显示了“inclusionAI: Ring-2.6-1T (free)”等模型选项。该图片与文档中配置免费模型的内容相关，对应上文提到的将json内容拷贝给OpenCode客户端，配置inclusionai/ring-2.6-1t:free模型，重启客户端后可直接选择该模型并输入“你好”测试回消息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWY3MDQ3N2NmOWYwMTIxMTMxZDc3OGVhNmM0MDNjZmRfYmIxNDljYTUxMjg4MjhkODE0MGNlNjIzMTA1MjU3ZTBfSUQ6NzY0NjMwNDY3MDY4NDg3NTcxOV8xNzgyMTA3MDA4OjE3ODIxMTA2MDhfVjM)
 
 此时就能直接找到我们上面配置的inclusionai/ring-2.6-1t:free，选择之后，再输入个"你好"，看看回不回复消息。
 
-![图片展示了㎞ addCriterion addCriterion addCriterion addCriterion addCriterion](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDhmNzlmY2JjOTYyMTVkMzhmOWU3NjUzMWMwYzUzNjlfMGZhOTA3NWY5NTNmYjE1Yjk4Y2M1ODEzYmMwYzhkOTlfSUQ6NzY0NjMwNDY5MzU5MzY1NjI1OF8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示了㎞ addCriterion addCriterion addCriterion addCriterion addCriterion](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjQ3ZjE3MGU3YTc2ZWU4YjYyZTZmYjQwOTI5YjU1ZWZfYzg4OGIwZmZiNGM1NWY3Y2VkYzc1MGYzZWFiZDJhMzJfSUQ6NzY0NjMwNDY5MzU5MzY1NjI1OF8xNzgyMTA3MDA4OjE3ODIxMTA2MDhfVjM)
 
 ## 二、准备nodejs环境
 
@@ -110,11 +110,11 @@ API密钥设置好了，该怎么配置我们上面说的免费模型呢
 
 直接打开本地的命令行中输入 \\\`node -v\\\` 如果你看到如下的截图，那就说明node还没有安装
 
-![图片展示的是Mac系统终端界面，显示了用户登录信息及当前时间。在终端命令行中输入“node -v”后，出现“zsh: command not found: node”提示，表明当前系统中未安装Node.js。该图片与文档中介绍准备nodejs环境的内容相关，用于说明若在本地命令行中node -v时出现此提示，即说明node尚未安装，需进行安装操作。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjMzMTAyOTc2NDZhMjRiZTAwNzQ4YzExZThiMTk5NWFfZGZmYmM1MWVhNmU1YzVhYjRhMTdmZmM5NTJmMTdjZjFfSUQ6NzY0NjMwNDcxNTgwMzg1NTg0NF8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示的是Mac系统终端界面，显示了用户登录信息及当前时间。在终端命令行中输入“node -v”后，出现“zsh: command not found: node”提示，表明当前系统中未安装Node.js。该图片与文档中介绍准备nodejs环境的内容相关，用于说明若在本地命令行中node -v时出现此提示，即说明node尚未安装，需进行安装操作。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODIyNGIxYmIyMjZmMjFlYWFhOGY5NGIzMDAyMWEzM2FfNDI1OWVlN2IwMWNkNDYwYmE2ZTc4NDhlZGUwZjAwMjBfSUQ6NzY0NjMwNDcxNTgwMzg1NTg0NF8xNzgyMTA3MDA4OjE3ODIxMTA2MDhfVjM)
 
 本着AI first的理念，我还是使用Codex App或者OpenCode客户端来安装nodejs，两者都是非常优秀的AI Agent客户端。原则就是能用homebrew来安装的尽量就用homebrew来安装，方便统一。
 
-![图片展示的是OpenCode客户端界面，用户询问“帮我用homebrew安装一下nodejs”，AI回复已用Homebrew安装好Node.js，当前终端默认使用Homebrew版本v25.9.0，npm版本11.12.1，验证结果为`which node`指向`/opt/homebrew/bin/node`。该图片与文档中“准备nodejs环境”部分相关，直观呈现了使用Open文档中提及的安装命令后，OpenCode客户端的反馈情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTkxOTFjZDljYzE5MGE2NTIwZjlhNTJiZDNjNmJjMmJfZmQzYTU2ZGM2Yjc0MzI0OTI5N2NmODMxM2Y5NWM3MmJfSUQ6NzY0NjMwNDczNzI0NzYyODI2MF8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示的是OpenCode客户端界面，用户询问“帮我用homebrew安装一下nodejs”，AI回复已用Homebrew安装好Node.js，当前终端默认使用Homebrew版本v25.9.0，npm版本11.12.1，验证结果为`which node`指向`/opt/homebrew/bin/node`。该图片与文档中“准备nodejs环境”部分相关，直观呈现了使用Open文档中提及的安装命令后，OpenCode客户端的反馈情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTk4NTI5MWY3YTVjODMxOWY0MzkwZWY5NjU1ZjMzMjVfYmFhZTYyOGE2ZmUzNTM3NjE2MzU0YWE3YjJmNDUwYzFfSUQ6NzY0NjMwNDczNzI0NzYyODI2MF8xNzgyMTA3MDA5OjE3ODIxMTA2MDlfVjM)
 
 ## 三、通过OpenCode客户端安装 OpenCode CLI
 
@@ -124,33 +124,33 @@ API密钥设置好了，该怎么配置我们上面说的免费模型呢
 
 直接在OpenCode客户端输入安装命令即可
 
-![图片展示了mac下安装OpenCode CLI后OpenCode客户端的界面。界面显示“New session”新会话，提示“Shell 全局安装 opencode - ai npm 包”，并说明opencode - ai已成功安装完成，全局安装了2个包，耗时34秒。还提供了验证安装的命令“opencode --version”。下方有“还有其他需要我帮助的吗？”的询问，以及“随便问点什么...”的输入框，底部有“Build”和“inclusionAI: Ring - 2.6 - 1T (free)”的下拉选项。该图与文档中介绍通过OpenCode客户端安装OpenCode CLI后启动的内容相关。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTdmNzg4YmQ1ODE4ZjliMjE5MzZhMTYwM2M4NjJhOWFfNTQ4YTA1ZTcxYzU0NDc2MmQxOGFhMGY5MzkyOWYxYTRfSUQ6NzY0NjMwNDc1ODY5MzQ2NTAzMF8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示了mac下安装OpenCode CLI后OpenCode客户端的界面。界面显示“New session”新会话，提示“Shell 全局安装 opencode - ai npm 包”，并说明opencode - ai已成功安装完成，全局安装了2个包，耗时34秒。还提供了验证安装的命令“opencode --version”。下方有“还有其他需要我帮助的吗？”的询问，以及“随便问点什么...”的输入框，底部有“Build”和“inclusionAI: Ring - 2.6 - 1T (free)”的下拉选项。该图与文档中介绍通过OpenCode客户端安装OpenCode CLI后启动的内容相关。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzY3MzMxODY4YjVlYWM2MDUwZDAzY2YwZWE2NDNkYzVfMGE1MDFmMDkzZTEwYzBmYTI3MzBmOWQ1ODY0ZTgwNjBfSUQ6NzY0NjMwNDc1ODY5MzQ2NTAzMF8xNzgyMTA3MDA5OjE3ODIxMTA2MDlfVjM)
 
 启动之后如下图所示安装
 
-![图片展示了Open OpenCode 客户端的界面。界面上方显示“OpenCode”，中间大字为“opencode”，下方有提示“Ask anything... 'Fix a TODO in the codebase'”和“Build - MiniMax M2.5 Free OpenCode Zen”，底部有“tab agents”“ctrl+p commands”等选项，还提示按“Ctrl+X S”或“/status”查看系统状态信息。界面左下角显示“~/Desktop/github/claudecode-opencode”，右下角显示版本号“1.14.41”。该图片与文档中介绍通过 OpenCode 客户端安装 OpenCode CLI 的上下文对应，直观呈现了安装后的客户端界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzFhOTI4YTQyOTMyNTc3MTRhNGZkZmFiZTExYjg5YWNfNjlmN2NhMjY5OTc2ZWFkMDZmY2Y5ZjVmMjExYWZjZDJfSUQ6NzY0NjMwNDc3OTkwNDAxMTIwN18xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示了Open OpenCode 客户端的界面。界面上方显示“OpenCode”，中间大字为“opencode”，下方有提示“Ask anything... 'Fix a TODO in the codebase'”和“Build - MiniMax M2.5 Free OpenCode Zen”，底部有“tab agents”“ctrl+p commands”等选项，还提示按“Ctrl+X S”或“/status”查看系统状态信息。界面左下角显示“~/Desktop/github/claudecode-opencode”，右下角显示版本号“1.14.41”。该图片与文档中介绍通过 OpenCode 客户端安装 OpenCode CLI 的上下文对应，直观呈现了安装后的客户端界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzNhMTdjZGE0OTUwZGEyNDgwOTdjNzYxYzBkNTE1MzRfYzAxZjNjNmY3MjMyNTNlZjFhZDQ5NjYzOTJhYzNmNGVfSUQ6NzY0NjMwNDc3OTkwNDAxMTIwN18xNzgyMTA3MDA5OjE3ODIxMTA2MDlfVjM)
 
 OpenCode客户端和OpenCode CLI读取的模型都是同一份配置，所以我们在OpenCode客户端中指定的免费模型，在OpenCode CLI 中也是可以使用的。
 
-![图片展示了OpenCode客户端的界面面，背景为蓝色渐变。界面上方显示“OpenCode”标题，下方有“你好”及后续的对话内容，包括系统对用户问候的思考及回应，还提到当前使用的模型为“inclusionAI: Ring-2.6-1T (free)”。界面底部有“Build · inclusionAI: Ring-2.6-1T (free) OpenRouter”字样，以及“11.1K (4%)”和“ctrl+p commands”等信息。该图片与文档中介绍OpenCode客户端安装及使用的内容相关，直观呈现了客户端运行状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDU2MDA4NjJkZGNlMTJjOWY5YmMxYmFkN2MxODAxYmVfN2NmMjg1MjhkNjU5MTEzNWIwNDcyNTVmMDU3MzZmMTBfSUQ6NzY0NjMwNDgwMTAxMzY5NzQ2Nl8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示了OpenCode客户端的界面面，背景为蓝色渐变。界面上方显示“OpenCode”标题，下方有“你好”及后续的对话内容，包括系统对用户问候的思考及回应，还提到当前使用的模型为“inclusionAI: Ring-2.6-1T (free)”。界面底部有“Build · inclusionAI: Ring-2.6-1T (free) OpenRouter”字样，以及“11.1K (4%)”和“ctrl+p commands”等信息。该图片与文档中介绍OpenCode客户端安装及使用的内容相关，直观呈现了客户端运行状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjhjZjM4OTg5NGY0MWZjNmFhZjY2MzgxYzU0ZWE5MmNfZDQ5ZDdlZWE5ZGRhYTI4OWRkMTRjMDRlYzcwYWQwMjlfSUQ6NzY0NjMwNDgwMTAxMzY5NzQ2Nl8xNzgyMTA3MDA4OjE3ODIxMTA2MDhfVjM)
 
 ## 四、安装Claude Code并给他配置同样的蚂蚁百灵大模型
 
 在文章开头的mac系列文章的第四篇，里面有详细的安装过程，在文章最后也有配置蚂蚁百灵大模型的方式，只需要重新修改一下模型名称就可以了。
 
-![图片展示的是在macOS系统下，使用vim编辑器打开settings.ring.json文件的内容。文件中“env”部分包含多个配置项，其中“ANTHROPIC_MODEL”和“ANTHROPIC_DEFAULT_HAIKU_MODEL”两个配置项被红色箭头突出显示，其值均为“inclusionai/ring-2.6-1t:free”，表明所使用的模型为蚂蚁百灵大模型。该图片与文档中“安装Claude Code并给他配置同样的蚂蚁百灵大模型”部分内容相关，用于说明配置模型时的具体设置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzI2MjZlYWYzMTc2OGM2M2RjYzVmZDE4MmZmNmM4M2VfNThiMTc0MDlkZDEwOTVkMTFlMDllMzE2OWE1NTkxYTFfSUQ6NzY0NjMwNDgyMjQ4MDAxNDI3OF8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示的是在macOS系统下，使用vim编辑器打开settings.ring.json文件的内容。文件中“env”部分包含多个配置项，其中“ANTHROPIC_MODEL”和“ANTHROPIC_DEFAULT_HAIKU_MODEL”两个配置项被红色箭头突出显示，其值均为“inclusionai/ring-2.6-1t:free”，表明所使用的模型为蚂蚁百灵大模型。该图片与文档中“安装Claude Code并给他配置同样的蚂蚁百灵大模型”部分内容相关，用于说明配置模型时的具体设置。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjIwNzczMzM5NWMxY2Y5ODMyZWFhYjc2MTI3NTg4MDBfZTdjMjFhNWQ4MWQ2MmI0MzNhOGFkODI1ZTFiZTY5NjlfSUQ6NzY0NjMwNDgyMjQ4MDAxNDI3OF8xNzgyMTA3MDA4OjE3ODIxMTA2MDhfVjM)
 
 然后设置命令行快捷别名
 
-![图片展示的是macOS系统下终端界面，显示了vim编辑的.zshrc文件内容。其中，cc-ring别名被突出显示，其设置为“claude --dangerously -skip -permissions --settings /Users/aehyok/.claude/settings.ring.json”。箭头指向该别名设置，表明这是设置命令行快捷别名cc-ring的步骤。该图片与文档中“设置命令行快捷别名”部分内容对应，是设置cc-ring别名操作的示例呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTUzMDRkYjYzODYxOTE5ZWJiZTBiY2M3NTAyNTFiNGVfNmIwZWEzODRlNWQ3OWVkMjAzYWUzODI3ZjVhODJlNzJfSUQ6NzY0NjMwNDg0MzkxNzAzNjUwOF8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示的是macOS系统下终端界面，显示了vim编辑的.zshrc文件内容。其中，cc-ring别名被突出显示，其设置为“claude --dangerously -skip -permissions --settings /Users/aehyok/.claude/settings.ring.json”。箭头指向该别名设置，表明这是设置命令行快捷别名cc-ring的步骤。该图片与文档中“设置命令行快捷别名”部分内容对应，是设置cc-ring别名操作的示例呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGUxM2U0MTg4YzYxNGY3MzJmZTk1ZjhmYjQ4N2IwM2JfOTk1MjlhNGI1YzM5NTRjNDQxZmE1MWNkYWJhZThkZGRfSUQ6NzY0NjMwNDg0MzkxNzAzNjUwOF8xNzgyMTA3MDA5OjE3ODIxMTA2MDlfVjM)
 
 然后退出并重新加载配置文件，或者关闭当前终端窗口，重新打开一个终端执行cc-ring命令
 
-![图片展示了mac下安装体验OpenCode后，通过OpenCode CLI启动的界面。界面上方显示“Claude Code v2.1.138”，并有欢迎信息及版本号。左侧列出“inclusional/ring-2.6.1t:free”等信息，右侧有“Tips for getting started”等内容。下方是与模型交互的对话区域，显示了“你好”及后续对话内容。底部提示“bypass permissions on (shift+tab to cycle)”。该图与文档中介绍通过OpenCode客户端安装OpenCode CLI并启动的内容相关，直观呈现了启动后的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWVlZmEwZWM2ZWEyYjYxZjVkYWIwMTkyMmI0MDMzMDZfYzhiNDZiYTA4YzY2YTczNWE0ODgwMTM5ZGY3MjYzZWVfSUQ6NzY0NjMwNDg2NDc4ODAwNzg5Ml8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示了mac下安装体验OpenCode后，通过OpenCode CLI启动的界面。界面上方显示“Claude Code v2.1.138”，并有欢迎信息及版本号。左侧列出“inclusional/ring-2.6.1t:free”等信息，右侧有“Tips for getting started”等内容。下方是与模型交互的对话区域，显示了“你好”及后续对话内容。底部提示“bypass permissions on (shift+tab to cycle)”。该图与文档中介绍通过OpenCode客户端安装OpenCode CLI并启动的内容相关，直观呈现了启动后的界面情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTgxMjVkZmZkYjY3ZDhhOGU4NmRkOWZjMmNlYzExMmZfOWZkNDdlMzdhZDAwZjBjN2M1ZmZhYWRkY2E4YTA3NzhfSUQ6NzY0NjMwNDg2NDc4ODAwNzg5Ml8xNzgyMTA3MDA4OjE3ODIxMTA2MDhfVjM)
 
 ## 五、全文重点：四个终端执行同一个提示词任务
 
-![图片展示了mac下安装体验OpenCode时，四个终端执行同一个提示词任务的效果。左上为ClaudeCode中蚂蚁百灵大模型，左下为OpenCode中蚂蚁百灵大模型，右上为ClaudeCode中DeepSeek，右下为ClaudeCode中Claude Opus 4.7。四个终端都执行了“生成一个html小游戏：坦克自动对战，并写入到当前文件夹中的单个的html文件，cc -ring.html”任务，先自主规划，然后实现，效果均为一次性执行完毕。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDExMGM4Yzk0NjQzZDU5ZGI2NDEwZjU0YThlN2MwOGNfMGIyOTE5YzVjMjM2YTI3YTY4OTBlYzAxZDIxNjk4YTZfSUQ6NzY0NjMwNDg4NzcyNjU3NDUyMl8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示了mac下安装体验OpenCode时，四个终端执行同一个提示词任务的效果。左上为ClaudeCode中蚂蚁百灵大模型，左下为OpenCode中蚂蚁百灵大模型，右上为ClaudeCode中DeepSeek，右下为ClaudeCode中Claude Opus 4.7。四个终端都执行了“生成一个html小游戏：坦克自动对战，并写入到当前文件夹中的单个的html文件，cc -ring.html”任务，先自主规划，然后实现，效果均为一次性执行完毕。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWVkNDVmY2Y4ODRiZjJkZjI0MDAzMmI1ZTJlM2U1NDJfMDVlNjNjNzFiZGE0MjQ1YTRhMTBiNjk2ZWU0ZjJkODFfSUQ6NzY0NjMwNDg4NzcyNjU3NDUyMl8xNzgyMTA3MDA5OjE3ODIxMTA2MDlfVjM)
 
 - 左上：ClaudeCode中蚂蚁百灵大模型
 - 左下：OpenCode中蚂蚁百灵大模型
@@ -171,7 +171,7 @@ OpenCode客户端和OpenCode CLI读取的模型都是同一份配置，所以我
 
 
 
-![图片展示了四个终端执行同一个提示词任务的界面。左上角是Claude Code，使用模型Cla addCriterion图片内容](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWIzOGRlNTBlZGQ2NWVlNzE0NmZiMjVkYmVhMGVjYjJfZTBhZWE1ZTQ0MzIyZGE4NzZiOThkY2IyZGJmZTc1NTlfSUQ6NzY0NjMwNDkwODA2OTI3NjYwOF8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)
+![图片展示了四个终端执行同一个提示词任务的界面。左上角是Claude Code，使用模型Cla addCriterion图片内容](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTg0ZDZmZWI1Y2ZmZTY2NDc2ZDM1OGJlNjdhNjkxYTVfMDhjYTViNDA2YzBmNzE0NzM4MTZlNmRiMDYxZjlkNTlfSUQ6NzY0NjMwNDkwODA2OTI3NjYwOF8xNzgyMTA3MDA4OjE3ODIxMTA2MDhfVjM)
 
 ## 六、最后总结
 
@@ -184,3 +184,7 @@ OpenCode客户端和OpenCode CLI读取的模型都是同一份配置，所以我
 右上角的DeepSeek感觉也一般般，甚至也比不上OpenCode的，难道OpenCode的Agent设计有他的独到之处吗？
 
 看来是时候深度体验一波OpenCode，趁着蚂蚁百灵还在免费期也继续深度体验一波。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/LJoKwTFUAi4tsykZhXxce7f4nrc> ｜ 归档：2026-06-22

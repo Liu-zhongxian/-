@@ -2,7 +2,7 @@
 
 ​
 
-![图片展示了“用Claude Code玩转AgentTank - AI Agent坦克对战”的内容。画面中有两辆坦克，一辆蓝色，一辆红色，背景为暗色调，营造出战场氛围。蓝色坦克发射出蓝色光束，红色坦克发射出红色光束，两者对峙。图片与上下文紧密相关，上下文提到作者希望看到AI Agent间能彻底对战，而此图则以坦克对战的形式，直观呈现了AI Agent对战的概念，契合作者对AI Agent游戏对战的期待。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGMzYTU1MTgzMTViMTdmNmMzYWQyMWFkNGJkNjdhNzhfYzY5Zjk1ZGEyMjQzYTE2MTg2ZWYyMzgwNWM5YWZmZjVfSUQ6NzY0NjMwODE0OTExNjQ4ODY1NF8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![图片展示了“用Claude Code玩转AgentTank - AI Agent坦克对战”的内容。画面中有两辆坦克，一辆蓝色，一辆红色，背景为暗色调，营造出战场氛围。蓝色坦克发射出蓝色光束，红色坦克发射出红色光束，两者对峙。图片与上下文紧密相关，上下文提到作者希望看到AI Agent间能彻底对战，而此图则以坦克对战的形式，直观呈现了AI Agent对战的概念，契合作者对AI Agent游戏对战的期待。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGE0OWYxMTRlN2RmNTgwMDQzZWY3YzhhMDJiZjNjNGRfN2IwZDFmYWZiM2IyMjU5YzM0YjRiMmQxZmFiMWU1NWVfSUQ6NzY0NjMwODE0OTExNjQ4ODY1NF8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 2026年3月19日我发过一个帖子，当时就有个想法：无论是网站还是APP或者其他形式，早晚会出现一款游戏或游戏平台对外开放接口，让 OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode 等 AI Agent 接入进来互相对战，实现 Agent 与 Agent 之间的对决。
 
@@ -20,7 +20,7 @@
 
 看看下图我「AI少年」此时排名28了，可能你晚点来看的时候排名又变化了哈，如果你来玩可以直接在排行榜对我发起挑战的，看不到我可以评论区告诉我 哈哈，我再实战挤进排行榜就可以了。
 
-![图片展示的是一个游戏排行榜界面，显示了排名前30的玩家信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTgyZDU0NWFhYjEwNjc0OTBjMTk3NDA2MTNlNzZmMTRfNThhZTFhMzQ4MGNjYzBhZmVlOGU3M2IxOTg1MDE3MDVfSUQ6NzY0NjMwODE3MTA4Njc3NzI4NF8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![图片展示的是一个游戏排行榜界面，显示了排名前30的玩家信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGZmODE4NDc3N2RhMzZmYTg5YjdhZWU1N2QzNWEwYmZfMDNhMzVlMzg3OWM0YWFjZmM5NWQzNjVjOWIwMzc5MDZfSUQ6NzY0NjMwODE3MTA4Njc3NzI4NF8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 本文内容目录如下，可进行选看
 
@@ -35,23 +35,23 @@
 
 打开网页地址之后，点击右上角的 Log in。
 
-![图片展示的是网页上登录AgenTank的界面。界面上方提示需在创建坦克、旋转密钥、发布版本或开始战斗前登录。下方有“Continue with GitHub”和“Continue with Google”两个红色按钮，以及一个输入框，用于输入邮箱地址。下方还显示“Success!”字样，表明登录成功。该图片与上文提到的登录方式相关，直观呈现了使用GitHub账号登录的步骤。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWFiNGVhNjU0YTg3YjRiNjQ2N2VlYTQyOWNmZWYzZDFfYThhNDBiYWYwMjIwNDA1YmZjMzUwNjgxMzMxOTNiN2VfSUQ6NzY0NjMwODE5MzcwMjEzNjc4NF8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![图片展示的是网页上登录AgenTank的界面。界面上方提示需在创建坦克、旋转密钥、发布版本或开始战斗前登录。下方有“Continue with GitHub”和“Continue with Google”两个红色按钮，以及一个输入框，用于输入邮箱地址。下方还显示“Success!”字样，表明登录成功。该图片与上文提到的登录方式相关，直观呈现了使用GitHub账号登录的步骤。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGQ3NjdhYjAyOTcwNWM0YjU5YWIzZmQ0MWU3MTgzYTRfMGUyMzczMTE5NDMwNDAxNGFjZDQ1ZTU3NmNiZDdiYjVfSUQ6NzY0NjMwODE5MzcwMjEzNjc4NF8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 有三种登录方法，github账号，谷歌邮箱账号，或者直接使用咱们的QQ邮箱 163邮箱查收一下验证码也是可以进去玩的。
 
-![图片展示了AgenTank网站界面，右上角有“重新启动即可更新”和“AT少年”标识。点击右上角昵称后弹出下拉菜单，其中“Settings”选项被红色箭头指向。该图片与上文“点击右上角昵称->Settings->Language->中文”内容相关，直观呈现了点击右上角昵称后出现的下拉菜单，帮助用户找到“Settings”选项，以便后续进行语言设置等操作。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDBkZmVmMmNhNTlhZDVkMjAyYzNiMzhiNmZmYWZhMjFfMmI1MjgxZTdlNzIxM2ViNzkzYWJlZDJiMGZlNGMwN2RfSUQ6NzY0NjMwODIxNDQ4NTU4NDg0NF8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![图片展示了AgenTank网站界面，右上角有“重新启动即可更新”和“AT少年”标识。点击右上角昵称后弹出下拉菜单，其中“Settings”选项被红色箭头指向。该图片与上文“点击右上角昵称->Settings->Language->中文”内容相关，直观呈现了点击右上角昵称后出现的下拉菜单，帮助用户找到“Settings”选项，以便后续进行语言设置等操作。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzU3ZGE4MjU5M2Y0ODY3MGY5NjFkNWUyZDY5MGYxZWVfN2Y2ZDRmYWY4YmU1OGQ3NmE0NTRhMmFmN2M5YjI3Y2VfSUQ6NzY0NjMwODIxNDQ4NTU4NDg0NF8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 点击右上角昵称-> Settings->Language->中文，上面的英文截图看着头晕，现在顿时清爽了。
 
-![图片展示的是AgenTank游戏网站页面，页面左上角显示“AgenTank”名称。左侧有“坦克”“竞技场”“赛事”“排行榜”选项，下方有红色的“创建新坦克”按钮。中间区域提示“你还没有坦克，先创建你的第一辆坦克，然后把它送进竞技场”。右上角显示用户昵称“AI少年”。该图片与上文提到的在网站上进行操作相关，上下文提到点击右上角昵称进行设置语言等操作后，要点击图中的“创建新坦克”按钮，图片为后续操作提供了视觉指引。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzI2MmYwYWRlN2FjODhlOGRmODM5NzQxMWZmMTM4N2VfN2EwNTFiNThlNDIzZTIyMzRlOGY3MDliN2VjYjY2MmZfSUQ6NzY0NjMwODIzNTg2MzUyNjM0OF8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![图片展示的是AgenTank游戏网站页面，页面左上角显示“AgenTank”名称。左侧有“坦克”“竞技场”“赛事”“排行榜”选项，下方有红色的“创建新坦克”按钮。中间区域提示“你还没有坦克，先创建你的第一辆坦克，然后把它送进竞技场”。右上角显示用户昵称“AI少年”。该图片与上文提到的在网站上进行操作相关，上下文提到点击右上角昵称进行设置语言等操作后，要点击图中的“创建新坦克”按钮，图片为后续操作提供了视觉指引。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzdiODM0YjAzMDg4MGIwMDE1MmIyZTQzZDJkOGVmMzJfZDAzMDhmNTI5OTA4Yjc2MmVjNzE5MTRlZmE1ZmNhZDBfSUQ6NzY0NjMwODIzNTg2MzUyNjM0OF8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 点击上图中的「**创建新坦克**」
 
-![图片展示的是网页上agentank.ai/tanks中“创建新坦克”界面。界面上方提示创建坦克需先选战斗性格，马上送进竞技场。下方有坦克名字输入框，示例为“M1艾布拉姆斯”，外貌描述框示例为“经典沙漠黄”。战斗性格有三种选择，分别是均衡型、弹夫型、流星型，弹夫型被选中。底部有“创建坦克”红色按钮。该图片与上文“点击上image_id’”的操作步骤相关，是创建坦克操作流程中的一个环节。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTg2YWQ4ZmU0NmRkNWQ5MjFjNTlhYTZmOWM0NWJkZjVfNjYxMzRjOTQwYTkyOTFlOTBjMmU1ZmFlYzE4MGJkYzhfSUQ6NzY0NjMwODI1MzgzNjExOTAwMV8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![图片展示的是网页上agentank.ai/tanks中“创建新坦克”界面。界面上方提示创建坦克需先选战斗性格，马上送进竞技场。下方有坦克名字输入框，示例为“M1艾布拉姆斯”，外貌描述框示例为“经典沙漠黄”。战斗性格有三种选择，分别是均衡型、弹夫型、流星型，弹夫型被选中。底部有“创建坦克”红色按钮。该图片与上文“点击上image_id’”的操作步骤相关，是创建坦克操作流程中的一个环节。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWYyODZiZjRmYmUwNzYxMDIyMmM3M2E3MjlhYTc2NzhfMjI3YjMyMmRiYTJjY2VmZDhlM2QzODk5MGUyNTg1MmFfSUQ6NzY0NjMwODI1MzgzNjExOTAwMV8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 这个战斗性格选了不知道后面还能不能改，主打主动出击，先试试看，点击「创建坦克」，等待几秒坦克创建完成。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTI2YTFiNDI2ZDNjYjcxMjczZGNmOWM3YThmYTUwODBfNzkyNWYyM2NmZGM4MzZiNzU2OWQxZTdkM2JkMjgzNzBfSUQ6NzY0NjMwODI3Nzk2MTYyNDU0MF8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjY3YmJjNzdiYzg2Y2JjMjg1ZTEwNTFhYTgxZjNkNjlfY2FkZWYyNjg5ZmJlMjJhZTQyMjY1MjUwZWU2NTZjNWZfSUQ6NzY0NjMwODI3Nzk2MTYyNDU0MF8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 [https://agentank.ai/agent-guide](https://agentank.ai/agent-guide) 这其实是Agent运行指南，可以直接丢给AI 问他就好了，下面就到Claude Code中问问。
 
@@ -61,7 +61,7 @@
 
 首先在～/.claude/settings.ring.json 配置蚂蚁百灵开源大模型，只需要在OpenRouter平台设置一个API key就可以了。或者换成国内的其他模型。配置应该都是类似的，主要换一下Base URL和模型、api key。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmQ2NzZkZDA4MWJjMDU2ZGQxMDA3NGI1NzE2N2YxODVfYzAxZmY5YTkxMDgxNDNhNzdmODU0MTI4MjZlYTZhY2VfSUQ6NzY0NjMwODI5ODUxNzgxMDEwN18xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGIwNDM4OTIyY2U1YWM0N2RiY2U3ZmEyZmU5NjJlNGVfNWJjMGFkZTg4NDk5NjZkZmZmNjA2ZTNlMjhjZWYyZDdfSUQ6NzY0NjMwODI5ODUxNzgxMDEwN18xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 然后我这里直接使用alias命令行短别名，可以直接让你的AI Agent 进行设置就可以了。
 
@@ -79,7 +79,7 @@ rs/aehyok/.claude/settings.ring.json
 
 如下图所示。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTk2ODdlMGFmNWU2ODViOGI4NWM0ODg2OGNhYjk3MGVfYzU0MzY3NWFmYTQ0OGFmMTNkMDJkMTViZDk3YzUyNjJfSUQ6NzY0NjMwODMxODI3NTEyODI4OV8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmFmZWVlMzVmY2MxYWM5OWEyZmNkMDhiZWU4MWEwMjFfODZmNjFhNTEwYTUwNDg3NThhYzY2MjBiOThlMDcyODRfSUQ6NzY0NjMwODMxODI3NTEyODI4OV8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 上面截图中说的很清楚了，给我们提供了9个 API 端点。主要的就是四个
 
@@ -91,17 +91,17 @@ rs/aehyok/.claude/settings.ring.json
 
 > 我们只管字面意思就可以了。就是大白话告诉 Cloude Code 怎么做就好了。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjcxOWJiMTA3NGI2MjFkNTdmYWQ0MjYxYTZiYzU2MDVfOWVmN2NjNGU5MGMzOTkwOTVjNDgxZjYxNGExMzgyNTZfSUQ6NzY0NjMwODMzOTMxMjY0MzAxOV8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmJhYWZiNmY5NTk4MTQyNTJiNDI2MjYzNWVlZmQ5N2FfNWJjNDc2MWM1MDUwMWNhZmNjMGFkZmJmZTY3MGFmNGZfSUQ6NzY0NjMwODMzOTMxMjY0MzAxOV8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 看上图我继续追问：“现在要怎么玩”，这里你可以把key 配置在本地文件中，告诉他叫Agent读取。这里我直接聊天框把 Key丢给他。
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDg4YjVmNjNjNWRkMGE1OWIxYTM2NDZiMjgzM2YyMmRfMGViZDIyNjcyNTg4MWEzODA4YmYwZWI4ZGIwMTZjYTBfSUQ6NzY0NjMwODM2NDY1MzMxNzA2MF8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWIxNjQ2ZjdmMzZlY2Q0MTI4NGNhMTZmOWFjMTc0Y2NfM2YyZDVjZDQzN2U0NWFkOTAxOWRjZDQ0ZjA4OTE0ZDZfSUQ6NzY0NjMwODM2NDY1MzMxNzA2MF8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 这里回到网站，点击查看该坦克的详情
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmI0ODBjMWZmYTQ0Yzg1YTc2ZjQ5NDJkNzMyMDY2M2JfZjQ4MWVjNmVhYjFiOTVlMTFkZWIxNDIyNzdlNmRhMWNfSUQ6NzY0NjMwODM5MDU3NzMyNzA3M18xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTA0OTY3NGM1NzQwZjNlMjg2NDU2ODk4OTgzOTk3NWZfYjU4N2I5YzAxZGQzMWM1ZjgwYjZlM2VkOThhYWUxYzhfSUQ6NzY0NjMwODM5MDU3NzMyNzA3M18xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 上图就是网站初始化的时候给我们的V1 坦克对战的逻辑代码，其实不用管他干什么的，直接问AI就好了。
 
@@ -127,7 +127,7 @@ npx skills add https://github.com/anthropics/skills --skill skill-creator
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGUwMWM3MjBlZjRhNWExZmY0ODNiMzZiYTBhYmM5ZWVfYWY4MTc0MGM1Yjc4YWI5ZGRjNjg3Zjg2OGY1YmZmYzRfSUQ6NzY0NjMwODQxNzQ4NDg2ODU3N18xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWFkODI5ZjI1OWI3OGU4Nzg5ZWU4MmMzMTY5MzhlNDZfYjZhNzAyZmY5MTM0MTAwMWRmY2M1ZmM2Y2MwY2I4ZDNfSUQ6NzY0NjMwODQxNzQ4NDg2ODU3N18xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 封装成 skill 之后就变成我的资产了，因为在上下文中使用完毕，我下次再想玩游戏就又得从头重新来过，有了 skill 之后，我想什么时候玩直接告诉 skill 就可以了，也就是将重复性的工作或功能封装成 skill，来减少我们的重复工作，哪怕是娱乐。
 
@@ -137,7 +137,7 @@ npx skills add https://github.com/anthropics/skills --skill skill-creator
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWJhZjg4ODU1ZDA0ZjAxNTM3M2M5OGE0MGQ3NWE2OTVfNDQxM2M2MDNmNGI5OTBhMzhmODdmYzliNTQ5MTE4MmVfSUQ6NzY0NjMwODQzODgxMjk4NjMyMF8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmJmNzlkZWMyMTc0ZGZmZjg2MzFmYTkzZGRlY2ZmNjlfMjc2NjNlZTlkOGI3NjgxNTZhYTQxNzNlZjhiMDJiNTBfSUQ6NzY0NjMwODQzODgxMjk4NjMyMF8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 看视频其实是从直接实战，到两场失败，开始让AI Agent 优化策略，然后先跑模拟对战，测试代码，再继续实战。
 
@@ -147,7 +147,7 @@ npx skills add https://github.com/anthropics/skills --skill skill-creator
 
 
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDRhN2RlZTdjZGIyYWY0Y2ZhNWE2Nzg1MzUwODU3MmJfMzhmNjA5N2RhOTRhMzhkYzg1ZTc0OWZkMjkwNzkzYTlfSUQ6NzY0NjMwODQ1OTExNzYxMTk2NF8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2VmZTU2ZGM1MjYzYzQ5NDI3YmIzNjI4ODYzNzY2M2JfNzM0MzcwODUzY2Q2ZmY0OTg0NjE1OTQwMjMwZDAxMTBfSUQ6NzY0NjMwODQ1OTExNzYxMTk2NF8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 ## 六、总结
 
@@ -155,10 +155,14 @@ npx skills add https://github.com/anthropics/skills --skill skill-creator
 
 其实没多少，反正挺好玩的。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTQ0N2FmYWRlMmJlMmU4YjliNGU2ZjIxYjhlMTEzMWRfMzY3MmJhNDFhYjI0NTBlODBiNzIwYWM1NzI0NTUxZDJfSUQ6NzY0NjMwODQ4MjM0NzIwNzYxMV8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmM2ODY0ODkwZWEzNTAxNzU3ZmVjYjA1NTAwYzhhNjZfMzJjYmZiZTRhMDQyNThlNzVjNzhlOGM1NjliYTkzMDVfSUQ6NzY0NjMwODQ4MjM0NzIwNzYxMV8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
 
 这个模型跑个小策略看来是没太大的问题，而且推理能力还是很强的，当然可能我这里测试的强度还没上来。
 
 上面主要是跑策略玩游戏 花不了多少。前期准备工作 了解游戏、加上制作Skill 总共大概一刀的成本。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDY0OTE1YmUwYTUyNjlmM2MwMWFiZTljYjM1YzBiMWZfODZkNzBlYTg2ZmUzZmE4ZjhkZTBmYzY0OWQxN2RhYTdfSUQ6NzY0NjMwODQ5OTI3NDQ1MTkxNl8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmVlNGFkZjM5NDJlYzY4ZDZlMzM0NzJhYTFmYTg2M2FfODEwMzYxNTUxNzVkMzI2NjY4ZDYzZGYxY2JhZDYzYTFfSUQ6NzY0NjMwODQ5OTI3NDQ1MTkxNl8xNzgyMTA3MjY1OjE3ODIxMTA4NjVfVjM)
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/HExPwjWeniDtICko4jickJj1ncc> ｜ 归档：2026-06-22

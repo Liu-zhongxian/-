@@ -367,3 +367,7 @@ WIP=1 规则与此相关：每次只保持一个功能处于 `active` 状态，�
 - [Anthropic 最佳实践](https://www.anthropic.com/engineering/claude-code-best-practices)
 - 「task-management.md」 — 使用 Tasks API 跨会话追踪 TDD（测试驱动开发）循环
 - [Superpowers](https://github.com/obra/superpowers) — 将 TDD（测试驱动开发）作为强制门控的插件套件：在失败测试存在之前编写的代码会被删除并从头重做。比手动提示词更严格的执行。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/TSlWwH7koiqK1vk1i2HcKWjpnIh> ｜ 归档：2026-06-22

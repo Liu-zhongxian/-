@@ -4,7 +4,7 @@
 
 这也就是我为什么出篇教程的意义，很多人手足无措的时候不知道怎么卸载。这里我就把官方的、Win、Mac、Linux的卸载方式都集齐了，不管是什么设备都可以找到自己的卸载方案。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmY3Mjg4MWI0MjdkMzIyNTZlODIwNWUxYjExNzE5NzJfNGUyMjNlYjc2YmQ5OTEwNzM5ZGQ3MWYwOGEyZDQxM2VfSUQ6NzY0ODI3MTE1MDE4MjcxNDYxMF8xNzgyMDk5MDk2OjE3ODIxMDI2OTZfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWU0ZmI3MTEzYzliODc0MDM5ZTZhMmZjMmIwMGNkNjlfZjUyMTI2N2NiZTQyZjVlYWY3MjkyYmNiZjk4YTQ2ZjZfSUQ6NzY0ODI3MTE1MDE4MjcxNDYxMF8xNzgyMTA3MjY3OjE3ODIxMTA4NjdfVjM)
 
 > 这里顺便告诉大家一个商机，现在闲鱼还没有大批量Openclaw卸载服务，学了我这篇教程就可以去给人家收费卸载了。
 
@@ -137,3 +137,7 @@ docker rmi
 - **服务器篇**：如果是购买的云服务，检查是否后续还要使用，如果不需要就要取消服务器防止二次收费。如果是活动办理的，查看云服务厂商开通的时候有没有附带其他服务；比如Openclaw优惠套餐、Token大礼包是否会二次收费。
 - **模型API篇**：如果决定后期不再使用模型或者厂商的API，防止泄露我建议去对应厂商的API KEY管理后台去删除不要使用的API KEY，防止二次流失造成不必要的经济损失。
 - **备份篇**：如果想下次还要玩Openclaw，可以在卸载之前配置Openclaw的配置文件和workspace，如果是有意义的聊天记录也可以选择导出聊天记录，这样在下次安装的时候想要继续玩，就可以使用官方的恢复功能。原来那只小龙虾它就这样回来了。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/ITx4wy43Di8UDJkni9dcOFDinrc> ｜ 归档：2026-06-22

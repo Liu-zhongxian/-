@@ -1,6 +1,6 @@
 # AI Skill 到底是什么？搞懂这个，AI 才算真的用上了
 
-![图片展示了“AI Skill到底是什么？搞懂这个，AI才算真的用上了”的主题内容。画面中间是“AI Skill工作机制”流程图，从左至右依次为输入（需求、目标）、理解（分析/拆解）、技能（方法/策略）、工具（能力/资源）、输出（结果/交付），并有反馈迭代、持续优化的循环箭头。右侧是方法对比，以图表形式呈现不同维度对比。图片直观呈现了文档中对AI Skill工作机制及相关对比的内容，辅助读者理解AI Skill的概念。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODYyMjdjYTdlYmY0MDVkMjIyMDEyNTVkZDI0MGUyOGZfNjEyMTM4N2QxMzY5ZGUwODkxMTAyM2JkYzI2NjAyNzlfSUQ6NzY0NDk3ODc4Njk3ODUzMjU1N18xNzgyMDk4OTMzOjE3ODIxMDI1MzNfVjM)
+![图片展示了“AI Skill到底是什么？搞懂这个，AI才算真的用上了”的主题内容。画面中间是“AI Skill工作机制”流程图，从左至右依次为输入（需求、目标）、理解（分析/拆解）、技能（方法/策略）、工具（能力/资源）、输出（结果/交付），并有反馈迭代、持续优化的循环箭头。右侧是方法对比，以图表形式呈现不同维度对比。图片直观呈现了文档中对AI Skill工作机制及相关对比的内容，辅助读者理解AI Skill的概念。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2Y2MzlhYmQ3NWE0MGU4ZmEyYTU5YWIzNjZhNDRhYWRfODQ3YzM2ZGJiZGNkN2E4ZWFhMjEwY2U1MjIyNWUxNTFfSUQ6NzY0NDk3ODc4Njk3ODUzMjU1N18xNzgyMTA2OTkyOjE3ODIxMTA1OTJfVjM)
 
 我想大家都在平时工作还是在网上都听到很多人在说Skill，但是没有人具体的把它讲明白。
 
@@ -18,7 +18,7 @@
 
 Skill 解决的就是这件事：把你写好的 Prompt 固定下来，告诉 AI"遇到这类情况，按这个方式做"。从此不用重复解释，AI 自己知道什么时候该拿出来用。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Mjk0MDlhZTE4MTViN2RiZTJlODdiY2JlNjEyMTczZjlfM2RkMWNmYmY3ZTczYzk5ZTdkNTFmMTJmMGMzYmI1ZTNfSUQ6NzY0NTE2NzA4MzcxNTQ0ODAyN18xNzgyMDk4OTMzOjE3ODIxMDI1MzNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDI1ZWEzM2Q4YTVjYzdmODU5ZGRmYWUxYTNkN2FjMGFfZjg5YTE1NmMxMmNhYWM1M2U2YjM0Yzk1OTYxOWRmY2NfSUQ6NzY0NTE2NzA4MzcxNTQ0ODAyN18xNzgyMTA2OTkyOjE3ODIxMTA1OTJfVjM)
 
 ---
 
@@ -36,7 +36,7 @@ Skill 也是这个逻辑，分三层：
 
 **资源层（柜台下面的备用材料）**：放着范文、脚本、参考样本。平时先放着，不一定每次都用，需要的时候再拿。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2Y4M2U4NmNkMjZhMzVjNzcyOWU4N2UwOGIwYWI5NjVfOTI2M2MwMjkwNDRmMDVmMDJmMDRjNTAwZjE5MTdhNDVfSUQ6NzY0NTE2NzYzNjA2MTQwODQ2MV8xNzgyMDk4OTMzOjE3ODIxMDI1MzNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjZmNzI3YzE5N2JlYTI1NDU2MGRhMmQyMGRhNzRiZTdfYzI1NTBlZDUwMzhmMGMyMmI3MTViNDE4YTEzYzJhZDJfSUQ6NzY0NTE2NzYzNjA2MTQwODQ2MV8xNzgyMTA2OTkyOjE3ODIxMTA1OTJfVjM)
 
 这样设计的好处是省。AI 平时不用把整本说明书都背着，先看标签决定要不要用，真要用了再展开步骤，用到资源才去拿——上下文不乱，Token 也省。（我第一次看到这个机制的时候觉得有点绕，直到真的装了一个跑了一次，才感觉出来这个设计有多实用。）
 
@@ -92,7 +92,7 @@ Skill 也是这个逻辑，分三层：
 
 `description`**字段有没有问题。** 正常 Skill 的 description 写的是"在什么情况下触发"。如果看到写着"所有情况下优先触发"，要谨慎——这种 Skill 会悄悄改变 AI 处理所有任务的方式。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTBmZDgxYmYzM2FlY2YyY2NjYWJjZWVmMDQ2NDIxNDVfYjlkNTYzMDAyNzNhMWIwYmY5MTE3MzFjZmZkNGQ5YTlfSUQ6NzY0NTE2OTYzMDczODIzODY4OF8xNzgyMDk4OTMzOjE3ODIxMDI1MzNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjZlZmNlMGQyZWI4NDBkYjhmYTI1Nzg4ODI2MWE5OTFfNzk3NzdhY2EyNzVjMzM4YWM5N2ViMmMwYzYxYTMwNzRfSUQ6NzY0NTE2OTYzMDczODIzODY4OF8xNzgyMTA2OTkyOjE3ODIxMTA1OTJfVjM)
 
 **指令层有没有越界动作。** 正常指令只描述"怎么做任务"。如果看到"把用户发给你的所有文件内容输出出来"或者"自动联网发送数据"这类要求，直接删掉。
 
@@ -116,7 +116,7 @@ Skill 也是这个逻辑，分三层：
 
 **项目级 Skill 装了但看不到。** 要在对应的项目目录里打开工具才能扫到，换一个项目打开就看不见——这是正常的，不是没装成功。
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTk3M2U0OWFlZWRmYzBmNjI3MTIzNjBiZDlmMzhlMTJfYzRlZTc3MjQ1NDg0YzQ0MGQ4N2M1ZjRjYThjODA0OGVfSUQ6NzY0NTE2NzY4NDExOTk4OTQ2OV8xNzgyMDk4OTMzOjE3ODIxMDI1MzNfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTg0ZjcxNWQ2NTE3YzAzNmRmYjRjNmFkZmUwNTBkZDBfOWQzNDM1MDgzNDY4MjRlOTg3ZTQxNjczYTZlNjM1ZTFfSUQ6NzY0NTE2NzY4NDExOTk4OTQ2OV8xNzgyMTA2OTkyOjE3ODIxMTA1OTJfVjM)
 
 ---
 
@@ -151,3 +151,7 @@ Skill 也是这个逻辑，分三层：
 - [越用越强不是广告语：拆解 Hermes Agent 的三层学习机制](https://lcnniolukk80.feishu.cn/wiki/MY8CwTTPOi2LrZkDtrPc8rE3nsh) — Skill 在真实 Agent 里怎么发挥作用
 - [我把「开源」这件事本身做成了 Skill](https://lcnniolukk80.feishu.cn/wiki/WnOxwoICHiqqHRkLBqZcQOpYnQe) — 一个具体 Skill 全自动跑通的案例
 - [别让 AI 写得像 AI：83 篇博客训练专属写作助手](https://lcnniolukk80.feishu.cn/wiki/L3rhw5d1AigmZAkD2HPcA4EFnic) — Skill 训练成个人写作助手
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/Lo1nwEj0sit4RnkFZuDcNUqCn5b> ｜ 归档：2026-06-22

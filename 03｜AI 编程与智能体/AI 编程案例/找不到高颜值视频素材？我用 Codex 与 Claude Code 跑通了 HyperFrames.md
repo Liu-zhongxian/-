@@ -18,7 +18,7 @@ HyperFrames by HeyGen 其实不复杂，它只是把 AI 写的 HTML/CSS/JS 直�
 
 第二步：搜 `HyperFrames by HeyGen`，点击安装就完事了。不用重启 App、不用重载会话，下一句对话就能调用。
 
-![图片展示了Codex APP应用内插件菜单界面。左侧为导航栏，有“新对话”“搜索”“插件”等选项，其中“插件”被红色框突出显示。右侧是插件页面，标题为“让 Codex 按你的方式工作”，显示找到1个插件，即“HyperFrames by HeyGen”，其功能为“Write HTML, render video”，旁边有红色框突出显示的搜索框，内有“HyperFrames by HeyGen”字样。该图片与上下文紧密相关，直观呈现了上下文提到的在插件菜单搜“HyperFrames by HeyGen”并找到插件的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmIyNjE5MjdlMTJkNGI1YjA5YTk2NTE1ZjQyZWJlZmRfYzU2ZDEwMjQ4NDQ1ZDQ1N2Y4NmNiMDU4YzlhNzdjYmFfSUQ6NzY0NDkzNzI4NDQxMTk2ODcwNV8xNzgyMDk5MDcyOjE3ODIxMDI2NzJfVjM)
+![图片展示了Codex APP应用内插件菜单界面。左侧为导航栏，有“新对话”“搜索”“插件”等选项，其中“插件”被红色框突出显示。右侧是插件页面，标题为“让 Codex 按你的方式工作”，显示找到1个插件，即“HyperFrames by HeyGen”，其功能为“Write HTML, render video”，旁边有红色框突出显示的搜索框，内有“HyperFrames by HeyGen”字样。该图片与上下文紧密相关，直观呈现了上下文提到的在插件菜单搜“HyperFrames by HeyGen”并找到插件的操作界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWNmODdhMDc2NDI1ODYyMzE5YTUwNmQ0NzVjZGYwZmVfMTA4Mzg5NzhiNDgxYmE2MDg0ZWE1NzlkZmIxOWU4OTZfSUQ6NzY0NDkzNzI4NDQxMTk2ODcwNV8xNzgyMTA3MjQ2OjE3ODIxMTA4NDZfVjM)
 
 主要是一开始我也没使用过HyperFrames by HeyGen这个插件，直接去网页跟GPT了解了一下，直接就询问GPT要了一份提示词，发现生成的效果很好，大家没思路的时候也可以直接询问AI要提示词。
 
@@ -28,17 +28,17 @@ HyperFrames by HeyGen 其实不复杂，它只是把 AI 写的 HTML/CSS/JS 直�
 
 这里GPT 会输出一整段排版好的提示词。把里面的「Codex 基础命令」和「明亮简洁的风格」换成你自己想做的题材和风格关键词，剩下的 GPT 都帮你写好。完整提示词太长我这里就没有复制过来，其实参考的一样不大，你可以自己询问GPT然后跟着他的反馈提示词去优化就好了。
 
-![图片展示的是Codex APP中GPT收到指令后输出的完整提示词界面。画面中显示GPT正在思考，提示词内容涵盖视频规格、整体风味、画面单元、目标观众、视觉风格、视频结构、时间轴等多方面，如视频规格为91.16s，画面风格明亮简洁，目标观众为刚开始接触OpenAI Codex CLI的开发者等。该图片与上下文紧密相关，是用GPT写提示词这一步骤的呈现，为后续使用HyperFrames生成视频提供详细指导。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2I2NTE0ODEwNmE2MGE0YTFhMzlkOThmN2JiMjUwYTVfMDBmNjQ4M2ZhNTZhMjNkM2NlNDFmNWQzZDNlZTA5MGJfSUQ6NzY0NDkzNzM1MzQxNjkzNjYyOF8xNzgyMDk5MDcyOjE3ODIxMDI2NzJfVjM)
+![图片展示的是Codex APP中GPT收到指令后输出的完整提示词界面。画面中显示GPT正在思考，提示词内容涵盖视频规格、整体风味、画面单元、目标观众、视觉风格、视频结构、时间轴等多方面，如视频规格为91.16s，画面风格明亮简洁，目标观众为刚开始接触OpenAI Codex CLI的开发者等。该图片与上下文紧密相关，是用GPT写提示词这一步骤的呈现，为后续使用HyperFrames生成视频提供详细指导。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yzc3NjFlOWRiNDBlYzExODJmZjk3ZGE1MTkwOGZmNGJfZTA1MmZiYWQwYmUxNTc4ODYxYmQ4YjM4MTliNzcyNTJfSUQ6NzY0NDkzNzM1MzQxNjkzNjYyOF8xNzgyMTA3MjQ2OjE3ODIxMTA4NDZfVjM)
 
 > 注意：用 GPT 写提示词这一步不是必须的，但 HyperFrames 对画面节奏、字幕、转场的描述很吃细节，自己手写大概率会漏，让 GPT 帮你把这一层补齐效率高很多。
 
 后面就是把提示词复制到Codex的聊天窗口，按下回车以后 Codex APP 自己跑 HyperFrames 全流程：init 项目 → 写 HTML/CSS/GSAP → lint → render，整套下来 10 多分钟，输出一条 30 秒 1080×1920 的竖屏 mp4。
 
-![图片展示了Codex APP渲染完成后的成果界面。上方显示“已完成并渲染 MP4。”，下方是成片缩略图，图中文字为“Codex CLI 基础命令 30 秒快速上手 AI 编辑助手”。下方列出文件位置、HyperFrames源码、视觉规范等内容，还标注了音乐节奏提示及验证结果，如无错误、无布局问题等。该图片与上文提到的Codex APP跑通HyperFrames生成30秒成片的内容相关，直观呈现了成片成果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjdkYzllMjNjZDQ4Y2I4MGU4ZmY0NWVjYzkwZDA5NDRfZTNlYzRmMTk4MTQ2ZjVhZDA0MTI3ODg4NjAzZTRmNjNfSUQ6NzY0NDkzNzM4MzU1Njc0NjQ2MV8xNzgyMDk5MDcyOjE3ODIxMDI2NzJfVjM)
+![图片展示了Codex APP渲染完成后的成果界面。上方显示“已完成并渲染 MP4。”，下方是成片缩略图，图中文字为“Codex CLI 基础命令 30 秒快速上手 AI 编辑助手”。下方列出文件位置、HyperFrames源码、视觉规范等内容，还标注了音乐节奏提示及验证结果，如无错误、无布局问题等。该图片与上文提到的Codex APP跑通HyperFrames生成30秒成片的内容相关，直观呈现了成片成果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWU0NGUyNDU1ZmE5MjAwZjE0MGUyYjdmNDBmMDM5NmVfNGQ1MzQzNDg4OTIwOWZjM2RjNDY0ZjYyNGUyZWY4MWRfSUQ6NzY0NDkzNzM4MzU1Njc0NjQ2MV8xNzgyMTA3MjQ2OjE3ODIxMTA4NDZfVjM)
 
 说实话第一看到的时候惊艳到我了，因为成片不管是节奏、转场、还是颜色搭配都没崩，如果是对一般的自媒体创作者来说这个素材已经够用。下面就是 Codex APP 跑出来的那条 30 秒成片：
 
-<figure view-type="Card"><source href="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2I1NDZiZDk0MjhhYmMxZDIwZDgwZTRlOGM5ZGI5NzFfYjIzM2IyODY1ZGQ3MTQwNzg2YTc1NDQzZWQ2NTE0NjFfSUQ6NzY0NDkzODU0OTcyMDUzNDIzMl8xNzgyMDk5MDcyOjE3ODIxMDI2NzJfVjM" mime="video/mp4" token="Cm4Gb29tEoB1KLxfXxOcOJrPnWg"/></figure>
+<figure view-type="Card"><source href="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODcwODhlNTMzOTEyMjI3OWZhOGY0MzE5Y2EwZGQ2ZDJfM2RkZjY1OTQwMDhkYmNhNzE1NDNmYTZhMDlkZmNhNDNfSUQ6NzY0NDkzODU0OTcyMDUzNDIzMl8xNzgyMTA3MjQ2OjE3ODIxMTA4NDZfVjM" mime="video/mp4" token="Cm4Gb29tEoB1KLxfXxOcOJrPnWg"/></figure>
 
 ---
 
@@ -62,7 +62,7 @@ GIT_LFS_SKIP_SMUDGE=1 npx skills add heygen-com/hyperframes
 
 跑完这条命令会把 15 个 skill 全部装进当前项目的 `.agents/skills/` 下（项目级；加 `-g` 才装到全局位置）。这样你的skill 一进来 Claude Code 就可以立即识别到了。装完后能看到这一整套：
 
-![图片展示了HyperFrames项目中已安装的技能列表。包括hyperframes（写HTML合成/字幕/TTS/音频反应动画等）、hyperframes-cli（全流程操作）、hyperframes-media（TTS、转写、扣背景等）、hyperframes-registry（装成字幕样式/转场）、website-to-hyperframes（整站抓帧合成）、remotion-to-hyperframes（工程迁移到HyperFrames）、contribute-catalog（给官方registry提PR）、gsap/animejs/css-animations/waapi（4个2D动画引擎适配）、lottie（嵌After Effects导出的Lottie动画）、three（Three.js/WebGL 3D场景）、tailwind（Tailwind v4 browser-runtime样式）。该图与上文提到的HyperFrames装完skill列表的内容相关，直观呈现了技能及其功能。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODJjYjBkNjlhNjEwYzVmNjVmOTAzY2ExYjEwNjJhMDNfNjFiZDFlMDljZGU0YzUwOGE3YWE5NjcwNTE0M2VkMWJfSUQ6NzY0NDkzNzQ1ODk0MTQzMDk2NF8xNzgyMDk5MDcyOjE3ODIxMDI2NzJfVjM)
+![图片展示了HyperFrames项目中已安装的技能列表。包括hyperframes（写HTML合成/字幕/TTS/音频反应动画等）、hyperframes-cli（全流程操作）、hyperframes-media（TTS、转写、扣背景等）、hyperframes-registry（装成字幕样式/转场）、website-to-hyperframes（整站抓帧合成）、remotion-to-hyperframes（工程迁移到HyperFrames）、contribute-catalog（给官方registry提PR）、gsap/animejs/css-animations/waapi（4个2D动画引擎适配）、lottie（嵌After Effects导出的Lottie动画）、three（Three.js/WebGL 3D场景）、tailwind（Tailwind v4 browser-runtime样式）。该图与上文提到的HyperFrames装完skill列表的内容相关，直观呈现了技能及其功能。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjQ2N2QyYmU1ZDhmYmFjMDcxYmFiMzlmMjQwMTFhN2FfM2ZkODUyY2RiNThmNzNiNWMwMGYyM2M1NmFkYmUyNzhfSUQ6NzY0NDkzNzQ1ODk0MTQzMDk2NF8xNzgyMTA3MjQ2OjE3ODIxMTA4NDZfVjM)
 
 接下来按 Claude Code 的提示去完成基础环境的安装。完整清单是：
 
@@ -72,7 +72,7 @@ GIT_LFS_SKIP_SMUDGE=1 npx skills add heygen-com/hyperframes
 
 也可以照着这张表格逐项查检查命令和 macOS 安装命令：
 
-![图片是一张表格，列出了Node.js、FFmpeg、Chrome Headless Shell、Claude Code四项必备环境的版本要求、检查命令、安装命令（仅限macOS）。如Node.js版本要求≥22，检查命令为node --version，安装命令为brew install node或用nvm；FFmpeg版本要求任意版本（含ffprobe），检查命令为ffmpeg -version，安装命令为brew install ffmpeg等。该表格与文档中介绍Claude Code本地安装技能的上下文相关，为安装前的环境准备提供了详细指引。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTc4ZTM2NTE3NjdiZjEyZTViOTZkMjlhYWMwNzkzNzhfM2U3MmYxNmMxOTU4M2YwZGZjYTI0NGU1NTUyYjBlNmVfSUQ6NzY0NDkzNzQ4NjI4NDA5ODc2OV8xNzgyMDk5MDcyOjE3ODIxMDI2NzJfVjM)
+![图片是一张表格，列出了Node.js、FFmpeg、Chrome Headless Shell、Claude Code四项必备环境的版本要求、检查命令、安装命令（仅限macOS）。如Node.js版本要求≥22，检查命令为node --version，安装命令为brew install node或用nvm；FFmpeg版本要求任意版本（含ffprobe），检查命令为ffmpeg -version，安装命令为brew install ffmpeg等。该表格与文档中介绍Claude Code本地安装技能的上下文相关，为安装前的环境准备提供了详细指引。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWFhYjQ4MTJkNmVhM2FiYjNjZDZkMzcwZjA0NmZiZGVfMzc0NDAyNWMyOTRmMmQzNzQxY2IwNDFhN2JhN2YyNjlfSUQ6NzY0NDkzNzQ4NjI4NDA5ODc2OV8xNzgyMTA3MjQ2OjE3ODIxMTA4NDZfVjM)
 
 如果担心安装前会不会出问题，可以先来一遍环境装自检：
 
@@ -100,7 +100,7 @@ hyperframes doctor
 
 然后就可以再跑一次 doctor，应该就没有问题了。这个时候就帮你刚才的提示词，原原本本的在丢给Claude Code跑一变全流程，我这里Claude Code 跑完整流程比Codex快了几分钟，也是输出了一个30s的视频。
 
-<figure view-type="Card"><source href="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTI5YTg2NGRkNWZkZTExN2E3NDI3YWQ5NjhkM2UwY2VfYjU2NWE5ZTA2NjI2Y2NhNTFhZWM4OGJlZjE0ZTY4ODZfSUQ6NzY0NDkzODU5NzQ3MjI5MjAyMF8xNzgyMDk5MDcyOjE3ODIxMDI2NzJfVjM" mime="video/mp4" token="PaABbTUt0oDvwGxM2F1cmFWZnKe"/></figure>
+<figure view-type="Card"><source href="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Y2I3NWI5MTY2NWI5YzcyYTA5YjBjYjIxZjdjMmM1ZTZfOThhMDI3YTUyZTNlMjNiNDExNDU2Yjg5NzVhMDFhZTNfSUQ6NzY0NDkzODU5NzQ3MjI5MjAyMF8xNzgyMTA3MjQ2OjE3ODIxMTA4NDZfVjM" mime="video/mp4" token="PaABbTUt0oDvwGxM2F1cmFWZnKe"/></figure>
 
 如果你能跟着走到这里，基本上你也和我一样两条路线都跑通了，其实过程并不复杂。Claude Code 那条卡了一下——主要是官方没有给 Claude Code 用的插件市场，但是 skill 可以直接复制过来本地装。
 
@@ -166,3 +166,7 @@ flowchart LR
     H --> I[输出<br/>1080×1920 / 30s 成片]
 
 ```
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/VBmUwo60IiYeDDkbAaZciEiPnYe> ｜ 归档：2026-06-22

@@ -315,3 +315,7 @@ lark-cli auth status
 
 
 多维表格有了数据之后，就可以利用内置的多种视图，方便筛选，查看。
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/HhGZwQnLMiOzG4kPLDncPTv8nKc> ｜ 归档：2026-06-22

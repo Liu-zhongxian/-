@@ -2,7 +2,7 @@
 
 ​
 
-![图片为一张宣传图，背景为蓝黑色科技风格，上方白色文字写着“分享一份最近学习GEO期间整理的教程文档”，下方文字为“如何让AI搜索主动引用你”。该图片位于文档开头部分，是对文档主题的概括，介绍了文档是作者在学习GEO期间整理的教程文档，主要内容是关于如何让AI搜索主动引用你，面向内容创作者、个人IP和中小品牌，希望对大家了解GEO有所帮助。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODUzOTI0NmUxMDdjMDhiOTQ2MDUyNzEyN2QzYjAyZDhfZGU3YzM0Y2U1ZWVhOTQyOGFkOGI4NjM0OTA1YjA3MmVfSUQ6NzY0NjMxODAxNTE0ODA2Nzc5Nl8xNzgyMDk5MTI4OjE3ODIxMDI3MjhfVjM)
+![图片为一张宣传图，背景为蓝黑色科技风格，上方白色文字写着“分享一份最近学习GEO期间整理的教程文档”，下方文字为“如何让AI搜索主动引用你”。该图片位于文档开头部分，是对文档主题的概括，介绍了文档是作者在学习GEO期间整理的教程文档，主要内容是关于如何让AI搜索主动引用你，面向内容创作者、个人IP和中小品牌，希望对大家了解GEO有所帮助。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWFmODlkMjFjYmQxOTJjZjIyZWViZjdmNGEwYjhlZmNfMmMwMTJiMjc3NGYwM2IwNTA2NWQ5MzQ5YTFhYmM4ZjdfSUQ6NzY0NjMxODAxNTE0ODA2Nzc5Nl8xNzgyMTA3Mjk2OjE3ODIxMTA4OTZfVjM)
 
 昨天看到国内315晚会曝光了AI大模型被投毒的产业链，其实GEO和SEO本身都是获取流量的方式，只不过现在没有SEO那么完善，所以容易发生一颗老鼠屎坏了一锅粥的情况。
 
@@ -23,7 +23,7 @@ GEO（Generative Engine Optimization，也叫生成式引擎优化）是一种�
 
 ## 1.3 GEO vs SEO：核心区别
 
-![图片是一张表格，对比了SEO（传统搜索优化）和GEO（生成式引擎优化）的维度。在优化目标上，SEO是排在传统搜索前10，GEO是成为AI生成答案里的「首选引用」；在竞争对象上，SEO是其他网页的排名评分，GEO是其他信息源的「被引用权」；在技术核心上，SEO是关键词密度、外链、爬虫友好，GEO是语义理解、权威信源、知识图谱对齐；在内容方向上，SEO是关键词匹配 + 页面结构，GEO是语义深度 + 事实密度 + 结构化数据；在成功指标上，SEO是点击率（CTR）、页面排名，GEO是答案提及率、品牌被引用次数、引用情感。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NmJjOTNmNDc3Y2M1NTNhNzU4OTg4MWYwZjIxZjFmNDlfZjc3MGFlMDkxOGRkZDI3MDA1MTM2ZTczZDY4Y2M4NzdfSUQ6NzY0NjMxODAzNjU3MjA5NzQ4NF8xNzgyMDk5MTI4OjE3ODIxMDI3MjhfVjM)
+![图片是一张表格，对比了SEO（传统搜索优化）和GEO（生成式引擎优化）的维度。在优化目标上，SEO是排在传统搜索前10，GEO是成为AI生成答案里的「首选引用」；在竞争对象上，SEO是其他网页的排名评分，GEO是其他信息源的「被引用权」；在技术核心上，SEO是关键词密度、外链、爬虫友好，GEO是语义理解、权威信源、知识图谱对齐；在内容方向上，SEO是关键词匹配 + 页面结构，GEO是语义深度 + 事实密度 + 结构化数据；在成功指标上，SEO是点击率（CTR）、页面排名，GEO是答案提及率、品牌被引用次数、引用情感。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTc1MTZiNjQ3NzdmNjlkYzM0NmY2NmI0NzA0ODZmMTBfMmVkN2MyMGZlNWIyYjExMWJlZTZkY2EyOWU2MmZkMjBfSUQ6NzY0NjMxODAzNjU3MjA5NzQ4NF8xNzgyMTA3Mjk2OjE3ODIxMTA4OTZfVjM)
 
 GEO和SEO是否互斥：**不互斥，SEO是GEO的基础，两者协同效果最佳。**
 
@@ -51,7 +51,7 @@ GEO和SEO是否互斥：**不互斥，SEO是GEO的基础，两者协同效果最
 
 在网站根目录的 robots.txt 中，确保以下爬虫不被屏蔽：
 
-![图片是一张表格，列出了不同爬虫名称、对应平台及建议。关键信息有：OAI - SearchBot、ChatGPT - User、PerplexityBot、Google - Extended、Bingbot等爬虫名称，对应平台如ChatGPT搜索、Claude训练数据采集等，建议栏有“必须放行”“可屏蔽”等标识。该表与上下文关系紧密，是对2.1放行AI爬虫（robots.txt配置）中需确保不被屏蔽爬虫的详细说明，为网站配置robots.txt提供参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzZlNzFmOTMyN2NmYjVmZjE2MzdmMTA2OWM5N2MxODFfMTM5OTM5ZmNlZGFiNjlmM2Q2NDM2YWI5NDEzODkyZTBfSUQ6NzY0NjMxODA1NTk3NTY4NTA1MF8xNzgyMDk5MTI4OjE3ODIxMDI3MjhfVjM)
+![图片是一张表格，列出了不同爬虫名称、对应平台及建议。关键信息有：OAI - SearchBot、ChatGPT - User、PerplexityBot、Google - Extended、Bingbot等爬虫名称，对应平台如ChatGPT搜索、Claude训练数据采集等，建议栏有“必须放行”“可屏蔽”等标识。该表与上下文关系紧密，是对2.1放行AI爬虫（robots.txt配置）中需确保不被屏蔽爬虫的详细说明，为网站配置robots.txt提供参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWZiYWZhMGYyYzZiZmMwZjNhMTY3NjljMWVkNzFmZjNfYTViOTIxZmY0MjJhODZkYjk1MTc5YWIzYjliMWFlNzVfSUQ6NzY0NjMxODA1NTk3NTY4NTA1MF8xNzgyMTA3Mjk2OjE3ODIxMTA4OTZfVjM)
 
 **实操示例（robots.txt）：**
 
@@ -129,7 +129,7 @@ Schema是你和AI的「握手协议」，**有Schema标记的内容，AI可见�
 
 **优先添加的Schema类型：**
 
-![图片是一张表格，展示了不同Schema类型及其适用场景和偏好平台。Schema类型包括Article、FAQPage、HowTo、Person + sameAs、Organization、LocalBusiness等。适用场景有博客文章、教程、FAQ问答页、步骤教程等。偏好平台方面，如FAQPage特别偏好Perplexity，Person + sameAs在所有平台（建立E-E-A-T）等。该表格与文档中介绍技术基建时提到的优先添加Schema类型内容相关，为创作者提供参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWZlZjI0YTIzN2IwMjgwMGU0YzQ5NmY5ZTE5ODhmNWVfMzhmYTEzYmM4ZDdkMThlNWJhNjQwNTAxYjQ1MzJjOGJfSUQ6NzY0NjMxODA3NDc0NDkxNjkzNF8xNzgyMDk5MTI4OjE3ODIxMDI3MjhfVjM)
+![图片是一张表格，展示了不同Schema类型及其适用场景和偏好平台。Schema类型包括Article、FAQPage、HowTo、Person + sameAs、Organization、LocalBusiness等。适用场景有博客文章、教程、FAQ问答页、步骤教程等。偏好平台方面，如FAQPage特别偏好Perplexity，Person + sameAs在所有平台（建立E-E-A-T）等。该表格与文档中介绍技术基建时提到的优先添加Schema类型内容相关，为创作者提供参考。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODdlYzc2MTM4N2Y3YmFmMGYxY2I5YmFkZThjOWU0ZjRfNTc0NzY5OTE5YzFhMGVjM2NjZWU5MmU0NzEwMzYzMTlfSUQ6NzY0NjMxODA3NDc0NDkxNjkzNF8xNzgyMTA3Mjk2OjE3ODIxMTA4OTZfVjM)
 
 **FAQPage Schema示例：**
 
@@ -217,7 +217,7 @@ Princeton大学GEO研究（KDD 2024）关键发现：引用权威来源（+40%�
 
 ## 3.2 最容易被AI引用的内容类型排名
 
-![图片是一张表格，展示了最容易被AI引用的内容类型及其引用占比和操作建议。内容类型包括对比文章（X vs Y）、权威指南/教程、原创研究/数据报告、榜单/推荐列表、FAQ问答集，分别对应~33%、~15%、~12%styleType addCriterion%、~10%、~8%的引用占比，操作建议则针对每种类型给出具体建议，如对比文章需做深度对比、结论明确，权威指南需结构清晰、有Schema标记等。该表格与上下文紧密相关，是对3.2节中“最容易被AI引用的内容类型排名”内容的详细呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWRhMzI3NGM5ZjBiMTQ2MjlkYWFjMzVhMTgwYmJhMGJfNzVlNWQzZGMxNTBhZTY1NTAzYmQyNjg4ZGNhZmI1OTdfSUQ6NzY0NjMxODA5ODUzNDAyNjE3Nl8xNzgyMDk5MTI4OjE3ODIxMDI3MjhfVjM)
+![图片是一张表格，展示了最容易被AI引用的内容类型及其引用占比和操作建议。内容类型包括对比文章（X vs Y）、权威指南/教程、原创研究/数据报告、榜单/推荐列表、FAQ问答集，分别对应~33%、~15%、~12%styleType addCriterion%、~10%、~8%的引用占比，操作建议则针对每种类型给出具体建议，如对比文章需做深度对比、结论明确，权威指南需结构清晰、有Schema标记等。该表格与上下文紧密相关，是对3.2节中“最容易被AI引用的内容类型排名”内容的详细呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjNlMmY0OTYyODQxNDY5Y2MyZmNlOThlOTg3YjJmZWRfZWIyODg5ODA2NDNjOTg0NTdjMDIxZmNlMDc0ZTQ4OGJfSUQ6NzY0NjMxODA5ODUzNDAyNjE3Nl8xNzgyMTA3Mjk2OjE3ODIxMTA4OTZfVjM)
 
 **不会被引用的内容：** 无结构的通用博文、营销空话、付费墙内容、没有日期和作者的内容、纯关键词堆砌。
 
@@ -292,7 +292,7 @@ Princeton大学GEO研究（KDD 2024）关键发现：引用权威来源（+40%�
 
 ## 5.1 核心第三方平台及优先级
 
-![图片是一张表格，展示了多个平台的AI引用权重及操作建议。平台包括Wikipedia/百度百科、Reddit、知乎、行业评测站（G2/Capterra）、YouTube、LinkedIn、GitHub等。AI引用权重以星号表示，如Wikipedia/百度百科为5星，Reddit为4星等。操作建议如确保词条准确且最新、真实参与讨论、高质量长回答等。该表与上下文紧密相关，是对5.1核心第三方平台及优先级中各平台AI引用权重及操作建议的具体呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzljMTU3ZDIyODE3NDA4MTc2YjI1ZmQ4YWQ1N2EwZWFfYzk0OWY4ZDA2NDdlMGIwOGJiYmMwODA1YTBmYWRjNzJfSUQ6NzY0NjMxODExNTAxNDYwOTg5MF8xNzgyMDk5MTI4OjE3ODIxMDI3MjhfVjM)
+![图片是一张表格，展示了多个平台的AI引用权重及操作建议。平台包括Wikipedia/百度百科、Reddit、知乎、行业评测站（G2/Capterra）、YouTube、LinkedIn、GitHub等。AI引用权重以星号表示，如Wikipedia/百度百科为5星，Reddit为4星等。操作建议如确保词条准确且最新、真实参与讨论、高质量长回答等。该表与上下文紧密相关，是对5.1核心第三方平台及优先级中各平台AI引用权重及操作建议的具体呈现。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzM3YTBhZDMxMzg1NDc5NDc5NWZkNjMyYmY1NmFkNTdfM2U0MDlmODA3NzAxZDExYzRiZDBmODA5MGZhZWE3Y2VfSUQ6NzY0NjMxODExNTAxNDYwOTg5MF8xNzgyMTA3Mjk2OjE3ODIxMTA4OTZfVjM)
 
 ## 5.2 Reddit/知乎的GEO优化
 
@@ -348,4 +348,8 @@ Princeton大学GEO研究（KDD 2024）关键发现：引用权威来源（+40%�
 
 以下为这篇文档引用参考的资料，都写的很好，大家也可以自行查看：
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDFiMjZjMzY4NGQzNmVhYzQ2MjQ4MDhjMmE3ZTE2MjJfYWQwMDMzOTk0N2MwZTAyNTEzZDI1ZjMwZTEzOTBlZGJfSUQ6NzY0NjMxODEzNjk4ODI1NzIyN18xNzgyMDk5MTI4OjE3ODIxMDI3MjhfVjM)
+![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzgzMmM2NWY3MjA3ODdmZTY2N2M2MjEyMjZiOTA4YzVfMDIzZjNhMDMxOWNlODcyOTNjNzQ2NjczMjM0YjQwZjhfSUQ6NzY0NjMxODEzNjk4ODI1NzIyN18xNzgyMTA3Mjk2OjE3ODIxMTA4OTZfVjM)
+
+---
+
+> 来源：飞书 · AI Spark AI Wiki ｜ 原文（最新版）：<https://lcnniolukk80.feishu.cn/wiki/BdgMwkUxTiByCWkPEhlcwfaWnEc> ｜ 归档：2026-06-22

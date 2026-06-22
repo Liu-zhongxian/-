@@ -1,7 +1,5 @@
 # AI Skill 到底是什么？搞懂这个，AI 才算真的用上了
 
-# AI Skill 到底是什么？搞懂这个，AI 才算真的用上了
-
 ![图片展示了“AI Skill到底是什么？搞懂这个，AI才算真的用上了”的主题内容。画面中间是“AI Skill工作机制”流程图，从左至右依次为输入（需求、目标）、理解（分析/拆解）、技能（方法/策略）、工具（能力/资源）、输出（结果/交付），并有反馈迭代、持续优化的循环箭头。右侧是方法对比，以图表形式呈现不同维度对比。图片直观呈现了文档中对AI Skill工作机制及相关对比的内容，辅助读者理解AI Skill的概念。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODYyMjdjYTdlYmY0MDVkMjIyMDEyNTVkZDI0MGUyOGZfNjEyMTM4N2QxMzY5ZGUwODkxMTAyM2JkYzI2NjAyNzlfSUQ6NzY0NDk3ODc4Njk3ODUzMjU1N18xNzgyMDk4OTMzOjE3ODIxMDI1MzNfVjM)
 
 我想大家都在平时工作还是在网上都听到很多人在说Skill，但是没有人具体的把它讲明白。

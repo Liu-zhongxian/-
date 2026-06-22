@@ -1,9 +1,5 @@
 # 告别折腾！Windows 一键极简安装 Claude Code (免翻墙免Node免Git)
 
-# 告别折腾！Windows 一键极简安装 Claude Code (免翻墙免Node免Git)
-
-
-
 ![图片展示的是Windows一键安装Claude Code的宣传图。背景为蓝色，上方文字为“Windows 一键安装 Claude Code 免翻墙 / 免Node / 免Git”。画面中有一台笔记本电脑，屏幕显示代码编辑界面，左侧有“npm install”“Set-ExecutionPolicy”等图标及文字，右侧有“claude setup”“PowerShell”等图标及文字。底部有Windows图标、绿色对勾、代码符号等元素。该图与文档中介绍的Windows一键安装Claude Code免翻墙、免Node、免Git的自动化安装脚本内容相契合，直观呈现了安装过程中的关键步骤和界面。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2NlMGU1ZmU3MDViZTE0YWYyNDUyNWU3YTg5NGQ2MzlfZTk2ODc2NWRhMTZmMWQ1ZmNmOTA3MWY3MDdlZmJmMzdfSUQ6NzY0NTcxNDA4NjM0MDE1MjUwNl8xNzgyMDk4OTU5OjE3ODIxMDI1NTlfVjM)
 
 Anthropic 旗下的 **Claude Code** 被公认为目前业界最强的 AI 编程助手，很多小伙伴都想在自己的电脑上体验它的彪悍能力。

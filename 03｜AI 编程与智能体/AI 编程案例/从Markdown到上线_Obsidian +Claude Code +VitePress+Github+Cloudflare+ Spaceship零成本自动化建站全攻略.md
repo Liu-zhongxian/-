@@ -1,7 +1,5 @@
 # 从Markdown到上线:Obsidian +Claude Code +VitePress+Github+Cloudflare+ Spaceship零成本自动化建站全攻略
 
-# 从Markdown到上线:Obsidian +Claude Code +VitePress+Github+Cloudflare+ Spaceship零成本自动化建站全攻略
-
 ​
 
 ![图片为一张宣传图，背景为黑白放射状线条。上方文字为“小白零成本入门”，中间大字部分是“迎接GEO时代：自动化部署个人网站”，最下方是“保姆级教程”，其中“保姆级教程”为蓝色字体。该图片位于文档开头部分，与文档中介绍从Markdown到上线的自动化建站全攻略的上下文相呼应，起到吸引读者、介绍教程主题的作用。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTU4OTZhZTJmYjcxMTAzNmQwYjZjZmQ1ODNmOWZiY2RfYWRmMTI3N2I0NGVlYjA0NDdhZTdkM2FmYTc0MzFiZTlfSUQ6NzY0NjMwNTAxNzk1OTQzNTIyNF8xNzgyMDk5MDc1OjE3ODIxMDI2NzVfVjM)

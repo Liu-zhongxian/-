@@ -1,7 +1,5 @@
 # 有人把同事蒸馏成了 AI —— 聊聊 Agent 人格化这件疯狂的事
 
-# 有人把同事蒸馏成了 AI —— 聊聊 Agent 人格化这件疯狂的事
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzdkZjY1OWEzMDg5MWFkMWNmNTNkZDExMzFiM2UzY2JfY2Q5N2M1OTZmN2E1ZTE4ZDY0YWM3ZjgyMTRhOTFjMzBfSUQ6NzY0NTI2NjcwNTg4MzA1NzM1Ml8xNzgyMDk5MTgwOjE3ODIxMDI3ODBfVjM)
 
 有人把同事蒸馏成了 Agent Skill——以后开会再也不用等他回消息了。

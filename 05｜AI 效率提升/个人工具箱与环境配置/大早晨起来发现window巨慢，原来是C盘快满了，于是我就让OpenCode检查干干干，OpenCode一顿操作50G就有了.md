@@ -1,7 +1,5 @@
 # 大早晨起来发现window巨慢，原来是C盘快满了，于是我就让OpenCode检查干干干，OpenCode一顿操作50G就有了
 
-# 大早晨起来发现window巨慢，原来是C盘快满了，于是我就让OpenCode检查干干干，OpenCode一顿操作50G就有了
-
 ​
 
 ![图片以绿色放射状背景为主，上方文字为“大早晨起来 发现电脑巨慢 原来是 C盘快爆满了”，中间文字是“我用 OpenCode 搞一下”，下方文字为“50G空间就有了！”。图片与上下文紧密相关，上下文提到作者发现电脑运行缓慢，原来是C盘快满了，于是使用OpenCode清理，最终腾出50G空间，图片正是对这一情况的总结和强调，直观呈现了清理结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTk0ZWU5OWRiOWZjZjIwYzc0ZDkzZDQ1OWY5Yjc4M2FfYzJjZWMwNjkwNzczMzM2NTYxNzk1NmU2OGI4MmU2ZmRfSUQ6NzY0NjMwNzcxMTk5OTY5MTczNV8xNzgyMDk5MTcyOjE3ODIxMDI3NzJfVjM)

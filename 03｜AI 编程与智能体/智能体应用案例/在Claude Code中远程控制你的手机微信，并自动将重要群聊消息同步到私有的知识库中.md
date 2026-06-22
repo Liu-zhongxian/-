@@ -1,7 +1,5 @@
 # 在Claude Code中远程控制你的手机微信，并自动将重要群聊消息同步到私有的知识库中
 
-# 在Claude Code中远程控制你的手机微信，并自动将重要群聊消息同步到私有的知识库中
-
 ​
 
 ![图片展示了Airtap产品功能，其背景为渐变色。左侧有Airtap标志及文字“让AI帮你自动同步微信聊天记录，读取、同步、保存、随时查阅”。中间是手机界面，显示AI与用户聊天记录。右侧是微信聊天记录同步界面，有5条记录，包括时间、聊天内容及表情。底部有“读取消息”“自动同步”“保存到本地”“随时查阅”四个功能图标。该图与文档中介绍Airtap能自动同步微信聊天记录的内容相契合，直观呈现其功能。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjBlODFkYTI5YTA3M2M4MzVhMDljMWJkMmYxMzdmNDVfODAzYzVmMzY2MTM0ZjBjY2M1ZTRiZjA5Yzc3Mzk1NzhfSUQ6NzY0NjMwNzI3Njc3NzY4ODAwNl8xNzgyMDk5MDkzOjE3ODIxMDI2OTNfVjM)

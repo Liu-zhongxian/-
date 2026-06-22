@@ -1,7 +1,5 @@
 # kimi K2.5的发布，让Remotion制作视频的能力无限放大
 
-# kimi K2.5的发布，让Remotion制作视频的能力无限放大
-
 ​
 
 ![图片展示了Kimi K2.5视频转代码的流程。原始视频素材经OpenCode下载、剪辑后，Kimi K2.5利用视觉能力生成干净专业代码，最终用于Remotion项目完美复刻二创。图片还对比了Gemini Pro/ChatGPT Plus（效果差）与Kimi K2.5（效果惊艳，近乎完美）的效果，底部提示“快来试试！GitHub & Demo分享中~”。该图与文档中Kimi K2.5通过视觉能力复现视频，为Remotion制作短视频提供示例的内容相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWYzMWRlZGZlYmVlMWQ3NmY0YjNlYzZhN2NmMjg3OTZfMTFmMWM4MzZlYjM5ODc5MWVhZDc4NzExNjc2ZGVhMWZfSUQ6NzY0NjMwNDMwNzg5NzM3MTYwOV8xNzgyMDk5MTI2OjE3ODIxMDI3MjZfVjM)

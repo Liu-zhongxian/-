@@ -1,7 +1,5 @@
 # 可能是全网最全的 Claudian 配置教程了Claude Code + Codex 双模型实战
 
-# 可能是全网最全的 Claudian 配置教程了Claude Code + Codex 双模型实战
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjBkNmM4ZGNlODAyZjgxNTZlYzU0ODI3MTEwMWYzZmJfYmIyYzk1NjAzMTM0ZTkzZTM1MmZlODBhMjY3ZGRmNDdfSUQ6NzY0NTI2NjM0NDI4MzIxMzAwMV8xNzgyMDk5MDUyOjE3ODIxMDI2NTJfVjM)
 
 **装完 Claudian 还在只跑 Claude Code?**

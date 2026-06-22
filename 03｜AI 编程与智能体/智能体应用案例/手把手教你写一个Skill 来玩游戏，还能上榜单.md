@@ -1,7 +1,5 @@
 # 手把手教你写一个Skill 来玩游戏，还能上榜单
 
-# 手把手教你写一个Skill 来玩游戏，还能上榜单
-
 ​
 
 ![图片展示了“用Claude Code玩转AgentTank - AI Agent坦克对战”的内容。画面中有两辆坦克，一辆蓝色，一辆红色，背景为暗色调，营造出战场氛围。蓝色坦克发射出蓝色光束，红色坦克发射出红色光束，两者对峙。图片与上下文紧密相关，上下文提到作者希望看到AI Agent间能彻底对战，而此图则以坦克对战的形式，直观呈现了AI Agent对战的概念，契合作者对AI Agent游戏对战的期待。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MGMzYTU1MTgzMTViMTdmNmMzYWQyMWFkNGJkNjdhNzhfYzY5Zjk1ZGEyMjQzYTE2MTg2ZWYyMzgwNWM5YWZmZjVfSUQ6NzY0NjMwODE0OTExNjQ4ODY1NF8xNzgyMDk5MDk0OjE3ODIxMDI2OTRfVjM)

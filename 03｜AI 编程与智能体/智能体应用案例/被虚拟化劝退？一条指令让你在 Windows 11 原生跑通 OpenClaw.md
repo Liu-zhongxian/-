@@ -1,9 +1,5 @@
 # 被虚拟化劝退？一条指令让你在 Windows 11 原生跑通 OpenClaw
 
-# 被虚拟化劝退？一条指令让你在 Windows 11 原生跑通 OpenClaw
-
-
-
 ![图片展示的是OpenClaw在Windows 11上的宣传图。画面中，一台显示器被链条环绕，屏幕上显示着Windows 11界面及代码指令，画面右下角有“NATIVE SUCCESS”字样。背景为城市夜景。左侧文字为“OpenClaw：原生力量 在Windows 11上彻底释放OpenClaw”。该图片与文档中“直接在Windows 11原生环境中硬刚”的内容相呼应，强调OpenClaw能在Windows 11原生环境中运行。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWRhMzE4NzE2MTRlYTFiODhmNmZlYzhjNTc1ZTAyOGRfMmYzZjkyOTM2Y2FhMjQ0YmUyZjc5ZGIzOGJjNDhhNjVfSUQ6NzY0NTcxNTUyMzQ4MDg0OTYyM18xNzgyMDk5MDg4OjE3ODIxMDI2ODhfVjM)
 
 前天，腾讯大楼底下出现了一个关于 AI 圈的奇景：为了推动这场前沿的工具革命，腾讯竟然派出了官方的工程师团队，在总部大楼广场直接“摆摊”，手把手免费为每一个路过的路人安装部署 OpenClaw。

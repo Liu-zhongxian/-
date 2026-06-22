@@ -1,7 +1,5 @@
 # Mac使用指南系列文章：从零搭建Codex App桌面端结合GitHub CLI，体验 AI 自动化克隆与提交
 
-# Mac使用指南系列文章：从零搭建Codex App桌面端结合GitHub CLI，体验 AI 自动化克隆与提交
-
 ​
 
 ![图片展示了新手小白Mac必装的相关内容，标题为“新手小白Mac必装：Codex App + GitHub CLI 打造AI辅助工作流”。左侧有机器人](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjVhYzk1ZjA3OTQyMGI2NmY2MTQxNGU3NWQ4YzBmYjNfZGU3ZjNhNzhkMTM0YTIzOTgwY2I4ZDNiMDkzYjRjN2JfSUQ6NzY0NjMwMzg1NTM2MTg4NzE3NF8xNzgyMDk5MTcwOjE3ODIxMDI3NzBfVjM)

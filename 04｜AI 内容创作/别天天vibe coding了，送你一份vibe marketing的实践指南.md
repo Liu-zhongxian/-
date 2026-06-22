@@ -1,7 +1,5 @@
 # 别天天vibe coding了，送你一份vibe marketing的实践指南
 
-# 快速说清楚 vibe marketing是什么？
-
 **一句话介绍就是：用AI来设计、执行并优化你的营销，就像你用AI写代码一样**
 
 前段时间看硅谷创业大佬Greg Isenberg发了一条帖子，很多人转发：

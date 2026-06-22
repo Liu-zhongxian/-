@@ -1,7 +1,5 @@
 # Obsidian × AI 最简方案：不碰终端，5 分钟让 AI 住进侧边栏当你的记忆外挂
 
-# Obsidian × AI 最简方案：不碰终端，5 分钟让 AI 住进侧边栏当你的记忆外挂
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDZmYTg5NDUxYmJmMzc1ZTk4NDIxZGE5ODljYzI4NDVfODM4ODRkZTk5NjZmODA3MGNkMDkwYmU3NWNkYjUwZjVfSUQ6NzY0NTI2NTcyODk4MzU1MTE2MV8xNzgyMDk5MTQzOjE3ODIxMDI3NDNfVjM)
 
 这是「Obsidian + AI」系列第三篇。前两篇走的是 CLI 路线（Claude Code / Codex / opencode），门槛不低。这一篇换条路：纯插件，不碰终端。

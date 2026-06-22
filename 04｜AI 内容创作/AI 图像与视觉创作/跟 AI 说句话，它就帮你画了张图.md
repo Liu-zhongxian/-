@@ -1,7 +1,5 @@
 # 跟 AI 说句话，它就帮你画了张图
 
-# 跟 AI 说句话，它就帮你画了张图
-
 ![图片展示了“给一篇文章生成封面图”的操作流程。左侧蓝色区域有“一句话生成图片”字样，中间是蓝色的科技感图形，右侧是色彩斑斓的风景画。下方文字文字为“跟AI说句话，它就帮你画了张图”，右下角有“阿蔺A-Lin”字样。该图与上下文紧密相关，直观呈现了给AI生成图片的步骤，即只需说一句话，AI就能根据指令生成图片，契合文档中介绍的无需写提示词，只需把内容丢给AI，它自己分析画什么、选什么风格，直接出图的内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDI1MDMzNmNjZGYwY2JlMGFlZGRhYTcxMTFhMjZmMmFfMzg1M2NiMmM1ZGMzY2U1MTc2MDMwZmIxMmMzZjM1MzlfSUQ6NzY0NTI2NjI0NzQ1MTYxMDMyNV8xNzgyMDk5MTIxOjE3ODIxMDI3MjFfVjM)
 
 跟 AI 说了句"帮我画张图"，一分钟不到，出来了。

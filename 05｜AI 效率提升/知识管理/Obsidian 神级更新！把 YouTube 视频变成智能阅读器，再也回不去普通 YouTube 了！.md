@@ -1,9 +1,5 @@
 # Obsidian 神级更新！把 YouTube 视频变成智能阅读器，再也回不去普通 YouTube 了！
 
-# Obsidian 神级更新！把 YouTube 视频变成智能阅读器，再也回不去普通 YouTube 了！
-
-
-
 ![图片展示了Obsidian将YouTube视频变成智能阅读器的功能界面。画面中突出显示“OBSIDIAN神级更新！把YOUTUBE视频变成智能阅读器！”字样。界面左侧有“章节”标识，右侧有“开启Reader模式”“保姆级教程”“自动高亮+自动滚动”等选项，还展示了点击字幕直接跳转、自动滚动等功能。该图片与上文介绍的Obsidian将YouTube视频变成智能阅读器的保姆级上手教程相呼应，直观呈现了相关功能。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGE1NDViN2VmZmUwYzI2MDMwMTBmZDI0ZmJmNWIzNWVfMzJjNzE3MzYyNDYwYTE0OWRkNDM1YmMzYTI3MmY5ZTdfSUQ6NzY0NTcxMzMyNzkwNTA5ODk2N18xNzgyMDk5MTUzOjE3ODIxMDI3NTNfVjM)
 
 **YouTube 视频变成智能阅读器保姆级上手教程（零基础也能 3 分钟学会）**

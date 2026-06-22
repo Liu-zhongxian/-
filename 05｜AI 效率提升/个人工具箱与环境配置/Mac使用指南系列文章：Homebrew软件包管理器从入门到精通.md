@@ -1,7 +1,5 @@
 # Mac使用指南系列文章：Homebrew软件包管理器从入门到精通
 
-# Mac使用指南系列文章：Homebrew软件包管理器从入门到精通
-
 ​
 
 ![图片左侧以一杯带有“BREW”标识的啤酒为主题，配文“Homebrew for macOS: 从零开始一切的起点”。右侧展示了一段终端命令代码，包括“xcode-select --install”和“brew install git python nodejs cask visual-studio-code google-chrome”等，右侧还配有多个图标，如VS Code、Chrome、Python等。该图片与文档中介绍Homebrew是macOS包管理器，是Mac使用过程中的重要起点，可安装命令行工具和图形化应用等内容相呼应，直观呈现了Homebrew的功能和使用场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2Q0OTg1ODc5OGY4ZWY4ZmMyNTg5ZTE0Y2E0Y2Y0MDRfNmQyZDI2NjY4ODNiZWRjYThjYzhhMmVlNTdkOTAyZTlfSUQ6NzY0NjMwMzc1NTM2NTcxNDkxNl8xNzgyMDk5MTY5OjE3ODIxMDI3NjlfVjM)

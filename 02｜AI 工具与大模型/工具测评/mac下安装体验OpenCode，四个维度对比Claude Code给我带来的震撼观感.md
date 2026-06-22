@@ -1,7 +1,5 @@
 # mac下安装体验OpenCode，四个维度对比Claude Code给我带来的震撼观感
 
-# mac下安装体验OpenCode，四个维度对比Claude Code给我带来的震撼观感
-
 ​
 
 ![图片展示了Mac 自动生成](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDU1NWZkYTZmNjlkZjc2NDczNWFlNDNhMWZlNDNlMjRfODhlNmFiOWQ5MTFmYzM4ZGNkY2IwYjI3Yzc3MmI4MDBfSUQ6NzY0NjMwNDU0MDExOTMwNTE1NF8xNzgyMDk4OTY5OjE3ODIxMDI1NjlfVjM)

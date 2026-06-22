@@ -1,7 +1,5 @@
 # Claudian 安装教程：把 Claude Code 接进 Obsidian，从 0 到侧边栏对话
 
-# Claudian 安装教程：把 Claude Code 接进 Obsidian，从 0 到侧边栏对话
-
 ![图片为Claudian安装教程的封面，标题为“Claudian安装教程 把重点先讲清”，右侧有三个流程图框，分别标注“config”“验证”“上动”，并有箭头连接。右下角有“小墨同学”标识。该图片位于介绍Claudian安装教程的文档开头部分，起到引导和说明教程流程的作用，与后续下载、创建仓库等安装步骤内容相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWEyNWU5YTE2NTUwZWRiMDFlYzkwZGZiNzIzY2Q1MDdfYmZiYThhNDA0OTI4OGI3MThmNmQzZjhjNjkzN2FjYTNfSUQ6NzY0NTI0MjI1MjE1NjE3NzYxMl8xNzgyMDk5MTM1OjE3ODIxMDI3MzVfVjM)
 
 ## 在很多人看来使用CLI还是有一定难度的，或者在编辑文案内容的时候很不方便，需要来回切换文章和CLI命令行，我这篇要做的事很直接：Obsidian 左边多一个机器人图标，点开之后在侧边栏发一句话，Claude 直接把内容写进笔记。不切屏，不开终端让AI模型和Obsidian融为一体。我自己也是Obsidian 高强度的使用者。但是在文学创作的时候Claude code和Obsidian来回切换让我痛苦不堪，最后我找到了这个`Claudian` 可以完美的解决我的问题，这里我也把我自己的踩坑和安装总结成了这篇文章。

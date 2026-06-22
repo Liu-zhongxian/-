@@ -1,9 +1,5 @@
 # 嫌 Obsidian 官方同步太贵？这套零成本的 GitHub 同步方案赶紧收好
 
-# 嫌 Obsidian 官方同步太贵？这套零成本的 GitHub 同步方案赶紧收好
-
-
-
 ![图片展示了Obsidian零成本GitHub同步方案，以Git稳定备份与历史版本控制为核心。画面左侧是本地笔记Vault，右侧是云端私有仓库，两者通过Free（免费）、Stable（稳定）、History（时光机）三个阶段的箭头连接。文字说明该方案可实现免费、稳定同步，还能保存笔记历史版本，且手把手教搭建。此图与文档中介绍的同步问题及寻找免费稳定同步替代方案的内容相呼应，直观呈现了解决方案。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjgxNzViOGQ1N2RiYzdhNzU0Nzk0MTU4OWQ4ZWJlYjZfMTNjZDllYTFiYzJjYmY1Y2Q5ZmU5Y2EyZmE2Y2MxNmRfSUQ6NzY0NTcxNDUwMDk4MDU5MTgxN18xNzgyMDk5MTU0OjE3ODIxMDI3NTRfVjM)
 
 很多 Obsidian 用户最大的痛点，就是**同步问题**。

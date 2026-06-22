@@ -1,7 +1,5 @@
 # 滴答清单 MCP 功能完全指南：在 Claude Code 中实现 AI 智能任务管理
 
-# 滴答清单 MCP 功能完全指南：在 Claude Code 中实现 AI 智能任务管理
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDg0YmFlNmI0YzhiOTE2ZThmZjVkZjE5MWU0ZjA3ZTdfNTQ2MzNmOGYyNzgwZjEzNDQ2NzJhNWQ2YzYyZjE5NDNfSUQ6NzY0NTI2NjAwMjI4NDEyMTI5Ml8xNzgyMDk5MDgyOjE3ODIxMDI2ODJfVjM)
 
 跟 Claude 说了句「把这个开发计划拆成任务同步到滴答清单」，它直接拆好、建好了。

@@ -1,7 +1,5 @@
 # 国产OpenCode+GLM4.7,搭配remotion skill同样可以自动化剪辑高燃短视频
 
-# 国产OpenCode+GLM4.7,搭配remotion skill同样可以自动化剪辑高燃短视频
-
 ​
 
 ![图片展示了OpenCode+GLM-4.7+remotion skill制作高燃短视频的流程。左侧是OpenCode和GLM-4.7，中间是准备技能，包括media - downloader下载视频素材、remotion - best - practices自动剪辑，右侧是高燃短视频成品，有字幕配音和切换动画。底部标注了国产工具、对话编程、素材下载、自动剪辑、字幕配音、高燃效果等关键词。该图与上下文介绍的使用国产工具和大模型制作短视频的内容相契合，直观呈现了制作流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjA2N2ZkOWUwZDZiNmM5ZGIzMGRjMTQyMWRmNzFlZmNfODAyMDc0NGU1MzZlMTAwZDI1N2M2MjE0OTI2NjdmODZfSUQ6NzY0NjMwNjcyMzgwNDYyOTk0OF8xNzgyMDk5MTI3OjE3ODIxMDI3MjdfVjM)

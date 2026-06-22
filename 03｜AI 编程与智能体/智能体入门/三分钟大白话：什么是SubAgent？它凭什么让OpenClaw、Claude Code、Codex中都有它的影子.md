@@ -1,7 +1,5 @@
 # 三分钟大白话：什么是SubAgent？它凭什么让OpenClaw、Claude Code、Codex中都有它的影子
 
-# 三分钟大白话：什么是SubAgent？它凭什么让OpenClaw、Claude Code、Codex中都有它的影子
-
 ​
 
 ![图片以白色背景和黑色放射状线条为设计元素，上方文字为“三分钟大白话 什么是SubAgent? Skill大火之后 你该来了解SubAgent了”。图片位于介绍SubAgent的文档开头部分，起到引出主题的作用，强调在Skill大火之后，读者应该了解SubAgent，为后续对SubAgent的介绍埋下伏笔。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGYyN2I5YTg3ZDQ0NTdlZDM4ZWZkMDRjMTA3MDY4ODFfMGNlODY2ODM2YzNlNDMzMTZhNmNlMzg5MjFjN2U3ZDlfSUQ6NzY0NjMwNDk3Njk2NDU1MzY5OF8xNzgyMDk5MDY4OjE3ODIxMDI2NjhfVjM)

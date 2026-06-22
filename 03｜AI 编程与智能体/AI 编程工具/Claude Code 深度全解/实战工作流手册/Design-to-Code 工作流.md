@@ -1,7 +1,5 @@
 # Design-to-Code 工作流
 
-# Design-to-Code 工作流
-
 使用 Figma MCP 服务器的自动化设计系统落地，使产品设计师能够将生产就绪的规范交接给 Claude Code，由其实现组件并保持 1:1 的设计-代码保真度。
 
 ---

@@ -1,9 +1,5 @@
 # Cloudflare 最新功能 Mesh 保姆级教程：不用公网 IP，把设备和服务器连成私有网络
 
-# Cloudflare 最新功能 Mesh 保姆级教程：不用公网 IP，把设备和服务器连成私有网络
-
-
-
 ![图片展示了Cloudflare Mesh的网络架构，以“Cloudflare最新功能Mesh保姆级教程”为标题。画面中，电脑、手机等Client Devices通过Mesh IP与服务器Node、Warp Connector等设备相连，形成Mesh私有网络。Warp Connector与VPC Network binding相关，还涉及Workers VPC、Workers & AI Agents。图片下方标注了NAT穿透难点、混乱公网、公网IP限制等痛点，与上文介绍Cloudflare Mesh解决这些问题相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzgyMTBkMWMzYTRjYjk4NjhkZGEyNmU1MjRkNDAyOGZfNTNhYzAzYjEyYzAwMzcxOTFhMmQ1NzVkY2QwNTY1ODZfSUQ6NzY0NTcxMjQ1NDQ1ODIxNTYzN18xNzgyMDk5MTY0OjE3ODIxMDI3NjRfVjM)
 
 简单来说，Cloudflare Mesh 可以把你的电脑、手机、服务器，甚至是 Cloudflare Workers 连成一个跨地域的局域网。就算没有公网 IP，你的设备之间也能通过私有 IP（默认 100.96.0.0/12）互相访问，比如直连 SSH 或是调用内部 API。对个人开发者和小团队来说，免费额度（50个节点、50个用户）完全管够。

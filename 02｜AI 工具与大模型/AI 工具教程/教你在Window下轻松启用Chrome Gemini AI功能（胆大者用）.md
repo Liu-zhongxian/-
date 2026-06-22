@@ -1,7 +1,5 @@
 # 教你在Window下轻松启用Chrome  Gemini AI功能（胆大者用）
 
-# 教你在Window下轻松启用Chrome  Gemini AI功能（胆大者用）
-
 ​
 
 ![图片展示了通过OpenCode开启Chrome Gemini AI功能的过程。画面左侧，人物坐在电脑前，准备让OpenCode帮忙开启功能，前提是需使用美国IP，并参考开源项目。中间部分，OpenCode与人物对话交流，准备开启Windows系统的相关功能，随后自动配置。右侧显示配置成功后，Chrome AI与Gemini已启用，还介绍了三开页面玩法，可在右键选项中开启体验升级，以及通过高级设置解决疑难杂症。图片直观呈现了文档中提及的开启Chrome AI功能的操作流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTZhNzNmZjZlNGI1MDg5NDk3MjgxNzg0OGIzZmM5YWVfMmM0YTdmOTljMTFmMjM3NjE0ZWNmNWYxYjcwMmM5MTNfSUQ6NzY0NjMwOTQ3MzUzNDkzODA0NF8xNzgyMDk4OTY0OjE3ODIxMDI1NjRfVjM)

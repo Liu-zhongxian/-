@@ -1,9 +1,5 @@
 # 3分钟突破飞书权限墙：把"看得到存不下"的知识装进 Obsidian
 
-# 3分钟突破飞书权限墙：把"看得到存不下"的知识装进 Obsidian
-
-
-
 ![图片展示了飞书转Markdown神器的功能，核心原理为本地逆向还原。左侧有“权限墙”“防复制保护”字样，中间是“通用剪藏失败”“抓取乱码”等失败情况，右侧是“保留标题层级”“保留代码块”“数据归于本地”等成功还原内容，右侧还显示“完美Markdown文件”“本地知识库”。底部文字为“看得到就存得下：飞书转Markdown神器 一键突破权限墙，原汁原味剪藏到Obsidian”。该图与上文遇到飞书剪藏失败问题的场景相呼应，介绍了解决方案。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2NlMGY3MjU0NWQ1ZjdhZTE3MGMwOGFhODc2NzI3MTBfNzViYTI0YzkzZTFkZjMyNTM1NzU1N2VmYzA5N2ZjMTRfSUQ6NzY0NTcxMTk2MjEyODEwODc1N18xNzgyMDk5MTQ5OjE3ODIxMDI3NDlfVjM)
 
 不知道你有没有遇到过这种让人抓狂的场景：

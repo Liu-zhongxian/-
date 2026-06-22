@@ -1,7 +1,5 @@
 # Karpathy 的知识库方案，差一个能搜全网的工具
 
-# Karpathy 的知识库方案，差一个能搜全网的工具
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDU4ZjFmMzYwZWU3YzNjYmI3MTk4YjBhMTYyNzZmYzhfNmVjNTkxODEyNTY5MTYwYzM2NDg1MDg3ZGNjMTRkY2FfSUQ6NzY0NTI2NTYxMDYyNDQyMTA4MV8xNzgyMDk5MTQ3OjE3ODIxMDI3NDdfVjM)
 
 Karpathy 前几天发了个知识库方案，架构很漂亮：文档丢进去，LLM 自动编译成 wiki，查东西直接查 wiki，不用每次从头翻原文。

@@ -1,7 +1,5 @@
 # 一键教你免费开启Claude+Opus 4.5，别再去闲鱼高价买教程了
 
-# 一键教你免费开启Claude+Opus 4.5，别再去闲鱼高价买教程了
-
 ![图片为“Claude Code接入Antigravity Tools一键配置指南”宣传图。画面左侧显示“claude code ready”界面，右侧是“Antigravity Tools”设备，其上标注“API反代”服务。背景为电路板和脑形图案，脑形图案内有“CLAUDE OPUS 4.5 CORE”字样。画面下方有“一键同步 (One-Click Sync)”和“FREE ACCESS”标识。该图与文档中介绍一键同步配置Claude Code的内容相关，直观呈现了配置过程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWI4ZTE4Yzc1MGMyZjhhMzQ2OThiNmNjMzgxMjJlODlfODAxNDAzMWQxYjU0MGRkYjg1NWEzZmMyYzRmODgxMDhfSUQ6NzY0NTcxMzU0MzkxMTczODU2NF8xNzgyMDk4OTU2OjE3ODIxMDI1NTZfVjM)
 
 **确保环境就绪，全程梯子守护**

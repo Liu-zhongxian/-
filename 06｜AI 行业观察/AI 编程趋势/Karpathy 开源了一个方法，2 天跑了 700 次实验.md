@@ -1,7 +1,5 @@
 # Karpathy 开源了一个方法，2 天跑了 700 次实验
 
-# Karpathy 开源了一个方法，2 天跑了 700 次实验
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzFhNzE1NjYxYjNiNGMzMGQwMDEyMzZmMmFkZjIzZTJfZmRjZWYxMGJiMjgyM2ZiZWQ2OGY2YmEzYTJjYzA0Y2FfSUQ6NzY0NTI2NTY4MTEyNjM0NTkyN18xNzgyMDk5MTc5OjE3ODIxMDI3NzlfVjM)
 
 Karpathy 开源了一个方法，让 AI agent 自己做实验。

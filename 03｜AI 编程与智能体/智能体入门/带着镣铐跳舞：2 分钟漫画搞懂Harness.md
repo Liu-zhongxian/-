@@ -1,7 +1,5 @@
 # 带着镣铐跳舞：2 分钟漫画搞懂Harness
 
-# 带着镣铐跳舞：2 分钟漫画搞懂Harness
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTAxZDc1N2FmY2QyYzE4MzMzYjhhNjYyZTQzM2IyOTRfMmZmZmI0ZWQwZmZiOWYzNjZlOTc0NDliNDA1NGFkMmJfSUQ6NzY0NTI2NTk1MjE1Mzk5NjQ3OV8xNzgyMDk5MDYzOjE3ODIxMDI2NjNfVjM)
 
 **最近 Harness 这个词到处都是。 但大多数文章看完还是不知道它是啥。 今天用漫画讲清楚。**

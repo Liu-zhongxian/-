@@ -1,9 +1,5 @@
 # Claude：这活我不干了，Codex 你来
 
-# Claude：这活我不干了，Codex 你来
-
-
-
 ![图片展示了Claude Code + Codex高效编程与深度调试指南的内容。左侧是Claude，右侧是Codex，两者对话框中分别写着“这活我不干了，Codex你来”“没问题，深度调试&复杂生成，交给我”。画面中还出现“复杂代码任务”“Powered by Anthropic”“Powered by OpenAI”等字样，以及相关图表和代码界面。该图片与文档中介绍OpenAI Codex CLI及Claude Code插件的内容相呼应，直观呈现了两者在编程与调试中的协作场景。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTE0Zjg0YjNhY2E3MGIyZTUyMTBiYWRlMzYyYjQ3YTlfYWIxZWY3MTE4ZDRiOTEwOTgxYzI4OGFjNzhhZjc5MGFfSUQ6NzY0NTcxMjM0NTQ1NjY3NjA0OV8xNzgyMDk5MDU2OjE3ODIxMDI2NTZfVjM)
 
 > 本文记录了在 Claude Code 中安装 OpenAI Codex 插件、完成配置并实测编程任务委托的完整过程。**测试环境：** Windows 10，Mac/Linux 用户路径格式会有所不同（如 \~/.claude/ 而非 C:/Users/你的用户名/.claude/），其余步骤一致。

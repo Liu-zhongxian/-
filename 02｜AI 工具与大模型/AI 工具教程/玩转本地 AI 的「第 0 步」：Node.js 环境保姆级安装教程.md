@@ -1,7 +1,5 @@
 # 玩转本地 AI 的「第 0 步」：Node.js 环境保姆级安装教程
 
-# 玩转本地 AI 的「第 0 步」：Node.js 环境保姆级安装教程
-
 ![图片展示了“保姆级AI基建教程 Node.js安装”相关内容。左侧以“AI基建”为核心，说明其核心组件为计算、存储、网络。右侧分为“Node安装”和“3. 保姆教程”两部分，“Node安装”包含安装步骤与环境配置，有node.js图标；“3. 保姆教程”分为环境检查、命令行执行、验证通过三步，有对应图标。图片与上下文紧密相关，直观呈现了AI基建及Node.js安装的结构与步骤，帮助小白理解本地AI环境搭建。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MmRkNzk0NzJjODMxNjBlY2Q3MzkzNzFjMjAyYzViZjFfMjA3OTBmYWZhYzRiZWFlNDY0NTlmNjk4MzczN2UzMDVfSUQ6NzY0NDk2NjkwMjA5NTQzMjkwN18xNzgyMDk4OTMxOjE3ODIxMDI1MzFfVjM)
 
 我看现在很多本地 AI 教程，工具安装的教程满天飞，每个细节也非常到位，但是都忽略了真正的小白的痛点，那就是Node环境。基本上所有的AI相关的工具都是基于 `Node.js` 环境去做安装和扩展的，如果不把地基打牢后面很多 `skills`、`MCP`、CLI 工具连跑起来的资格都没有。

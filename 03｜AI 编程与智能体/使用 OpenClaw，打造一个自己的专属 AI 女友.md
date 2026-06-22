@@ -1,7 +1,5 @@
 # 使用 OpenClaw，打造一个自己的专属 AI 女友
 
-# 使用 OpenClaw，打造一个自己的专属 AI 女友
-
 前面一篇文章我讲解了怎么安装和使用Openclaw，但是对于Openclaw为什么那么独特还是一知半解。所以我也是基于它的一些概念尽量通俗易懂的方式讲解里面的核心机制之一，“workspace”也就是工作空间。我也会用尽量简单的方式去讲解这些晦涩难懂的知识。
 
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzY1NDQ3ZDU4ZjgxOTJiZDVjMjdlOWYzMTFmYTQyMzBfYTUxNzEyNmQyZTBlNThjNWQyODVjZDM3ODk0NDAzY2JfSUQ6NzY0ODI3MjYyNjk5NzMzMzIwNl8xNzgyMDk5MDk5OjE3ODIxMDI2OTlfVjM)

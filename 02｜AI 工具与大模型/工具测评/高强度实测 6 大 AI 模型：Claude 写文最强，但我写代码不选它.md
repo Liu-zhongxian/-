@@ -1,7 +1,5 @@
 # 高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它
 
-# 高强度实测 6 大 AI 模型：Claude 写文最强，但我写代码不选它
-
 ![图片为文档中介绍6大AI模型实测内容的图片。左侧大标题为“6大AI模型实测真实分工经验复盘”，下方小标题为“写文选Claude 写代码我用Codex”。右侧分为“写作”“代码”“日常任务”三个板块，分别列出Claude、CodeGram、PI线报评对应写作任务，Codex（GitHub Copilot）对应代码任务，ChatGPT Plus对应日常任务。该图与上下文紧密相关，直观呈现了作者对不同AI模型在不同任务上的使用偏好。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWUzZDM3ZWYwNDczNThiMGYxZTVmYTgzNTc4ZGFiMDNfOTRmNTFhYjAxNTAyM2MzZTFkN2Q1ODNiYmMzYzkxNTVfSUQ6NzY0NDk2NzU3Nzk0ODY4NzU4MV8xNzgyMDk4OTY4OjE3ODIxMDI1NjhfVjM)
 
 最近刚刚好把国产模型都玩了一遍，包含GLM、MiniMax、Kimi。国外的Gemini、Claude、Codex我也在高强度使用。

@@ -1,9 +1,5 @@
 # 10分钟拆解148条视频,用 NotebookLM "榨干"油管博主的插件实战
 
-# 10分钟拆解148条视频,用 NotebookLM "榨干"油管博主的插件实战
-
-
-
 ![图片展示了NotebookLM批量拆解油管博主视频的流程。左侧显示博主内容体系研究、宏观流动性分析等，中间有Chrome浏览器图标，右侧是YouTube视频播放界面。中间箭头指向右侧的AI驱动知识库，标注“批量导入逐字稿”“发送至NotebookLM”。右侧知识库中有对话框，显示AI总结内容。底部文字为“实战派保姆级教程”。该图直观呈现了批量导入逐字稿、发送至AI驱动知识库、AI深度分析等操作步骤，与上文介绍的批量拆解油管博主视频的流程相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTg1YTU1ODEzMWI2YWNmMGUwZjU4ZWE2NWQ1NGQxZGNfZGQ1MDdmNWE4NmZiYmJjNTAyZmEwOTI3MTNmOTZlMTBfSUQ6NzY0NTcxMTgyNDM2MDUwODYzNV8xNzgyMDk5MTQ4OjE3ODIxMDI3NDhfVjM)
 
 \*\*你有没有过这种卑微的时刻：\*\*看到一个油管博主的内容体系牛逼到令人窒息，你琢磨着想把他所有视频的核心观点系统性地拆解个底朝天——然后发现人家 300 多条视频，你要一条一条点进去抄笔记，光是想想就已经放弃了。

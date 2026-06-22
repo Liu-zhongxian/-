@@ -1,9 +1,5 @@
 # 我把 Claude 桌面版也白嫖了：还能接入 Claude Code 写代码
 
-# 我把 Claude 桌面版也白嫖了：还能接入 Claude Code 写代码
-
-
-
 ![图片展示了接入OpenRouter的CC Switch方案，可让Claude桌面版免费使用。左侧是零成本方案，中间是CC Switch，右侧分别指向Claude Code和Claude Desktop。CC Switch可一键切换模型，支持可视化配置，本地代理支持。OpenRouter提供免费模型，CC Switch可接入Claude Code和Claude Desktop，实现零成本接入。该图与文档中介绍接入OpenRouter方案的内容相契合，直观呈现了方案流程及优势。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjU2MDA4NjMyYjdlMzk2NTA5NzhmNjk3Y2NhYWM1OGFfNWRlOTA5YmNlYzEwODVjN2Q1NDMzOTJjNGY0MDI4ZjVfSUQ6NzY0NTcxNDY0NzM5MTIyNzA2NV8xNzgyMDk4OTYwOjE3ODIxMDI1NjBfVjM)
 
 > 本文介绍一种零成本使用 Claude Code 和 Claude Desktop 的方案：通过 OpenRouter 上的免费模型 Ling-2.6-1T，配合 CC Switch 这款可视化管理工具，一键切换 API 提供商，实现完全免费的 AI 编程体验。

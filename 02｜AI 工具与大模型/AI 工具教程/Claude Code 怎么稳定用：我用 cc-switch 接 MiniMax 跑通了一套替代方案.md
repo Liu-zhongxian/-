@@ -1,7 +1,5 @@
 # Claude Code 怎么稳定用：我用 cc-switch 接 MiniMax 跑通了一套替代方案
 
-# Claude Code 怎么稳定用：我用 cc-switch 接 MiniMax 跑通了一套替代方案
-
 我想使用了那么多的CLI，不管是GPT的Codex还是谷歌的Gemini的CLI，最后回过头来发现还是A社的Claude Code 是我用过最顺手的 CLI AI 编程工具了，主要还是Claude的硬实力。
 
 ![图片中](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzA5ZDU3NmEyMmQxYTIyZmJkMzA5NzY4M2Q5NDZmN2ZfM2IyMWE2YjI5OGM1NTUzOTYzYzkwNTk2ODFkMWEyYmVfSUQ6NzY0NDk2NDAxNzExMDM3MTUwOF8xNzgyMDk4OTMwOjE3ODIxMDI1MzBfVjM)

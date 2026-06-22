@@ -1,7 +1,5 @@
 # 三行命令，让 Claude 直接操作你的飞书
 
-# 三行命令，让 Claude 直接操作你的飞书
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTllYjlmZWZlM2IwMjRjOGNlZTg2ZjI4MThkNWUzNDVfMDNlZTg2NDNlNmQ0ODYwYTE5YTNhMGZlNGZjN2ZkZTFfSUQ6NzY0NTI2NjQ4MDc4Mjc4OTg0MV8xNzgyMDk5MDgwOjE3ODIxMDI2ODBfVjM)
 
 三行命令装好 lark-cli，你的 Claude Code 就能直接操作飞书。发消息、查日历、建文档、管任务，不用切窗口。

@@ -1,7 +1,5 @@
 # 越用越强不是广告语：拆解 Hermes Agent 的三层学习机制
 
-# 越用越强不是广告语：拆解 Hermes Agent 的三层学习机制
-
 ![图片展示了Hermes Agent的三层学习机制拆。上方是Atropos自训练环路，中间是技能自提炼（技能层），下方是记忆层持久化（记忆层）。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTc1ZTlmYTViYmY2YjhmNDc2Njg5ZjhiNTIzMjU5ZmFfZGQ2YTFmMGJlMzkyMjM4MDRjZjE5ZmU2MjJkN2QyYjRfSUQ6NzY0NTI0MjIzMzI2MDUxMDM4OF8xNzgyMDk5MDc4OjE3ODIxMDI2NzhfVjM)
 
 ## 用 AI agent 有一段时间了，有个问题一直没解决：每次开新会话，它对我的项目和习惯还是一无所知。上下文配置文件里写了不少，但写进去的是静态的——它不会自己学，也不会根据我真实的操作习惯去调整。跑得熟不熟，完全取决于我自己有没有空去维护那份文件。Hermes Agent 是 Nous Research 今年二月发布的开源代理框架（MIT 协议），主打的就是解决这个问题——让 agent 从使用中自己学，不靠你手动补。这篇主要拆它三层学习机制怎么运转，以及和 OpenClaw 的根本差在哪里。安装部分只带过一下，够跑通就行。

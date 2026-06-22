@@ -1,9 +1,5 @@
 # Karpathy 5000 星方案落地：1个开源小软件，让你的10类文档秒变私人维基百科
 
-# Karpathy 5000 星方案落地：1个开源小软件，让你的10类文档秒变私人维基百科
-
-
-
 ![图片展示了Karpathy 5000星方案落地，将文档秒变私人维基百科的方案。左侧有Andrei Karpathy头像及“5000+ Star”标识，下方是各类文档图标。中间是AI Conversion Engine，连接LLM Wiki，生成Wiki Entry。右侧有本地隐私、知识图谱标识，以及Wiki Entry示例，呈现知识图谱。底部文字说明全自动本地LLM整理，像查维基一样提问与浏览。该图与文档中介绍的文档整理方案相契合，直观呈现方案内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YzY1MmNhY2I5Y2FmZjNhNTliMzI1YjZkNDdiOGU5ZjBfOTc5MDlkYTQ2NmMyNmMzNjAwMGE3NzZmZDg0YmI2MzNfSUQ6NzY0NTcxMzAyNjY1NzcxNzQ1Ml8xNzgyMDk5MTUxOjE3ODIxMDI3NTFfVjM)
 
 不知道你有没有这种感觉：

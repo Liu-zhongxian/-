@@ -1,7 +1,5 @@
 # 想使用Claude的朋友们，可以来看看这个IP 风险检测网站辅助工具
 
-# 想使用Claude的朋友们，可以来看看这个IP 风险检测网站辅助工具
-
 ​
 
 ![图片展示的是Claude AI IP风险检测网站的检测结果页面。页面背景为深色，上方有“实时检测”标识，中间大字显示“Claude AI IP风险检测”，并说明该检测可检查当前IP地址是否可能导致Claude账号被封禁，分析代理、VPN、WebRTC泄露等风险因素。下方有一个绿色进度条，显示“5/100”，底部以绿色字体标注“低风险”。该图片与文档中介绍使用该网站辅助降低Claude使用风险的内容相关，展示了优化后的风险检测结果。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmYyYzQ0OTVlYzBjZjYyMjAyMTU0ZjhiNGRjNTczNzRfMTQxMTdhOTI4OGVjZmRhMWYxOTNhYThiYmU0MTlhYjFfSUQ6NzY0NjMwODA1OTY4MTM3NzI0MF8xNzgyMDk4OTc0OjE3ODIxMDI1NzRfVjM)

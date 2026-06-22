@@ -1,7 +1,5 @@
 # Agent Skill时代不写代码也该懂的工具: Git，其实就是程序员经常喝的一瓶后悔药
 
-# Agent Skill时代不写代码也该懂的工具: Git，其实就是程序员经常喝的一瓶后悔药
-
 ​
 
 ![图片以漫画形式呈现，左侧是一位面对电脑显示 “文件已删除” 而哭泣的人，右侧是一位戴着墨镜、面带笑容比耶的人。中间有一瓶标着 “Git 后悔药” 的罐子。画面底部文字写着 “4 种吃法 救命神器”“手残党必看！”。图片与上下文的关系是，通过生动形象的漫画，以 “后悔药” 为喻，强调 Git 工具对于在文件编辑中出现失误（如文件删除等情况）时的补救作用，呼应文档中提到的 Git 可用于追溯文件之前版本的内容。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzQ3ZWNmMTJlYTU4OWRkMzliMWVjYjE1MDZmZTNiNzlfOTE5OWY0OGYyODY5ZGI3MDQ2NGRhY2IwY2E0ZjkwZTBfSUQ6NzY0NjMwMjY4Mzk2MDI0OTMxNF8xNzgyMDk5MTY4OjE3ODIxMDI3NjhfVjM)

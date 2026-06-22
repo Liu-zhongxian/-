@@ -1,9 +1,5 @@
 # 我的Opencode终于用上了免费的Claude Opus 4.5（赶紧跟上）
 
-# 我的Opencode终于用上了免费的Claude Opus 4.5（赶紧跟上）
-
-
-
 ![图片展示了opencode接入Antigravity-Manager的示意图。左侧是opencode图标，中间是Antigravity-Manager（Local Proxy），右侧是Claude和Gemini模型图标。文字说明“本地代理使用Claude/Gemini模型，告别API付费烦恼”，并有“FREE ACCESS”被红色叉号覆盖。该图与文档中介绍opencode接入Antigravity-Manager配置步骤的内容相关，直观呈现了配置后模型使用情况。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTExNDcxZGNiOGE5ZmI4MjA1NTc5MDFhNTUzZWIxZWRfNDk4ZTdmNTRlMjhjNDBjMWRhMTYxYTAzOGY4NjY2MjBfSUQ6NzY0NTcxNTI3ODc1NTU5NzUwMl8xNzgyMDk4OTYxOjE3ODIxMDI1NjFfVjM)
 
 好多朋友一直想用**Claude Opus 4.5**，但是苦于没有好的ip无法订阅Anthropic产品，再就是Anthropic真是一家封号狂魔公司，动不动就把账号封了，也是醉了，算了，不吐槽他了，步入正题。

@@ -1,7 +1,5 @@
 # 新 Mac 到手先装什么？我的 17 个必装清单
 
-# 新 Mac 到手先装什么？我的 17 个必装清单
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDY5ZjRmN2IyMTM0ODA3NDM1NjdlYWFlOWQ1ZDZkNmRfM2NkYzFhOWRjZjA2YzBmM2NkMmM2ZTZmM2MxMzdjYzBfSUQ6NzY0NTI2NjYxODAwMzY4ODYzM18xNzgyMDk5MTYzOjE3ODIxMDI3NjNfVjM)
 
 后台好多人问我 Mac 上都装了什么软件，一直没来得及整理。这篇就是那份清单。

@@ -1,9 +1,5 @@
 # 别让你的 ChatGPT 账号吃灰了，OpenClaw + codex-proxy 进阶实战
 
-# 别让你的 ChatGPT 账号吃灰了，OpenClaw + codex-proxy 进阶实战
-
-
-
 ![图片标题为“OpenClaw + Codex-Proxy 王炸组合配置指南”，左侧是Codex-Proxy网关的插画，右侧是OpenClaw智能体的插画。中间有代码示例，展示了OpenClaw + Codex-Proxy的组合使用方式。该图片与上文提到的OpenClaw能无缝用上通过codex-proxy变成本地接口池的ChatGPT账号相呼应，直观呈现了二者结合的配置思路，为读者提供配置指南。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YWZkM2I5ODM2MGNiN2E5MTFjYTU1NDY2ZmJhZjNkZWNfNTk1NzI4YzRmYWRkZjhlNmY2YTk4NzVjOTViZjllZGNfSUQ6NzY0NTcxMzgwODQ2MzI4NTQyNl8xNzgyMDk5MDg2OjE3ODIxMDI2ODZfVjM)
 
 **导语**： 上一篇文章教大家把吃灰的 ChatGPT 账号通过 codex-proxy 变成了万能的本地 API 接口后，

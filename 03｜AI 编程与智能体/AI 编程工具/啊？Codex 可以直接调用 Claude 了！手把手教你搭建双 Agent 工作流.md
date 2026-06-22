@@ -1,9 +1,5 @@
 # 啊？Codex 可以直接调用 Claude 了！手把手教你搭建双 Agent 工作流
 
-# 啊？Codex 可以直接调用 Claude 了！手把手教你搭建双 Agent 工作流
-
-
-
 ![图片展示了Codex直接调用Claude的双Agent工作流。左侧是Codex，作为项目经理，中间是Claude Code，其身份为工程师，右侧是CC Switch本地代理，以及Ling-2.6 - flash模型服务。箭头指示工作流程方向，底部文字说明本地部署、灵活切换、成本可视。该图与文档中介绍Claude能调用Codex，且能搭建双Agent工作流的内容相关，直观呈现了工作流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTcwYjg2ZGY0OGQyMWQzMzRhZjBhOWE2MzQ3OTNjMDVfMTdjNTExY2U2OGRhMjhjMDFhOGIyMDlkZWFiOGE5NzFfSUQ6NzY0NTcxNDE4MjAwNzk2NjkxOV8xNzgyMDk5MDU5OjE3ODIxMDI2NTlfVjM)
 
 今年 3 月，OpenAI 干了一件挺有意思的事——他们给 Claude Code 开发了一个官方的 **Codex 插件**。装上之后，Claude Code 可以直接在工作流里调用 OpenAI 的 Codex 来做代码审查、安全审计这些活。说白了，就是**让 Claude 指挥 Codex 干活**。

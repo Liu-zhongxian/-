@@ -1,9 +1,5 @@
 # 我用 Cloudflare 免费搭了一套 AI 内容流水线，真的能跑起来
 
-# 我用 Cloudflare 免费搭了一套 AI 内容流水线，真的能跑起来
-
-
-
 ![图片展示了Cloudflare五件套中免费搭建AI内容流水线的内容。画面左侧有Cloudflare标志及“Cloudflare五件套”字样，右侧是一位正在使用笔记本电脑的卡通人物。中间有五个步骤，分别为抓取（1）、AI处理（2）、存储（3）、数据库（4）、发布（5），每个步骤配有图标和数字序号标识。该图片与上下文紧密相关，直观呈现了利用Cloudflare免费套餐搭建自动化内容工作台的流程，契合文档中“一个人不买云服务器、不掏月租，靠白嫖大厂免费套餐搭‘自动化内容工作台’”的主题。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjkwYmQzMzEzZmQ0ZGJjOGJlOTBiYmM2ODZmODgwNDRfZDcxZWE1ZTBmOGM2MmI2NjFkMTQyNGFlNzFmMzc3MWZfSUQ6NzY0NTcxNTAyNTI2NDU0NDk1NF8xNzgyMDk5MTIzOjE3ODIxMDI3MjNfVjM)
 
 每天刷那么多信息，有用的记不住、存不下、找不到。

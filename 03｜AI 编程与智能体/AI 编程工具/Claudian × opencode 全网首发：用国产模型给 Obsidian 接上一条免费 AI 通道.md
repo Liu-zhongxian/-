@@ -1,7 +1,5 @@
 # Claudian × opencode 全网首发：用国产模型给 Obsidian 接上一条免费 AI 通道
 
-# Claudian × opencode 全网首发：用国产模型给 Obsidian 接上一条免费 AI 通道
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWJlMDNmMzI3ZjVhMDQ5YjZmZTFhNzM3ZjhmMmExZTFfMDkzMDJiZGQ5ZWNiNjFhOGRmZjc2OWVlZmM3MzgxYWZfSUQ6NzY0NTI2NTMyNzk3NDI3MjE4Nl8xNzgyMDk5MDU0OjE3ODIxMDI2NTRfVjM)
 
 这是 「Obsidian + AI」 系列第三篇，依旧图文保姆级教程，手把手教学。 上一篇《Claudian 双模型完整配置教程》打通了 Claude Code + Codex 双通道。

@@ -1,9 +1,5 @@
 # 原来 Claude Code 还可以这样免费用！5 分钟接入 2300 亿参数模型
 
-# 原来 Claude Code 还可以这样免费用！5 分钟接入 2300 亿参数模型
-
-
-
 ![图片展示了Claude Code的免费使用方式。左侧标注“烧钱”和“Claude Code (Anthropic格式)”，中间有“claude”标识，右侧是“free-claude-code代理(8082)”及“格式转换+请求优化”。右侧是“MiniMax M2.7 (23000亿参数)”和“20万上下文”，并有“完全免费”“无需信用卡”“元万上下文”“20万上下文”等标识。该图与文档中介绍免费使用Claude Code的内容相关，直观呈现了其免费代理及模型信息。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTBmMmU0OGQ1ZWNmOWUxYjJjOTY0YjEwNmUzZjY3M2VfNjRiMGIyZDY2ODNkOTBmNzZmNDgxZmI3MTZhMmFhMThfSUQ6NzY0NTcxMzg4NTA4NDkyOTIxMF8xNzgyMDk4OTU4OjE3ODIxMDI1NThfVjM)
 
 Claude Code 好用是真好用，烧钱也是真烧钱。

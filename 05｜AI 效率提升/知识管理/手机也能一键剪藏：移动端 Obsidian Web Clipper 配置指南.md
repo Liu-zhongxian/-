@@ -1,7 +1,5 @@
 # 手机也能一键剪藏：移动端 Obsidian Web Clipper 配置指南
 
-# 手机也能一键剪藏：移动端 Obsidian Web Clipper 配置指南
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NWEzNzU4OTEyN2UzNTllNWMwMTI1ODRiNmRjODcyNDFfZGNlMzdhN2NlNGM1MDY1NjMyMzAzZmViMDZhYjlhODdfSUQ6NzY0NTI2NjUyNzg1MTQxNjc4M18xNzgyMDk5MTQxOjE3ODIxMDI3NDFfVjM)
 
 上一篇教你在电脑浏览器上装了 Web Clipper 看到好文章点一下就存进 Obsidian 了。

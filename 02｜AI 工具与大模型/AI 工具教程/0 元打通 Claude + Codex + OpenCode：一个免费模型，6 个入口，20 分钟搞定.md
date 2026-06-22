@@ -1,7 +1,5 @@
 # 0 元打通 Claude + Codex + OpenCode：一个免费模型，6 个入口，20 分钟搞定
 
-# 0 元打通 Claude + Codex + OpenCode：一个免费模型，6 个入口，20 分钟搞定
-
 ![图片展示了一款AI编程工具的宣传内容。上方文字为“0元打通Claude+Codex+OpenCode，一个免费模型，6个入口，20分钟搞定”，强调其免费、多入口、快速搞定的特点。画面右侧有一个人站在数字“2”前，周围环绕着代码符号和数字。下方列出6个入口，分别是Claude命令行、桌面端，Codex CLI命令行、桌面端，OpenCode命令行、桌面端。底部有“20分钟快速搞定”“0费用免费畅用”“6个入口全部验证通过”等标识。该图片与文档中介绍接入多个AI编程工具的方案内容相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OGRlMDVmNDUzNjY3MDEyNTVhNWVlY2M2ODg4Zjc3ZThfOGRmMGQyYzY2MDIwODZiOWJiMDg0YjViYzFlYWI1ZmZfSUQ6NzY0NTcxMTQ5MjM4NTQ0MzAyMF8xNzgyMDk4OTUxOjE3ODIxMDI1NTFfVjM)
 
 20 分钟，0 费用，6 个 AI 编程工具全部接入同一个免费模型。

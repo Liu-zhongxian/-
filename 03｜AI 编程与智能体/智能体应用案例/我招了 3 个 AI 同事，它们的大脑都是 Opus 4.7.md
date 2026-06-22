@@ -1,9 +1,5 @@
 # 我招了 3 个 AI 同事，它们的大脑都是 Opus 4.7
 
-# 我招了 3 个 AI 同事，它们的大脑都是 Opus 4.7
-
-
-
 ---
 
 ![图片展示了一位坐在桌前的男子，桌上摆放着笔记本电脑、文件等物品。背景是夜景，有高楼大厦。画面左侧文字为“我给自己招了3个AI同事，它们会记忆，会协作，还会按日程自己干活，像同事，不像聊天”。右侧有四个人物形象，分别代表“情报官”“写手”“数据追踪官”和“记忆”，他们手持文件，似乎在讨论工作。该图片与上下文紧密相关，直观呈现了AI同事的概念，与上下文对AI同事能记忆、协作、按日程干活的描述相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTE5ODMzMTZkOWQwY2ZmNmI0MTg5MWI4NmM3YjUwZThfZjQ4YTI0MDMyOGRkYzZkMTk4ODE2YWViNmNhMGEyMDRfSUQ6NzY0NTcxNDgzNTQ5MzIyNzcyNF8xNzgyMDk5MDg3OjE3ODIxMDI2ODdfVjM)

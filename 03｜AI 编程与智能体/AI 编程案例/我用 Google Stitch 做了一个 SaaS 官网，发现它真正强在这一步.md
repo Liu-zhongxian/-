@@ -1,9 +1,5 @@
 # 我用 Google Stitch 做了一个 SaaS 官网，发现它真正强在这一步
 
-# 我用 Google Stitch 做了一个 SaaS 官网，发现它真正强在这一步
-
-
-
 ![图片展示了Google Stitch的高保真原型加速器功能。画面中，一台电脑屏幕上显示“AI会议纪要：有序、智能”的界面，旁边有提示“生成会议纪要AI工具的AI SaaS落地页”。下方有设计系统、即时模型、React应用代码等板块，还展示了导出和原型路径的便捷性。背景有手机、平板等设备，以及代码、图标等元素。该图与文档中验证Google Stitch能否将产品想法更快推到前端原型这一实际任务相关，直观呈现其功能。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MjY4MDM1ZDZkNWM1OWYzMjYyYjJiMmU2MzdkOGM3MzhfZTc4N2Q5N2NjNzA1MTdhMmEyYTcwMWIzYWFlNDVmNjlfSUQ6NzY0NTcxNTE2NDkxMzg5NjY0Ml8xNzgyMDk5MDczOjE3ODIxMDI2NzNfVjM)
 
 我拿 Google Stitch 做了一个真实的 AI SaaS 官网首页。最有意思的点在于它已经开始把“从需求到前端原型”的一段过程压缩到一起。

@@ -1,7 +1,5 @@
 # RAG 入门：让 AI 用上你的私有资料
 
-# RAG 入门：让 AI 用上你的私有资料
-
 > 🎯 **这一篇读完，你应该能：**
 > - 说清楚 RAG 是检索 + 生成 两步组合，不是单一技术
 > - 理清 Embed / Index / Retrieve / Generate 四步骤

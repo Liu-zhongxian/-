@@ -1,7 +1,5 @@
 # 全程使用OpenCode,完全靠嘴就把OpenClaw 私人助理装进了我八年前的小米8手机（同样适用于mac+window）
 
-# 全程使用OpenCode,完全靠嘴就把OpenClaw 私人助理装进了我八年前的小米8手机（同样适用于mac+window）
-
 ​
 
 ![图片展示了全程使用使用 自动生成图片](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmVjZmE2ZjRmNTZmYTYyMGFkNjZhMDg1YWRhMjRjZmZfZGZhYmUyMTYwNzY4MmQxYTBhNDJkYTA4ODA4ODMzY2NfSUQ6NzY0NjMwNjEzNzI5MTU3NDIwMl8xNzgyMDk5MDkyOjE3ODIxMDI2OTJfVjM)

@@ -1,9 +1,5 @@
 # Google 掀牌了：Chrome “一键夺舍”开启，AI 彻底接管浏览器（附极客避坑指南）
 
-# Google 掀牌了：Chrome “一键夺舍”开启，AI 彻底接管浏览器（附极客避坑指南）
-
-
-
 ![图片以科技感十足的背景为底，左侧文字“Google掀牌了：Chrome一键夺舍开启”突出主题，下方说明“底层控制权已接管（Root Control Taken）Web系统生态颠覆（Web Ecosystem Overthrow）”。右侧是一个机械臂，机械臂上环绕着蓝色光圈，光圈内有“Google Chrome”字样。图片与上文提到的“让AI操作浏览器是个极其痛苦的过程”相呼应，暗示Chrome官方通过新功能让AI操作浏览器变得简单，体现了底层控制权的接管和对Web系统生态的颠覆。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OWU3NWFkYmVmMDZhZGUxOTExMmRkYWE4NTA5MzlmZDFfNWViYjlmNmVkZWIxMmU3NTYxOGJmNGJlM2M4YWVjNmNfSUQ6NzY0NTcxMjkzNDU4MDE5NDQ4NF8xNzgyMDk5MDg0OjE3ODIxMDI2ODRfVjM)
 
 > 📖 **导读** 今天起，赶紧检查下你的 Chrome 浏览器，它可能要被“合法接管”了。 别紧张，这不是什么病毒入侵，而是 Google 悄悄给 AI 专门开的一个官方“后门”。 简单来说，以前的 AI 想帮你在网上订机票、抓数据，还得靠你写一堆复杂的启动脚本，跟防贼一样绕过各种验证。现在？**Chrome 146 官方版本**直接在界面里留了个“一键夺舍”的开关，完美支持当下最火的 **MCP (Model Context Protocol)**，把方向盘完完全全交给了你的私人贾维斯。这篇实操教程，将手把手教你如何开启这个“神仙开关”，让你的浏览器彻底进化为自动驾驶模式。

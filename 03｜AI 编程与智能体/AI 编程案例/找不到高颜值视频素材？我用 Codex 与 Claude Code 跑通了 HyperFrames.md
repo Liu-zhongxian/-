@@ -1,7 +1,5 @@
 # 找不到高颜值视频素材？我用 Codex 与 Claude Code 跑通了 HyperFrames
 
-# 找不到高颜值视频素材？我用 Codex 与 Claude Code 跑通了 HyperFrames
-
 做自媒体一直缺素材是不是一直都缺素材？。我也有一样的困扰，但是前几天我在网上刷到有人用 Codex + HyperFrames by HeyGen 生成视频，看起来效果还不错，于是好奇心一上来我马上自己也去试一遍。
 
 HyperFrames by HeyGen 其实不复杂，它只是把 AI 写的 HTML/CSS/JS 直接渲染成 mp4 的工具——你给它一段详细的提示词，它会把每一帧的页面布局、动画、字幕都生成好，然后用一个无头浏览器抓帧合成视频。在自己的电脑就能跑，不依赖 HeyGen 自己的云端服务。

@@ -1,7 +1,5 @@
 # Obsidian Web Clipper 也能接入 AI？5 分钟搞定，剪藏时笔记自动处理好
 
-# Obsidian Web Clipper 也能接入 AI？5 分钟搞定，剪藏时笔记自动处理好
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2NiZDhjZGYxZmFlNjZmYjllODNlMzQ1NGZhZDJlZjFfYjAzY2JiOTIwYTRiM2ZkMTBjM2EyZTA0MDFmYjY1YzJfSUQ6NzY0NTI2NTgwNjUxMDczODY0OF8xNzgyMDk5MTQyOjE3ODIxMDI3NDJfVjM)
 
 能。而且只要加一行配置，以后每次剪藏，AI 自动帮你生成摘要等信息。

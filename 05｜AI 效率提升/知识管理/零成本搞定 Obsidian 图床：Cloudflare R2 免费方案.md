@@ -1,7 +1,5 @@
 # 零成本搞定 Obsidian 图床：Cloudflare R2 免费方案
 
-# 零成本搞定 Obsidian 图床：Cloudflare R2 免费方案
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZWY0ZGNlYTYzOGMxMWRkZTBkM2YzMDA0MTc2ZmY0YjJfYTU5NzFjOTAwNTBhNTAwZWMwYjZjNDhkMDA4YjRiNTVfSUQ6NzY0NTI2NjM4MzQ3MDc0MjcyNF8xNzgyMDk5MTQ1OjE3ODIxMDI3NDVfVjM)
 
 上次那篇图床教程发出去之后，评论区好多人问：

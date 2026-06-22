@@ -1,7 +1,5 @@
 # 会吵架的 AI Agent 才是真团队：大白话带你搞懂 Agent Teams
 
-# 会吵架的 AI Agent 才是真团队：大白话带你搞懂 Agent Teams
-
 ​
 
 ![图片以漫画风格呈现，背景为白色，带有黑色放射状线条。上方文字为“三分钟大白话：什么是Agent Teams?”，下方文字为“让AI学会吵架才能出好结果”。图片位于介绍Agent Teams的文档开头部分，通过简洁明了的文字和漫画元素，直观传达了Agent Teams的概念，即让AI学会协作，通过“吵架”（即团队协作）才能达到好的结果，与上下文对Agent Teams的介绍相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWE2N2I3ZGNjYzE2NmFkMTI1MzZkMDJkZThmYzFlNzVfMjBkNTkyYmI3N2RmMzFmNWRmY2VmN2MyMTBhNTliZmZfSUQ6NzY0NjMwMjQyODE3Nzk1OTkwMl8xNzgyMDk5MDY2OjE3ODIxMDI2NjZfVjM)

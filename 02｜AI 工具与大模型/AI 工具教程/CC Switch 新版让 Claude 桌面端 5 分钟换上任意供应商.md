@@ -1,9 +1,5 @@
 # CC Switch 新版让 Claude 桌面端 5 分钟换上任意供应商
 
-# CC Switch 新版让 Claude 桌面端 5 分钟换上任意供应商
-
-
-
 ---
 
 ![图片展示了CC Switch接入Claude Desktop的相关内容。左侧是Claude Desktop界面，右侧有OpenRouter、DeepSeek及任意供应商的图标。中间是CC Switch v3.15.0，标注有模型映射、本地路由、OpenRouter、DeepSeek。下方有快速接入、本地运行、自由切换、多供应商的标识。图片与文档中介绍CC Switch新版让Claude桌面端5分钟换上任意供应商的内容相呼应，直观呈现了接入方式及支持的供应商。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTExZDA4MjVkYmUwMjMwMTI5YTYyNjJhNjY0N2UzMGZfZGNjZDc3ZGEzNjA1M2FmYzU1MmQyZjZiYmU3MDdkZmZfSUQ6NzY0NTcxMjExNDUxODM0NjkzMV8xNzgyMDk4OTUzOjE3ODIxMDI1NTNfVjM)

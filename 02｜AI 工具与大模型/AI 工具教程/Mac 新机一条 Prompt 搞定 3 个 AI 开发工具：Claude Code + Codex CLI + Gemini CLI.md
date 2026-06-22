@@ -1,7 +1,5 @@
 # Mac 新机一条 Prompt 搞定 3 个 AI 开发工具：Claude Code + Codex CLI + Gemini CLI
 
-# Mac 新机一条 Prompt 搞定 3 个 AI 开发工具：Claude Code + Codex CLI + Gemini CLI
-
 ​
 
 ![图片展示了Mac新机必装的AI命令行工具全家桶，包括Claude Code、Codex CLI、Gemini CLI。Claude Code界面有“Logged in”标识，下方有“Redey to help you build anything”的提示图片与上下文的关系是，上下文提到Mac新机使用时，先安装Homebrew，再通过Homebrew安装Codex App桌面端，此图直观呈现了Mac上可用的AI命令行工具，与上下文介绍的Mac AI开发工具安装背景相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmZkMDc4MmUxNDhiMjQ3NjdkZWQxNjI0MWEwYmM0MTNfODJhMDA1YjRlYzA3NzRhNGEwODM4MGI0MDhlYWFjMWZfSUQ6NzY0NjMwMzQ0ODk3MTIxNzg1OF8xNzgyMDk4OTYzOjE3ODIxMDI1NjNfVjM)

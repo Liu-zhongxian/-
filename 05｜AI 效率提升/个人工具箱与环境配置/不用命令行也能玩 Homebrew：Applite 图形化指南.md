@@ -1,7 +1,5 @@
 # 不用命令行也能玩 Homebrew：Applite 图形化指南
 
-# 不用命令行也能玩 Homebrew：Applite 图形化指南
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NjVjZjAzOWZjODRkZDM0MTUzZjRhNzEyNGJjYjA5MzZfMDI3ZGMyYjcxZGFkMDUxYmVhMmFlNTQxY2VhM2U2YTJfSUQ6NzY0NTI2NTkxMzQyODQxMzYyNV8xNzgyMDk5MTYxOjE3ODIxMDI3NjFfVjM)
 
 ## Homebrew 是什么

@@ -1,7 +1,5 @@
 # 告别复制粘贴：浏览器一键剪藏到 Obsidian
 
-# 告别复制粘贴：浏览器一键剪藏到 Obsidian
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzVmNTBlYWQ1ODAwMmU3Zjg2ZjEwZDI3OThmMWQzZjFfMzIxYzIwMzlhMWVlNDBhNTJiMmUzMjU2NzUzYzFiYjZfSUQ6NzY0NTI2NjE4OTUzNDk0MDM4NF8xNzgyMDk5MTQwOjE3ODIxMDI3NDBfVjM)
 
 前几篇教程教大家装好了 Obsidian，接上了 AI，笔记终于有了个家。

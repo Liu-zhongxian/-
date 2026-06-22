@@ -1,7 +1,5 @@
 # 用 Claude Code 在飞书搭任务系统，14 个字段砍到 11 个才真正用起来
 
-# 用 Claude Code 在飞书搭任务系统，14 个字段砍到 11 个才真正用起来
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yjk1NWRlNjcyZTk5YTEyZDBiMWQxM2ZjMjc4YWZlN2FfYmRhOWM4NDgwMzcyZjlhMGE5OTU2YzdjYTJlN2JiMjBfSUQ6NzY0NTI2NjY2NjA3MDgwNTcwM18xNzgyMDk5MDgzOjE3ODIxMDI2ODNfVjM)
 
 用 Claude Code 在飞书搭了个任务管理系统。

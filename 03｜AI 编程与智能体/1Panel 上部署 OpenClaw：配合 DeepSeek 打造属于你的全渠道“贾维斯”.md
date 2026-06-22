@@ -1,7 +1,5 @@
 # 1Panel 上部署 OpenClaw：配合 DeepSeek 打造属于你的全渠道“贾维斯”
 
-# 1Panel 上部署 OpenClaw：配合 DeepSeek 打造属于你的全渠道“贾维斯”
-
 正是openclaw的爆火，我们既然已经安装了1Panel 面板搭好了，如果不跑点好玩的容器岂不是浪费？今天我就带大家玩个大的——**在自己的 VPS 上部署一个私人 AI 助理：OpenClaw。**
 
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yzc1MjMyYjYyNjliZjNmY2YxNDEwMTgyNmM5MDQ0NGVfMDQ2YzJkNjJmM2Q0ZTZkM2E2MDExYWQwMzIyZWE3YjNfSUQ6NzY0ODI3MjI5NjI1OTczNDcyNF8xNzgyMDk5MDk4OjE3ODIxMDI2OThfVjM)

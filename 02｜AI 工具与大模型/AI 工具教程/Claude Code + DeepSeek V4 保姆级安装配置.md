@@ -1,7 +1,5 @@
 # Claude Code + DeepSeek V4 保姆级安装配置
 
-# 超简单 Claude Code + DeepSeek V4 安装手册（Mac 版）
-
 ---
 
 

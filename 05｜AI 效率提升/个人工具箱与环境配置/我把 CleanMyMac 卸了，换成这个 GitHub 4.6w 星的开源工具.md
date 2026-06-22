@@ -1,7 +1,5 @@
 # 我把 CleanMyMac 卸了，换成这个 GitHub 4.6w 星的开源工具
 
-# 我把 CleanMyMac 卸了，换成这个 GitHub 4.6w 星的开源工具
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NGU4NmY0M2E0NzRkODk2MzhjZGI2OTZjYmYxYzFkNjFfZmRjNTY3YzIyNmNhYmNjNzZjYTliOWEyYzgzOTA0MDlfSUQ6NzY0NTI2NjU2NzI2OTk2MDkwN18xNzgyMDk5MTYyOjE3ODIxMDI3NjJfVjM)
 
 电脑越用垃圾越多，甚至我系统数据已经用了 268GB，实在是令人匪夷所思。

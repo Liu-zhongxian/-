@@ -1,7 +1,5 @@
 # GitHub Actions 集成
 
-# GitHub Actions 集成
-
 通过将 Claude 直接连接到你的 GitHub 工作流，自动化代码审查、Issue 分类和质量门控。两种触发模式：`@claude` 提及（人工发起）和定时/事件自动化（完全自主）。
 
 ---

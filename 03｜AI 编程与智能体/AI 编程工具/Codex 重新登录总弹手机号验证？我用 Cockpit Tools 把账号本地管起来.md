@@ -1,9 +1,5 @@
 # Codex 重新登录总弹手机号验证？我用 Cockpit Tools 把账号本地管起来
 
-# Codex 重新登录总弹手机号验证？我用 Cockpit Tools 把账号本地管起来
-
-
-
 ![图片展示了Cockpit Tools管理ChatGPT/Codex账号的界面，强调其能减少反复登录、一键切换账号、查看额度、多工具管理等功能，解决账号风控问题。画面中显示了账号管理、额度管理、成单中心等板块，还呈现了账号使用情况，如Codex账号使用率78%、Cursor账号使用率52%等。右下角有“本地管理，更省心”的绿色箭头标识，与文档中解决账号风控问题、把账号本地管理起来的思路相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YTM5YzAxODgyMzc0ZjdiYzYxMTgzMDk3M2M4MDEyNWZfY2Y0NWRlYWZmZDNkNWM2OTI5MmM2MjM3ZTk1YjBjNTZfSUQ6NzY0NTcxMjYzNTQxNzI1MTAzM18xNzgyMDk5MDU4OjE3ODIxMDI2NThfVjM)
 
 如果你最近重新登录 Codex，经常遇到手机号认证，那这篇教程你一定要看一下。

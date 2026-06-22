@@ -1,7 +1,5 @@
 # 可能是全网最保姆级的 Obsidian 图床教程了
 
-# 可能是全网最保姆级的 Obsidian 图床教程了
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTQxN2M2ZjVmYzg4N2Y2ODhhOTYyMzgzNTEyYjhmZjFfNjY1ZGY0NDE3ODkwOWE1YzE0NDViMmViMDZkMjhiMzFfSUQ6NzY0NTI2NjI5MTQ2MDU1ODAwMl8xNzgyMDk5MTQ0OjE3ODIxMDI3NDRfVjM)
 
 你的 Obsidian 库多大了？

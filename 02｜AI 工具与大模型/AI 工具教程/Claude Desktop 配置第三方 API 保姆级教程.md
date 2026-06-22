@@ -1,7 +1,5 @@
 # Claude Desktop 配置第三方 API 保姆级教程
 
-# Claude Desktop 配置第三方 API 保姆级教程
-
 ![图片展示了Claude Desktop配置第三方API的保姆级教程，强调不消耗官方额度、支持Cowork/Projects/Artifacts等功能。画面左侧有四个图标，分别代表不消耗官方额度、支持Cowork/Projects/Artifacts、本地配置安全可控、快速接入简单高效。右侧是配置界面，显示使用第三方API配置成功，有“配置成功”标识及“第三方API调用生效”提示，还展示了API相关配置项。该图与文档中介绍Claude Desktop配置第三方API的内容相契合，直观呈现了配置步骤及成功状态。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmVkMjhiOWQ5M2Y5N2UwNmEzZmQ5NmI0ZmQwMmM2MWRfOTMzMjRkYzU3ZWM4ZmM5Njc4YzUyMmNiMTMxYTg4N2RfSUQ6NzY0NTcxMjI1ODgyMDczODI2NV8xNzgyMDk4OTU1OjE3ODIxMDI1NTVfVjM)
 
 这个功能可以把 Claude Desktop 变成你自己的第三方 API 桌面客户端。配置完成后，模型调用会走你填写的第三方 API，不再消耗 Claude 官方订阅额度；但会消耗第三方 API 的额度或余额。

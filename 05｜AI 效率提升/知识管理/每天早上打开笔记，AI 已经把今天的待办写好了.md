@@ -1,7 +1,5 @@
 # 每天早上打开笔记，AI 已经把今天的待办写好了
 
-# 每天早上打开笔记，AI 已经把今天的待办写好了
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTQzZmExZjc5NTZiYjljYTc0MjgwMzU1NjU1ZTYxNjdfMzI5NDc0MjU4MzQ2NWU2YzMyNzc0NzE0YzhmYzE0NjVfSUQ6NzY0NTI2NjQyOTA3NTM3NzMzMV8xNzgyMDk5MTM5OjE3ODIxMDI3MzlfVjM)
 
 依旧是一篇小白能看懂的文章，一步一步截图和录制 GIF，不要害怕，有我给你铺路！

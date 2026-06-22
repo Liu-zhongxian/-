@@ -1,9 +1,5 @@
 # Obsidian + AI：8 个值得搭的自动化工作流，记得收藏！
 
-# Obsidian + AI：8 个值得搭的自动化工作流，记得收藏！
-
-
-
 ![图片展示了Obsidian + AI的8个自动化工作流，从收集到输出，让知识流动起来。左侧输入收集部分，有手机捕获、网页剪藏、日历与任务等，分别对应1、2、3步骤。中间知识中枢汇集所有内容。右侧输出应用部分，有月度报告、会议转录、阅读笔记转大纲、发布输出等，分别对应4、5、6、7步骤。该图与上下文紧密相关，直观呈现了Obsidian + AI的工作流程。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YjRhZWRiZWJmNmQyZGI0YTFiNTdjMDM2MjQ4MGJmM2FfZGFlNzEyOTJhNWFlNzIwNjQyMDljN2Y4MzA4NjYyMTdfSUQ6NzY0NTcxMzI0MzMyMDQyMTYwMF8xNzgyMDk5MTUyOjE3ODIxMDI3NTJfVjM)
 
 很多人还把 Obsidian 当笔记软件用。

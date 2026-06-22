@@ -1,7 +1,5 @@
 # 这才是我想使用 Claude Code 中 Agent Teams 该有的样子
 
-# 这才是我想使用 Claude Code 中 Agent Teams 该有的样子
-
 ​
 
 ![图片展示了Claude Code中Agent Teams的实操界面。左侧是聊天窗口，HR Manager与AI进行对话，AI回复了三条内容管理任务，包括内容管理、内容筛选和内容发布。右侧是AI Teammate Insights & Status面板，显示了内容管理、内容筛选、内容发布等任务的执行情况，如内容管理任务已开始，内容筛选任务正在执行等。该图片直观呈现了使用Agent Teams时的界面及任务执行状态，与上下文提到的使用Claude Code中Agent Teams不直观、使用门槛高的问题相呼应。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2FlYjhlNzE0MTIyOWUzOWQ4NjNkMTRmODQ4ODhlYzZfZjFkMDcwNDdiYzBjOGU3ZDhjMzhkNzhlYjhiYTFmZDNfSUQ6NzY0NjMwODgwMDMyMDI5Mzg0MF8xNzgyMDk5MDk1OjE3ODIxMDI2OTVfVjM)

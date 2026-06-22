@@ -1,7 +1,5 @@
 # OpenClaw 初级到高级完整教程
 
-# OpenClaw 初级到高级完整教程
-
 > **导语**：时间来到2026年，如果你还没有听过OpenClaw的大名，那你可能说明你已经和AI社会脱节了。今年GitHub上狂飙6.8万Star的 **OpenClaw**（曾用名ClawdBot），超越了Linux和React登顶第一的位置。今天这篇文章，我将手把手原生的安装和一些玩法。
 
 ## 一、 OpenClaw和普通AI的区别？

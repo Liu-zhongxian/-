@@ -1,9 +1,5 @@
 # 玩尽各种AI大模型导致C盘爆满全红？教你一招无损借空间，彻底告别焦虑！（附实操图解）
 
-# 玩尽各种AI大模型导致C盘爆满全红？教你一招无损借空间，彻底告别焦虑！（附实操图解）
-
-
-
 ![图片展示了傲梅分区助手实操指南的宣传内容。左侧是C盘，呈现红色，标注“FULL”和“C盘”，右侧是D盘，呈现蓝色，标注“AVAILABLE”和“D盘”。中间有蓝色光带，连接C盘和D盘，上方有“玩转AI大模型C盘全红？一招无损扩容拯救焦虑”字样，下方是“傲梅分区助手实操指南”。该图与上下文紧密相关，直观呈现了从D盘扩容C盘的操作思路，辅助说明如何在不重装系统、不丢失数据的情况下，使用傲梅分区助手拯救C盘空间。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=N2YwNTAzNTc4MjNmNThlNmU5ODdmN2I1M2RkNTUwZmJfZjVmOTI0NWU2ODBkNDIxMmE1ZmU3NWFlZjIwMDM1MjZfSUQ6NzY0NTcxNTM0MjUxMzU1NjY4MV8xNzgyMDk5MTY3OjE3ODIxMDI3NjdfVjM)
 
 电脑用久了，尤其是最近跟着教程折腾各种 AI 模型、安装复杂的环境依赖，不管把主程序装在哪里，C盘空间总是越用越小，最后防不胜防地变成扎眼的全红色。C盘爆满不仅让人心怀焦虑，还会拖慢整个系统的运行速度。

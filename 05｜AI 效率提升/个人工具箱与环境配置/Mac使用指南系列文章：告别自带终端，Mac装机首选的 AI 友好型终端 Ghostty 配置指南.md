@@ -1,7 +1,5 @@
 # Mac使用指南系列文章：告别自带终端，Mac装机首选的 AI 友好型终端 Ghostty 配置指南
 
-# Mac使用指南系列文章：告别自带终端，Mac装机首选的 AI 友好型终端 Ghostty 配置指南
-
 ​
 
 ![图片展示了Mac终端工具Ghostty的相关信息。左侧是Ghostty的图标及文字，强调其为Mac新机必装工具，目前对AI终端最友好。右侧列出Ghostty的默认快捷键示例，包括Cmd + t新建标签页、Cmd + n新建窗口、Cmd + f模糊查找（可结合AI）、Cmd + k AI命令运行（示例）、Cmd + Shift + p命令面板、Cmd + Option + 方向键调整分割窗口、Cmd + 1 - 9切换标签页等。该图片与文档中介绍Mac使用指南系列文章中关于Ghostty配置的内容相关，直观呈现了Ghostty的部分功能与快捷键。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDdjYThmZTliYzVkMDFmZjQ2ODQwZTg0OGVkODFiOWNfZGYxNTdjMzE4NGM3NWI2OTcwZGQ0ZTk3ZmJhM2ZkOTBfSUQ6NzY0NjMwNDEwMTc5ODIwMjMxMV8xNzgyMDk5MTcxOjE3ODIxMDI3NzFfVjM)

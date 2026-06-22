@@ -1,7 +1,5 @@
 # 在Claude Code中使用两大国产模型与世界顶级模型Claude Opus 4.7的火力比拼
 
-# 在Claude Code中使用两大国产模型与世界顶级模型Claude Opus 4.7的火力比拼
-
 ​
 
 ![图片展示了国产大模型崛起的相关数据与信息。上方标题为“国产大模型崛起”，下方文字说明多款模型密集发布，能力全面提升。图片左侧显示中国阵营Token消耗占比45%+，已实现反超，美国三巨头合计占比42%。右侧有通义千问、小米大模型等国产大模型标识。下方还列出多款国产大模型密集发布、能力全面提升、应用场景丰富高效易用、生态加速发展未来可期等内容。该图与文档中介绍中国AI厂商密集发布大模型、能力提升及市场份额变化的上下文紧密相关。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmM2YmQyYTZlNDE5NGU4NmE1MzRlM2RhMmNkNjQwMDdfMWNjNTczMzFmMzIwY2VhNjMyNjgwNmZkMjVhN2Q2MjhfSUQ6NzY0NjMwNzA1MTAzMTEyMDg1OF8xNzgyMDk4OTcwOjE3ODIxMDI1NzBfVjM)

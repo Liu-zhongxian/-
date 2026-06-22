@@ -1,7 +1,5 @@
 # Codex 移动端配置，保姆级教程带你 5 分钟搞定
 
-# Codex 移动端配置，保姆级教程带你 5 分钟搞定
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGU5YTkyNWVlYTUwOWFhMDIzMGJmMzdlNmYyYjk5MWVfZWUyYzY5NjRlMGMyMjQzODAyZWQzNjNmMjA5Nzc5NDBfSUQ6NzY0NTI2NTM4MjcyMzAxMzgyNl8xNzgyMDk5MDU1OjE3ODIxMDI2NTVfVjM)
 
 🔥首发！codex 移动端连接配置保姆级教程奉上 今天 Codex 上线了移动端远程控制功能，我第一时间配好试了一下，人不在电脑前，手机也能给 Codex 下指令、看结果、接着之前的对话继续聊。

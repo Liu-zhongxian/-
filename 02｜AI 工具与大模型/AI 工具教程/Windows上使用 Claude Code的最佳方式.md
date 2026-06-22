@@ -1,7 +1,5 @@
 # Windows上使用 Claude Code的最佳方式
 
-# Windows上使用 Claude Code的最佳方式
-
 ---
 
 周末在家，正好看到蚂蚁 InclusionAI 正式发布了面向真实复杂任务的万亿级思考模型 **Ring-2.6-1T。**

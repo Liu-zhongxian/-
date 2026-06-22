@@ -1,7 +1,5 @@
 # MCP 是什么：让 AI 接入外部工具的协议
 
-# MCP 是什么：让 AI 接入外部工具的协议
-
 > 🎯 **这一篇读完，你应该能：**
 > - 解释 MCP 是 Anthropic 提出的"AI 时代的 USB-C"
 > - 理清 Host / Client / Server 三个角色

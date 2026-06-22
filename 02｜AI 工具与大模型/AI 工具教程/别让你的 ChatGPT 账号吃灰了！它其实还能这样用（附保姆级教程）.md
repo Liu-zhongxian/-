@@ -1,9 +1,5 @@
 # 别让你的 ChatGPT 账号吃灰了！它其实还能这样用（附保姆级教程）
 
-# 别让你的 ChatGPT 账号吃灰了！它其实还能这样用（附保姆级教程）
-
-
-
 ![图片展示了codex-proxy的工作原理。左侧有多个ChatGPT账号图标，通过箭头指向中间的codex-proxy（Docker Container），其内部有Load Balance和API Proxy。右侧是codex-proxy输出的接口，包括Social Media Bot、Code Editor、Translation Tool和Browser Extension。该图与上下文紧密相关，直观呈现了将网页版ChatGPT账号能力转换为标准OpenAI接口，支持多账号“组队打工”的功能。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ODExMDdmNzBjM2IzMzI2MTUyZDYzMWI1ZWU1YTU0MTZfMDRmZWM4ZTMzYTBmODVkZGIxNzY3MWM2ZDc3NjQ4ZDhfSUQ6NzY0NTcxMzY5ODUzNDkwMzAwM18xNzgyMDk4OTU3OjE3ODIxMDI1NTdfVjM)
 
 > 💡 **写在前面：**

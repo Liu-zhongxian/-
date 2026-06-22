@@ -295,6 +295,13 @@ function Convert-LarkMarkdown {
   )
 
   $content = $content.Trim()
+  do {
+    $previousContent = $content
+    $content = [System.Text.RegularExpressions.Regex]::Replace($content, "^\s*#\s+.*?[ \t]*(\r?\n|$)", "", 1).Trim()
+  } while ($content -ne $previousContent)
+  if ([string]::IsNullOrWhiteSpace($content)) {
+    return "# $Title`r`n"
+  }
   return "# $Title`r`n`r`n$content`r`n"
 }
 

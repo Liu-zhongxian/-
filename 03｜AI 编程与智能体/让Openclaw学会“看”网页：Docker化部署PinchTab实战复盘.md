@@ -1,7 +1,5 @@
 # 让Openclaw学会“看”网页：Docker化部署PinchTab实战复盘
 
-# 让Openclaw学会“看”网页：Docker化部署PinchTab实战复盘
-
 最近在折腾Openclaw，想要给自己的小龙虾加上浏览网页的能力。有一天逛Github 的时候看到了一个项目，感觉很合适AI使用的，那就是PinchTab。它的工作逻辑很简单：启动一个独立的HTTP服务器，然后挂上实例，小龙虾就能通过API直接控制Chrome浏览器了。
 
 这里最推荐的Openclaw配置是2GB内存和8GB内存的，2GB是运行起跑线，8GB可以让你安装更多的的东西，如果想折腾的东西多就使用8GB及其以上的机器。

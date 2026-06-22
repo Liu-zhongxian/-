@@ -1,7 +1,5 @@
 # GPT Image 2 上线：我伪造了 1987 年一个中国人的一天
 
-# GPT Image 2 上线：我伪造了 1987 年一个中国人的一天
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NzIxMWM0ZDljZGI4OGI5ODc1NjhhN2ZjMmIzMjcwNTVfOGU2OTcyNzM5ZDM3ZDlkMmY2NzA4NjhiMGM3OTVkMjVfSUQ6NzY0NTI2NTU2NDY0MTg0MDMxNF8xNzgyMDk5MTE5OjE3ODIxMDI3MTlfVjM)
 
 1987 年 10 月 15 日，星期四。河北涿县。

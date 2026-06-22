@@ -1,7 +1,5 @@
 # Chat Bot 加一个循环，就进化成了 Agent
 
-# Chat Bot 加一个循环，就进化成了 Agent
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MzlkODc0NWI4MjA2YWFiNzI1OTlkMzlhY2NkMzFiMGJfNTkzMzkwYmIxZjIyOGNkZmE1YmZjMWM5YTVkMmIwN2ZfSUQ6NzY0NTMxNTgyODYxODg5MDIwMV8xNzgyMDk5MDY1OjE3ODIxMDI2NjVfVjM)
 
 **一、Agent 是什么暂且不谈，先说 ChatGPT，世界上第一个 LLM 大模型的 ChatBot**

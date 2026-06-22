@@ -1,7 +1,5 @@
 # 完全不懂 也能3 分钟搞懂 Agent Skills，让 AI 自动替你干活
 
-# 完全不懂 也能3 分钟搞懂 Agent Skills，让 AI 自动替你干活
-
 ​
 
 ![图片以“Agent Skills：AI的超能力插件”为主题，介绍其为AI装App，即插即用的核心机制。画面中，机器人向人类求助，人类表示每次都要重教，重复劳动。右侧展示了技能包结构，包含操作说明、参考资料、可执行脚本、资源文件等内容。还呈现了核心机制的三个步骤：只看目录省Token、需要时看说明书精确、干活时调用工具执行。最后强调更省资源、更专注、少出错，助力驾驭AI系统指数级增长，提升未来竞争力。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Mjc3OTU5MDJlMzNlOTBkYjQ4MDBiZjc4MjlmMDkzZTBfYzExY2E3YTg1OTIwZjFhNTI4ZjZhYTZkMmJjNDQ5MTJfSUQ6NzY0NjMwNzk1MzQ3ODczMjc3MF8xNzgyMDk5MDY5OjE3ODIxMDI2NjlfVjM)

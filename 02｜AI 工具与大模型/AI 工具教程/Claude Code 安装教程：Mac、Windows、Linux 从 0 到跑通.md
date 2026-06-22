@@ -1,7 +1,5 @@
 # Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通
 
-# Claude Code 安装教程：Mac、Windows、Linux 从 0 到跑通
-
 ![图片是Claude跨平台安装教程v2.1.87，展示了Mac、Windows、Linux三种操作系统下Claude Code的安装步骤。Mac需下载、解压、移动；Windows需运行.exe并选择路径；Linux需tar -xzf并运行二进制。配置和初始化时，输入“Enter Claude Code configuration”“Run /init...”后显示“Configuration complete!”。右侧有欢迎语“Welcome back ton!”及提示，如“Run /init to create a...”“Note: You have launch...”“Recent activity”。该图与文档中介绍Claude Code安装教程的内容相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZmQyNzNmODMyY2NiZGYzMWU1ZmE4MjliNzg0MmRmZWRfYWE1OWVlNzFhMmFjMDk2YmZmMmVkY2VmNjg3ZDZiODdfSUQ6NzY0NDk0Mzg1MzY2NDk2MzgwMV8xNzgyMDk4OTI5OjE3ODIxMDI1MjlfVjM)
 
 最近 AI CLI 是越来越火了。Gemini 有自己的 CLI，Claude 有 Claude Code，OpenAI 这边也有 Codex 相关工具，御三家这算是都下场了。你现在再看 AI 编程这件事，大家已经不在满足“网页里聊两句代码”那么简单，越来越多人想让 AI 融合进自己的项目里面，创建自己的工作流了。

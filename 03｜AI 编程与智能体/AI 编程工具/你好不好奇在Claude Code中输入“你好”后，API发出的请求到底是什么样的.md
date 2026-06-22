@@ -1,7 +1,5 @@
 # 你好不好奇在Claude Code中输入“你好”后，API发出的请求到底是什么样的
 
-# 你好不好奇在Claude Code中输入“你好”后，API发出的请求到底是什么样的
-
 ​
 
 ![图片标题为“Claude Code 请求内幕 一次对话到底发了什么？”，展示了Claude Code请求的界面。界面中呈现了POST /v1/messages的请求信息，包括Content-Type、Authorization等内容，还显示了请求的URL、请求体等。右侧有“文本生成”“代码生成”“代码推理”“代码解释”“代码搜索”等标签。该图片与上下文紧密相关，直观呈现了在Claude Code中输入“你好”后，发送给大模型的请求内容，帮助理解请求内幕。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTQ2NGQxMzM2NmU2MDMwYjgzNjllZGQ5ZTE1YTlhM2ZfNWQ0OTY3ZmI1ZmY0M2I5NGQ0YjFiYzk5MWYwMWI5NmNfSUQ6NzY0NjMwNTU4NTQxMTg4NjAyMl8xNzgyMDk5MDYxOjE3ODIxMDI2NjFfVjM)

@@ -1,7 +1,5 @@
 # Codex 接入国产大模型（DeepSeek 篇）
 
-# Codex 接入国产大模型（DeepSeek 篇）
-
 把 Codex 的模型供应商到 DeepSeek，用 CC Switch 管理配置。全程图形界面操作，不需要手动编辑配置文件。
 
 ### 原理

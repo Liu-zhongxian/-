@@ -1,7 +1,5 @@
 # 使用宝玉Skill 将本地markdown文档自动上传到推特后台(window+mac都适用)
 
-# 使用宝玉Skill 将本地markdown文档自动上传到推特后台(window+mac都适用)
-
 ​
 
 ![图片展示了宝玉的自动发推Skill流程，分为背景&痛点、准备工作、安装&配置、执行&发布四部分。背景&痛点中宝玉感叹推特编辑器难用，痛点是长文排版难。准备工作包括本地Markdown文档、软连接、安装npx skills add等。安装&配置有OpenCode、agents、skills等操作。执行&发布则有登录信息本地存储、浏览器授权登录、成功上传草稿箱等步骤。该图直观呈现了宝玉Skill的使用流程，与上下文介绍的自动将本地markdown文档上传到推特后台的功能相契合。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZjZhY2FjMDU4YWY1ZDQwMWNlMWE1MzliMTkyY2U2YWFfNmRiOGY4OGIzODMwNzM2YjM0NmExOWI1Y2Y4ZDc4ZjJfSUQ6NzY0NjMwNTkyMDU4NjU5OTM1Nl8xNzgyMDk5MDkwOjE3ODIxMDI2OTBfVjM)

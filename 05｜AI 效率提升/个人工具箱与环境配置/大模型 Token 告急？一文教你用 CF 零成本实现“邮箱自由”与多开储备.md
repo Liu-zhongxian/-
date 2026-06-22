@@ -1,9 +1,5 @@
 # 大模型 Token 告急？一文教你用 CF 零成本实现“邮箱自由”与多开储备
 
-# 大模型 Token 告急？一文教你用 CF 零成本实现“邮箱自由”与多开储备
-
-
-
 ![图片为一篇关于大模型Token告急解决方案的封面图，以Cloudflare标志为中心，周围环绕着“LLM”“Cloudflare”“Email Freedom”“多开储备”等关键词。背景中展示了大量邮箱图标，右侧是邮箱自由和账号储备库的标识。图片与上下文紧密相关，直观呈现了文章主题，即用Cloudflare实现零成本“邮箱自由”与多开储备，解决大模型Token告急问题。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MTc4YzQwMmRlNjk1OGJmZGM1YmJlNzVjMzk4Y2I4N2JfZjk3MzU1MTJlN2VjNjM1ZjE1OTNlZjRmZGVjYTM3ODVfSUQ6NzY0NTcxNDMxNDQ5MzYyNzYwNl8xNzgyMDk5MTY2OjE3ODIxMDI3NjZfVjM)
 
 昨晚我熬夜实测了几个几十块钱的冷门域名，发现这套野路子不仅行得通，而且防封率极高。

@@ -1,7 +1,5 @@
 # 卡帕西AI约束指令词
 
-# 卡帕西AI约束指令词
-
 ## 英文原版（约束更强）
 
 <figure view-type="Preview"><source href="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTg3OGExZjk4MzliNTZlMjhiYTc2NjY2NTAwYTAzMjlfOTAxMTExYzU1ZjNhNzEzNjMwMDE0N2U3MmUwYmZlMmZfSUQ6NzY0NTcyMTg3Njk3NDYzNjIzN18xNzgyMDk5MTU1OjE3ODIxMDI3NTVfVjM" mime="text/markdown" token="YgArbHz4AoP8gyxvfedcouZsnBe"/></figure>

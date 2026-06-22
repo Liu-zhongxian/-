@@ -1,7 +1,5 @@
 # Hermes Agent 从零手把手安装使用指南
 
-# Hermes Agent 从零手把手安装使用指南
-
 ​
 
 ![图片展示了一张宣传海报，背景为深色，前景有科技感的画面，包括城市、车辆等元素。画面左侧有OpenClaw的标志，右侧是一位带有科技风格装饰的女性形象。海报上以白色和黄色大字写着“OpenClaw之后又一现象级的产品 Hermes Agent横空出世”。这张图片位于介绍Hermes Agent的文档开头部分，起到了突出Hermes Agent是继OpenClaw之后的又一重要产品，吸引读者关注的作用。](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTE3ZjI0MWFmMjk4OWUyYTMwYjkzNWVjZDhhZDFlZmRfNTU1Y2IzNDBmODgxNjQ3YTBhMmU3NDhjMmQ1ZThhZGJfSUQ6NzY0NjMwMzA2NTQ2NDk4MjQ5MF8xNzgyMDk5MDg5OjE3ODIxMDI2ODlfVjM)

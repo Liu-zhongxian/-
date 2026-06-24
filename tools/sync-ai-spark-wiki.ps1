@@ -60,21 +60,35 @@ function Invoke-LarkJson {
   param([string[]]$ArgsList)
 
   $larkCli = Get-LarkCli
-  $psi = [System.Diagnostics.ProcessStartInfo]::new()
-  $psi.FileName = $larkCli
-  $psi.Arguments = ($ArgsList | ForEach-Object { Convert-ToProcessArgument $_ }) -join " "
-  $psi.RedirectStandardOutput = $true
-  $psi.RedirectStandardError = $true
-  $psi.UseShellExecute = $false
+  $arguments = ($ArgsList | ForEach-Object { Convert-ToProcessArgument $_ }) -join " "
+  $maxAttempts = 5
 
-  $proc = [System.Diagnostics.Process]::Start($psi)
-  $stdout = $proc.StandardOutput.ReadToEnd()
-  $stderr = $proc.StandardError.ReadToEnd()
-  $proc.WaitForExit()
+  for ($attempt = 1; $attempt -le $maxAttempts; $attempt++) {
+    $psi = [System.Diagnostics.ProcessStartInfo]::new()
+    $psi.FileName = $larkCli
+    $psi.Arguments = $arguments
+    $psi.RedirectStandardOutput = $true
+    $psi.RedirectStandardError = $true
+    $psi.UseShellExecute = $false
 
-  $text = ($stdout + "`n" + $stderr).Trim()
-  if ($proc.ExitCode -ne 0) {
-    throw $text
+    $proc = [System.Diagnostics.Process]::Start($psi)
+    $stdout = $proc.StandardOutput.ReadToEnd()
+    $stderr = $proc.StandardError.ReadToEnd()
+    $proc.WaitForExit()
+
+    $text = ($stdout + "`n" + $stderr).Trim()
+    if ($proc.ExitCode -eq 0) {
+      break
+    }
+
+    $isRateLimited = $text -match 'HTTP 429|rate.?limit|too many requests'
+    if (-not $isRateLimited -or $attempt -eq $maxAttempts) {
+      throw $text
+    }
+
+    $delaySeconds = [Math]::Min(60, 5 * [Math]::Pow(2, $attempt - 1))
+    Write-Warning "lark-cli rate limited, retrying in $delaySeconds seconds (attempt $attempt/$maxAttempts)."
+    Start-Sleep -Seconds $delaySeconds
   }
 
   $start = $text.IndexOf("{")
@@ -244,23 +258,24 @@ function Save-FeishuAsset {
 
   $existing = @(Get-ChildItem -LiteralPath $AssetDir -File -Filter "$Token.*" -ErrorAction SilentlyContinue)
   if ($existing.Count -eq 0) {
-    if (-not $script:MediaDownloadAvailable) {
-      return Save-FallbackAsset -Token $Token -AssetDir $AssetDir -MarkdownFile $MarkdownFile
-    }
-
     $outputBase = Get-RelativePathFromCurrentDirectory -Path (Join-Path $AssetDir $Token)
+    $downloadError = $null
     try {
-      Invoke-LarkJson @(
-        "docs", "+media-download",
-        "--as", "bot",
-        "--token", $Token,
-        "--output", $outputBase,
-        "--overwrite",
-        "--json"
-      ) | Out-Null
+      if ($script:MediaDownloadAvailable) {
+        Invoke-LarkJson @(
+          "docs", "+media-download",
+          "--as", "bot",
+          "--token", $Token,
+          "--output", $outputBase,
+          "--overwrite",
+          "--json"
+        ) | Out-Null
+      } else {
+        throw "media-download is disabled after a previous permission error"
+      }
     } catch {
-      $message = $_.Exception.Message
-      if ($message -match "99991672|docs:document\.media:download") {
+      $downloadError = $_.Exception.Message
+      if ($downloadError -match "99991672|docs:document\.media:download") {
         $script:MediaDownloadAvailable = $false
         if (-not $script:MediaDownloadWarningShown) {
           Write-Warning "Media download permission is missing. Enable docs:document.media:download for the bot to localize all Feishu images."
@@ -268,16 +283,26 @@ function Save-FeishuAsset {
         }
       }
 
-      $fallback = Save-FallbackAsset -Token $Token -AssetDir $AssetDir -MarkdownFile $MarkdownFile
-      if ($fallback) {
-        Write-Warning "Media token $Token could not be downloaded; used local fallback asset."
-        return $fallback
-      }
+      try {
+        Invoke-LarkJson @(
+          "docs", "+media-preview",
+          "--as", "bot",
+          "--token", $Token,
+          "--output", $outputBase,
+          "--overwrite",
+          "--json"
+        ) | Out-Null
+        Write-Warning "Media token $Token used media-preview fallback after media-download failed."
+      } catch {
+        $previewError = $_.Exception.Message
+        $fallback = Save-FallbackAsset -Token $Token -AssetDir $AssetDir -MarkdownFile $MarkdownFile
+        if ($fallback) {
+          Write-Warning "Media token $Token could not be downloaded or previewed; used local fallback asset."
+          return $fallback
+        }
 
-      if (-not $script:MediaDownloadAvailable) {
-        return $null
+        throw "Failed to save media token $Token. media-download error: $downloadError media-preview error: $previewError"
       }
-      throw
     }
     $existing = @(Get-ChildItem -LiteralPath $AssetDir -File -Filter "$Token.*" -ErrorAction SilentlyContinue)
   }
@@ -290,6 +315,71 @@ function Save-FeishuAsset {
   return Get-RelativeMarkdownPath -FromFile $MarkdownFile -ToFile $existing[0].FullName
 }
 
+function Get-ImageExtensionFromFile {
+  param(
+    [string]$Path,
+    [string]$ContentType
+  )
+
+  $type = ([string]$ContentType).ToLowerInvariant()
+  if ($type -match 'image/jpeg|image/jpg') { return '.jpg' }
+  if ($type -match 'image/png') { return '.png' }
+  if ($type -match 'image/gif') { return '.gif' }
+  if ($type -match 'image/webp') { return '.webp' }
+
+  if (Test-Path -LiteralPath $Path) {
+    $bytes = [System.IO.File]::ReadAllBytes($Path)
+    if ($bytes.Length -ge 4 -and $bytes[0] -eq 0xFF -and $bytes[1] -eq 0xD8) { return '.jpg' }
+    if ($bytes.Length -ge 8 -and $bytes[0] -eq 0x89 -and $bytes[1] -eq 0x50 -and $bytes[2] -eq 0x4E -and $bytes[3] -eq 0x47) { return '.png' }
+    if ($bytes.Length -ge 6 -and [System.Text.Encoding]::ASCII.GetString($bytes, 0, 3) -eq 'GIF') { return '.gif' }
+    if ($bytes.Length -ge 12 -and [System.Text.Encoding]::ASCII.GetString($bytes, 0, 4) -eq 'RIFF' -and [System.Text.Encoding]::ASCII.GetString($bytes, 8, 4) -eq 'WEBP') { return '.webp' }
+  }
+
+  return '.bin'
+}
+
+function Save-RemoteImageAsset {
+  param(
+    [string]$Url,
+    [string]$AssetDir,
+    [string]$MarkdownFile,
+    [int]$Index
+  )
+
+  if ([string]::IsNullOrWhiteSpace($Url)) {
+    return $null
+  }
+
+  New-Item -ItemType Directory -Force -Path $AssetDir | Out-Null
+
+  $baseName = 'image-{0:D3}' -f $Index
+  $existing = @(Get-ChildItem -LiteralPath $AssetDir -File -Filter "$baseName.*" -ErrorAction SilentlyContinue)
+  if ($existing.Count -eq 0) {
+    $tempPath = Join-Path $AssetDir "$baseName.download"
+    try {
+      $response = Invoke-WebRequest -Uri $Url -OutFile $tempPath -UseBasicParsing
+      $contentType = $null
+      if ($response.Headers -and $response.Headers['Content-Type']) {
+        $contentType = [string]$response.Headers['Content-Type']
+      }
+      $extension = Get-ImageExtensionFromFile -Path $tempPath -ContentType $contentType
+      $targetPath = Join-Path $AssetDir "$baseName$extension"
+      Move-Item -LiteralPath $tempPath -Destination $targetPath -Force
+    } catch {
+      if (Test-Path -LiteralPath $tempPath) {
+        Remove-Item -LiteralPath $tempPath -Force
+      }
+      throw
+    }
+    $existing = @(Get-ChildItem -LiteralPath $AssetDir -File -Filter "$baseName.*" -ErrorAction SilentlyContinue)
+  }
+
+  if ($existing.Count -eq 0) {
+    return $null
+  }
+
+  return Get-RelativeMarkdownPath -FromFile $MarkdownFile -ToFile $existing[0].FullName
+}
 function Convert-LarkMarkdown {
   param(
     [string]$Markdown,
@@ -336,12 +426,40 @@ function Convert-LarkMarkdown {
     }
   )
 
+  $remoteImageIndex = 0
+  $remoteImagePattern = '!\[([^\]]*)\]\((https://[^)\s]*drive[^)\s]*\.feishu\.cn/space/api/box/stream/download/authcode/[^)\s]+)\)'
+  $content = [System.Text.RegularExpressions.Regex]::Replace(
+    $content,
+    $remoteImagePattern,
+    [System.Text.RegularExpressions.MatchEvaluator]{
+      param($match)
+      $alt = $match.Groups[1].Value
+      $url = $match.Groups[2].Value
+      $remoteImageIndex++
+      try {
+        $relativePath = Save-RemoteImageAsset -Url $url -AssetDir $assetDir -MarkdownFile $TargetFile -Index $remoteImageIndex
+        if ($relativePath) {
+          return "![$alt]($relativePath)"
+        }
+      } catch {
+        Write-Warning "Failed to download remote image $url`: $($_.Exception.Message)"
+      }
+      return $match.Value
+    }
+  )
+
   $content = Convert-FeishuWikiLinks -Content $content -TargetFile $TargetFile
   $content = $content.Trim()
   do {
     $previousContent = $content
     $content = [System.Text.RegularExpressions.Regex]::Replace($content, "^\s*#\s+.*?[ \t]*(\r?\n|$)", "", 1).Trim()
   } while ($content -ne $previousContent)
+
+  $escapedTitle = [System.Text.RegularExpressions.Regex]::Escape($Title.Trim())
+  if (-not [string]::IsNullOrWhiteSpace($escapedTitle)) {
+    $duplicateTitlePattern = '(?m)^\s*#\s+' + $escapedTitle + '\s*$(\r?\n)?'
+    $content = [System.Text.RegularExpressions.Regex]::Replace($content, $duplicateTitlePattern, "").Trim()
+  }
   $footer = ""
   if (-not [string]::IsNullOrWhiteSpace($NodeToken)) {
     $sourceUrl = "$($WikiBaseUrl.TrimEnd('/'))/$NodeToken"
@@ -584,6 +702,12 @@ if ($DryRun) {
 }
 
 Write-Output "Synced $script:SyncedDocuments document(s) from $SpaceName."
+
+
+
+
+
+
 
 
 
